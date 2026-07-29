@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2075897791314895210",
+    "created_at": "2026-07-11T13:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075942832528142588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885301875068829696",
+          "start": 0,
+          "username": "carl88187210579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075942832528142588",
+    "in_reply_to_user_id": "1885301875068829696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075897791314895210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carl88187210579 借楼一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2075897791314895210",
+        "created_at": "2026-07-11T13:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075942832528142588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885301875068829696",
+              "start": 0,
+              "username": "carl88187210579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075942832528142588",
+        "in_reply_to_user_id": "1885301875068829696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075897791314895210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carl88187210579 借楼一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885301875068829696",
+        "conversation_id": "2075897791314895210",
+        "created_at": "2026-07-11T10:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075897791314895210"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075897791314895210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1129,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家有需要互关的，\n\n别不好意思，招呼一声哈，\n\n今天周末，基本上也就在“X”上住下了，\n\n“五秒必回”，\n\n因为我办个事也就差不多这个时间。\n\n#蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15969,
+          "following_count": 2437,
+          "like_count": 7947,
+          "listed_count": 27,
+          "media_count": 2218,
+          "tweet_count": 3854
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T12:19:37.000Z",
+        "description": "BTC | Altcoins Market Insights • Narratives • Opportunities DYOR\n\n告别杠杆博弈，坚定现货囤币路线\n\n6万+区间持续定投，稳步冲0.5枚BTC",
+        "id": "1885301875068829696",
+        "location": "Nigeria",
+        "name": "卡尔",
+        "pinned_tweet_id": "2069011334776197570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911428702367301632/A_iyLl-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3847,
+          "following_count": 4186,
+          "like_count": 8496,
+          "listed_count": 9,
+          "media_count": 907,
+          "tweet_count": 15590
+        },
+        "url": "",
+        "username": "carl88187210579",
+        "verified": true
+      }
+    ]
+  }
+}

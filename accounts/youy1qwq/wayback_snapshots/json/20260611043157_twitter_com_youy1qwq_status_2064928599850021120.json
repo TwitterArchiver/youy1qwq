@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064760627965665329",
+    "created_at": "2026-06-11T04:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064928599850021120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938236704168755200",
+          "start": 0,
+          "username": "zao740484793686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064928599850021120",
+    "in_reply_to_user_id": "1938236704168755200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064788164288692511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zao740484793686 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064760627965665329",
+        "created_at": "2026-06-11T04:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064928599850021120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938236704168755200",
+              "start": 0,
+              "username": "zao740484793686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064928599850021120",
+        "in_reply_to_user_id": "1938236704168755200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064788164288692511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zao740484793686 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938236704168755200",
+        "conversation_id": "2064760627965665329",
+        "created_at": "2026-06-10T19:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064788164288692511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064788164288692511",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064760627965665329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我以为你拿光剑洞穿了这栋楼哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14266,
+          "following_count": 2080,
+          "like_count": 5077,
+          "listed_count": 24,
+          "media_count": 2021,
+          "tweet_count": 2790
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T14:03:54.000Z",
+        "description": "",
+        "id": "1938236704168755200",
+        "name": "🤩笑🤩魇🤩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064664215407976448/4rz6Xvby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "zao740484793686",
+        "verified": false
+      }
+    ]
+  }
+}

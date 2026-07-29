@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067175448740839556",
+    "created_at": "2026-06-18T06:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491115817951681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1498256626683625474",
+          "start": 0,
+          "username": "LeonAn6108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491115817951681",
+    "in_reply_to_user_id": "1498256626683625474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067479851800633792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeonAn6108 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-18T06:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491115817951681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1498256626683625474",
+              "start": 0,
+              "username": "LeonAn6108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491115817951681",
+        "in_reply_to_user_id": "1498256626683625474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067479851800633792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeonAn6108 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498256626683625474",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-18T05:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067479851800633792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067479851800633792",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175448740839556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq python 這麼老ㄇ   我連2.0版都沒用過\nprint 後面不加括號太怪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6240,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3332
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-28T11:20:04.000Z",
+        "description": "",
+        "id": "1498256626683625474",
+        "name": "Leon An",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498256686817366022/u6IQeU5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 25,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 5417
+        },
+        "username": "LeonAn6108",
+        "verified": false
+      }
+    ]
+  }
+}

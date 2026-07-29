@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2055982873396867093",
+    "created_at": "2026-05-18T06:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056255665950376191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "34337365",
+          "start": 0,
+          "username": "lihuaizhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056255665950376191",
+    "in_reply_to_user_id": "34337365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055982873396867093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lihuaizhi 来互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2055982873396867093",
+        "created_at": "2026-05-18T06:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056255665950376191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "34337365",
+              "start": 0,
+              "username": "lihuaizhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056255665950376191",
+        "in_reply_to_user_id": "34337365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055982873396867093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihuaizhi 来互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "34337365",
+        "conversation_id": "2055982873396867093",
+        "created_at": "2026-05-17T12:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055982873396867093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055982873396867093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6565,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 230,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于我这种活人蓝v，逗逼蓝v，互动蓝v，积极蓝v，你们需要蓝v的居然不来关注我，天理何在？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13164,
+          "following_count": 1821,
+          "like_count": 4179,
+          "listed_count": 20,
+          "media_count": 1779,
+          "tweet_count": 2310
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-22T17:35:28.000Z",
+        "description": "乍见之欢，不若久处不厌",
+        "id": "34337365",
+        "location": "United States",
+        "name": "李坏之",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032796438426693639/DOsUgN8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 2622,
+          "like_count": 1810,
+          "listed_count": 15,
+          "media_count": 347,
+          "tweet_count": 8306
+        },
+        "username": "lihuaizhi",
+        "verified": true
+      }
+    ]
+  }
+}

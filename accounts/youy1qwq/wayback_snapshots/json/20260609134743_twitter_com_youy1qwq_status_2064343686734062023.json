@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2063459324652040245",
+    "created_at": "2026-06-09T13:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064343686734062023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672187294319800321",
+          "start": 0,
+          "username": "flydoggyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064343686734062023",
+    "in_reply_to_user_id": "1672187294319800321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064341116091277531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flydoggyyyy 有刺无刺乐队"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2063459324652040245",
+        "created_at": "2026-06-09T13:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064343686734062023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672187294319800321",
+              "start": 0,
+              "username": "flydoggyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064343686734062023",
+        "in_reply_to_user_id": "1672187294319800321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064341116091277531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flydoggyyyy 有刺无刺乐队"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672187294319800321",
+        "conversation_id": "2063459324652040245",
+        "created_at": "2026-06-09T13:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064341116091277531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064341116091277531",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063459324652040245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14191,
+          "following_count": 2047,
+          "like_count": 4644,
+          "listed_count": 24,
+          "media_count": 2008,
+          "tweet_count": 2670
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-23T10:18:25.000Z",
+        "description": "长相五分以下bmi23以上双非以下学历农村户口没出过省英语四级没过安卓人禁止和我对骂",
+        "id": "1672187294319800321",
+        "location": "厌女的全死妈厌男的全死爹",
+        "name": "开心耗耗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833833600988676096/4_-Kftzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 816,
+          "like_count": 4079,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 590
+        },
+        "username": "flydoggyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

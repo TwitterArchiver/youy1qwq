@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068724920788631856",
+    "created_at": "2026-06-21T18:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068765576659677370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985696936046051330",
+          "start": 0,
+          "username": "whitelightroses"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068765576659677370",
+    "in_reply_to_user_id": "1985696936046051330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068764918988620045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelightroses 还得放两扇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068724920788631856",
+        "created_at": "2026-06-21T18:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068765576659677370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985696936046051330",
+              "start": 0,
+              "username": "whitelightroses"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068765576659677370",
+        "in_reply_to_user_id": "1985696936046051330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068764918988620045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelightroses 还得放两扇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985696936046051330",
+        "conversation_id": "2068724920788631856",
+        "created_at": "2026-06-21T18:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068764918988620045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068764918988620045",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068724920788631856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 小时候造火柴盒（划掉）别墅感觉好高级😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14963,
+          "following_count": 2182,
+          "like_count": 6783,
+          "listed_count": 27,
+          "media_count": 2099,
+          "tweet_count": 3539
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-04T13:14:38.000Z",
+        "description": "星間｜干渉｜融解｜輪廻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whiteroses.edu",
+                "end": 23,
+                "expanded_url": "http://whiteroses.edu",
+                "start": 0,
+                "url": "https://t.co/60c6G2hl4b"
+              }
+            ]
+          }
+        },
+        "id": "1985696936046051330",
+        "location": "white.roses",
+        "name": "𝓛𝔂𝓷𝓷泠（劝人休学/OD/紫餐第一人）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179361513078784/C_ypQRQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 79,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/60c6G2hl4b",
+        "username": "whitelightroses",
+        "verified": false
+      }
+    ]
+  }
+}

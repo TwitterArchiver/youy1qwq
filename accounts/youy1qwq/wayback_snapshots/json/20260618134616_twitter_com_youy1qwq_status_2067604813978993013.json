@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067244612633415908",
+    "created_at": "2026-06-18T13:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067604813978993013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936033208791187456",
+          "start": 0,
+          "username": "y6203979590586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067604813978993013",
+    "in_reply_to_user_id": "1936033208791187456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067601117371109631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y6203979590586 小姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067244612633415908",
+        "created_at": "2026-06-18T13:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067604813978993013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936033208791187456",
+              "start": 0,
+              "username": "y6203979590586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067604813978993013",
+        "in_reply_to_user_id": "1936033208791187456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067601117371109631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y6203979590586 小姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936033208791187456",
+        "conversation_id": "2067244612633415908",
+        "created_at": "2026-06-18T13:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067601117371109631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067601117371109631",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067244612633415908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 两位小姐姐真可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14770,
+          "following_count": 2150,
+          "like_count": 6300,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3387
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-20T12:08:35.000Z",
+        "description": "",
+        "id": "1936033208791187456",
+        "name": "清水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053133541320609792/5ZCUHULj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "y6203979590586",
+        "verified": false
+      }
+    ]
+  }
+}

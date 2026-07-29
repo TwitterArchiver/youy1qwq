@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066059342236029211",
+    "created_at": "2026-06-16T05:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066748741068132523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687375234922598401",
+          "start": 0,
+          "username": "antiantiz000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066748741068132523",
+    "in_reply_to_user_id": "1687375234922598401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066748394442568023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@antiantiz000 强强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066059342236029211",
+        "created_at": "2026-06-16T05:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066748741068132523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687375234922598401",
+              "start": 0,
+              "username": "antiantiz000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066748741068132523",
+        "in_reply_to_user_id": "1687375234922598401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066748394442568023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@antiantiz000 强强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687375234922598401",
+        "conversation_id": "2066059342236029211",
+        "created_at": "2026-06-16T05:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066748394442568023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066748394442568023",
+        "in_reply_to_user_id": "1687375234922598401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066747798268289335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这个专辑封面太经典了 并且其实我觉得德九的确所有录音cd中还是库贝利克dg最好 克尔特斯 纽曼 安切尔虽然好但是没有那种多样性和广度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14704,
+          "following_count": 2126,
+          "like_count": 6041,
+          "listed_count": 25,
+          "media_count": 2062,
+          "tweet_count": 3165
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T08:10:22.000Z",
+        "description": "这里没有诗",
+        "id": "1687375234922598401",
+        "name": "里花水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897306116830474240/teTNjtjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 93,
+          "like_count": 4208,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 326
+        },
+        "username": "antiantiz000",
+        "verified": false
+      }
+    ]
+  }
+}

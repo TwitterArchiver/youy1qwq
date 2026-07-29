@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067484481527874011",
+    "created_at": "2026-06-18T13:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067605001283965427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592807107211907073",
+          "start": 0,
+          "username": "kuk47377341"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067605001283965427",
+    "in_reply_to_user_id": "1592807107211907073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067589789361283250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuk47377341 恶搞之家是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067484481527874011",
+        "created_at": "2026-06-18T13:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067605001283965427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592807107211907073",
+              "start": 0,
+              "username": "kuk47377341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067605001283965427",
+        "in_reply_to_user_id": "1592807107211907073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589789361283250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuk47377341 恶搞之家是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592807107211907073",
+        "conversation_id": "2067484481527874011",
+        "created_at": "2026-06-18T12:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067589789361283250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067589789361283250",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067484481527874011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这尺度也太放飞了哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14770,
+          "following_count": 2150,
+          "like_count": 6302,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3388
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-16T09:09:50.000Z",
+        "description": "加密爱好者｜全撸型选手 任何推文不做投资建议🫡 \n含付费广告，请自行辨别，介意勿关🙏",
+        "id": "1592807107211907073",
+        "name": "Kithe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048677740765978624/wS7eA49Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21281,
+          "following_count": 17115,
+          "like_count": 190090,
+          "listed_count": 135,
+          "media_count": 1756,
+          "tweet_count": 183648
+        },
+        "url": "",
+        "username": "kuk47377341",
+        "verified": true
+      }
+    ]
+  }
+}

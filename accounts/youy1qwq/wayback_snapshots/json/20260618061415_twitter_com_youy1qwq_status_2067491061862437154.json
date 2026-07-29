@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067175448740839556",
+    "created_at": "2026-06-18T06:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491061862437154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1848569025057722369",
+          "start": 0,
+          "username": "EddaMikola12279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491061862437154",
+    "in_reply_to_user_id": "1848569025057722369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067254185318580438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EddaMikola12279 笑死喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-18T06:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491061862437154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1848569025057722369",
+              "start": 0,
+              "username": "EddaMikola12279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491061862437154",
+        "in_reply_to_user_id": "1848569025057722369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067254185318580438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EddaMikola12279 笑死喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848569025057722369",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-17T14:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067254185318580438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067254185318580438",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1037,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175448740839556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 超绝冷笑话，有生之年还能看见python被优化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6240,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3330
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-22T03:36:28.000Z",
+        "description": "ENFJ｜AI × Web3 Builder\nDeFi Protocol Engineer\nFHE · Solidity · Go\n分享协议拆解 / 合约实战 / Demo\n从 0→1 做产品 & 社区\nBuild in public • @EIP_Playground",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "EIP_Playground"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eip-playground.com",
+                "end": 23,
+                "expanded_url": "https://eip-playground.com/",
+                "start": 0,
+                "url": "https://t.co/SWVLTRH6a0"
+              }
+            ]
+          }
+        },
+        "id": "1848569025057722369",
+        "name": "dudu",
+        "pinned_tweet_id": "1982079511035555971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018704989162545152/N0OuRR9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 335,
+          "like_count": 568,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/SWVLTRH6a0",
+        "username": "EddaMikola12279",
+        "verified": true
+      }
+    ]
+  }
+}

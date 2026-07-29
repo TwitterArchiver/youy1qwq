@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079938182867767590",
+    "created_at": "2026-07-22T16:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079963033695318334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "286418121",
+          "start": 0,
+          "username": "CyberHono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079963033695318334",
+    "in_reply_to_user_id": "286418121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079951856823042083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberHono 专业"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_2079951753513144320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN15GYoaEAA3mRm.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079938182867767590",
+        "created_at": "2026-07-22T16:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079963033695318334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "286418121",
+              "start": 0,
+              "username": "CyberHono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079963033695318334",
+        "in_reply_to_user_id": "286418121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079951856823042083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberHono 专业"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079951753513144320"
+          ]
+        },
+        "author_id": "286418121",
+        "conversation_id": "2079938182867767590",
+        "created_at": "2026-07-22T15:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079951856823042083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWRsXSXsiD",
+              "end": 67,
+              "expanded_url": "https://x.com/CyberHono/status/2079951856823042083/photo/1",
+              "media_key": "3_2079951753513144320",
+              "start": 44,
+              "url": "https://t.co/nWRsXSXsiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079951856823042083",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079938182867767590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 第一个 1 有 tabular nums 用的等宽样式，第二个没有 https://t.co/nWRsXSXsiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16610,
+          "following_count": 2862,
+          "like_count": 8067,
+          "listed_count": 28,
+          "media_count": 2267,
+          "tweet_count": 3927
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "🎮  https://t.co/xkvvOEbd0t 🏎️  https://t.co/JHy2gX3kaF  ☎️  https://t.co/zZGI0xwrws  📟 https://t.co/xkchYCW2On\n\n🕘 GMT+9\n🔠 en, zh / ja, es (read-only)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 26,
+                "expanded_url": "http://majors.im",
+                "start": 3,
+                "url": "https://t.co/xkvvOEbd0t"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 54,
+                "expanded_url": "http://f1setup.it",
+                "start": 31,
+                "url": "https://t.co/JHy2gX3kaF"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 83,
+                "expanded_url": "http://esim.gg",
+                "start": 60,
+                "url": "https://t.co/zZGI0xwrws"
+              },
+              {
+                "display_url": "lpa.nekoko.ee",
+                "end": 110,
+                "expanded_url": "http://lpa.nekoko.ee",
+                "start": 87,
+                "url": "https://t.co/xkchYCW2On"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlUFN"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "location": "Fukuoka",
+        "name": "ieb",
+        "pinned_tweet_id": "2070173864144015694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/951073169326026752/Q-vmpzsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 429,
+          "like_count": 3057,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 4183
+        },
+        "url": "https://t.co/i6C0PXlUFN",
+        "username": "CyberHono",
+        "verified": true
+      }
+    ]
+  }
+}

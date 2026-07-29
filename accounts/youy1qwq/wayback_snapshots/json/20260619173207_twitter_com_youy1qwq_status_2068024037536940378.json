@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067966017654100069",
+    "created_at": "2026-06-19T17:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068024037536940378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805513773270319105",
+          "start": 0,
+          "username": "iidesuyo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068024037536940378",
+    "in_reply_to_user_id": "1805513773270319105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068013815892226352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iidesuyo8964 天上好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T17:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068024037536940378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805513773270319105",
+              "start": 0,
+              "username": "iidesuyo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068024037536940378",
+        "in_reply_to_user_id": "1805513773270319105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068013815892226352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iidesuyo8964 天上好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805513773270319105",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T16:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068013815892226352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068013815892226352",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067966017654100069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 有什么地方打招呼的方式是说天上好吗😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14805,
+          "following_count": 2154,
+          "like_count": 6384,
+          "listed_count": 26,
+          "media_count": 2083,
+          "tweet_count": 3437
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-25T08:10:15.000Z",
+        "description": "你看湖上的是什么（",
+        "id": "1805513773270319105",
+        "name": "ホシケン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016176707557019648/XAZguUM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 610,
+          "like_count": 1731,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1117
+        },
+        "url": "",
+        "username": "iidesuyo8964",
+        "verified": true
+      }
+    ]
+  }
+}

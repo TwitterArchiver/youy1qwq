@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2022532695809728599",
+    "created_at": "2026-02-14T08:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T09:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022588169594490903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935176310663401472",
+          "start": 0,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022588169594490903",
+    "in_reply_to_user_id": "1935176310663401472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022532695809728599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Hyoscine dol好玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1567,
+        "media_key": "3_2022532688012615681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBF6w4-boAEj1Id.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2022532695809728599",
+        "created_at": "2026-02-14T08:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022588169594490903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022588169594490903",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022532695809728599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine dol好玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022532688012615681"
+          ]
+        },
+        "author_id": "1935176310663401472",
+        "conversation_id": "2022532695809728599",
+        "created_at": "2026-02-14T04:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022532695809728599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Ldm3X13Jz",
+              "end": 31,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2022532695809728599/photo/1",
+              "media_key": "3_2022532688012615681",
+              "start": 8,
+              "url": "https://t.co/0Ldm3X13Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022532695809728599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4165,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "声 名 赫 赫 https://t.co/0Ldm3X13Jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 921,
+          "like_count": 2282,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 657
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "陪聊门槛50//抽象苹果粉//自由万岁/@hood438371无能的妻子//生产日期：07.03.22//要是不喜欢你的发言和观点就可能会b你//知不可乎骤得，托遗响于悲风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "三里屯水果批发市场",
+        "name": "春雪狐与东莨🍥",
+        "pinned_tweet_id": "2016068038773375401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005380683292983296/Iictc7oI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 851,
+          "like_count": 22367,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 5660
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

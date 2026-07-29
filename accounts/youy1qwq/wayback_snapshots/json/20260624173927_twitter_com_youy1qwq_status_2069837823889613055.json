@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-24T17:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069837823889613055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808539293972914176",
+          "start": 0,
+          "username": "FubuKame59246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069837823889613055",
+    "in_reply_to_user_id": "1808539293972914176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069834692069564830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FubuKame59246 呜呜谢谢🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T17:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069837823889613055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808539293972914176",
+              "start": 0,
+              "username": "FubuKame59246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069837823889613055",
+        "in_reply_to_user_id": "1808539293972914176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069834692069564830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FubuKame59246 呜呜谢谢🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808539293972914176",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T17:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069834692069564830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069834692069564830",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我去，老大你竟然这么美丽吗😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15046,
+          "following_count": 2193,
+          "like_count": 7131,
+          "listed_count": 29,
+          "media_count": 2115,
+          "tweet_count": 3655
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T16:32:54.000Z",
+        "description": "大一在读/高强度刷推，不爱说话/杀戮尖塔2重度依赖，如果有同好希望可以一起玩",
+        "id": "1808539293972914176",
+        "name": "knj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880120426745196547/akRCzlHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 217,
+          "like_count": 7632,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "FubuKame59246",
+        "verified": false
+      }
+    ]
+  }
+}

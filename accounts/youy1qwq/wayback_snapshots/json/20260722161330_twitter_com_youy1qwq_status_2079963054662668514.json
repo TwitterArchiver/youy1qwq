@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079938182867767590",
+    "created_at": "2026-07-22T16:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079963054662668514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796929111996456960",
+          "start": 0,
+          "username": "nbrkfst0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079963054662668514",
+    "in_reply_to_user_id": "1796929111996456960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079944362868551698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbrkfst0721 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 264,
+        "media_key": "3_2079944357675945985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1yX4_aUAEC1LM.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079938182867767590",
+        "created_at": "2026-07-22T16:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079963054662668514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796929111996456960",
+              "start": 0,
+              "username": "nbrkfst0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079963054662668514",
+        "in_reply_to_user_id": "1796929111996456960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079944362868551698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbrkfst0721 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079944357675945985"
+          ]
+        },
+        "author_id": "1796929111996456960",
+        "conversation_id": "2079938182867767590",
+        "created_at": "2026-07-22T14:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079944362868551698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qi7ffFGXmU",
+              "end": 38,
+              "expanded_url": "https://x.com/nbrkfst0721/status/2079944362868551698/photo/1",
+              "media_key": "3_2079944357675945985",
+              "start": 15,
+              "url": "https://t.co/qi7ffFGXmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079944362868551698",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079938182867767590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 好奇怪的 https://t.co/qi7ffFGXmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16610,
+          "following_count": 2862,
+          "like_count": 8068,
+          "listed_count": 28,
+          "media_count": 2267,
+          "tweet_count": 3928
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T15:38:51.000Z",
+        "description": "東方｜秘封｜简/繁中文｜Eng｜機械翻訳日本語|成分复杂｜\n無言フォロー失礼いたしまし\n\n【道歉啟事】\n本人在此向社會大眾致歉，\n\n雖然還沒犯什麼錯，但怕有人不喜歡事後道歉\n所以先放著以備不時之需。\n\n很遺憾自己做了這種事，未來必定深刻反省",
+        "id": "1796929111996456960",
+        "location": "霧ノ湖",
+        "name": "グリニッジ鎮魂曲 ╭ᰩ ᭄╮",
+        "pinned_tweet_id": "2074413186917572900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066891890453356544/V5sDHkwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1483,
+          "like_count": 19453,
+          "listed_count": 0,
+          "media_count": 714,
+          "tweet_count": 2729
+        },
+        "url": "",
+        "username": "nbrkfst0721",
+        "verified": true
+      }
+    ]
+  }
+}

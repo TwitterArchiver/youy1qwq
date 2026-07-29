@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064690889356915167",
+    "created_at": "2026-06-11T08:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064991100000190731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948222058938482688",
+          "start": 0,
+          "username": "dolarohman22807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064991100000190731",
+    "in_reply_to_user_id": "1948222058938482688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064988482263769168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dolarohman22807 对呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064690889356915167",
+        "created_at": "2026-06-11T08:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064991100000190731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948222058938482688",
+              "start": 0,
+              "username": "dolarohman22807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064991100000190731",
+        "in_reply_to_user_id": "1948222058938482688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064988482263769168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dolarohman22807 对呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948222058938482688",
+        "conversation_id": "2064690889356915167",
+        "created_at": "2026-06-11T08:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064988482263769168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064988482263769168",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064690889356915167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 完全优绩主义作祟中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14290,
+          "following_count": 2083,
+          "like_count": 5241,
+          "listed_count": 24,
+          "media_count": 2025,
+          "tweet_count": 2844
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T03:22:02.000Z",
+        "description": "当你打开我主页的那一刻，你就已经输得很彻底了，我的观点像刀刃一样已经深深扎进了你的心里，你试图反驳我可是你无能为力，所以你焦急地点开我的主页想要私信我，可是你输了，我的私信功能已经关闭，所以你无法反驳。",
+        "id": "1948222058938482688",
+        "name": "我的法克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038896694205743104/1CdeY1nB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 10633,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 83
+        },
+        "username": "dolarohman22807",
+        "verified": false
+      }
+    ]
+  }
+}

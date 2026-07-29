@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2058557733688009158",
+    "created_at": "2026-05-25T04:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058767767109775570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2764258024",
+          "start": 0,
+          "username": "BitZeJun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058767767109775570",
+    "in_reply_to_user_id": "2764258024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058557733688009158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BitZeJun 一起加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058557711323918336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF3VO0acAAQIJF.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2058557733688009158",
+        "created_at": "2026-05-25T04:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058767767109775570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2764258024",
+              "start": 0,
+              "username": "BitZeJun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058767767109775570",
+        "in_reply_to_user_id": "2764258024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058557733688009158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BitZeJun 一起加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058557711323918336"
+          ]
+        },
+        "author_id": "2764258024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058557733688009158",
+        "created_at": "2026-05-24T14:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058557733688009158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBxOG5FG1X",
+              "end": 102,
+              "expanded_url": "https://x.com/BitZeJun/status/2058557733688009158/photo/1",
+              "media_key": "3_2058557711323918336",
+              "start": 79,
+              "url": "https://t.co/WBxOG5FG1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058557733688009158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1261,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，我今天努努力，是不是可以先冲个1900，再次感谢各位兄弟的关注和互动，别人做万关博主，我不仅要做到万关，还要做到经常互动，是不是就去给你点赞加评论。 https://t.co/WBxOG5FG1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13494,
+          "following_count": 1891,
+          "like_count": 4257,
+          "listed_count": 21,
+          "media_count": 1848,
+          "tweet_count": 2395
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-07T19:51:18.000Z",
+        "description": "SG加密仔 | 项目分析｜交易复盘 | 咖啡日常（交易翻车记录）｜非理财投资建议（NFA）🎠🎠🎠",
+        "id": "2764258024",
+        "location": "Singapore",
+        "name": "澤鈞 🚀 HODLer & Trader",
+        "pinned_tweet_id": "1065140289428439041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009453347800219648/Jd-WFMqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1564,
+          "like_count": 1151,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1599
+        },
+        "username": "BitZeJun",
+        "verified": true
+      }
+    ]
+  }
+}

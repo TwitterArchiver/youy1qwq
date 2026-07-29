@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064690889356915167",
+    "created_at": "2026-06-11T06:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064955639680704646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786375532650569728",
+          "start": 0,
+          "username": "Zhixi_Lin0822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064955639680704646",
+    "in_reply_to_user_id": "1786375532650569728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064953554037797113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhixi_Lin0822 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064690889356915167",
+        "created_at": "2026-06-11T06:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064955639680704646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786375532650569728",
+              "start": 0,
+              "username": "Zhixi_Lin0822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064955639680704646",
+        "in_reply_to_user_id": "1786375532650569728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064953554037797113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhixi_Lin0822 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786375532650569728",
+        "conversation_id": "2064690889356915167",
+        "created_at": "2026-06-11T06:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064953554037797113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064953554037797113",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064690889356915167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 另一方面鹅腿在北京少见，但凡卖的是六块钱的鸭腿也不至于生意做这么大，我这么多年就没听过煎饼果子大家抢着买的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14277,
+          "following_count": 2080,
+          "like_count": 5213,
+          "listed_count": 24,
+          "media_count": 2022,
+          "tweet_count": 2834
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-03T12:41:50.000Z",
+        "description": "我没有你想的活得明白",
+        "id": "1786375532650569728",
+        "name": "讨厌人类讨厌你",
+        "pinned_tweet_id": "1842030829138321434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795315313837211648/Wb6huB52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 84,
+          "like_count": 4457,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2973
+        },
+        "username": "Zhixi_Lin0822",
+        "verified": false
+      }
+    ]
+  }
+}

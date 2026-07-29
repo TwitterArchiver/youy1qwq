@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2042694105063641179",
+    "created_at": "2026-04-10T21:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T22:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042723413232390528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1866183860184371203",
+          "start": 0,
+          "username": "hong_nan59623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042723413232390528",
+    "in_reply_to_user_id": "1866183860184371203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042720512468766775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hong_nan59623 小妹妹你挺牛逼克拉斯呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042694105063641179",
+        "created_at": "2026-04-10T21:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042723413232390528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1866183860184371203",
+              "start": 0,
+              "username": "hong_nan59623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042723413232390528",
+        "in_reply_to_user_id": "1866183860184371203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042720512468766775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hong_nan59623 小妹妹你挺牛逼克拉斯呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866183860184371203",
+        "conversation_id": "2042694105063641179",
+        "created_at": "2026-04-10T21:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042720512468766775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042720512468766775",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042694105063641179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我:😭😭😭😭😭😭\n对面:😋😋😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9987,
+          "following_count": 1513,
+          "like_count": 3633,
+          "listed_count": 14,
+          "media_count": 1310,
+          "tweet_count": 1752
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T18:11:30.000Z",
+        "description": "不是女生哈，有一起打游戏（王者荣耀，和平精英）可以一起，我需要一个上分车队西施单排太难打了😭😭😭",
+        "id": "1866183860184371203",
+        "name": "难哄",
+        "pinned_tweet_id": "2042719595619061958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034587547410808832/9mIDlMur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 280
+        },
+        "username": "hong_nan59623",
+        "verified": false
+      }
+    ]
+  }
+}

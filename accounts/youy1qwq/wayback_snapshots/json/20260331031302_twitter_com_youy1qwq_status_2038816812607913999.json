@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2038816812607913999",
+    "created_at": "2026-03-31T03:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038816812607913999"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "互关"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "互粉"
+        },
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "蓝V互关"
+        },
+        {
+          "end": 59,
+          "start": 52,
+          "tag": "蓝v关注必回"
+        },
+        {
+          "end": 70,
+          "start": 61,
+          "tag": "蓝V互关互推联盟"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038816812607913999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝v互粉互关！可能到上限了会慢一点但是关注必回 也可以在评论区互相关注留言 #互关 #互粉 #蓝V互关 #蓝v关注必回  #蓝V互关互推联盟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2038816812607913999",
+        "created_at": "2026-03-31T03:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038816812607913999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "互关"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "互粉"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "蓝v关注必回"
+            },
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "蓝V互关互推联盟"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038816812607913999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互粉互关！可能到上限了会慢一点但是关注必回 也可以在评论区互相关注留言 #互关 #互粉 #蓝V互关 #蓝v关注必回  #蓝V互关互推联盟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9159,
+          "following_count": 1438,
+          "like_count": 3415,
+          "listed_count": 13,
+          "media_count": 1148,
+          "tweet_count": 1573
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

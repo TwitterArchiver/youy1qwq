@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020794628728090624"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020830037755273369",
+    "created_at": "2026-02-09T12:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T13:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020830037755273369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PinAJD8qm1",
+          "end": 63,
+          "expanded_url": "https://x.com/youy1qwq/status/2020830037755273369/photo/1",
+          "media_key": "3_2020794628728090624",
+          "start": 40,
+          "url": "https://t.co/PinAJD8qm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020830037755273369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢群主，之前私信说我是优质群员，要在过年前给我送两盒薯条，没想到都是真的👍👍 https://t.co/PinAJD8qm1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2020794628728090624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtOAhla8AAjaft.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020794628728090624"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020830037755273369",
+        "created_at": "2026-02-09T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020830037755273369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PinAJD8qm1",
+              "end": 63,
+              "expanded_url": "https://x.com/youy1qwq/status/2020830037755273369/photo/1",
+              "media_key": "3_2020794628728090624",
+              "start": 40,
+              "url": "https://t.co/PinAJD8qm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020830037755273369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢群主，之前私信说我是优质群员，要在过年前给我送两盒薯条，没想到都是真的👍👍 https://t.co/PinAJD8qm1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 857,
+          "like_count": 1953,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 503
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-24T16:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069815593520570372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038580008550039552",
+          "start": 0,
+          "username": "BaoShiChiDeDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069815593520570372",
+    "in_reply_to_user_id": "2038580008550039552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069810791608709286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoShiChiDeDuo 我是吧 是吗 不是吧😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T16:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069815593520570372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038580008550039552",
+              "start": 0,
+              "username": "BaoShiChiDeDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069815593520570372",
+        "in_reply_to_user_id": "2038580008550039552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069810791608709286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoShiChiDeDuo 我是吧 是吗 不是吧😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038580008550039552",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T15:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069810791608709286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069810791608709286",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 不是哥们\n你真不是啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15033,
+          "following_count": 2190,
+          "like_count": 7107,
+          "listed_count": 27,
+          "media_count": 2114,
+          "tweet_count": 3632
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-30T11:32:15.000Z",
+        "description": "。\n在蓝p有号，同名哦\nhttps://t.co/maQA4ZDOwL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/104349105",
+                "end": 35,
+                "expanded_url": "https://www.pixiv.net/users/104349105",
+                "start": 12,
+                "url": "https://t.co/maQA4ZDOwL"
+              }
+            ]
+          }
+        },
+        "id": "2038580008550039552",
+        "name": "暴食吃得多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048715446409666560/qf3x4SYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 50,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "BaoShiChiDeDuo",
+        "verified": false
+      }
+    ]
+  }
+}

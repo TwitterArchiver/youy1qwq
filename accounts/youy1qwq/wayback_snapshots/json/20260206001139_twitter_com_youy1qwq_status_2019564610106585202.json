@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019516387488657763",
+    "created_at": "2026-02-06T00:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T01:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019564610106585202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016081979436085248",
+          "start": 0,
+          "username": "luo_yao11901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019564610106585202",
+    "in_reply_to_user_id": "2016081979436085248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019561390055518410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_yao11901 用网页版好一点吧，不过应该需要visa卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019516387488657763",
+        "created_at": "2026-02-06T00:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T01:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019564610106585202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016081979436085248",
+              "start": 0,
+              "username": "luo_yao11901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019564610106585202",
+        "in_reply_to_user_id": "2016081979436085248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019561390055518410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_yao11901 用网页版好一点吧，不过应该需要visa卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016081979436085248",
+        "conversation_id": "2019516387488657763",
+        "created_at": "2026-02-05T23:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T00:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019561390055518410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019561390055518410",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019561052401205352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 可以的，我之前想开，都没找到付款方式😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 436,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 257
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T09:33:05.000Z",
+        "description": "婚内出轨和知三当三滚出地球，身边没一个好人全员恶人，道德水平这么低下有什么资格教训别人，恶不恶心啊，人渣。",
+        "id": "2016081979436085248",
+        "name": "最讨厌生物妈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019223304369057792/yCTmwvVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "luo_yao11901",
+        "verified": false
+      }
+    ]
+  }
+}

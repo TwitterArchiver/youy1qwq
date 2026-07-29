@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061351136960118785"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2061351145461985303",
+    "created_at": "2026-06-01T07:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061351145461985303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UN0K1v5sNZ",
+          "end": 29,
+          "expanded_url": "https://x.com/youy1qwq/status/2061351145461985303/photo/1",
+          "media_key": "3_2061351136960118785",
+          "start": 6,
+          "url": "https://t.co/UN0K1v5sNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061351145461985303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我表达能力 https://t.co/UN0K1v5sNZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2061351136960118785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtj8APbAAEyD3J.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061351136960118785"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2061351145461985303",
+        "created_at": "2026-06-01T07:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061351145461985303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UN0K1v5sNZ",
+              "end": 29,
+              "expanded_url": "https://x.com/youy1qwq/status/2061351145461985303/photo/1",
+              "media_key": "3_2061351136960118785",
+              "start": 6,
+              "url": "https://t.co/UN0K1v5sNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061351145461985303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我表达能力 https://t.co/UN0K1v5sNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13903,
+          "following_count": 2007,
+          "like_count": 4349,
+          "listed_count": 23,
+          "media_count": 1916,
+          "tweet_count": 2498
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

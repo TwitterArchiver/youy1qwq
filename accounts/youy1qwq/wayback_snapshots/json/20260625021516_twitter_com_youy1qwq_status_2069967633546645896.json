@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-25T02:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069967633546645896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412013339115360258",
+          "start": 0,
+          "username": "gaoxiaojiede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069967633546645896",
+    "in_reply_to_user_id": "1412013339115360258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069958689805701528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoxiaojiede 笑死我了谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-25T02:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069967633546645896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412013339115360258",
+              "start": 0,
+              "username": "gaoxiaojiede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069967633546645896",
+        "in_reply_to_user_id": "1412013339115360258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069958689805701528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoxiaojiede 笑死我了谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412013339115360258",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-25T01:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069958689805701528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069958689805701528",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 兄弟们 这个是真喜欢🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15085,
+          "following_count": 2211,
+          "like_count": 7137,
+          "listed_count": 28,
+          "media_count": 2116,
+          "tweet_count": 3666
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-05T11:40:01.000Z",
+        "description": "秉忠贞之志 守谦退之节",
+        "id": "1412013339115360258",
+        "name": "高小姐的皮卡丘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033790613246877696/cCaAKxy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 64,
+          "like_count": 3552,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 6651
+        },
+        "url": "",
+        "username": "gaoxiaojiede",
+        "verified": true
+      }
+    ]
+  }
+}

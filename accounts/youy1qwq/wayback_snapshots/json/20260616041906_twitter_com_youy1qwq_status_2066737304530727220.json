@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066573932615041450",
+    "created_at": "2026-06-16T04:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066737304530727220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596823873894420480",
+          "start": 0,
+          "username": "hanzheng_street"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066737304530727220",
+    "in_reply_to_user_id": "1596823873894420480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066677255435415956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanzheng_street 很棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T04:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066737304530727220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596823873894420480",
+              "start": 0,
+              "username": "hanzheng_street"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066737304530727220",
+        "in_reply_to_user_id": "1596823873894420480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066677255435415956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanzheng_street 很棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596823873894420480",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T00:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066677255435415956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066677255435415956",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573932615041450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这种were型虚拟语气可太有印象了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14700,
+          "following_count": 2126,
+          "like_count": 6029,
+          "listed_count": 25,
+          "media_count": 2059,
+          "tweet_count": 3153
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-27T11:11:08.000Z",
+        "description": "君は私が明日何を更新するかずっと知れない。［🚫広告は絶対に禁止です！迷惑メッセージをしな！広告チャットの要請を送るな！］",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vdse.bdstatic.com//192d9a98d782d…",
+                "end": 23,
+                "expanded_url": "https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4",
+                "start": 0,
+                "url": "https://t.co/IC0IB1UPog"
+              }
+            ]
+          }
+        },
+        "id": "1596823873894420480",
+        "location": "中国武漢",
+        "name": "漢正街地下鉄駅【ゴミ広告要請禁止】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881113130505502720/bMozvMtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 208,
+          "like_count": 38645,
+          "listed_count": 3,
+          "media_count": 942,
+          "tweet_count": 10141
+        },
+        "url": "https://t.co/IC0IB1UPog",
+        "username": "hanzheng_street",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-24T16:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069815639259414967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1515239813896581120",
+          "start": 0,
+          "username": "nBDOJepRogFPr89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069815639259414967",
+    "in_reply_to_user_id": "1515239813896581120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069811145624715517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nBDOJepRogFPr89 🥺🥺还是我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T16:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069815639259414967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1515239813896581120",
+              "start": 0,
+              "username": "nBDOJepRogFPr89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069815639259414967",
+        "in_reply_to_user_id": "1515239813896581120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069811145624715517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nBDOJepRogFPr89 🥺🥺还是我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515239813896581120",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T15:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069811145624715517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069811145624715517",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我超，我的兄弟哪去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15033,
+          "following_count": 2190,
+          "like_count": 7107,
+          "listed_count": 27,
+          "media_count": 2114,
+          "tweet_count": 3633
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-16T08:05:12.000Z",
+        "description": "",
+        "id": "1515239813896581120",
+        "name": "理塘丁真-official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000098304747773953/wCFERmCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 843,
+          "like_count": 7369,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "nBDOJepRogFPr89",
+        "verified": false
+      }
+    ]
+  }
+}

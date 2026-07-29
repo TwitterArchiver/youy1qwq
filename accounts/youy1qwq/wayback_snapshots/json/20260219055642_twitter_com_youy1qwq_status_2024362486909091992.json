@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2024353188170584474",
+    "created_at": "2026-02-19T05:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024362486909091992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952933908309245952",
+          "start": 0,
+          "username": "aisucrose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024362486909091992",
+    "in_reply_to_user_id": "1952933908309245952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024359741850341383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aisucrose 🧎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2024353188170584474",
+        "created_at": "2026-02-19T05:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024362486909091992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952933908309245952",
+              "start": 0,
+              "username": "aisucrose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024362486909091992",
+        "in_reply_to_user_id": "1952933908309245952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024359741850341383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aisucrose 🧎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952933908309245952",
+        "conversation_id": "2024353188170584474",
+        "created_at": "2026-02-19T05:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024359741850341383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024359741850341383",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024353188170584474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 万达广场有人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 981,
+          "like_count": 2543,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 802
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-06T03:25:26.000Z",
+        "description": "🚪拆结构｜讲逻辑｜长期主义 只输出有价值的判断｜电报群https://t.co/fOqBVwHERu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aisucrose2",
+                "end": 50,
+                "expanded_url": "https://t.me/aisucrose2",
+                "start": 27,
+                "url": "https://t.co/fOqBVwHERu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gateport.business/share/CANDYTOY",
+                "end": 23,
+                "expanded_url": "https://www.gateport.business/share/CANDYTOY",
+                "start": 0,
+                "url": "https://t.co/7qAUhRHN79"
+              }
+            ]
+          }
+        },
+        "id": "1952933908309245952",
+        "location": "Americana, Brasil",
+        "name": "纱织沛沛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021646630240526336/Qjr3dBHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3735,
+          "following_count": 2106,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 6290
+        },
+        "url": "https://t.co/7qAUhRHN79",
+        "username": "aisucrose",
+        "verified": true
+      }
+    ]
+  }
+}

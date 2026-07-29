@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2022007796930343372",
+    "created_at": "2026-02-13T04:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022163328358129939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1492436896818941952",
+          "start": 0,
+          "username": "Hxhnqmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022163328358129939",
+    "in_reply_to_user_id": "1492436896818941952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022027263693533663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hxhnqmh 智商堪比两粒瓜子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2022007796930343372",
+        "created_at": "2026-02-13T04:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022163328358129939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1492436896818941952",
+              "start": 0,
+              "username": "Hxhnqmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022163328358129939",
+        "in_reply_to_user_id": "1492436896818941952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022027263693533663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hxhnqmh 智商堪比两粒瓜子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492436896818941952",
+        "conversation_id": "2022007796930343372",
+        "created_at": "2026-02-12T19:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T20:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022027263693533663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022027263693533663",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022007796930343372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 智商不还如我从头上随意捏死的虱子高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 894,
+          "like_count": 2204,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 622
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-12T09:55:00.000Z",
+        "description": "",
+        "id": "1492436896818941952",
+        "name": "鱼不懂海的记忆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990133923880611840/rN9Pws3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 293,
+          "like_count": 8767,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 419
+        },
+        "username": "Hxhnqmh",
+        "verified": false
+      }
+    ]
+  }
+}

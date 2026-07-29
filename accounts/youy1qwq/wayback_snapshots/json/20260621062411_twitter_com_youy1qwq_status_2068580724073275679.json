@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068400207981912515",
+    "created_at": "2026-06-21T06:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068580724073275679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747202572061130752",
+          "start": 0,
+          "username": "dawalis112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068580724073275679",
+    "in_reply_to_user_id": "1747202572061130752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068475052455338426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dawalis112 肯定是后者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068400207981912515",
+        "created_at": "2026-06-21T06:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068580724073275679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747202572061130752",
+              "start": 0,
+              "username": "dawalis112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068580724073275679",
+        "in_reply_to_user_id": "1747202572061130752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068475052455338426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dawalis112 肯定是后者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747202572061130752",
+        "conversation_id": "2068400207981912515",
+        "created_at": "2026-06-20T23:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068475052455338426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068475052455338426",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 700,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068400207981912515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 到底是要感动对方，还是让对方有负罪感🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14904,
+          "following_count": 2170,
+          "like_count": 6592,
+          "listed_count": 26,
+          "media_count": 2094,
+          "tweet_count": 3498
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-16T10:22:26.000Z",
+        "description": "被 X 算法教育中 | AI 工具测试 + 互联网文化观察 | 电子流浪汉 | 每天一点真实吐槽",
+        "id": "1747202572061130752",
+        "name": "达瓦里氏",
+        "pinned_tweet_id": "2063491121360273683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859938422980534272/P7SlCHyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 1457,
+          "like_count": 2197,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "dawalis112",
+        "verified": true
+      }
+    ]
+  }
+}

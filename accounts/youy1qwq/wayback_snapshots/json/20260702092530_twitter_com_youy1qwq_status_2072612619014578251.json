@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072612608159719424",
+        "3_2072612608155566080"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2072612619014578251",
+    "created_at": "2026-07-02T09:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T10:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072612619014578251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bTjX462Yty",
+          "end": 54,
+          "expanded_url": "https://x.com/youy1qwq/status/2072612619014578251/photo/1",
+          "media_key": "3_2072612608159719424",
+          "start": 31,
+          "url": "https://t.co/bTjX462Yty"
+        },
+        {
+          "display_url": "pic.x.com/bTjX462Yty",
+          "end": 54,
+          "expanded_url": "https://x.com/youy1qwq/status/2072612619014578251/photo/1",
+          "media_key": "3_2072612608155566080",
+          "start": 31,
+          "url": "https://t.co/bTjX462Yty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072612619014578251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "影视飓风和中国boy打起来了？其实感觉tim一直都是这种人… https://t.co/bTjX462Yty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2072612608159719424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNmL5pbIAAC40Z.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1501,
+        "media_key": "3_2072612608155566080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNmL5obwAAg0LY.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072612608159719424",
+            "3_2072612608155566080"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2072612619014578251",
+        "created_at": "2026-07-02T09:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072612619014578251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTjX462Yty",
+              "end": 54,
+              "expanded_url": "https://x.com/youy1qwq/status/2072612619014578251/photo/1",
+              "media_key": "3_2072612608159719424",
+              "start": 31,
+              "url": "https://t.co/bTjX462Yty"
+            },
+            {
+              "display_url": "pic.x.com/bTjX462Yty",
+              "end": 54,
+              "expanded_url": "https://x.com/youy1qwq/status/2072612619014578251/photo/1",
+              "media_key": "3_2072612608155566080",
+              "start": 31,
+              "url": "https://t.co/bTjX462Yty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072612619014578251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "影视飓风和中国boy打起来了？其实感觉tim一直都是这种人… https://t.co/bTjX462Yty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15469,
+          "following_count": 2279,
+          "like_count": 7816,
+          "listed_count": 27,
+          "media_count": 2173,
+          "tweet_count": 3780
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

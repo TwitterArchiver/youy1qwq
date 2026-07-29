@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2057999239465312497",
+    "created_at": "2026-05-23T03:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058031545219485705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1207019158791229440",
+          "start": 0,
+          "username": "NFTCPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058031545219485705",
+    "in_reply_to_user_id": "1207019158791229440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057999239465312497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFTCPS 太强了😭互关吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 99,
+        "media_key": "3_2057998368300015616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI96nLrbIAASgNW.png",
+        "width": 520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2057999239465312497",
+        "created_at": "2026-05-23T03:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058031545219485705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1207019158791229440",
+              "start": 0,
+              "username": "NFTCPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058031545219485705",
+        "in_reply_to_user_id": "1207019158791229440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057999239465312497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFTCPS 太强了😭互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057998368300015616"
+          ]
+        },
+        "author_id": "1207019158791229440",
+        "conversation_id": "2057999239465312497",
+        "created_at": "2026-05-23T01:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:36:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057999048544805077",
+          "2057999239465312497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ud997JLAow",
+              "end": 131,
+              "expanded_url": "https://x.com/NFTCPS/status/2057999239465312497/photo/1",
+              "media_key": "3_2057998368300015616",
+              "start": 108,
+              "url": "https://t.co/ud997JLAow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057999239465312497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3761,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，又收到X创作者收益了！  半个月2497美金！\n\n我被降薪了！快去检查一下你自己的账户，看看有没有被降薪！\n\n不过流量增加了，但创作者收益减少了1000多美金，上半个月是近4000美金！\n\n马斯克不爱我么！ https://t.co/ud997JLAow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13348,
+          "following_count": 1858,
+          "like_count": 4230,
+          "listed_count": 21,
+          "media_count": 1824,
+          "tweet_count": 2365
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-17T19:26:15.000Z",
+        "description": "#蓝鸟会 发起人 | TG：ximalaya\n\n近3亿用户的共同选择，启程Web3，就在币安：\nhttps://t.co/UYlKZu8n8i | \n\nOKX Web3钱包现已支持100+公链，web3入口一个就够  https://t.co/llFZwLMjOZ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "蓝鸟会"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/BAWeb3",
+                "end": 71,
+                "expanded_url": "http://bit.ly/BAWeb3",
+                "start": 48,
+                "url": "https://t.co/UYlKZu8n8i"
+              },
+              {
+                "display_url": "bit.ly/OKXWeb3",
+                "end": 132,
+                "expanded_url": "http://bit.ly/OKXWeb3",
+                "start": 109,
+                "url": "https://t.co/llFZwLMjOZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluebirdlabs.xyz",
+                "end": 23,
+                "expanded_url": "https://bluebirdlabs.xyz/",
+                "start": 0,
+                "url": "https://t.co/M9y90eouc9"
+              }
+            ]
+          }
+        },
+        "id": "1207019158791229440",
+        "location": "Web3 Marketing Agency",
+        "name": "鸟哥 | 蓝鸟会🕊️",
+        "pinned_tweet_id": "1915041362048876644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917439913320144897/yRxYCX7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107929,
+          "following_count": 5376,
+          "like_count": 44665,
+          "listed_count": 1206,
+          "media_count": 4596,
+          "tweet_count": 18643
+        },
+        "url": "https://t.co/M9y90eouc9",
+        "username": "NFTCPS",
+        "verified": true
+      }
+    ]
+  }
+}

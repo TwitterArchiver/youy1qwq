@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2037269858283573737",
+    "created_at": "2026-03-28T02:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037715554090254674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1360084437086609409",
+          "start": 0,
+          "username": "CandyDAO_leaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037715554090254674",
+    "in_reply_to_user_id": "1360084437086609409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037269858283573737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CandyDAO_leaf 评论区也可以一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2037269858283573737",
+        "created_at": "2026-03-28T02:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037715554090254674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1360084437086609409",
+              "start": 0,
+              "username": "CandyDAO_leaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037715554090254674",
+        "in_reply_to_user_id": "1360084437086609409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037269858283573737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CandyDAO_leaf 评论区也可以一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360084437086609409",
+        "conversation_id": "2037269858283573737",
+        "created_at": "2026-03-26T20:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037269858283573737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037269858283573737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 42992,
+          "like_count": 288,
+          "quote_count": 1,
+          "reply_count": 696,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是蓝v：评论区留言\n\n我来关注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8563,
+          "following_count": 1393,
+          "like_count": 3327,
+          "listed_count": 13,
+          "media_count": 1090,
+          "tweet_count": 1511
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-12T04:33:01.000Z",
+        "description": "空投日记 | 寻找Alpha | bd | 合作DM【直接私信】 建设社区：@Airdrop_leaf  Arbitrum | ZetaChain 大使实习生 @ZircuitL2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "Airdrop_leaf"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "ZircuitL2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/fuFES8ez8M",
+                "end": 23,
+                "expanded_url": "https://discord.gg/fuFES8ez8M",
+                "start": 0,
+                "url": "https://t.co/feLWvGhvQb"
+              }
+            ]
+          }
+        },
+        "id": "1360084437086609409",
+        "location": "加入leaf社区",
+        "name": "leaf",
+        "pinned_tweet_id": "1882387265005166883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968147838719889409/KhkCA-nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51708,
+          "following_count": 4322,
+          "like_count": 27689,
+          "listed_count": 780,
+          "media_count": 2380,
+          "tweet_count": 26264
+        },
+        "url": "https://t.co/feLWvGhvQb",
+        "username": "CandyDAO_leaf",
+        "verified": true
+      }
+    ]
+  }
+}

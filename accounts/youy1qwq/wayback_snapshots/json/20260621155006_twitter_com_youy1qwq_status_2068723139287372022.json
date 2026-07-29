@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068614666507682131",
+    "created_at": "2026-06-21T15:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068723139287372022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753348784573001728",
+          "start": 0,
+          "username": "neneneko_yknya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068723139287372022",
+    "in_reply_to_user_id": "1753348784573001728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068625750602002797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neneneko_yknya 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068614666507682131",
+        "created_at": "2026-06-21T15:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068723139287372022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "neneneko_yknya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068723139287372022",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068625750602002797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neneneko_yknya 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753348784573001728",
+        "conversation_id": "2068614666507682131",
+        "created_at": "2026-06-21T09:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068625750602002797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068625750602002797",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1304,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068614666507682131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这就说得通了，屈原喜欢od粽子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14949,
+          "following_count": 2180,
+          "like_count": 6705,
+          "listed_count": 26,
+          "media_count": 2095,
+          "tweet_count": 3516
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "关注我每日拾取meme图和地狱笑话",
+        "id": "1753348784573001728",
+        "location": "河南",
+        "name": "挑大粪老农民",
+        "pinned_tweet_id": "2066800560125456695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067989846782832640/Zq85TqLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3500,
+          "following_count": 1057,
+          "like_count": 77776,
+          "listed_count": 13,
+          "media_count": 4065,
+          "tweet_count": 17699
+        },
+        "url": "",
+        "username": "neneneko_yknya",
+        "verified": true
+      }
+    ]
+  }
+}

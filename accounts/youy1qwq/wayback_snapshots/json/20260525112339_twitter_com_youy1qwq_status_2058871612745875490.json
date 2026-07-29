@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2058708829580476426",
+    "created_at": "2026-05-25T11:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058871612745875490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1719670984746381312",
+          "start": 0,
+          "username": "_benhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058871612745875490",
+    "in_reply_to_user_id": "1719670984746381312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058708829580476426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_benhuang 一起加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2058708829580476426",
+        "created_at": "2026-05-25T11:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058871612745875490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1719670984746381312",
+              "start": 0,
+              "username": "_benhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058871612745875490",
+        "in_reply_to_user_id": "1719670984746381312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058708829580476426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_benhuang 一起加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719670984746381312",
+        "conversation_id": "2058708829580476426",
+        "created_at": "2026-05-25T00:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058708829580476426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058708829580476426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4962,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 118,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V审核等了48小时。\n昨天通过那一刻，我反而有点微微紧张。\n像来了个新地方，有一种对未知的不确定感。\n\n昨天是蓝V第一天，涨了300个关注。\n\n谢谢你们——然后我想聊聊，这件事我的感受和收获。👇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13530,
+          "following_count": 1909,
+          "like_count": 4263,
+          "listed_count": 22,
+          "media_count": 1852,
+          "tweet_count": 2405
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T11:01:51.000Z",
+        "description": "INTJ | 懂营销与运营的AI实践者\n在AI时代，专注AI与营销场景的结合。\n记录所看、所想、所做，分享实用洞察。",
+        "id": "1719670984746381312",
+        "location": "美国",
+        "name": "Ben Huang 老黄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056391659328589824/SBQQgS6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 547,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 341
+        },
+        "username": "_benhuang",
+        "verified": true
+      }
+    ]
+  }
+}

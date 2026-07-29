@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020185034687148032",
+        "3_2020185034699776000"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020203407546663196",
+    "created_at": "2026-02-07T18:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T19:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020203407546663196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/omPdsKQRVB",
+          "end": 36,
+          "expanded_url": "https://x.com/youy1qwq/status/2020203407546663196/photo/1",
+          "media_key": "3_2020185034687148032",
+          "start": 13,
+          "url": "https://t.co/omPdsKQRVB"
+        },
+        {
+          "display_url": "pic.x.com/omPdsKQRVB",
+          "end": 36,
+          "expanded_url": "https://x.com/youy1qwq/status/2020203407546663196/photo/1",
+          "media_key": "3_2020185034699776000",
+          "start": 13,
+          "url": "https://t.co/omPdsKQRVB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020203407546663196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你狗哥我今天必须狠狠白嫖 https://t.co/omPdsKQRVB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2020185034687148032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkjle0WcAAK-XP.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1151,
+        "media_key": "3_2020185034699776000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkjle3XIAANZca.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020185034687148032",
+            "3_2020185034699776000"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020203407546663196",
+        "created_at": "2026-02-07T18:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020203407546663196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omPdsKQRVB",
+              "end": 36,
+              "expanded_url": "https://x.com/youy1qwq/status/2020203407546663196/photo/1",
+              "media_key": "3_2020185034687148032",
+              "start": 13,
+              "url": "https://t.co/omPdsKQRVB"
+            },
+            {
+              "display_url": "pic.x.com/omPdsKQRVB",
+              "end": 36,
+              "expanded_url": "https://x.com/youy1qwq/status/2020203407546663196/photo/1",
+              "media_key": "3_2020185034699776000",
+              "start": 13,
+              "url": "https://t.co/omPdsKQRVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020203407546663196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你狗哥我今天必须狠狠白嫖 https://t.co/omPdsKQRVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 826,
+          "like_count": 1527,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 414
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

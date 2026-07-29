@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2068345160170356827",
+    "created_at": "2026-06-21T15:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068724094691098807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1981786282675384325",
+          "start": 0,
+          "username": "Xiaonieuu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068724094691098807",
+    "in_reply_to_user_id": "1981786282675384325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068687701826757097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaonieuu2 草太真实了 然后过两年在上课说我的一个学生本来只能去职高的 然后现在去加拿大留学了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2068345160170356827",
+        "created_at": "2026-06-21T15:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068724094691098807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981786282675384325",
+              "start": 0,
+              "username": "Xiaonieuu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068724094691098807",
+        "in_reply_to_user_id": "1981786282675384325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068687701826757097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaonieuu2 草太真实了 然后过两年在上课说我的一个学生本来只能去职高的 然后现在去加拿大留学了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981786282675384325",
+        "conversation_id": "2068345160170356827",
+        "created_at": "2026-06-21T13:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068687701826757097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068687701826757097",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068345160170356827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 然而你老师只会多一个吹嘘的资本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14949,
+          "following_count": 2180,
+          "like_count": 6748,
+          "listed_count": 26,
+          "media_count": 2095,
+          "tweet_count": 3521
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T18:14:57.000Z",
+        "description": "男的别烦我是lala\n我爱女人女人爱我",
+        "id": "1981786282675384325",
+        "name": "look",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060596484941471744/xQyKEGOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Xiaonieuu2",
+        "verified": false
+      }
+    ]
+  }
+}

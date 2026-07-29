@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2021109375637585950",
+    "created_at": "2026-02-10T16:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T17:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021260437677838365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1538196082513125378",
+          "start": 0,
+          "username": "Anson_Trio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021260437677838365",
+    "in_reply_to_user_id": "1538196082513125378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021153883305676934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anson_Trio 草www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2021153868923666433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyUvDmaAAEqvOZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2021109375637585950",
+        "created_at": "2026-02-10T16:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021260437677838365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538196082513125378",
+              "start": 0,
+              "username": "Anson_Trio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021260437677838365",
+        "in_reply_to_user_id": "1538196082513125378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021153883305676934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anson_Trio 草www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021153868923666433"
+          ]
+        },
+        "author_id": "1538196082513125378",
+        "conversation_id": "2021109375637585950",
+        "created_at": "2026-02-10T09:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021153883305676934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxkPzgSBvd",
+              "end": 117,
+              "expanded_url": "https://x.com/Anson_Trio/status/2021153883305676934/photo/1",
+              "media_key": "3_2021153868923666433",
+              "start": 94,
+              "url": "https://t.co/cxkPzgSBvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021153883305676934",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021109375637585950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 前几天打游戏到一半，有家公司叫我干全栈，呆了半天觉得业务太无聊就跑路了，无聊的东西加上点金钱是买不了我的人生的。\n\n正题在于那个开发组里有个哥们就是这头像，给我看笑了 https://t.co/cxkPzgSBvd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 869,
+          "like_count": 2071,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 548
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-18T16:25:17.000Z",
+        "description": "B站：Anson-樱与晓 | 主营栏目：Anson吃书 —— 5分钟用动画帮你讲完一本书📸 | 与爱人樱与晓自25年5月2日恋爱到明天 ‍🩹 | 分享认知和三个灵魂的真实故事🍀 | 欢迎你来看我的成长✨",
+        "id": "1538196082513125378",
+        "name": "Anson、樱与晓",
+        "pinned_tweet_id": "2018095186711392627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206958873182208/oca1SCoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 817,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 443
+        },
+        "username": "Anson_Trio",
+        "verified": true
+      }
+    ]
+  }
+}

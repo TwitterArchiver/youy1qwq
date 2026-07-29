@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069321571525873664"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069321585832640928",
+    "created_at": "2026-06-23T07:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069321585832640928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5GFJU0mvCO",
+          "end": 90,
+          "expanded_url": "https://x.com/youy1qwq/status/2069321585832640928/photo/1",
+          "media_key": "3_2069321571525873664",
+          "start": 67,
+          "url": "https://t.co/5GFJU0mvCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069321585832640928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原题最痛苦了，能回想到老师当时的穿搭，走位，一颦一笑，黑板上板书的大概位置及面积……就是想不起答案，内心还要痛苦，别人这题要拿满分了 https://t.co/5GFJU0mvCO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069321571525873664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe1AWzaUAAOu8o.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069321571525873664"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069321585832640928",
+        "created_at": "2026-06-23T07:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069321585832640928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GFJU0mvCO",
+              "end": 90,
+              "expanded_url": "https://x.com/youy1qwq/status/2069321585832640928/photo/1",
+              "media_key": "3_2069321571525873664",
+              "start": 67,
+              "url": "https://t.co/5GFJU0mvCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069321585832640928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原题最痛苦了，能回想到老师当时的穿搭，走位，一颦一笑，黑板上板书的大概位置及面积……就是想不起答案，内心还要痛苦，别人这题要拿满分了 https://t.co/5GFJU0mvCO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14985,
+          "following_count": 2172,
+          "like_count": 6941,
+          "listed_count": 26,
+          "media_count": 2106,
+          "tweet_count": 3559
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019274591198462314",
+    "created_at": "2026-02-05T09:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019344645696922060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "39890966",
+          "start": 0,
+          "username": "Huangcz_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019344645696922060",
+    "in_reply_to_user_id": "39890966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019274591198462314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huangcz_CN 互关吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019274591198462314",
+        "created_at": "2026-02-05T09:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019344645696922060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "39890966",
+              "start": 0,
+              "username": "Huangcz_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019344645696922060",
+        "in_reply_to_user_id": "39890966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019274591198462314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huangcz_CN 互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39890966",
+        "conversation_id": "2019274591198462314",
+        "created_at": "2026-02-05T04:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019274591198462314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019274591198462314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1746,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要协修 刷评论了\n兄弟们\n多担待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 298,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 220
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-14T01:15:00.000Z",
+        "description": "外贸狗 | 瞎吐槽 | 瞎折腾 | 美卡 | 美股散户 |\nGlass OEM Expert / Trade Dog / US Equities / AI Tinkerer / Constant Ranting.",
+        "id": "39890966",
+        "name": "Kevin Huang",
+        "pinned_tweet_id": "2018873282762801478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983928357025935361/DocJN1eN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 797,
+          "like_count": 2536,
+          "listed_count": 2,
+          "media_count": 730,
+          "tweet_count": 4671
+        },
+        "username": "Huangcz_CN",
+        "verified": true
+      }
+    ]
+  }
+}

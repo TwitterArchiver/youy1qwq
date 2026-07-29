@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066411903375839449",
+    "created_at": "2026-06-15T13:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066519684552482988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1648191855862099970",
+          "start": 0,
+          "username": "wLU2Rt3GGL67785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066519684552482988",
+    "in_reply_to_user_id": "1648191855862099970",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066489094654525630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wLU2Rt3GGL67785 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066411903375839449",
+        "created_at": "2026-06-15T13:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066519684552482988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1648191855862099970",
+              "start": 0,
+              "username": "wLU2Rt3GGL67785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066519684552482988",
+        "in_reply_to_user_id": "1648191855862099970",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066489094654525630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wLU2Rt3GGL67785 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648191855862099970",
+        "conversation_id": "2066411903375839449",
+        "created_at": "2026-06-15T11:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066489094654525630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066489094654525630",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066411903375839449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 你好，发一下大师的微信😀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14698,
+          "following_count": 2123,
+          "like_count": 5993,
+          "listed_count": 25,
+          "media_count": 2057,
+          "tweet_count": 3125
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-18T05:09:10.000Z",
+        "description": "",
+        "id": "1648191855862099970",
+        "location": "广州",
+        "name": "广州 囡囡 08年 已成年",
+        "pinned_tweet_id": "1750226111110504573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488039472603136/XzbYjywC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 180
+        },
+        "username": "wLU2Rt3GGL67785",
+        "verified": false
+      }
+    ]
+  }
+}

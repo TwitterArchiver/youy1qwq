@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019616358716100608"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019682482661073387",
+    "created_at": "2026-02-06T08:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019682482661073387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhV0O5VQvo",
+          "end": 36,
+          "expanded_url": "https://x.com/youy1qwq/status/2019682482661073387/photo/1",
+          "media_key": "3_2019616358716100608",
+          "start": 13,
+          "url": "https://t.co/IhV0O5VQvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019682482661073387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "羡慕火影弟和第五妹的爱情 https://t.co/IhV0O5VQvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2019616358716100608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAceYLvXUAANSmf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019616358716100608"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019682482661073387",
+        "created_at": "2026-02-06T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019682482661073387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhV0O5VQvo",
+              "end": 36,
+              "expanded_url": "https://x.com/youy1qwq/status/2019682482661073387/photo/1",
+              "media_key": "3_2019616358716100608",
+              "start": 13,
+              "url": "https://t.co/IhV0O5VQvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019682482661073387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "羡慕火影弟和第五妹的爱情 https://t.co/IhV0O5VQvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 538,
+          "like_count": 1155,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 313
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

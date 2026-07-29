@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2048275845962162592",
+    "created_at": "2026-04-26T07:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048307266198097957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031686746585649152",
+          "start": 0,
+          "username": "kiritonotes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048307266198097957",
+    "in_reply_to_user_id": "2031686746585649152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048299478894223588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiritonotes 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2048275845962162592",
+        "created_at": "2026-04-26T07:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048307266198097957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031686746585649152",
+              "start": 0,
+              "username": "kiritonotes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048307266198097957",
+        "in_reply_to_user_id": "2031686746585649152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048299478894223588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiritonotes 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031686746585649152",
+        "conversation_id": "2048275845962162592",
+        "created_at": "2026-04-26T07:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048299478894223588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048299478894223588",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048275845962162592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 好哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11299,
+          "following_count": 1659,
+          "like_count": 3883,
+          "listed_count": 16,
+          "media_count": 1517,
+          "tweet_count": 2013
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T11:01:08.000Z",
+        "description": "00后｜国服马超｜欢迎交友\nAI & Growth & Investment & ニジゲン\n211本 日语N2 雅思备考中\nあなたが付き合ってくれれば心強くなる。",
+        "id": "2031686746585649152",
+        "location": "レインボーブリッジ🌉",
+        "name": "Kirito的成長日記",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041602492988047360/WJwCJdTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 594,
+          "like_count": 2026,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1413
+        },
+        "username": "kiritonotes",
+        "verified": true
+      }
+    ]
+  }
+}

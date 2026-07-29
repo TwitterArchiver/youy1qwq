@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067966017654100069",
+    "created_at": "2026-06-20T12:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068308407350874454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778850117933838337",
+          "start": 0,
+          "username": "TBduyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068308407350874454",
+    "in_reply_to_user_id": "1778850117933838337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068185405183422924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TBduyu 堪比水猴子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-20T12:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068308407350874454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778850117933838337",
+              "start": 0,
+              "username": "TBduyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068308407350874454",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068185405183422924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBduyu 堪比水猴子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778850117933838337",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-20T04:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068185405183422924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068185405183422924",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 627,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067966017654100069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 未解之谜难度堪比尼斯湖水怪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14839,
+          "following_count": 2159,
+          "like_count": 6495,
+          "listed_count": 27,
+          "media_count": 2088,
+          "tweet_count": 3467
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高二小孩，苦逼文科生，顺直友跨\n ケモノ大好き❤ \n  目标：成为英专生 //  在学画画(画毛茸茸)\n\n@supernovaArcaea 成员\n //  @aoim33良师益友\n@Unexist_Sakura 好推油❤️😘\n\n文案/梗图搬运机  \n开个蓝v，加点曝光，想过5M浏览量",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "aoim33"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "野鸡中学",
+        "name": "tabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 1075,
+          "like_count": 18272,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 1925
+        },
+        "url": "",
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

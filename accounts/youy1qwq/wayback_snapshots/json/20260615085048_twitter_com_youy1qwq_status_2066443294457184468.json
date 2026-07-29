@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066442830705258650",
+    "created_at": "2026-06-15T08:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066443294457184468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "867355707472883712",
+          "start": 0,
+          "username": "MagicDong7123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066443294457184468",
+    "in_reply_to_user_id": "867355707472883712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066442830705258650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicDong7123 沙沙沙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066442830705258650",
+        "created_at": "2026-06-15T08:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066443294457184468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "867355707472883712",
+              "start": 0,
+              "username": "MagicDong7123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066443294457184468",
+        "in_reply_to_user_id": "867355707472883712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066442830705258650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicDong7123 沙沙沙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "867355707472883712",
+        "conversation_id": "2066442830705258650",
+        "created_at": "2026-06-15T08:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066442830705258650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2066424306528350302",
+              "start": 11,
+              "url": "https://t.co/zVAT5148oz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066442830705258650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066424306528350302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是东北人，我要杀人 https://t.co/zVAT5148oz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14691,
+          "following_count": 2122,
+          "like_count": 5981,
+          "listed_count": 25,
+          "media_count": 2056,
+          "tweet_count": 3114
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-24T12:24:50.000Z",
+        "description": "阴暗面的自留地。发情and碎碎念。",
+        "id": "867355707472883712",
+        "name": "超级无敌大薯条",
+        "pinned_tweet_id": "2052365335324500174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052983495790624773/sAKOZ0th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 163,
+          "like_count": 4360,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 841
+        },
+        "username": "MagicDong7123",
+        "verified": true
+      }
+    ]
+  }
+}

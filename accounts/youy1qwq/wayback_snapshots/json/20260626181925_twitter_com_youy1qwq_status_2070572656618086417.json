@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2070540984543526953",
+    "created_at": "2026-06-26T18:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070572656618086417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811450530994225153",
+          "start": 0,
+          "username": "rnqikwSh0A25553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070572656618086417",
+    "in_reply_to_user_id": "1811450530994225153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070563182637457625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnqikwSh0A25553 其实就是酸了 因为别人有人喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2070540984543526953",
+        "created_at": "2026-06-26T18:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070572656618086417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811450530994225153",
+              "start": 0,
+              "username": "rnqikwSh0A25553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070572656618086417",
+        "in_reply_to_user_id": "1811450530994225153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070563182637457625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnqikwSh0A25553 其实就是酸了 因为别人有人喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811450530994225153",
+        "conversation_id": "2070540984543526953",
+        "created_at": "2026-06-26T17:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070563182637457625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070563182637457625",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070540984543526953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这种人只要别人不符合自己审美的就一律打上娘炮标签，想当然的觉得所有男的都应该胡子拉碴，满身烟酒味，比谁的吊更大，实则只是嫉妒别人比自己长得帅，比自己会打扮而已😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15294,
+          "following_count": 2236,
+          "like_count": 7337,
+          "listed_count": 28,
+          "media_count": 2131,
+          "tweet_count": 3701
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T17:20:46.000Z",
+        "description": "alien",
+        "id": "1811450530994225153",
+        "location": "Mars",
+        "name": "imice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059909050561916928/6TLwa97q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "rnqikwSh0A25553",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066573932615041450",
+    "created_at": "2026-06-16T17:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066937832997101737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896159221479251968",
+          "start": 0,
+          "username": "__reouo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066937832997101737",
+    "in_reply_to_user_id": "1896159221479251968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066830594877923379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__reouo__ 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T17:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066937832997101737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896159221479251968",
+              "start": 0,
+              "username": "__reouo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066937832997101737",
+        "in_reply_to_user_id": "1896159221479251968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066830594877923379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__reouo__ 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896159221479251968",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T10:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066830594877923379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066830594877923379",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573932615041450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 忘干净哩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14724,
+          "following_count": 2130,
+          "like_count": 6113,
+          "listed_count": 25,
+          "media_count": 2063,
+          "tweet_count": 3219
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-02T11:22:52.000Z",
+        "description": "一只正在进步的普通人类",
+        "id": "1896159221479251968",
+        "location": "火星",
+        "name": "Reouo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006686503335026688/--RWu1Wk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "__reouo__",
+        "verified": false
+      }
+    ]
+  }
+}

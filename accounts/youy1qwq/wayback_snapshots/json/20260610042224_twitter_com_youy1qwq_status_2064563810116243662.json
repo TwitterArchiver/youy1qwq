@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064336602630144278",
+    "created_at": "2026-06-10T04:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064563810116243662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986433528196939777",
+          "start": 0,
+          "username": "Riddle_Jacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064563810116243662",
+    "in_reply_to_user_id": "1986433528196939777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064494661033734223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riddle_Jacker 最不弱智的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064336602630144278",
+        "created_at": "2026-06-10T04:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064563810116243662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986433528196939777",
+              "start": 0,
+              "username": "Riddle_Jacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064563810116243662",
+        "in_reply_to_user_id": "1986433528196939777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064494661033734223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riddle_Jacker 最不弱智的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986433528196939777",
+        "conversation_id": "2064336602630144278",
+        "created_at": "2026-06-09T23:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064494661033734223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064494661033734223",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064336602630144278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 豆包能131？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14202,
+          "following_count": 2067,
+          "like_count": 4766,
+          "listed_count": 24,
+          "media_count": 2011,
+          "tweet_count": 2731
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T14:00:50.000Z",
+        "description": "我是区 ｜ 4k: ε- e5- e5- e5-",
+        "id": "1986433528196939777",
+        "name": "RΙΔΔLE JαckεΓ",
+        "pinned_tweet_id": "2048620562663313556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013477272016052224/aUdbNnIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 409,
+          "like_count": 5794,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 669
+        },
+        "username": "Riddle_Jacker",
+        "verified": false
+      }
+    ]
+  }
+}

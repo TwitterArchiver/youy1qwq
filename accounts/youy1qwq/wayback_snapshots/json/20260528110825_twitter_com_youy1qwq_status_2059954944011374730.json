@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2059785474068357309",
+    "created_at": "2026-05-28T11:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059954944011374730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985961650458148864",
+          "start": 0,
+          "username": "xiaolvtongxueai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059954944011374730",
+    "in_reply_to_user_id": "1985961650458148864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059785474068357309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaolvtongxueai 借楼一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2059785474068357309",
+        "created_at": "2026-05-28T11:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059954944011374730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985961650458148864",
+              "start": 0,
+              "username": "xiaolvtongxueai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059954944011374730",
+        "in_reply_to_user_id": "1985961650458148864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059785474068357309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaolvtongxueai 借楼一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985961650458148864",
+        "conversation_id": "2059785474068357309",
+        "created_at": "2026-05-27T23:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059785474068357309"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059785474068357309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2015,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近这一段时间，中文圈最火的应该就是：蓝v互关了。\n\n前一段时间火过一次，现在似乎又火起来了。\n\n目前来看，国人圈子小，话语权不高，抱团取暖其实还是挺有必要的。\n\n在线秒回\n#蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13774,
+          "following_count": 1986,
+          "like_count": 4316,
+          "listed_count": 22,
+          "media_count": 1884,
+          "tweet_count": 2460
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-05T06:46:05.000Z",
+        "description": "🎬  PR｜AI 内容生产实操党\n拆解 AI 营销工作流：Liblib · Kling · Claude Code · 小红书自动化\n日更踩坑实录 + 可复用 Prompt\n📍🍠@小吕同学（AI版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/9V3SMZD1LbZ",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/9V3SMZD1LbZ",
+                "start": 0,
+                "url": "https://t.co/ATC7ZkGy8D"
+              }
+            ]
+          }
+        },
+        "id": "1985961650458148864",
+        "name": "小吕同学（AI版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058911519547768832/ZVvtEB78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 151,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/ATC7ZkGy8D",
+        "username": "xiaolvtongxueai",
+        "verified": true
+      }
+    ]
+  }
+}

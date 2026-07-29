@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020726794756727015",
+    "created_at": "2026-02-09T05:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020729723630784912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1538196082513125378",
+          "start": 0,
+          "username": "Anson_Trio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020729723630784912",
+    "in_reply_to_user_id": "1538196082513125378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020728752645525848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anson_Trio 是对的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2020728723864174592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsSEW1aQAAiFJ1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020726794756727015",
+        "created_at": "2026-02-09T05:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020729723630784912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538196082513125378",
+              "start": 0,
+              "username": "Anson_Trio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020729723630784912",
+        "in_reply_to_user_id": "1538196082513125378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020728752645525848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anson_Trio 是对的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020728723864174592"
+          ]
+        },
+        "author_id": "1538196082513125378",
+        "conversation_id": "2020726794756727015",
+        "created_at": "2026-02-09T05:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020728752645525848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fo76e5a589",
+              "end": 42,
+              "expanded_url": "https://x.com/Anson_Trio/status/2020728752645525848/photo/1",
+              "media_key": "3_2020728723864174592",
+              "start": 19,
+              "url": "https://t.co/fo76e5a589"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020728752645525848",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020726794756727015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 没看出哪里写错了 https://t.co/fo76e5a589"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 852,
+          "like_count": 1885,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 489
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-18T16:25:17.000Z",
+        "description": "B站：Anson-樱与晓 | 主营栏目：Anson吃书 —— 5分钟用动画帮你讲完一本书📸 | 与爱人樱与晓自25年5月2日恋爱到明天 ‍🩹 | 分享认知和三个灵魂的真实故事🍀 | 欢迎你来看我的成长✨",
+        "id": "1538196082513125378",
+        "name": "Anson、樱与晓",
+        "pinned_tweet_id": "2018095186711392627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206958873182208/oca1SCoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 768,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 438
+        },
+        "username": "Anson_Trio",
+        "verified": true
+      }
+    ]
+  }
+}

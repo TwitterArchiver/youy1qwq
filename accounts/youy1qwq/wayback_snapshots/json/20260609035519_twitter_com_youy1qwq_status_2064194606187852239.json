@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2063620920502288872",
+    "created_at": "2026-06-09T03:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064194606187852239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860160899316875266",
+          "start": 0,
+          "username": "BasterdBru87880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064194606187852239",
+    "in_reply_to_user_id": "1860160899316875266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064027388942651669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BasterdBru87880 我哭了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2063620920502288872",
+        "created_at": "2026-06-09T03:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064194606187852239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860160899316875266",
+              "start": 0,
+              "username": "BasterdBru87880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064194606187852239",
+        "in_reply_to_user_id": "1860160899316875266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027388942651669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BasterdBru87880 我哭了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860160899316875266",
+        "conversation_id": "2063620920502288872",
+        "created_at": "2026-06-08T16:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064027388942651669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064027388942651669",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10091,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063620920502288872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq bro的评论区已经是赛博妓院了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14169,
+          "following_count": 2051,
+          "like_count": 4612,
+          "listed_count": 24,
+          "media_count": 2002,
+          "tweet_count": 2648
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-23T03:18:25.000Z",
+        "description": "",
+        "id": "1860160899316875266",
+        "name": "Half life",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064028398079672320/PaAor_ih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "BasterdBru87880",
+        "verified": false
+      }
+    ]
+  }
+}

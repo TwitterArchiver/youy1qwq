@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2058744763394974028",
+    "created_at": "2026-05-25T11:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058871573311095189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804417035897835522",
+          "start": 0,
+          "username": "ZDX1450190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058871573311095189",
+    "in_reply_to_user_id": "1804417035897835522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058744763394974028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZDX1450190 互吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 169,
+        "media_key": "3_2058744644658470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIhWLwbIAA4lQL.png",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2058744763394974028",
+        "created_at": "2026-05-25T11:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058871573311095189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804417035897835522",
+              "start": 0,
+              "username": "ZDX1450190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058871573311095189",
+        "in_reply_to_user_id": "1804417035897835522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058744763394974028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZDX1450190 互吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058744644658470912"
+          ]
+        },
+        "author_id": "1804417035897835522",
+        "conversation_id": "2058744763394974028",
+        "created_at": "2026-05-25T02:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058744763394974028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWBDKKtdLP",
+              "end": 48,
+              "expanded_url": "https://x.com/ZDX1450190/status/2058744763394974028/photo/1",
+              "media_key": "3_2058744644658470912",
+              "start": 25,
+              "url": "https://t.co/tWBDKKtdLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058744763394974028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1384,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "努努力，这两天要冲击1000 Fo了\n\n加油！🥰 https://t.co/tWBDKKtdLP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13530,
+          "following_count": 1909,
+          "like_count": 4262,
+          "listed_count": 22,
+          "media_count": 1852,
+          "tweet_count": 2404
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T07:32:15.000Z",
+        "description": "牛马 | WEB3撸毛玩家 | BTC长期持有者 | 撸空投 | 打狗狗 | 技术范",
+        "id": "1804417035897835522",
+        "name": "张蛋熊",
+        "pinned_tweet_id": "2057359111449440653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046868280087117824/4mx0gVfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 869,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1247
+        },
+        "username": "ZDX1450190",
+        "verified": true
+      }
+    ]
+  }
+}

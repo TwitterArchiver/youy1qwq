@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067178859473322190",
+    "created_at": "2026-06-18T06:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067490768672137474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "266356185",
+          "start": 0,
+          "username": "windbow6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067490768672137474",
+    "in_reply_to_user_id": "266356185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067295266332398042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@windbow6 何意味😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067178859473322190",
+        "created_at": "2026-06-18T06:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067490768672137474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "266356185",
+              "start": 0,
+              "username": "windbow6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067490768672137474",
+        "in_reply_to_user_id": "266356185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067295266332398042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@windbow6 何意味😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "266356185",
+        "conversation_id": "2067178859473322190",
+        "created_at": "2026-06-17T17:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067295266332398042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067295266332398042",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067178859473322190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 阿三：我们就是斤斤计较小利，才把“便”丢弃在马路上！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6238,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3323
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-15T03:02:37.000Z",
+        "description": "",
+        "id": "266356185",
+        "name": "Harvey Liu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 31,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "windbow6",
+        "verified": false
+      }
+    ]
+  }
+}

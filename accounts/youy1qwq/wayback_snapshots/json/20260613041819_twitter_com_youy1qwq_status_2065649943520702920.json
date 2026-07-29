@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065407160847364362",
+    "created_at": "2026-06-13T04:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065649943520702920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065649943520702920",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065589577889489298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 这样别人还是会看到😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065407160847364362",
+        "created_at": "2026-06-13T04:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065649943520702920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065649943520702920",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065589577889489298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 这样别人还是会看到😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754238570893313",
+        "conversation_id": "2065407160847364362",
+        "created_at": "2026-06-13T00:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065589577889489298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065589577889489298",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065407160847364362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 善用mute word"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14487,
+          "following_count": 2104,
+          "like_count": 5626,
+          "listed_count": 24,
+          "media_count": 2040,
+          "tweet_count": 2966
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "以虛｜ 你好，我是大陸北方網友｜ 生活不易推上賣藝｜ 臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友。",
+        "id": "1900754238570893313",
+        "location": "江西南昌市青山湖區上坊路43號｜上海市徐匯區宛平南路600號",
+        "name": "波之由利以·乃禮都自",
+        "pinned_tweet_id": "2065574103562723814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054040143078817792/LMGFa2Kk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 122,
+          "like_count": 29275,
+          "listed_count": 8,
+          "media_count": 914,
+          "tweet_count": 11596
+        },
+        "username": "patchouli608",
+        "verified": true
+      }
+    ]
+  }
+}

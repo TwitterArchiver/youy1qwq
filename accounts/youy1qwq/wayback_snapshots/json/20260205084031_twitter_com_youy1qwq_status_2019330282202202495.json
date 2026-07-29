@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019204740190728484",
+    "created_at": "2026-02-05T08:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019330282202202495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1455099077549441027",
+          "start": 0,
+          "username": "jiangshuyang110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019330282202202495",
+    "in_reply_to_user_id": "1455099077549441027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019330214233534642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangshuyang110 互关吗老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019204740190728484",
+        "created_at": "2026-02-05T08:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019330282202202495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455099077549441027",
+              "start": 0,
+              "username": "jiangshuyang110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019330282202202495",
+        "in_reply_to_user_id": "1455099077549441027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019330214233534642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangshuyang110 互关吗老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455099077549441027",
+        "conversation_id": "2019204740190728484",
+        "created_at": "2026-02-05T08:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019330214233534642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019330214233534642",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019204740190728484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 第二句就发觉中套想退出，结果还是晚了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 280,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 207
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T09:07:21.000Z",
+        "description": "一个求知欲强烈的数字游民",
+        "id": "1455099077549441027",
+        "location": "Maryland, USA",
+        "name": "そういうことです",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663049047815626753/W4bXWJ4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 2050,
+          "like_count": 848,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 2170
+        },
+        "username": "jiangshuyang110",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066213753293803550",
+    "created_at": "2026-06-15T13:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066520247654559948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884931729565327360",
+          "start": 0,
+          "username": "ErinJonas666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066520247654559948",
+    "in_reply_to_user_id": "1884931729565327360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066495018375016851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErinJonas666 惜命这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-15T13:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066520247654559948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884931729565327360",
+              "start": 0,
+              "username": "ErinJonas666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066520247654559948",
+        "in_reply_to_user_id": "1884931729565327360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066495018375016851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErinJonas666 惜命这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884931729565327360",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-15T12:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066495018375016851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066495018375016851",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066213753293803550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 为了去最远的还努力整个美签"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14698,
+          "following_count": 2123,
+          "like_count": 6001,
+          "listed_count": 25,
+          "media_count": 2057,
+          "tweet_count": 3132
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-30T11:49:10.000Z",
+        "description": "這個世界不需要英雄/簡繁混用/互fo私訊",
+        "id": "1884931729565327360",
+        "location": "雄英高校",
+        "name": "地球爆炸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209932165910529/ouwJPojT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 181,
+          "like_count": 4218,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 685
+        },
+        "username": "ErinJonas666",
+        "verified": false
+      }
+    ]
+  }
+}

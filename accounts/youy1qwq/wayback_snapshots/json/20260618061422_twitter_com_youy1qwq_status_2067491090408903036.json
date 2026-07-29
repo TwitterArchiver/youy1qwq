@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067175448740839556",
+    "created_at": "2026-06-18T06:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491090408903036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858204667014250496",
+          "start": 0,
+          "username": "sisi_chen7203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491090408903036",
+    "in_reply_to_user_id": "1858204667014250496",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067267245169103235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisi_chen7203 qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-18T06:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491090408903036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858204667014250496",
+              "start": 0,
+              "username": "sisi_chen7203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491090408903036",
+        "in_reply_to_user_id": "1858204667014250496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067267245169103235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisi_chen7203 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858204667014250496",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-17T15:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067267245169103235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067267245169103235",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 813,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175448740839556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq hhh，搞这么形象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6240,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3331
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-17T17:46:17.000Z",
+        "description": "链上meme玩家/加密货币交易/ai技术/港卡国外银行卡/esim",
+        "id": "1858204667014250496",
+        "location": "Google",
+        "name": "烈焰之上翩跹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034886007049658369/E5RqiD9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 809,
+          "like_count": 6377,
+          "listed_count": 3,
+          "media_count": 496,
+          "tweet_count": 1774
+        },
+        "url": "",
+        "username": "sisi_chen7203",
+        "verified": false
+      }
+    ]
+  }
+}

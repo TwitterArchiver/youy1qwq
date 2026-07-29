@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074373098342895616"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2074373108019142820",
+    "created_at": "2026-07-07T06:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074373108019142820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ohnWtlZ01R",
+          "end": 32,
+          "expanded_url": "https://x.com/youy1qwq/status/2074373108019142820/photo/1",
+          "media_key": "3_2074373098342895616",
+          "start": 9,
+          "url": "https://t.co/ohnWtlZ01R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074373108019142820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我临场反应能力： https://t.co/ohnWtlZ01R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074373098342895616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmnV6pa0AAUBXS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074373098342895616"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2074373108019142820",
+        "created_at": "2026-07-07T06:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074373108019142820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohnWtlZ01R",
+              "end": 32,
+              "expanded_url": "https://x.com/youy1qwq/status/2074373108019142820/photo/1",
+              "media_key": "3_2074373098342895616",
+              "start": 9,
+              "url": "https://t.co/ohnWtlZ01R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074373108019142820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我临场反应能力： https://t.co/ohnWtlZ01R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15829,
+          "following_count": 2396,
+          "like_count": 7915,
+          "listed_count": 27,
+          "media_count": 2197,
+          "tweet_count": 3826
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

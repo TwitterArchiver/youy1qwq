@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018193765064724697",
+    "created_at": "2026-02-02T05:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018197547332808856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016618894094716928",
+          "start": 0,
+          "username": "YuZhi22731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018197547332808856",
+    "in_reply_to_user_id": "2016618894094716928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018197096588014042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuZhi22731 我直接绷不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2018197091936575488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAITj--bIAAG9Xy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018193765064724697",
+        "created_at": "2026-02-02T05:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018197547332808856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016618894094716928",
+              "start": 0,
+              "username": "YuZhi22731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018197547332808856",
+        "in_reply_to_user_id": "2016618894094716928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018197096588014042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuZhi22731 我直接绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018197091936575488"
+          ]
+        },
+        "author_id": "2016618894094716928",
+        "conversation_id": "2018193765064724697",
+        "created_at": "2026-02-02T05:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018197096588014042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lusPxQeboY",
+              "end": 49,
+              "expanded_url": "https://x.com/YuZhi22731/status/2018197096588014042/photo/1",
+              "media_key": "3_2018197091936575488",
+              "start": 26,
+              "url": "https://t.co/lusPxQeboY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018197096588014042",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018196923476287938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 何尝不能扣一个章鱼哥的房子呢？ https://t.co/lusPxQeboY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 176,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 68
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T21:06:47.000Z",
+        "description": "",
+        "id": "2016618894094716928",
+        "name": "宇智波带土",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016619974358712320/RYpL684Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "YuZhi22731",
+        "verified": false
+      }
+    ]
+  }
+}

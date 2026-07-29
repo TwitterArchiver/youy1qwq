@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065277627884351940",
+    "created_at": "2026-06-12T03:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065282919200170240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1407215903406706688",
+          "start": 0,
+          "username": "Zako_Fries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065282919200170240",
+    "in_reply_to_user_id": "1407215903406706688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065277627884351940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zako_Fries 😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2065277624415657984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlXDp3boAAJWDU.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065277627884351940",
+        "created_at": "2026-06-12T03:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065282919200170240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1407215903406706688",
+              "start": 0,
+              "username": "Zako_Fries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065282919200170240",
+        "in_reply_to_user_id": "1407215903406706688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065277627884351940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zako_Fries 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065277624415657984"
+          ]
+        },
+        "author_id": "1407215903406706688",
+        "conversation_id": "2065277627884351940",
+        "created_at": "2026-06-12T03:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065277627884351940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fhj7igxQnK",
+              "end": 43,
+              "expanded_url": "https://x.com/Zako_Fries/status/2065277627884351940/photo/1",
+              "media_key": "3_2065277624415657984",
+              "start": 20,
+              "url": "https://t.co/Fhj7igxQnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065277627884351940",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 等等，我刷到了誰？ https://t.co/Fhj7igxQnK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14391,
+          "following_count": 2086,
+          "like_count": 5473,
+          "listed_count": 24,
+          "media_count": 2031,
+          "tweet_count": 2897
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-22T05:57:05.000Z",
+        "description": "是一隻超級缺抱抱的女同海豹\n🏳️‍⚧️\n老婆 - @attack_steel 媽媽 - @ArtsSuraimu 姐姐大人 - @_Nana_Sparkle_\n\nwhere there's a will, there's a way",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "attack_steel"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "ArtsSuraimu"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "_Nana_Sparkle_"
+              }
+            ]
+          }
+        },
+        "id": "1407215903406706688",
+        "location": "USA",
+        "name": "☮️ZakoFries🍥",
+        "pinned_tweet_id": "2053295633378033756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960474406888804352/2GN4Zy-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 680,
+          "like_count": 4835,
+          "listed_count": 0,
+          "media_count": 534,
+          "tweet_count": 6100
+        },
+        "username": "Zako_Fries",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019338840427884797",
+    "created_at": "2026-02-05T21:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T22:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019529818849841370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763559533530714112",
+          "start": 0,
+          "username": "thatsmylo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019529818849841370",
+    "in_reply_to_user_id": "1763559533530714112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019417643065942372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thatsmylo_ 我每天就这样诡异地抽抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019338840427884797",
+        "created_at": "2026-02-05T21:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019529818849841370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763559533530714112",
+              "start": 0,
+              "username": "thatsmylo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019529818849841370",
+        "in_reply_to_user_id": "1763559533530714112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019417643065942372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thatsmylo_ 我每天就这样诡异地抽抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763559533530714112",
+        "conversation_id": "2019338840427884797",
+        "created_at": "2026-02-05T14:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T15:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019417643065942372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019417643065942372",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1470,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019338840427884797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我每天就这样诡异地抽抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 406,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 245
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T13:39:14.000Z",
+        "description": "我对锦涛：翩翩我公子 ，我对熙来：长逝入君怀 /1️⃣个听滚的史同女和钟表姐 拒毛和xi推 任何政治立场过激的人不要关注我 ；互关请找我玩🥰",
+        "id": "1763559533530714112",
+        "name": "屏山掩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005630960205733889/rLzIohSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 62,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 485
+        },
+        "username": "thatsmylo_",
+        "verified": false
+      }
+    ]
+  }
+}

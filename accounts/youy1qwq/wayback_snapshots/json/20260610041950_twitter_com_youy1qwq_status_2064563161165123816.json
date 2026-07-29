@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064384430341517681",
+    "created_at": "2026-06-10T04:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064563161165123816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1328331511725051905",
+          "start": 0,
+          "username": "maomao2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064563161165123816",
+    "in_reply_to_user_id": "1328331511725051905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064492427281637581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomao2233 感谢猫猫！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064384430341517681",
+        "created_at": "2026-06-10T04:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064563161165123816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1328331511725051905",
+              "start": 0,
+              "username": "maomao2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064563161165123816",
+        "in_reply_to_user_id": "1328331511725051905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064492427281637581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomao2233 感谢猫猫！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328331511725051905",
+        "conversation_id": "2064384430341517681",
+        "created_at": "2026-06-09T23:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064492427281637581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064492427281637581",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064384430341517681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 🥺感谢猫猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14202,
+          "following_count": 2067,
+          "like_count": 4758,
+          "listed_count": 24,
+          "media_count": 2011,
+          "tweet_count": 2721
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-16T13:38:40.000Z",
+        "description": "",
+        "id": "1328331511725051905",
+        "location": "广西",
+        "name": "浑元形意喵喵拳创始人马保喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328850898504667138/Ahs0Rfkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 907,
+          "like_count": 33081,
+          "listed_count": 2,
+          "media_count": 2491,
+          "tweet_count": 16654
+        },
+        "username": "maomao2233",
+        "verified": false
+      }
+    ]
+  }
+}

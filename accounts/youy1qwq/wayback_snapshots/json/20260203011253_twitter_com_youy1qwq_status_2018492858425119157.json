@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018474519955185949",
+    "created_at": "2026-02-03T01:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T02:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018492858425119157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1538196082513125378",
+          "start": 0,
+          "username": "cepheu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018492858425119157",
+    "in_reply_to_user_id": "1538196082513125378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018492683879325806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cepheu4 还没找工作，但也快了😥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2018492671539699712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMgY-zaYAA7hj0.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018474519955185949",
+        "created_at": "2026-02-03T01:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018492858425119157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1538196082513125378",
+              "start": 0,
+              "username": "cepheu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018492858425119157",
+        "in_reply_to_user_id": "1538196082513125378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018492683879325806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cepheu4 还没找工作，但也快了😥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018492671539699712"
+          ]
+        },
+        "author_id": "1538196082513125378",
+        "conversation_id": "2018474519955185949",
+        "created_at": "2026-02-03T01:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018492683879325806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzrscFW8y4",
+              "end": 62,
+              "expanded_url": "https://x.com/cepheu4/status/2018492683879325806/photo/1",
+              "media_key": "3_2018492671539699712",
+              "start": 39,
+              "url": "https://t.co/gzrscFW8y4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018492683879325806",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018479012516180041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 祝你25岁也能退休，至少全职自媒体什么的，上班太消耗人了 https://t.co/gzrscFW8y4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 205,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 105
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T16:25:17.000Z",
+        "description": "21岁 | 全栈开发🍵 | 与爱人樱与晓自25年5月2日恋爱到明天 ‍🩹 | 分享认知和三个灵魂的真实故事🍀 | 欢迎你来看我的成长✨",
+        "id": "1538196082513125378",
+        "name": "Anson、樱与晓",
+        "pinned_tweet_id": "2018095186711392627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206958873182208/oca1SCoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 688,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 366
+        },
+        "username": "cepheu4",
+        "verified": true
+      }
+    ]
+  }
+}

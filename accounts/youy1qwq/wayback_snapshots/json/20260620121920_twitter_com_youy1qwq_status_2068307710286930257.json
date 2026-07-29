@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068239893445402787",
+    "created_at": "2026-06-20T12:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068307710286930257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974041928552624130",
+          "start": 0,
+          "username": "detectivepeter0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068307710286930257",
+    "in_reply_to_user_id": "1974041928552624130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068286127476244591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@detectivepeter0 怎么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068239893445402787",
+        "created_at": "2026-06-20T12:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068307710286930257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974041928552624130",
+              "start": 0,
+              "username": "detectivepeter0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068307710286930257",
+        "in_reply_to_user_id": "1974041928552624130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068286127476244591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@detectivepeter0 怎么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974041928552624130",
+        "conversation_id": "2068239893445402787",
+        "created_at": "2026-06-20T10:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068286127476244591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068286127476244591",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 638,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068239893445402787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 看来她的婆家人和丈夫挺清醒…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14839,
+          "following_count": 2159,
+          "like_count": 6487,
+          "listed_count": 27,
+          "media_count": 2088,
+          "tweet_count": 3466
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T09:20:58.000Z",
+        "description": "驯宠大师：家里养了一条狗，一头熊和一匹狼。\n历史细节复原家：专业复刻古代近现代平民小人的生活细节和气候变化！\n辱华圣手：专注治理小粉红、基本盘、二次元小保一百五十年，信誉极优！",
+        "id": "1974041928552624130",
+        "location": "Sydney, New South Wales",
+        "name": "名偵探格里芬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974042321475022850/qMxpZnR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 212,
+          "like_count": 20937,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1777
+        },
+        "url": "",
+        "username": "detectivepeter0",
+        "verified": true
+      }
+    ]
+  }
+}

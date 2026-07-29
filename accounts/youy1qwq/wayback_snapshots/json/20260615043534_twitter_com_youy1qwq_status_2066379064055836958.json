@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066213753293803550",
+    "created_at": "2026-06-15T04:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066379064055836958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062847536134590464",
+          "start": 0,
+          "username": "aruannie512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066379064055836958",
+    "in_reply_to_user_id": "2062847536134590464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066299134861262861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aruannie512 md警惕心还挺强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-15T04:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066379064055836958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062847536134590464",
+              "start": 0,
+              "username": "aruannie512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066379064055836958",
+        "in_reply_to_user_id": "2062847536134590464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066299134861262861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aruannie512 md警惕心还挺强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062847536134590464",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-14T23:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066299134861262861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066299134861262861",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066213753293803550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq md警惕心还挺强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14679,
+          "following_count": 2119,
+          "like_count": 5941,
+          "listed_count": 25,
+          "media_count": 2053,
+          "tweet_count": 3084
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-05T10:44:45.000Z",
+        "description": "remember our promise",
+        "id": "2062847536134590464",
+        "name": "灵鹊",
+        "pinned_tweet_id": "2065582081820725346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062848391671939072/WVhkyZWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 55,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 168
+        },
+        "username": "aruannie512",
+        "verified": false
+      }
+    ]
+  }
+}

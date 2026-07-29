@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067574766241030159",
+    "created_at": "2026-06-18T13:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067604426735653208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1572990598617116672",
+          "start": 0,
+          "username": "blackym25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067604426735653208",
+    "in_reply_to_user_id": "1572990598617116672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067585600773865483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackym25 你是懂享受的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067574766241030159",
+        "created_at": "2026-06-18T13:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067604426735653208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1572990598617116672",
+              "start": 0,
+              "username": "blackym25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067604426735653208",
+        "in_reply_to_user_id": "1572990598617116672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067585600773865483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackym25 你是懂享受的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572990598617116672",
+        "conversation_id": "2067574766241030159",
+        "created_at": "2026-06-18T12:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067585600773865483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067585600773865483",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067574766241030159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我睡前得抓出来捏一捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14769,
+          "following_count": 2150,
+          "like_count": 6284,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-22T16:45:59.000Z",
+        "description": "阅读｜民俗文化｜旅游｜语言学习｜分子人类学",
+        "id": "1572990598617116672",
+        "location": "中南海",
+        "name": "blackhumor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850053631661441025/orWV3F2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11022,
+          "following_count": 5360,
+          "like_count": 78372,
+          "listed_count": 70,
+          "media_count": 8901,
+          "tweet_count": 32498
+        },
+        "url": "",
+        "username": "blackym25",
+        "verified": true
+      }
+    ]
+  }
+}

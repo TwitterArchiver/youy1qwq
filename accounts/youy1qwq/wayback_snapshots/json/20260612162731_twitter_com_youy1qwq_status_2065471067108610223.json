@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065471058602561539"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065471067108610223",
+    "created_at": "2026-06-12T16:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065471067108610223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCBoSpMMOE",
+          "end": 35,
+          "expanded_url": "https://x.com/youy1qwq/status/2065471067108610223/photo/1",
+          "media_key": "3_2065471058602561539",
+          "start": 12,
+          "url": "https://t.co/qCBoSpMMOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065471067108610223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天的菜似乎有些不一样 https://t.co/qCBoSpMMOE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2065471058602561539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoG_AXbEAMfPF4.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065471058602561539"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065471067108610223",
+        "created_at": "2026-06-12T16:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065471067108610223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCBoSpMMOE",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2065471067108610223/photo/1",
+              "media_key": "3_2065471058602561539",
+              "start": 12,
+              "url": "https://t.co/qCBoSpMMOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065471067108610223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的菜似乎有些不一样 https://t.co/qCBoSpMMOE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14457,
+          "following_count": 2099,
+          "like_count": 5564,
+          "listed_count": 24,
+          "media_count": 2038,
+          "tweet_count": 2942
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

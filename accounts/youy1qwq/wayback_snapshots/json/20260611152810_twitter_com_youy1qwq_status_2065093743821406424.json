@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064956279056183418",
+    "created_at": "2026-06-11T15:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065093743821406424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988126948552568837",
+          "start": 0,
+          "username": "wxueyuehua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065093743821406424",
+    "in_reply_to_user_id": "1988126948552568837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065090171536814558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxueyuehua 够野"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064956279056183418",
+        "created_at": "2026-06-11T15:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065093743821406424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988126948552568837",
+              "start": 0,
+              "username": "wxueyuehua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065093743821406424",
+        "in_reply_to_user_id": "1988126948552568837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065090171536814558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxueyuehua 够野"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988126948552568837",
+        "conversation_id": "2064956279056183418",
+        "created_at": "2026-06-11T15:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065090171536814558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065090171536814558",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064956279056183418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 没毛病听说野史里面张良像小南娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14322,
+          "following_count": 2084,
+          "like_count": 5325,
+          "listed_count": 24,
+          "media_count": 2029,
+          "tweet_count": 2871
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-11T06:09:52.000Z",
+        "description": "04/男/是温柔的人，如果你也是温柔可爱的人请和我多多说话ヾ(^▽^*)))",
+        "id": "1988126948552568837",
+        "location": "齐齐哈尔",
+        "name": "雪月花",
+        "pinned_tweet_id": "2041539409678340431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994789797051994120/kbAexLvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 440,
+          "like_count": 4884,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1716
+        },
+        "username": "wxueyuehua",
+        "verified": false
+      }
+    ]
+  }
+}

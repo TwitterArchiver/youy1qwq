@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019291233236009027",
+    "created_at": "2026-02-05T06:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T07:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019297986317320540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1572733848982781955",
+          "start": 0,
+          "username": "1huge176876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019297986317320540",
+    "in_reply_to_user_id": "1572733848982781955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019295186166378638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1huge176876 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019291233236009027",
+        "created_at": "2026-02-05T06:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019297986317320540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572733848982781955",
+              "start": 0,
+              "username": "1huge176876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019297986317320540",
+        "in_reply_to_user_id": "1572733848982781955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019295186166378638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1huge176876 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572733848982781955",
+        "conversation_id": "2019291233236009027",
+        "created_at": "2026-02-05T06:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019295186166378638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019295186166378638",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019291233236009027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 扣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 256,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 187
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-21T23:46:13.000Z",
+        "description": "二十七岁，是武装直升机。高强度搞抽象，心里只有国旗上的两种颜色",
+        "id": "1572733848982781955",
+        "location": "厕所",
+        "name": "是抽象小虎",
+        "pinned_tweet_id": "1606409210022883328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822834939932377088/UjMMOR2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 86,
+          "like_count": 60,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 387
+        },
+        "username": "1huge176876",
+        "verified": false
+      }
+    ]
+  }
+}

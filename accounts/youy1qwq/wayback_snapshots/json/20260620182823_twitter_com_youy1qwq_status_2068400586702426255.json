@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068348670911881565",
+    "created_at": "2026-06-20T18:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068400586702426255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053530909761212416",
+          "start": 0,
+          "username": "SjjYy3664"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068400586702426255",
+    "in_reply_to_user_id": "2053530909761212416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068387920801874248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SjjYy3664 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068348670911881565",
+        "created_at": "2026-06-20T18:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068400586702426255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053530909761212416",
+              "start": 0,
+              "username": "SjjYy3664"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068400586702426255",
+        "in_reply_to_user_id": "2053530909761212416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068387920801874248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SjjYy3664 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053530909761212416",
+        "conversation_id": "2068348670911881565",
+        "created_at": "2026-06-20T17:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068387920801874248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068387920801874248",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068348670911881565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 豪到我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14860,
+          "following_count": 2162,
+          "like_count": 6549,
+          "listed_count": 27,
+          "media_count": 2094,
+          "tweet_count": 3485
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T17:42:00.000Z",
+        "description": "剑指苍穹屠反贼\n刀横殖血镇边关\n誓斩汉奸\n再怎么滞纳也是你祖宗",
+        "id": "2053530909761212416",
+        "name": "孙哭川（梧桐好）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065917618557513728/p1Ds2CGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 35,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "SjjYy3664",
+        "verified": false
+      }
+    ]
+  }
+}

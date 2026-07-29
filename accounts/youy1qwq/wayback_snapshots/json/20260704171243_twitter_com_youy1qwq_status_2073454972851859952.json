@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073454966187163648"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2073454972851859952",
+    "created_at": "2026-07-04T17:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073454972851859952"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "蓝v互关"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "蓝V互动"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "互关"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bw8bWi2TCi",
+          "end": 89,
+          "expanded_url": "https://x.com/youy1qwq/status/2073454972851859952/photo/1",
+          "media_key": "3_2073454966187163648",
+          "start": 66,
+          "url": "https://t.co/bw8bWi2TCi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073454972851859952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再来一波蓝v互关吧\n\n欢迎大家一起留言一起加油\n\n必回哦 可以点赞评论提醒我\n\n会取关的就别来了\n\n#蓝v互关 #蓝V互动 #互关 https://t.co/bw8bWi2TCi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2073454966187163648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZkTl1bAAAxSko.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073454966187163648"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T17:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073454972851859952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "蓝V互动"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bw8bWi2TCi",
+              "end": 89,
+              "expanded_url": "https://x.com/youy1qwq/status/2073454972851859952/photo/1",
+              "media_key": "3_2073454966187163648",
+              "start": 66,
+              "url": "https://t.co/bw8bWi2TCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073454972851859952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再来一波蓝v互关吧\n\n欢迎大家一起留言一起加油\n\n必回哦 可以点赞评论提醒我\n\n会取关的就别来了\n\n#蓝v互关 #蓝V互动 #互关 https://t.co/bw8bWi2TCi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15576,
+          "following_count": 2289,
+          "like_count": 7883,
+          "listed_count": 27,
+          "media_count": 2184,
+          "tweet_count": 3799
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2078426323735957551",
+    "created_at": "2026-07-18T11:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078443758274949465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055993183008698368",
+          "start": 0,
+          "username": "rekinfootball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078443758274949465",
+    "in_reply_to_user_id": "2055993183008698368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078432200475992122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rekinfootball 很多地方商场里只有草莓塔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2078426323735957551",
+        "created_at": "2026-07-18T11:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078443758274949465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055993183008698368",
+              "start": 0,
+              "username": "rekinfootball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078443758274949465",
+        "in_reply_to_user_id": "2055993183008698368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078432200475992122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rekinfootball 很多地方商场里只有草莓塔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055993183008698368",
+        "conversation_id": "2078426323735957551",
+        "created_at": "2026-07-18T10:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078432200475992122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078432200475992122",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078426323735957551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 高端商场和五星级酒店的保洁频率其实比普通人家里高得多，纯粹是心理防线在作怪。为了回家上厕所一路硬憋着，对身体的折磨远超那点卫生顾虑。出门在外还是得放过自己，找个好点的商场直接解决，没必要遭这个罪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16467,
+          "following_count": 2777,
+          "like_count": 7967,
+          "listed_count": 27,
+          "media_count": 2233,
+          "tweet_count": 3862
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T12:48:05.000Z",
+        "description": "⚽ EPL + La Liga + Ligue 1 + Bundesliga + Serie A + UCL Daily Insights 🔥\nTactical Breakdowns + Unique Perspectives | DM for collabs\n#Football #UK #Anime fans",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 131,
+                "tag": "Football"
+              },
+              {
+                "end": 144,
+                "start": 141,
+                "tag": "UK"
+              },
+              {
+                "end": 151,
+                "start": 145,
+                "tag": "Anime"
+              }
+            ]
+          }
+        },
+        "id": "2055993183008698368",
+        "name": "rekinfootball",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055999185871347712/IexH2Tgq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 904,
+          "like_count": 159,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 4352
+        },
+        "url": "",
+        "username": "rekinfootball",
+        "verified": false
+      }
+    ]
+  }
+}

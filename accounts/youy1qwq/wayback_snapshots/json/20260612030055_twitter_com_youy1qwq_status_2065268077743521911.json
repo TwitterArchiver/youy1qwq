@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065112212671504483",
+    "created_at": "2026-06-12T03:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065268077743521911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049906614426112000",
+          "start": 0,
+          "username": "jsakka21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065268077743521911",
+    "in_reply_to_user_id": "2049906614426112000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065204890960572811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jsakka21 我chovy😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_2065204888158744576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkU52MaMAAPX09.jpg",
+        "width": 817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065112212671504483",
+        "created_at": "2026-06-12T03:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065268077743521911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049906614426112000",
+              "start": 0,
+              "username": "jsakka21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065268077743521911",
+        "in_reply_to_user_id": "2049906614426112000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065204890960572811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsakka21 我chovy😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065204888158744576"
+          ]
+        },
+        "author_id": "2049906614426112000",
+        "conversation_id": "2065112212671504483",
+        "created_at": "2026-06-11T22:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065204890960572811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9nQR6ZzO5",
+              "end": 57,
+              "expanded_url": "https://x.com/jsakka21/status/2065204890960572811/photo/1",
+              "media_key": "3_2065204888158744576",
+              "start": 34,
+              "url": "https://t.co/v9nQR6ZzO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065204890960572811",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1181,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065112212671504483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 结果总分不过100，看完成绩后见到孩子的老爸: https://t.co/v9nQR6ZzO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14387,
+          "following_count": 2088,
+          "like_count": 5372,
+          "listed_count": 24,
+          "media_count": 2030,
+          "tweet_count": 2888
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T17:40:10.000Z",
+        "description": "",
+        "id": "2049906614426112000",
+        "name": "jsakka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055031824531783680/6FjirTrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "jsakka21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2060230460622659904",
+    "created_at": "2026-05-29T14:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060372253112774807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058049779788083200",
+          "start": 0,
+          "username": "SiryoungX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060372253112774807",
+    "in_reply_to_user_id": "2058049779788083200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060230460622659904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiryoungX 借楼一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2060229763327995904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdoDd7aMAAIK60.jpg",
+        "width": 1922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2060230460622659904",
+        "created_at": "2026-05-29T14:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060372253112774807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058049779788083200",
+              "start": 0,
+              "username": "SiryoungX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060372253112774807",
+        "in_reply_to_user_id": "2058049779788083200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060230460622659904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiryoungX 借楼一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060229763327995904"
+          ]
+        },
+        "author_id": "2058049779788083200",
+        "conversation_id": "2060230460622659904",
+        "created_at": "2026-05-29T05:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060230460622659904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 83,
+              "start": 76,
+              "tag": "ブルバ100"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/trC4uD20TK",
+              "end": 107,
+              "expanded_url": "https://x.com/SiryoungX/status/2060230460622659904/photo/1",
+              "media_key": "3_2060229763327995904",
+              "start": 84,
+              "url": "https://t.co/trC4uD20TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060230460622659904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1346,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的蓝v关注少了，因为我的互动也少了\n\n流量倒是明显比昨天好，\n\n这个时间已经快接近昨天的浏览量 \n\n下午去牙医复诊后\n\n再来处理互动\n\n#蓝v互关\n#ブルバ100 https://t.co/trC4uD20TK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13826,
+          "following_count": 2001,
+          "like_count": 4327,
+          "listed_count": 23,
+          "media_count": 1891,
+          "tweet_count": 2471
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T04:58:39.000Z",
+        "description": "地产营销人 / 茶人。从繁华里走来，如今认真看生活。记录生活见闻、风物器用、数码美学、美食与侘寂之美。",
+        "id": "2058049779788083200",
+        "name": "Siryoung·I'll fb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058050386649346048/kI6GKgSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1666,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 244
+        },
+        "username": "SiryoungX",
+        "verified": true
+      }
+    ]
+  }
+}

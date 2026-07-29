@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065375020747252191",
+    "created_at": "2026-06-13T04:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065650505079296498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2062872536766177280",
+          "start": 0,
+          "username": "fut924x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065650505079296498",
+    "in_reply_to_user_id": "2062872536766177280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065599836095910159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fut924x 也许弟弟也想逃离原生家庭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065375020747252191",
+        "created_at": "2026-06-13T04:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065650505079296498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2062872536766177280",
+              "start": 0,
+              "username": "fut924x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065650505079296498",
+        "in_reply_to_user_id": "2062872536766177280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065599836095910159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fut924x 也许弟弟也想逃离原生家庭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062872536766177280",
+        "conversation_id": "2065375020747252191",
+        "created_at": "2026-06-13T00:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065599836095910159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065599836095910159",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065375020747252191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 无恶意，弟弟是残疾人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14487,
+          "following_count": 2104,
+          "like_count": 5627,
+          "listed_count": 24,
+          "media_count": 2040,
+          "tweet_count": 2973
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-05T12:23:04.000Z",
+        "description": "",
+        "id": "2062872536766177280",
+        "name": "富土",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062948583566176256/ttzA75q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 181
+        },
+        "username": "fut924x",
+        "verified": false
+      }
+    ]
+  }
+}

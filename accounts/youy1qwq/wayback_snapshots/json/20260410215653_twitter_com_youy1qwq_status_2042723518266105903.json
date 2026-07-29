@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2042665117486116959",
+    "created_at": "2026-04-10T21:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T22:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042723518266105903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012565160699834368",
+          "start": 0,
+          "username": "Marlin554608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042723518266105903",
+    "in_reply_to_user_id": "2012565160699834368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042674457182113799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marlin554608 有美团会员是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042665117486116959",
+        "created_at": "2026-04-10T21:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042723518266105903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012565160699834368",
+              "start": 0,
+              "username": "Marlin554608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042723518266105903",
+        "in_reply_to_user_id": "2012565160699834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042674457182113799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marlin554608 有美团会员是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012565160699834368",
+        "conversation_id": "2042665117486116959",
+        "created_at": "2026-04-10T18:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042674457182113799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042674457182113799",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042665117486116959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这有点多了吧，😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9987,
+          "following_count": 1513,
+          "like_count": 3633,
+          "listed_count": 14,
+          "media_count": 1310,
+          "tweet_count": 1753
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T16:38:54.000Z",
+        "description": "封建社会残存的旧物竟然意外来到这里让我陌生的世界",
+        "id": "2012565160699834368",
+        "name": "我只是想找一个安静的地方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037950509513048064/Yxyz_Uan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 214
+        },
+        "username": "Marlin554608",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028027662388879360"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Meditation",
+          "id": "918221163284676608",
+          "name": "Meditation"
+        }
+      }
+    ],
+    "conversation_id": "2028258993567936977",
+    "created_at": "2026-03-02T00:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T01:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028258993567936977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LCWQmq4Jhb",
+          "end": 53,
+          "expanded_url": "https://x.com/youy1qwq/status/2028258993567936977/photo/1",
+          "media_key": "3_2028027662388879360",
+          "start": 30,
+          "url": "https://t.co/LCWQmq4Jhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028258993567936977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小憩，冥想，理甲，舒膝，文玩，絮语，品茗，雁书，科技，知遇 https://t.co/LCWQmq4Jhb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2028027662388879360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUAafta4AAq_jz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028027662388879360"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "2028258993567936977",
+        "created_at": "2026-03-02T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028258993567936977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCWQmq4Jhb",
+              "end": 53,
+              "expanded_url": "https://x.com/youy1qwq/status/2028258993567936977/photo/1",
+              "media_key": "3_2028027662388879360",
+              "start": 30,
+              "url": "https://t.co/LCWQmq4Jhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028258993567936977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小憩，冥想，理甲，舒膝，文玩，絮语，品茗，雁书，科技，知遇 https://t.co/LCWQmq4Jhb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5565,
+          "following_count": 1210,
+          "like_count": 2821,
+          "listed_count": 7,
+          "media_count": 608,
+          "tweet_count": 1009
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

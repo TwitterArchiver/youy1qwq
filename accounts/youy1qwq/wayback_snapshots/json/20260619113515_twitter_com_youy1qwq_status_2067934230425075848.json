@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067921675371602278",
+    "created_at": "2026-06-19T11:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067934230425075848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964365767639781377",
+          "start": 0,
+          "username": "DennisLiu_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067934230425075848",
+    "in_reply_to_user_id": "1964365767639781377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067925207906755041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DennisLiu_X 不要这样刻板印象吧😭虽然成都萝莉也没怎么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067921675371602278",
+        "created_at": "2026-06-19T11:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067934230425075848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964365767639781377",
+              "start": 0,
+              "username": "DennisLiu_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067934230425075848",
+        "in_reply_to_user_id": "1964365767639781377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067925207906755041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DennisLiu_X 不要这样刻板印象吧😭虽然成都萝莉也没怎么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964365767639781377",
+        "conversation_id": "2067921675371602278",
+        "created_at": "2026-06-19T10:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067925207906755041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067925207906755041",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067921675371602278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这医生看着就是成都萝莉啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14790,
+          "following_count": 2154,
+          "like_count": 6353,
+          "listed_count": 26,
+          "media_count": 2080,
+          "tweet_count": 3415
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T16:31:17.000Z",
+        "description": "独立思考，明辨是非",
+        "id": "1964365767639781377",
+        "location": "Quantum Cloud",
+        "name": "Dennis Liu",
+        "pinned_tweet_id": "2065756393890828750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967986606280962049/5rGYv-qu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 726,
+          "like_count": 298,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1618
+        },
+        "url": "",
+        "username": "DennisLiu_X",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037587640279769089"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2037665972438659559",
+    "created_at": "2026-03-27T23:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T00:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037665972438659559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H18aoI0gCX",
+          "end": 29,
+          "expanded_url": "https://x.com/youy1qwq/status/2037665972438659559/photo/1",
+          "media_key": "3_2037587640279769089",
+          "start": 6,
+          "url": "https://t.co/H18aoI0gCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037665972438659559",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生活小妙招 https://t.co/H18aoI0gCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2037587640279769089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEb3KcmaIAEwDa-.jpg",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037587640279769089"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2037665972438659559",
+        "created_at": "2026-03-27T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037665972438659559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H18aoI0gCX",
+              "end": 29,
+              "expanded_url": "https://x.com/youy1qwq/status/2037665972438659559/photo/1",
+              "media_key": "3_2037587640279769089",
+              "start": 6,
+              "url": "https://t.co/H18aoI0gCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037665972438659559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生活小妙招 https://t.co/H18aoI0gCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8537,
+          "following_count": 1389,
+          "like_count": 3306,
+          "listed_count": 13,
+          "media_count": 1087,
+          "tweet_count": 1506
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

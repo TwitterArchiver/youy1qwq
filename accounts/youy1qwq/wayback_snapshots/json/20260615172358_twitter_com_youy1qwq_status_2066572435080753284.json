@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066411903375839449",
+    "created_at": "2026-06-15T17:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066572435080753284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055930909329854464",
+          "start": 0,
+          "username": "ZhangXOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066572435080753284",
+    "in_reply_to_user_id": "2055930909329854464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066548411697086517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhangXOvo 这就是大师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066411903375839449",
+        "created_at": "2026-06-15T17:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066572435080753284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055930909329854464",
+              "start": 0,
+              "username": "ZhangXOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066572435080753284",
+        "in_reply_to_user_id": "2055930909329854464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066548411697086517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhangXOvo 这就是大师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055930909329854464",
+        "conversation_id": "2066411903375839449",
+        "created_at": "2026-06-15T15:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066548411697086517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066548411697086517",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066411903375839449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 不愧是大师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14696,
+          "following_count": 2123,
+          "like_count": 6010,
+          "listed_count": 25,
+          "media_count": 2057,
+          "tweet_count": 3139
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T08:39:39.000Z",
+        "description": "顶级地球村民",
+        "id": "2055930909329854464",
+        "location": "家里蹲大学",
+        "name": "Zhang X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055931348368662528/_UZvI5fe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 52
+        },
+        "username": "ZhangXOvo",
+        "verified": false
+      }
+    ]
+  }
+}

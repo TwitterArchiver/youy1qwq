@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2042814899852894239",
+    "created_at": "2026-04-11T06:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042855745603989817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828948945000644608",
+          "start": 0,
+          "username": "AChan573520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042855745603989817",
+    "in_reply_to_user_id": "1828948945000644608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042849034143199644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AChan573520 笑死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2042849029680435200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmoXnfakAAS-6d.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042814899852894239",
+        "created_at": "2026-04-11T06:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042855745603989817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828948945000644608",
+              "start": 0,
+              "username": "AChan573520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042855745603989817",
+        "in_reply_to_user_id": "1828948945000644608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042849034143199644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AChan573520 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042849029680435200"
+          ]
+        },
+        "author_id": "1828948945000644608",
+        "conversation_id": "2042814899852894239",
+        "created_at": "2026-04-11T06:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042849034143199644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VqP8HsFN44",
+              "end": 40,
+              "expanded_url": "https://x.com/AChan573520/status/2042849034143199644/photo/1",
+              "media_key": "3_2042849029680435200",
+              "start": 17,
+              "url": "https://t.co/VqP8HsFN44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042849034143199644",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042814899852894239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 甚至不是中文 https://t.co/VqP8HsFN44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9991,
+          "following_count": 1514,
+          "like_count": 3651,
+          "listed_count": 14,
+          "media_count": 1315,
+          "tweet_count": 1776
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-29T00:13:39.000Z",
+        "description": "From where ,to nowhere. //这里是聿白水，你可以叫我白水喵//碎碎念和小日常//神经多样性人士//非跨但友跨🍥//欢迎互fo喵🥳",
+        "id": "1828948945000644608",
+        "name": "聿白水_Official",
+        "pinned_tweet_id": "2027823960990327216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830095600697950209/KHh7TLJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 82,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 457
+        },
+        "username": "AChan573520",
+        "verified": false
+      }
+    ]
+  }
+}

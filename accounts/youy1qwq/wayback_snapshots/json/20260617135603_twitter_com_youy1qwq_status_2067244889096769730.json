@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067175448740839556",
+    "created_at": "2026-06-17T13:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067244889096769730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1735501955802505216",
+          "start": 0,
+          "username": "adyingdeath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067244889096769730",
+    "in_reply_to_user_id": "1735501955802505216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067206761061437740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adyingdeath 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-17T13:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067244889096769730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1735501955802505216",
+              "start": 0,
+              "username": "adyingdeath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067244889096769730",
+        "in_reply_to_user_id": "1735501955802505216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067206761061437740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adyingdeath 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735501955802505216",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-17T11:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067206761061437740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067206761061437740",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175448740839556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 说实话每次看到python都总有种它还没诞生很久的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14744,
+          "following_count": 2132,
+          "like_count": 6176,
+          "listed_count": 25,
+          "media_count": 2069,
+          "tweet_count": 3282
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T03:28:16.000Z",
+        "description": "AI, Web, Product\nhttps://t.co/3osnnCsGif | https://t.co/XjHhNehUkV | https://t.co/ukfhaVjL7I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "adyingdeath.com",
+                "end": 40,
+                "expanded_url": "https://adyingdeath.com",
+                "start": 17,
+                "url": "https://t.co/3osnnCsGif"
+              },
+              {
+                "display_url": "mightool.com",
+                "end": 66,
+                "expanded_url": "https://mightool.com",
+                "start": 43,
+                "url": "https://t.co/XjHhNehUkV"
+              },
+              {
+                "display_url": "wespinner.com",
+                "end": 92,
+                "expanded_url": "https://wespinner.com",
+                "start": 69,
+                "url": "https://t.co/ukfhaVjL7I"
+              }
+            ]
+          }
+        },
+        "id": "1735501955802505216",
+        "name": "adyingdeath",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814137204341698560/HYQ5gSqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 20,
+          "like_count": 9351,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 4335
+        },
+        "username": "adyingdeath",
+        "verified": true
+      }
+    ]
+  }
+}

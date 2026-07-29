@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064286391471923277",
+    "created_at": "2026-06-09T15:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064366223719337994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806197958851055616",
+          "start": 0,
+          "username": "bingyang_com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064366223719337994",
+    "in_reply_to_user_id": "1806197958851055616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064361263053095124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingyang_com 练成了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064286391471923277",
+        "created_at": "2026-06-09T15:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064366223719337994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806197958851055616",
+              "start": 0,
+              "username": "bingyang_com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064366223719337994",
+        "in_reply_to_user_id": "1806197958851055616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064361263053095124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingyang_com 练成了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806197958851055616",
+        "conversation_id": "2064286391471923277",
+        "created_at": "2026-06-09T14:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064361263053095124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064361263053095124",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064286391471923277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 大脑尖尖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14196,
+          "following_count": 2058,
+          "like_count": 4713,
+          "listed_count": 24,
+          "media_count": 2009,
+          "tweet_count": 2701
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T05:29:17.000Z",
+        "description": "Hi！這裡是榆洋,是一隻FURRY龍龍！/繁简中文&English/18 y./某不知名國際學校高三🧑‍🎓/HAM Radio OP BI3WJT📻/Travel✈️/Hiking⛰️/Coffee☕️/No Politics❌/Introvert😳",
+        "id": "1806197958851055616",
+        "location": "World",
+        "name": "榆洋YANG",
+        "pinned_tweet_id": "1837512918944174159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064305838467305472/PWmzrbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 1440,
+          "like_count": 1059,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 468
+        },
+        "username": "bingyang_com",
+        "verified": false
+      }
+    ]
+  }
+}

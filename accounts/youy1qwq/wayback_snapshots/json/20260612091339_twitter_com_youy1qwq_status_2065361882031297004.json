@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064991407283351973",
+    "created_at": "2026-06-12T09:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065361882031297004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1661634276411199490",
+          "start": 0,
+          "username": "co446451153240"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065361882031297004",
+    "in_reply_to_user_id": "1661634276411199490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065325143786987869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@co446451153240 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064991407283351973",
+        "created_at": "2026-06-12T09:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065361882031297004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1661634276411199490",
+              "start": 0,
+              "username": "co446451153240"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065361882031297004",
+        "in_reply_to_user_id": "1661634276411199490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065325143786987869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@co446451153240 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661634276411199490",
+        "conversation_id": "2064991407283351973",
+        "created_at": "2026-06-12T06:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065325143786987869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065325143786987869",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064991407283351973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 正常，单字性别比较难抢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14423,
+          "following_count": 2091,
+          "like_count": 5513,
+          "listed_count": 24,
+          "media_count": 2032,
+          "tweet_count": 2916
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-25T07:24:36.000Z",
+        "description": "",
+        "id": "1661634276411199490",
+        "name": "曹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661634581207093248/6u_oiCHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 49,
+          "like_count": 13760,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 118
+        },
+        "username": "co446451153240",
+        "verified": false
+      }
+    ]
+  }
+}

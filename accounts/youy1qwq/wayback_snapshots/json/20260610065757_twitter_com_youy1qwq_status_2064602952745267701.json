@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064595130825466305",
+    "created_at": "2026-06-10T06:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064602952745267701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2693414511",
+          "start": 0,
+          "username": "liu17251086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064602952745267701",
+    "in_reply_to_user_id": "2693414511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064602314804170926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu17251086 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064595130825466305",
+        "created_at": "2026-06-10T06:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064602952745267701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2693414511",
+              "start": 0,
+              "username": "liu17251086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064602952745267701",
+        "in_reply_to_user_id": "2693414511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064602314804170926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu17251086 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2693414511",
+        "conversation_id": "2064595130825466305",
+        "created_at": "2026-06-10T06:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064602314804170926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064602314804170926",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064595130825466305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq win 大把时间可以玩玩游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14207,
+          "following_count": 2069,
+          "like_count": 4805,
+          "listed_count": 24,
+          "media_count": 2013,
+          "tweet_count": 2741
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-10T02:04:37.000Z",
+        "description": "🤡X平台专业「早上好」选手 \n🤭冷知识段子手\n📚《劳核》赛博题材小说连载中\n💼干了13年能源的项目经理\n🏢自研AI燃气管理系统·覆盖6家子公司·服务百万级用户·整体运营效率提升70%\n💪产业数字化实战派 \n💻VibeCoding 深度玩家\n📍Base·重庆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liu22222222222…",
+                "end": 23,
+                "expanded_url": "https://github.com/liu222222222222/",
+                "start": 0,
+                "url": "https://t.co/sKfFmzKSUZ"
+              }
+            ]
+          }
+        },
+        "id": "2693414511",
+        "name": "JeffLiuRoast",
+        "pinned_tweet_id": "2058185955056767312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047132013388578816/IbxQLTFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 674,
+          "like_count": 4913,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 9020
+        },
+        "url": "https://t.co/sKfFmzKSUZ",
+        "username": "liu17251086",
+        "verified": true
+      }
+    ]
+  }
+}

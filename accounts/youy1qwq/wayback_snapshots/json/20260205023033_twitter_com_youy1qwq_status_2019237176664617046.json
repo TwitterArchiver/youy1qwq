@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019156401126510723",
+    "created_at": "2026-02-05T02:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T03:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019237176664617046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894993692672565252",
+          "start": 0,
+          "username": "tjc789789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019237176664617046",
+    "in_reply_to_user_id": "1894993692672565252",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019236331499728935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tjc789789 😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019156401126510723",
+        "created_at": "2026-02-05T02:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019237176664617046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894993692672565252",
+              "start": 0,
+              "username": "tjc789789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019237176664617046",
+        "in_reply_to_user_id": "1894993692672565252",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019236331499728935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tjc789789 😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894993692672565252",
+        "conversation_id": "2019156401126510723",
+        "created_at": "2026-02-05T02:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019236331499728935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019236331499728935",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019156401126510723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 由依老师依旧老辈子打法，先给人扣帽子😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 237,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 169
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T06:11:30.000Z",
+        "description": "ENFP👻 匿名邮箱https://t.co/JHUSzEmzrW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/53778846",
+                "end": 33,
+                "expanded_url": "https://ngl.link/53778846",
+                "start": 10,
+                "url": "https://t.co/JHUSzEmzrW"
+              }
+            ]
+          }
+        },
+        "id": "1894993692672565252",
+        "name": "537",
+        "pinned_tweet_id": "2018727904662974888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017912044163567616/u21CblGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 85
+        },
+        "username": "tjc789789",
+        "verified": false
+      }
+    ]
+  }
+}

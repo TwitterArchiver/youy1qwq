@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064353413916512638",
+    "created_at": "2026-06-09T14:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064359072632316242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "478803272",
+          "start": 0,
+          "username": "jisouAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064359072632316242",
+    "in_reply_to_user_id": "478803272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064358795124371943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jisouAI 张浩轩还是个混血种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064353413916512638",
+        "created_at": "2026-06-09T14:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064359072632316242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "478803272",
+              "start": 0,
+              "username": "jisouAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064359072632316242",
+        "in_reply_to_user_id": "478803272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064358795124371943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jisouAI 张浩轩还是个混血种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "478803272",
+        "conversation_id": "2064353413916512638",
+        "created_at": "2026-06-09T14:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064358795124371943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064358795124371943",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064353413916512638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 张浩轩已经燃尽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14194,
+          "following_count": 2055,
+          "like_count": 4712,
+          "listed_count": 24,
+          "media_count": 2009,
+          "tweet_count": 2699
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-30T17:45:31.000Z",
+        "description": "Telegram 纸飞机 电报搜索 https://t.co/3GQHlkrCyd 中文搜索总群 https://t.co/no5A1mnG7o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 41,
+                "expanded_url": "https://t.me/jisou?start=a_5138353725",
+                "start": 18,
+                "url": "https://t.co/3GQHlkrCyd"
+              },
+              {
+                "display_url": "t.me/qunvip",
+                "end": 72,
+                "expanded_url": "https://t.me/qunvip",
+                "start": 49,
+                "url": "https://t.co/no5A1mnG7o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dianbao.cc",
+                "end": 23,
+                "expanded_url": "http://www.dianbao.cc",
+                "start": 0,
+                "url": "https://t.co/MmgiyGrPiS"
+              }
+            ]
+          }
+        },
+        "id": "478803272",
+        "location": "Hong Kong",
+        "name": "电报搜索-电报频道-电报群",
+        "pinned_tweet_id": "2059252340667105726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056985026026479616/3SigQjJV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 1040,
+          "like_count": 765,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/MmgiyGrPiS",
+        "username": "jisouAI",
+        "verified": true
+      }
+    ]
+  }
+}

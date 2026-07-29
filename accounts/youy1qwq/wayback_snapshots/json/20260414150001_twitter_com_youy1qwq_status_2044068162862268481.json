@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043987852162170880"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2044068162862268481",
+    "created_at": "2026-04-14T15:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044068162862268481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xUwMUL25Wg",
+          "end": 36,
+          "expanded_url": "https://x.com/youy1qwq/status/2044068162862268481/photo/1",
+          "media_key": "3_2043987852162170880",
+          "start": 13,
+          "url": "https://t.co/xUwMUL25Wg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044068162862268481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别吵了，坤哥祝你星途璀璨 https://t.co/xUwMUL25Wg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2043987852162170880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF20Hz1XAAARpNa.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043987852162170880"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2044068162862268481",
+        "created_at": "2026-04-14T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044068162862268481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUwMUL25Wg",
+              "end": 36,
+              "expanded_url": "https://x.com/youy1qwq/status/2044068162862268481/photo/1",
+              "media_key": "3_2043987852162170880",
+              "start": 13,
+              "url": "https://t.co/xUwMUL25Wg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044068162862268481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别吵了，坤哥祝你星途璀璨 https://t.co/xUwMUL25Wg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10306,
+          "following_count": 1567,
+          "like_count": 3701,
+          "listed_count": 15,
+          "media_count": 1361,
+          "tweet_count": 1837
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

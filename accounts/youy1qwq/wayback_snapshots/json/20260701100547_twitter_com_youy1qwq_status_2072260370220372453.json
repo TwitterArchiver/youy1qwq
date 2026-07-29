@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2072107691447587252",
+    "created_at": "2026-07-01T10:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072260370220372453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032516808951902208",
+          "start": 0,
+          "username": "Jeffrey20011221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072260370220372453",
+    "in_reply_to_user_id": "2032516808951902208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072107691447587252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jeffrey20011221 这也太阴暗了这种人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2072107691447587252",
+        "created_at": "2026-07-01T10:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072260370220372453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032516808951902208",
+              "start": 0,
+              "username": "Jeffrey20011221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072260370220372453",
+        "in_reply_to_user_id": "2032516808951902208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072107691447587252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jeffrey20011221 这也太阴暗了这种人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032516808951902208",
+        "conversation_id": "2072107691447587252",
+        "created_at": "2026-06-30T23:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072107691447587252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072107691447587252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3708,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马勒戈壁，知道为啥炸柜了！傻逼前任直接告诉我妈了操他妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15451,
+          "following_count": 2274,
+          "like_count": 7763,
+          "listed_count": 28,
+          "media_count": 2168,
+          "tweet_count": 3772
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nAlways happy to make more trans friends.\nCollecting fountain pens 🖋️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDe2ED"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "location": "Birmingham, England",
+        "name": "Jeff姐夫 (Rhea)",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 572,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/UHHpuDe2ED",
+        "username": "Jeffrey20011221",
+        "verified": false
+      }
+    ]
+  }
+}

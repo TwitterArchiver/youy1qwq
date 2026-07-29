@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024429161704759296"
+      ],
+      "media_source_tweet_id": [
+        "2024429222194999756"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2024516963033125262",
+    "created_at": "2026-02-19T16:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024516963033125262"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1995375785759444992",
+          "start": 3,
+          "username": "Rainevs5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lUpu9FvsbZ",
+          "end": 41,
+          "expanded_url": "https://x.com/Rainevs5/status/2024429222194999756/video/1",
+          "media_key": "13_2024429161704759296",
+          "start": 18,
+          "url": "https://t.co/lUpu9FvsbZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024516963033125262",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024429222194999756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainevs5: #反差 https://t.co/lUpu9FvsbZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024516963033125262].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024516963033125262",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024516963033125262"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2766,
+        "height": 1280,
+        "media_key": "13_2024429161704759296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024429161704759296/img/tqXL66o7st2RhT77.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/320x568/ND5lWNisogNG_NO5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/480x852/_HdHO6F4OjUyDJvB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/720x1280/TKOCKgmI58_xOyIy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024429161704759296/pl/-w5vkPXeVUCH3kLi.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2766,
+        "height": 1280,
+        "media_key": "13_2024429161704759296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024429161704759296/img/tqXL66o7st2RhT77.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/320x568/ND5lWNisogNG_NO5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/480x852/_HdHO6F4OjUyDJvB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/720x1280/TKOCKgmI58_xOyIy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024429161704759296/pl/-w5vkPXeVUCH3kLi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024429161704759296"
+          ]
+        },
+        "author_id": "1995375785759444992",
+        "conversation_id": "2024429222194999756",
+        "created_at": "2026-02-19T10:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024429222194999756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUpu9FvsbZ",
+              "end": 27,
+              "expanded_url": "https://x.com/Rainevs5/status/2024429222194999756/video/1",
+              "media_key": "13_2024429161704759296",
+              "start": 4,
+              "url": "https://t.co/lUpu9FvsbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024429222194999756",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#反差 https://t.co/lUpu9FvsbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3932,
+          "following_count": 993,
+          "like_count": 2556,
+          "listed_count": 6,
+          "media_count": 424,
+          "tweet_count": 814
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-01T06:14:35.000Z",
+        "description": "06  163/55 喜欢我请过🚪88 /188/520 只回口令 江浙沪可✈️",
+        "id": "1995375785759444992",
+        "name": "S",
+        "pinned_tweet_id": "2020842986071113969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014981091657195520/uRVwR_X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 25,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 172
+        },
+        "username": "Rainevs5",
+        "verified": false
+      }
+    ]
+  }
+}

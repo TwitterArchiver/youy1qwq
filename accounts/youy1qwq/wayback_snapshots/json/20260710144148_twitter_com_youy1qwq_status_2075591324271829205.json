@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075591315086336000"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2075591324271829205",
+    "created_at": "2026-07-10T14:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075591324271829205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A99SwxzNMy",
+          "end": 41,
+          "expanded_url": "https://x.com/youy1qwq/status/2075591324271829205/photo/1",
+          "media_key": "3_2075591315086336000",
+          "start": 18,
+          "url": "https://t.co/A99SwxzNMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075591324271829205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉不如“爸爸，我要当你的情人”🤣 https://t.co/A99SwxzNMy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075591315086336000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM37TdqbYAAdZZj.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075591315086336000"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2075591324271829205",
+        "created_at": "2026-07-10T14:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075591324271829205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A99SwxzNMy",
+              "end": 41,
+              "expanded_url": "https://x.com/youy1qwq/status/2075591324271829205/photo/1",
+              "media_key": "3_2075591315086336000",
+              "start": 18,
+              "url": "https://t.co/A99SwxzNMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075591324271829205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉不如“爸爸，我要当你的情人”🤣 https://t.co/A99SwxzNMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15920,
+          "following_count": 2406,
+          "like_count": 7929,
+          "listed_count": 28,
+          "media_count": 2213,
+          "tweet_count": 3843
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

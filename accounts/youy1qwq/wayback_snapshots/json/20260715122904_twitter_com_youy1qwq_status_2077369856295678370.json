@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077369846581608449"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2077369856295678370",
+    "created_at": "2026-07-15T12:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077369856295678370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nu9M0UxvOn",
+          "end": 71,
+          "expanded_url": "https://x.com/youy1qwq/status/2077369856295678370/photo/1",
+          "media_key": "3_2077369846581608449",
+          "start": 48,
+          "url": "https://t.co/nu9M0UxvOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077369856295678370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "papi酱的权威性，“她是因为生育了我，我才叫她妈妈，而不是因为她是我爸爸的妻子，我才叫妈妈” https://t.co/nu9M0UxvOn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1723,
+        "media_key": "3_2077369846581608449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRM3nyawAEpn2o.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077369846581608449"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2077369856295678370",
+        "created_at": "2026-07-15T12:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077369856295678370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nu9M0UxvOn",
+              "end": 71,
+              "expanded_url": "https://x.com/youy1qwq/status/2077369856295678370/photo/1",
+              "media_key": "3_2077369846581608449",
+              "start": 48,
+              "url": "https://t.co/nu9M0UxvOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077369856295678370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "papi酱的权威性，“她是因为生育了我，我才叫她妈妈，而不是因为她是我爸爸的妻子，我才叫妈妈” https://t.co/nu9M0UxvOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16417,
+          "following_count": 2726,
+          "like_count": 7956,
+          "listed_count": 27,
+          "media_count": 2232,
+          "tweet_count": 3869
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

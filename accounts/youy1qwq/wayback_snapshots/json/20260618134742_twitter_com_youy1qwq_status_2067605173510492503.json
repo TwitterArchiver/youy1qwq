@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067244612633415908",
+    "created_at": "2026-06-18T13:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067605173510492503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1398720753319645184",
+          "start": 0,
+          "username": "anansuisuinian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067605173510492503",
+    "in_reply_to_user_id": "1398720753319645184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067583014587252846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anansuisuinian 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067244612633415908",
+        "created_at": "2026-06-18T13:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067605173510492503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1398720753319645184",
+              "start": 0,
+              "username": "anansuisuinian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067605173510492503",
+        "in_reply_to_user_id": "1398720753319645184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067583014587252846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anansuisuinian 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398720753319645184",
+        "conversation_id": "2067244612633415908",
+        "created_at": "2026-06-18T12:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067583014587252846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067583014587252846",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067244612633415908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 其实还蛮有夫妻相的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14770,
+          "following_count": 2151,
+          "like_count": 6306,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3392
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-29T19:19:56.000Z",
+        "description": "大家都睡个好觉！私信很容易被马斯克吞掉，找我的话，直接在我的帖子喊我就行！醒了的匿名信箱：https://t.co/05r3cQy4ya",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anansuisuinian",
+                "end": 68,
+                "expanded_url": "https://ngl.link/anansuisuinian",
+                "start": 45,
+                "url": "https://t.co/05r3cQy4ya"
+              }
+            ]
+          }
+        },
+        "id": "1398720753319645184",
+        "location": "银行保险库忙忙碌碌寻宝藏",
+        "name": "啊南碎碎念",
+        "pinned_tweet_id": "1962417342551671052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967957904558051328/9GU2Evte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 118,
+          "like_count": 2298,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 4153
+        },
+        "username": "anansuisuinian",
+        "verified": false
+      }
+    ]
+  }
+}

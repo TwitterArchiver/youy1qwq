@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019204740190728484",
+    "created_at": "2026-02-05T06:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T07:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019294112273293322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915052625046949888",
+          "start": 0,
+          "username": "sm4476692215446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019294112273293322",
+    "in_reply_to_user_id": "1915052625046949888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019235752841011243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sm4476692215446 因为是在故意找茬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019204740190728484",
+        "created_at": "2026-02-05T06:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019294112273293322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915052625046949888",
+              "start": 0,
+              "username": "sm4476692215446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019294112273293322",
+        "in_reply_to_user_id": "1915052625046949888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019235752841011243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sm4476692215446 因为是在故意找茬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915052625046949888",
+        "conversation_id": "2019204740190728484",
+        "created_at": "2026-02-05T02:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019235752841011243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019235752841011243",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019204740190728484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 好奇心重为啥是不喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 250,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 184
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T14:38:53.000Z",
+        "description": "03男刷推偷点梗图回去",
+        "id": "1915052625046949888",
+        "location": "Jung-gu, Republic of Korea",
+        "name": "粟粟",
+        "pinned_tweet_id": "2008999893378191382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008210119675547648/5_sHQZv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 303
+        },
+        "username": "sm4476692215446",
+        "verified": true
+      }
+    ]
+  }
+}

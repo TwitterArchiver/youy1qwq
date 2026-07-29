@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019211656224481371",
+    "created_at": "2026-02-05T06:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T07:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019292941773336626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1617086232743530498",
+          "start": 0,
+          "username": "MomoiRika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019292941773336626",
+    "in_reply_to_user_id": "1617086232743530498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019211656224481371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MomoiRika 姐姐🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019211656224481371",
+        "created_at": "2026-02-05T06:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019292941773336626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1617086232743530498",
+              "start": 0,
+              "username": "MomoiRika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019292941773336626",
+        "in_reply_to_user_id": "1617086232743530498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019211656224481371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoiRika 姐姐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617086232743530498",
+        "conversation_id": "2019211656224481371",
+        "created_at": "2026-02-05T00:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T01:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019211656224481371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dianaanya0/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/dianaanya0/status/2018957742158090668",
+              "start": 21,
+              "url": "https://t.co/sRg1rxa87x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019211656224481371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1519,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018957742158090668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们30+的药娘只是老了，不是死了。。。 https://t.co/sRg1rxa87x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 247,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 181
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-22T09:06:24.000Z",
+        "description": "She/Her / MtF / 性少数同类欢迎互fo！ / English/中文/Deutsch/日本語 / 会碎碎念很多/ 因为我有一盏灯所以也想给素不相识的你一束光 / ずっと真夜中でいいのに。",
+        "id": "1617086232743530498",
+        "location": "Somewhere on the planet",
+        "name": "桃井りか🏳️‍⚧️",
+        "pinned_tweet_id": "2012505728708206658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014767078650077184/H9qJ8Cp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 159,
+          "like_count": 2153,
+          "listed_count": 7,
+          "media_count": 481,
+          "tweet_count": 3196
+        },
+        "username": "MomoiRika",
+        "verified": false
+      }
+    ]
+  }
+}

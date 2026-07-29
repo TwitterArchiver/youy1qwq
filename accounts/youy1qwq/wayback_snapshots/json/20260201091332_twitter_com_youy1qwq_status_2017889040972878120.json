@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2017848740023816443",
+    "created_at": "2026-02-01T09:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T10:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017889040972878120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654288451444027392",
+          "start": 0,
+          "username": "LoutsWang96751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017889040972878120",
+    "in_reply_to_user_id": "1654288451444027392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017884001412010141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoutsWang96751 草ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2017848740023816443",
+        "created_at": "2026-02-01T09:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017889040972878120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654288451444027392",
+              "start": 0,
+              "username": "LoutsWang96751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017889040972878120",
+        "in_reply_to_user_id": "1654288451444027392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017884001412010141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoutsWang96751 草ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654288451444027392",
+        "conversation_id": "2017848740023816443",
+        "created_at": "2026-02-01T08:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017884001412010141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017884001412010141",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017848740023816443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 双手紧握方向盘+1分，然后其它基本没一个合理的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 162,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 53
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T00:54:54.000Z",
+        "description": "",
+        "id": "1654288451444027392",
+        "name": "louts wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654288526568214528/gciyoPuY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "LoutsWang96751",
+        "verified": false
+      }
+    ]
+  }
+}

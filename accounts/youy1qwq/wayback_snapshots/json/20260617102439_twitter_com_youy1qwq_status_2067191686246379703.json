@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067120918124699663",
+    "created_at": "2026-06-17T10:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067191686246379703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864182269927411714",
+          "start": 0,
+          "username": "ziao1347314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067191686246379703",
+    "in_reply_to_user_id": "1864182269927411714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067158711043510654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziao1347314 这波抢回来也没用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067120918124699663",
+        "created_at": "2026-06-17T10:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067191686246379703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864182269927411714",
+              "start": 0,
+              "username": "ziao1347314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067191686246379703",
+        "in_reply_to_user_id": "1864182269927411714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067158711043510654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziao1347314 这波抢回来也没用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864182269927411714",
+        "conversation_id": "2067120918124699663",
+        "created_at": "2026-06-17T08:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067158711043510654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067158711043510654",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067120918124699663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 军事硬是肘了10分钟才吧手机抢回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14743,
+          "following_count": 2131,
+          "like_count": 6161,
+          "listed_count": 25,
+          "media_count": 2068,
+          "tweet_count": 3268
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-04T05:37:55.000Z",
+        "description": "",
+        "id": "1864182269927411714",
+        "name": "鱼片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026496152141705217/NERY_Kvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "username": "ziao1347314",
+        "verified": false
+      }
+    ]
+  }
+}

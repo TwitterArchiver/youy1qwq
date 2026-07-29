@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068239893445402787",
+    "created_at": "2026-06-20T12:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068307472096612741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802621079875444736",
+          "start": 0,
+          "username": "resirenle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068307472096612741",
+    "in_reply_to_user_id": "1802621079875444736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068298454573740120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@resirenle 为什么呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068239893445402787",
+        "created_at": "2026-06-20T12:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068307472096612741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802621079875444736",
+              "start": 0,
+              "username": "resirenle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068307472096612741",
+        "in_reply_to_user_id": "1802621079875444736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068298454573740120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@resirenle 为什么呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802621079875444736",
+        "conversation_id": "2068239893445402787",
+        "created_at": "2026-06-20T11:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068298454573740120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068298454573740120",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068239893445402787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 确实败坏门风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14839,
+          "following_count": 2159,
+          "like_count": 6487,
+          "listed_count": 27,
+          "media_count": 2088,
+          "tweet_count": 3464
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T08:35:42.000Z",
+        "description": "",
+        "id": "1802621079875444736",
+        "name": "粉元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058158935388098560/oU5XBy4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 80,
+          "like_count": 2141,
+          "listed_count": 5,
+          "media_count": 4723,
+          "tweet_count": 18160
+        },
+        "url": "",
+        "username": "resirenle",
+        "verified": false
+      }
+    ]
+  }
+}

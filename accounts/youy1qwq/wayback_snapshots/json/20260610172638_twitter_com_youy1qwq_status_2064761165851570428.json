@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064690889356915167",
+    "created_at": "2026-06-10T17:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064761165851570428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881948478240333824",
+          "start": 0,
+          "username": "tlmouse486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064761165851570428",
+    "in_reply_to_user_id": "1881948478240333824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064752619739054247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tlmouse486 确实喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064690889356915167",
+        "created_at": "2026-06-10T17:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064761165851570428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881948478240333824",
+              "start": 0,
+              "username": "tlmouse486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064761165851570428",
+        "in_reply_to_user_id": "1881948478240333824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064752619739054247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tlmouse486 确实喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881948478240333824",
+        "conversation_id": "2064690889356915167",
+        "created_at": "2026-06-10T16:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064752619739054247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064752619739054247",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064690889356915167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我觉得都不如食品安全重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14244,
+          "following_count": 2078,
+          "like_count": 5036,
+          "listed_count": 24,
+          "media_count": 2021,
+          "tweet_count": 2785
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T06:14:39.000Z",
+        "description": "社会无政府主义🏴/社会主义🟩/共产主义❌️/无政府共产主义🟩｜任何诉求的结论都应该是平等而不是凌驾于另一方｜",
+        "id": "1881948478240333824",
+        "name": "TL_mouse🏴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051566725762863104/9lAIL4L3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 197
+        },
+        "username": "tlmouse486",
+        "verified": false
+      }
+    ]
+  }
+}

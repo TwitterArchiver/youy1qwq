@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2053867728910373343",
+    "created_at": "2026-05-11T16:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053867728910373343"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053867728910373343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多次暗自下定决心再也不在任何社交平台上说任何一句废话，更多次又觉得人为什么不能说废话呢？为什么非要给自己立深沉克制内敛的人设？我就想做一头聒噪的猪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2053867728910373343",
+        "created_at": "2026-05-11T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053867728910373343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053867728910373343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多次暗自下定决心再也不在任何社交平台上说任何一句废话，更多次又觉得人为什么不能说废话呢？为什么非要给自己立深沉克制内敛的人设？我就想做一头聒噪的猪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12830,
+          "following_count": 1784,
+          "like_count": 4095,
+          "listed_count": 21,
+          "media_count": 1721,
+          "tweet_count": 2235
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

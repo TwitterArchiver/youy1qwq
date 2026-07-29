@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2032259792514007456",
+    "created_at": "2026-03-13T01:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T02:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032264028483895760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1463892625107394579",
+          "start": 0,
+          "username": "xhitfaceeminem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032264028483895760",
+    "in_reply_to_user_id": "1463892625107394579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032259792514007456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhitfaceeminem 借楼一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2032259783794049024",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDQJgYhbQAA1w1U.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDQJgYhbQAA1w1U.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2032259792514007456",
+        "created_at": "2026-03-13T01:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032264028483895760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1463892625107394579",
+              "start": 0,
+              "username": "xhitfaceeminem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032264028483895760",
+        "in_reply_to_user_id": "1463892625107394579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032259792514007456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhitfaceeminem 借楼一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2032259783794049024"
+          ]
+        },
+        "author_id": "1463892625107394579",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Popular Memes and Trends",
+              "id": "1046574503331909633",
+              "name": "Memes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2032259792514007456",
+        "created_at": "2026-03-13T00:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032259792514007456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 119,
+              "start": 112,
+              "tag": "crypto"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "btc"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "meme"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "doge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkPYEusl3O",
+              "end": 160,
+              "expanded_url": "https://x.com/xhitfaceeminem/status/2032259792514007456/photo/1",
+              "media_key": "16_2032259783794049024",
+              "start": 137,
+              "url": "https://t.co/RkPYEusl3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032259792514007456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢老板们，今天刚上班多了几十+通知\n已经回关了一半受限了，请不要取消关注！\n老陈一定会一个个回关！！\n\n蓝V互关，诚信、在线回关。\n评论、点赞亦可（👆😀）\n\nFollow each other.      \n\n#蓝V互关 #crypto #btc #meme #doge https://t.co/RkPYEusl3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7038,
+          "following_count": 1274,
+          "like_count": 3045,
+          "listed_count": 9,
+          "media_count": 826,
+          "tweet_count": 1230
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-25T15:29:41.000Z",
+        "description": "Just Ðoge it.",
+        "id": "1463892625107394579",
+        "name": "深圳陳醫生",
+        "pinned_tweet_id": "1537368242737451008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762275994063511552/svgjy8MJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 284,
+          "like_count": 219,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 4793
+        },
+        "username": "xhitfaceeminem",
+        "verified": true
+      }
+    ]
+  }
+}

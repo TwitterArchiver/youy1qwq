@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023865666843856897"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2023865671030108652",
+    "created_at": "2026-02-17T21:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T22:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023865671030108652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lo6rAvogEY",
+          "end": 45,
+          "expanded_url": "https://x.com/youy1qwq/status/2023865671030108652/photo/1",
+          "media_key": "3_2023865666843856897",
+          "start": 22,
+          "url": "https://t.co/lo6rAvogEY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023865671030108652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "李赣万寿无疆，顺飞永远健康，孙笑川比较健康 https://t.co/lo6rAvogEY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2023865666843856897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBY3GeFWUAEeFCM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023865666843856897"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2023865671030108652",
+        "created_at": "2026-02-17T21:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023865671030108652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lo6rAvogEY",
+              "end": 45,
+              "expanded_url": "https://x.com/youy1qwq/status/2023865671030108652/photo/1",
+              "media_key": "3_2023865666843856897",
+              "start": 22,
+              "url": "https://t.co/lo6rAvogEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023865671030108652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "李赣万寿无疆，顺飞永远健康，孙笑川比较健康 https://t.co/lo6rAvogEY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3550,
+          "following_count": 958,
+          "like_count": 2434,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 759
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

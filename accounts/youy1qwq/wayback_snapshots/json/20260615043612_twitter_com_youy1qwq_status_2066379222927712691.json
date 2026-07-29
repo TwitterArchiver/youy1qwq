@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066206883913015613",
+    "created_at": "2026-06-15T04:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066379222927712691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1704728160657690624",
+          "start": 0,
+          "username": "muercaiyuy31786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066379222927712691",
+    "in_reply_to_user_id": "1704728160657690624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066262670983225463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muercaiyuy31786 可能是给初中或者高一的学生做的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066206883913015613",
+        "created_at": "2026-06-15T04:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066379222927712691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1704728160657690624",
+              "start": 0,
+              "username": "muercaiyuy31786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066379222927712691",
+        "in_reply_to_user_id": "1704728160657690624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066262670983225463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muercaiyuy31786 可能是给初中或者高一的学生做的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704728160657690624",
+        "conversation_id": "2066206883913015613",
+        "created_at": "2026-06-14T20:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066262670983225463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066262670983225463",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066206883913015613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 离谱到感觉是假的，但是众所周知现实是不讲逻辑的，所以更恐怖了这也许是真的，还有高考题没这难吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14680,
+          "following_count": 2119,
+          "like_count": 5944,
+          "listed_count": 25,
+          "media_count": 2053,
+          "tweet_count": 3086
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-21T05:24:08.000Z",
+        "description": "我相信世界上大多数人是友善的、诚实的、能辨别是非善恶和提倡平等的。",
+        "id": "1704728160657690624",
+        "name": "Zhi jIa",
+        "pinned_tweet_id": "1896644366565073137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065167810607943680/U4NssNxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 51,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 147
+        },
+        "username": "muercaiyuy31786",
+        "verified": false
+      }
+    ]
+  }
+}

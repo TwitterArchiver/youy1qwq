@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2025398617884733451",
+    "created_at": "2026-02-22T04:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025429703809466541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897972862251614209",
+          "start": 0,
+          "username": "lj70537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025429703809466541",
+    "in_reply_to_user_id": "1897972862251614209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025428228702437524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lj70537 当然😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2025398617884733451",
+        "created_at": "2026-02-22T04:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025429703809466541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897972862251614209",
+              "start": 0,
+              "username": "lj70537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025429703809466541",
+        "in_reply_to_user_id": "1897972862251614209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025428228702437524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lj70537 当然😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897972862251614209",
+        "conversation_id": "2025398617884733451",
+        "created_at": "2026-02-22T04:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025428228702437524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025428228702437524",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025398617884733451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 方大同算吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4292,
+          "following_count": 1060,
+          "like_count": 2650,
+          "listed_count": 6,
+          "media_count": 463,
+          "tweet_count": 862
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-07T11:29:46.000Z",
+        "description": "不回私信",
+        "id": "1897972862251614209",
+        "location": "Los Angeles, CA",
+        "name": "油炸马铃薯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003077902469099520/_GeHfDdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 18,
+          "like_count": 2222,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1742
+        },
+        "username": "lj70537",
+        "verified": false
+      }
+    ]
+  }
+}

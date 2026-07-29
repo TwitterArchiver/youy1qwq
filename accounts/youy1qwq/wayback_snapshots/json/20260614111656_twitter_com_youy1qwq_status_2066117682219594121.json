@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066117674439192576"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066117682219594121",
+    "created_at": "2026-06-14T11:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066117682219594121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L68v2MFMB6",
+          "end": 31,
+          "expanded_url": "https://x.com/youy1qwq/status/2066117682219594121/photo/1",
+          "media_key": "3_2066117674439192576",
+          "start": 8,
+          "url": "https://t.co/L68v2MFMB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066117682219594121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对呀 我甜甜的 https://t.co/L68v2MFMB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_2066117674439192576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxTFAEasAAO8LA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066117674439192576"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066117682219594121",
+        "created_at": "2026-06-14T11:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066117682219594121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L68v2MFMB6",
+              "end": 31,
+              "expanded_url": "https://x.com/youy1qwq/status/2066117682219594121/photo/1",
+              "media_key": "3_2066117674439192576",
+              "start": 8,
+              "url": "https://t.co/L68v2MFMB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066117682219594121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对呀 我甜甜的 https://t.co/L68v2MFMB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14628,
+          "following_count": 2116,
+          "like_count": 5888,
+          "listed_count": 25,
+          "media_count": 2048,
+          "tweet_count": 3053
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

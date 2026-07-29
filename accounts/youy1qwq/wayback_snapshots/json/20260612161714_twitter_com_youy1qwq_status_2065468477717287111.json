@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065154519076643098",
+    "created_at": "2026-06-12T16:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065468477717287111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865081933027512324",
+          "start": 0,
+          "username": "HsyhO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065468477717287111",
+    "in_reply_to_user_id": "1865081933027512324",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065154519076643098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsyhO0 ！(o^^o)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065154519076643098",
+        "created_at": "2026-06-12T16:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065468477717287111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865081933027512324",
+              "start": 0,
+              "username": "HsyhO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065468477717287111",
+        "in_reply_to_user_id": "1865081933027512324",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065154519076643098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsyhO0 ！(o^^o)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865081933027512324",
+        "conversation_id": "2065154519076643098",
+        "created_at": "2026-06-11T19:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065154519076643098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065154519076643098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想交朋友。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14456,
+          "following_count": 2098,
+          "like_count": 5562,
+          "listed_count": 24,
+          "media_count": 2037,
+          "tweet_count": 2941
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-06T17:12:49.000Z",
+        "description": "07/病み垢/双相/精分/分离转换障碍/infj/碎碎念/       \n  ♡彼氏 @lin2680972846绝赞恋爱中♡🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "lin2680972846"
+              }
+            ]
+          }
+        },
+        "id": "1865081933027512324",
+        "location": "暗い小さな部屋",
+        "name": "氷室 リリカ",
+        "pinned_tweet_id": "2060739585500668045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945519740467937281/9ZIUYBkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 217,
+          "like_count": 14102,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 1935
+        },
+        "username": "HsyhO0",
+        "verified": false
+      }
+    ]
+  }
+}

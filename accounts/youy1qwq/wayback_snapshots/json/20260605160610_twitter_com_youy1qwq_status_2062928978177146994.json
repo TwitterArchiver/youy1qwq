@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2062830955031863482",
+    "created_at": "2026-06-05T16:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062928978177146994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1471678650172862464",
+          "start": 0,
+          "username": "Mikepanx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062928978177146994",
+    "in_reply_to_user_id": "1471678650172862464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062830955031863482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikepanx 一起加油呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2062830670800658432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKClkNTaoAA_ZYP.png",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2062830955031863482",
+        "created_at": "2026-06-05T16:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062928978177146994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1471678650172862464",
+              "start": 0,
+              "username": "Mikepanx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062928978177146994",
+        "in_reply_to_user_id": "1471678650172862464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062830955031863482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikepanx 一起加油呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062830670800658432"
+          ]
+        },
+        "author_id": "1471678650172862464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062830955031863482",
+        "created_at": "2026-06-05T09:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062830955031863482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "自媒体"
+            },
+            {
+              "end": 42,
+              "start": 26,
+              "tag": "ActiveFollowers"
+            },
+            {
+              "end": 54,
+              "start": 43,
+              "tag": "XAnalytics"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "蓝v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7bYXdSkaa",
+              "end": 82,
+              "expanded_url": "https://x.com/Mikepanx/status/2062830955031863482/photo/1",
+              "media_key": "3_2062830670800658432",
+              "start": 59,
+              "url": "https://t.co/p7bYXdSkaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062830955031863482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续加油呀！！也欢迎大家多多互动呀！！ \n#自媒体 #ActiveFollowers #XAnalytics #蓝v https://t.co/p7bYXdSkaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14035,
+          "following_count": 2040,
+          "like_count": 4536,
+          "listed_count": 24,
+          "media_count": 1964,
+          "tweet_count": 2582
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-17T03:08:44.000Z",
+        "description": "前腾讯高级视觉设计师。  \n专注AI创作工具探索与学习，热衷AI应用、量化交易及投资实验。目前主要使用Claude Code创作，并以普通投资者身份进行5K实盘量化策略测试与复盘。",
+        "id": "1471678650172862464",
+        "name": "Mikepan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059522668504969216/bL9-CSmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 2125,
+          "like_count": 2162,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1466
+        },
+        "username": "Mikepanx",
+        "verified": true
+      }
+    ]
+  }
+}

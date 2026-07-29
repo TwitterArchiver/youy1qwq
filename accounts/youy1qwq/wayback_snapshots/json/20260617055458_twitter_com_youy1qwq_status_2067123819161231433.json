@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067111444932665787",
+    "created_at": "2026-06-17T05:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067123819161231433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811490088313917440",
+          "start": 0,
+          "username": "Web3Counsels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067123819161231433",
+    "in_reply_to_user_id": "1811490088313917440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067122954903675027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Web3Counsels 你在说什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067111444932665787",
+        "created_at": "2026-06-17T05:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067123819161231433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811490088313917440",
+              "start": 0,
+              "username": "Web3Counsels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067123819161231433",
+        "in_reply_to_user_id": "1811490088313917440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067122954903675027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Web3Counsels 你在说什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811490088313917440",
+        "conversation_id": "2067111444932665787",
+        "created_at": "2026-06-17T05:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067122954903675027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067122954903675027",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067111444932665787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 南北读音算个屁。'代币'在大陆央行那直接非法，到香港SFC走STO，新加坡MAS叫digital payment token，台湾叫虚拟通货。同一个词四个法域四个定义，语言套利比税率套利更隐蔽。你猜项目方都按哪个定义来发币？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14735,
+          "following_count": 2130,
+          "like_count": 6138,
+          "listed_count": 25,
+          "media_count": 2066,
+          "tweet_count": 3249
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T19:57:56.000Z",
+        "description": "正规持牌律师，免费咨询web3相关法律问题\n\nSolutionist: Law | Tech | Reg | PhD | Strat | Ops | Edu \n\nINVESTOR, AND A VOICE FOR AFRICA’S FUTURE\n\n不要叫我KOL，我比他们有钱",
+        "id": "1811490088313917440",
+        "location": "New York",
+        "name": "web3 lawyer 首席大律师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055154518417920000/3c-VfqD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 4603,
+          "like_count": 493,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 3334
+        },
+        "url": "",
+        "username": "Web3Counsels",
+        "verified": true
+      }
+    ]
+  }
+}

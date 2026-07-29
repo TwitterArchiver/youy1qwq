@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067966017654100069",
+    "created_at": "2026-06-19T17:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068024106533154823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042572936104611840",
+          "start": 0,
+          "username": "zzz1068414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068024106533154823",
+    "in_reply_to_user_id": "2042572936104611840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068020103795622029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz1068414 竟然这样吗！第一次知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T17:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068024106533154823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042572936104611840",
+              "start": 0,
+              "username": "zzz1068414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068024106533154823",
+        "in_reply_to_user_id": "2042572936104611840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068020103795622029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1068414 竟然这样吗！第一次知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042572936104611840",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T17:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068020103795622029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068020103795622029",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067966017654100069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 在物理里“所以”不能用三个点代替😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14805,
+          "following_count": 2154,
+          "like_count": 6384,
+          "listed_count": 26,
+          "media_count": 2083,
+          "tweet_count": 3438
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T11:58:43.000Z",
+        "description": "",
+        "id": "2042572936104611840",
+        "name": "zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045109320086618114/iJAODH-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "zzz1068414",
+        "verified": false
+      }
+    ]
+  }
+}

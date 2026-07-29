@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066411903375839449",
+    "created_at": "2026-06-15T13:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066519266711765199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890683245068500992",
+          "start": 0,
+          "username": "Fei735540611790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066519266711765199",
+    "in_reply_to_user_id": "1890683245068500992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066516715417248024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fei735540611790 大师参透了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066411903375839449",
+        "created_at": "2026-06-15T13:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066519266711765199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890683245068500992",
+              "start": 0,
+              "username": "Fei735540611790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066519266711765199",
+        "in_reply_to_user_id": "1890683245068500992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066516715417248024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fei735540611790 大师参透了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890683245068500992",
+        "conversation_id": "2066411903375839449",
+        "created_at": "2026-06-15T13:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066516715417248024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066516715417248024",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066411903375839449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这波急了不应该发红包应该先发余额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14698,
+          "following_count": 2123,
+          "like_count": 5988,
+          "listed_count": 25,
+          "media_count": 2057,
+          "tweet_count": 3119
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T08:43:15.000Z",
+        "description": "intj｜坐标菩提树｜大乘小乘最好的使用者｜波旬严父｜人类文明哲学的尽头｜阿难须菩提舍利弗最慈祥的父亲｜六道话事人｜一夜证得漏尽通战绩可查｜最会比喻之人｜别再说道教是我严父了施主我澡尔冯了个福",
+        "id": "1890683245068500992",
+        "location": "非想非非想处天",
+        "name": "古神低语（武魂真身释迦牟尼）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064373602485714944/QDen40Ny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 552,
+          "like_count": 2852,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2263
+        },
+        "username": "Fei735540611790",
+        "verified": false
+      }
+    ]
+  }
+}

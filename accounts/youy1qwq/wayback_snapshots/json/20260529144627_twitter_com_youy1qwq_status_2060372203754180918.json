@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2060009142300131550",
+    "created_at": "2026-05-29T14:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060372203754180918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806382258615685120",
+          "start": 0,
+          "username": "maxuecong1998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060372203754180918",
+    "in_reply_to_user_id": "1806382258615685120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060009142300131550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maxuecong1998 来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2060009142300131550",
+        "created_at": "2026-05-29T14:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060372203754180918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806382258615685120",
+              "start": 0,
+              "username": "maxuecong1998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060372203754180918",
+        "in_reply_to_user_id": "1806382258615685120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060009142300131550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maxuecong1998 来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806382258615685120",
+        "conversation_id": "2060009142300131550",
+        "created_at": "2026-05-28T14:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060009142300131550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060009142300131550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7847,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 189,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互粉有用吗，我发的都没流量#蓝V互粉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13825,
+          "following_count": 2001,
+          "like_count": 4327,
+          "listed_count": 23,
+          "media_count": 1891,
+          "tweet_count": 2470
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T17:41:26.000Z",
+        "description": "分享经济视角，抖音时证博主4万粉混不下去了，来推推看看",
+        "id": "1806382258615685120",
+        "name": "交易员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938888711065751552/W5QMAYWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 479,
+          "like_count": 80,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 778
+        },
+        "username": "maxuecong1998",
+        "verified": true
+      }
+    ]
+  }
+}

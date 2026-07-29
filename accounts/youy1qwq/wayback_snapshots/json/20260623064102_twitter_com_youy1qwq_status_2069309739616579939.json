@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069309729076338688"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069309739616579939",
+    "created_at": "2026-06-23T06:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069309739616579939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zwiKTOQGQi",
+          "end": 44,
+          "expanded_url": "https://x.com/youy1qwq/status/2069309739616579939/photo/1",
+          "media_key": "3_2069309729076338688",
+          "start": 21,
+          "url": "https://t.co/zwiKTOQGQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069309739616579939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原视频是一个胖女孩记录自己减肥前后的变化 https://t.co/zwiKTOQGQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2069309729076338688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeqPCPa4AAMiId.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069309729076338688"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069309739616579939",
+        "created_at": "2026-06-23T06:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069309739616579939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwiKTOQGQi",
+              "end": 44,
+              "expanded_url": "https://x.com/youy1qwq/status/2069309739616579939/photo/1",
+              "media_key": "3_2069309729076338688",
+              "start": 21,
+              "url": "https://t.co/zwiKTOQGQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069309739616579939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原视频是一个胖女孩记录自己减肥前后的变化 https://t.co/zwiKTOQGQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14984,
+          "following_count": 2172,
+          "like_count": 6935,
+          "listed_count": 26,
+          "media_count": 2105,
+          "tweet_count": 3558
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

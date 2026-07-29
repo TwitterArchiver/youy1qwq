@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2073454972851859952",
+    "created_at": "2026-07-04T17:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073459340888187112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1651167890786357248",
+          "start": 0,
+          "username": "WangChuRan__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073459340888187112",
+    "in_reply_to_user_id": "1651167890786357248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073459259405480358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangChuRan__ 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T17:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073459340888187112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1651167890786357248",
+              "start": 0,
+              "username": "WangChuRan__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073459340888187112",
+        "in_reply_to_user_id": "1651167890786357248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073459259405480358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangChuRan__ 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651167890786357248",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T17:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073459259405480358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073459259405480358",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454972851859952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15588,
+          "following_count": 2296,
+          "like_count": 7889,
+          "listed_count": 27,
+          "media_count": 2184,
+          "tweet_count": 3802
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-26T10:14:49.000Z",
+        "description": "币圈韭菜，打螺丝专业户！#Bitget wallet U卡申请https://t.co/LFP0ip4S93",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 12,
+                "tag": "Bitget"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.bitget.com/invite/card/mu…",
+                "end": 54,
+                "expanded_url": "https://web3.bitget.com/invite/card/mu4fES",
+                "start": 31,
+                "url": "https://t.co/LFP0ip4S93"
+              }
+            ]
+          }
+        },
+        "id": "1651167890786357248",
+        "location": "B",
+        "name": "②◎②⑥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059707382822014976/cg-B7PZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 894,
+          "like_count": 3362,
+          "listed_count": 4,
+          "media_count": 594,
+          "tweet_count": 2123
+        },
+        "url": "",
+        "username": "WangChuRan__",
+        "verified": true
+      }
+    ]
+  }
+}

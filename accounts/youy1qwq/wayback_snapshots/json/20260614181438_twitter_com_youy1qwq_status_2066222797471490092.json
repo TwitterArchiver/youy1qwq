@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066059342236029211",
+    "created_at": "2026-06-14T18:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066222797471490092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397200563423662085",
+          "start": 0,
+          "username": "Sora_chan77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066222797471490092",
+    "in_reply_to_user_id": "1397200563423662085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066164517675966858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sora_chan77 肯定的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066059342236029211",
+        "created_at": "2026-06-14T18:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066222797471490092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397200563423662085",
+              "start": 0,
+              "username": "Sora_chan77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066222797471490092",
+        "in_reply_to_user_id": "1397200563423662085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066164517675966858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sora_chan77 肯定的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397200563423662085",
+        "conversation_id": "2066059342236029211",
+        "created_at": "2026-06-14T14:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066164517675966858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066164517675966858",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066059342236029211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 北大医学部应该也吃过吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14661,
+          "following_count": 2117,
+          "like_count": 5932,
+          "listed_count": 25,
+          "media_count": 2052,
+          "tweet_count": 3077
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-25T14:39:19.000Z",
+        "description": "",
+        "id": "1397200563423662085",
+        "name": "sora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003380057222336512/80W0Zndz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 82,
+          "like_count": 2921,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 3029
+        },
+        "username": "Sora_chan77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065471067108610223",
+    "created_at": "2026-06-12T17:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065490346210140574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1464240486357639168",
+          "start": 0,
+          "username": "KintoOlot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065490346210140574",
+    "in_reply_to_user_id": "1464240486357639168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065489446783668679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KintoOlot 来一份酸菜烧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065471067108610223",
+        "created_at": "2026-06-12T17:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065490346210140574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1464240486357639168",
+              "start": 0,
+              "username": "KintoOlot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065490346210140574",
+        "in_reply_to_user_id": "1464240486357639168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065489446783668679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KintoOlot 来一份酸菜烧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464240486357639168",
+        "conversation_id": "2065471067108610223",
+        "created_at": "2026-06-12T17:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065489446783668679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065489446783668679",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065471067108610223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 最后一个字是不是多打了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14466,
+          "following_count": 2100,
+          "like_count": 5574,
+          "listed_count": 24,
+          "media_count": 2038,
+          "tweet_count": 2949
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-26T14:32:26.000Z",
+        "description": "Do",
+        "id": "1464240486357639168",
+        "location": "哆哆哆",
+        "name": "不知去.向",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1464240635569971202/wkSIBses_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 292,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1287
+        },
+        "username": "KintoOlot",
+        "verified": false
+      }
+    ]
+  }
+}

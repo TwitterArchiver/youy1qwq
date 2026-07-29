@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019291233236009027",
+    "created_at": "2026-02-05T06:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T07:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019300207406772386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948379294419562496",
+          "start": 0,
+          "username": "RainTrack__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019300207406772386",
+    "in_reply_to_user_id": "1948379294419562496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019299894801101313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainTrack__ 回关啦宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019291233236009027",
+        "created_at": "2026-02-05T06:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019300207406772386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948379294419562496",
+              "start": 0,
+              "username": "RainTrack__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019300207406772386",
+        "in_reply_to_user_id": "1948379294419562496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019299894801101313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainTrack__ 回关啦宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948379294419562496",
+        "conversation_id": "2019291233236009027",
+        "created_at": "2026-02-05T06:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019299894801101313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019299894801101313",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019291233236009027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 257,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 189
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T13:46:51.000Z",
+        "description": "我是人，刚玩推特的新人，不懂一些潜规则，如有冒犯还请见谅",
+        "id": "1948379294419562496",
+        "name": "鲣鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992109989012389888/QxskMc3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 50,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "RainTrack__",
+        "verified": false
+      }
+    ]
+  }
+}

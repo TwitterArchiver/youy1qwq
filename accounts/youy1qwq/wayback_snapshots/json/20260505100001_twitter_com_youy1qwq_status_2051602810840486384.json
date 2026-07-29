@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051555766537273344"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051602810840486384",
+    "created_at": "2026-05-05T10:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051602810840486384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BxgErz7Hwk",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2051602810840486384/photo/1",
+          "media_key": "3_2051555766537273344",
+          "start": 14,
+          "url": "https://t.co/BxgErz7Hwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051602810840486384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子什么时候逃离原生家庭… https://t.co/BxgErz7Hwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1975,
+        "media_key": "3_2051555766537273344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiXGZ1bwAAOgQa.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051555766537273344"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051602810840486384",
+        "created_at": "2026-05-05T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051602810840486384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxgErz7Hwk",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2051602810840486384/photo/1",
+              "media_key": "3_2051555766537273344",
+              "start": 14,
+              "url": "https://t.co/BxgErz7Hwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051602810840486384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子什么时候逃离原生家庭… https://t.co/BxgErz7Hwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12237,
+          "following_count": 1741,
+          "like_count": 4016,
+          "listed_count": 21,
+          "media_count": 1637,
+          "tweet_count": 2146
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

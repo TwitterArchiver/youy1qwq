@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2021992700745007293",
+    "created_at": "2026-02-13T04:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022163398793044400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992300667395092480",
+          "start": 0,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022163398793044400",
+    "in_reply_to_user_id": "1992300667395092480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022144124280091051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Albert_C_Anker 草www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2021992700745007293",
+        "created_at": "2026-02-13T04:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022163398793044400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992300667395092480",
+              "start": 0,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022163398793044400",
+        "in_reply_to_user_id": "1992300667395092480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022144124280091051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Albert_C_Anker 草www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992300667395092480",
+        "conversation_id": "2021992700745007293",
+        "created_at": "2026-02-13T03:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022144124280091051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022144124280091051",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021992700745007293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 对皇帝实施DDoS攻击啊，那被贬不冤了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 894,
+          "like_count": 2205,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 623
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机|伪人日记本|情绪稳定的死人|默认友好基本无雷|不关心政治|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BV1z4411Y7tX",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BV1z4411Y7tX",
+                "start": 0,
+                "url": "https://t.co/xiOAWgxooj"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "伪人阿尔伯特",
+        "pinned_tweet_id": "2011040777640820845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022152434731335680/7w9oGGgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 137,
+          "like_count": 2343,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/xiOAWgxooj",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

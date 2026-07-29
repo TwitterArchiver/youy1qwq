@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020958384669769904",
+    "created_at": "2026-02-10T03:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T04:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021061558336635236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779149099084009472",
+          "start": 0,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021061558336635236",
+    "in_reply_to_user_id": "1779149099084009472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021046603038294464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuLoverr_ 绷不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9767,
+        "height": 1280,
+        "media_key": "7_2021046580166656000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021046580166656000/pu/img/lu5tXnanPFWU6mo3.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021046580166656000/pu/vid/avc1/320x716/rLUDEP_T3CQgVtUC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021046580166656000/pu/vid/avc1/480x1074/7CNJqqNrE1uml8M3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021046580166656000/pu/vid/avc1/572x1280/Foo0GU7zpFWKaCkw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021046580166656000/pu/pl/obCsOnxL7OIGvTql.m3u8?tag=12"
+          }
+        ],
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020958384669769904",
+        "created_at": "2026-02-10T03:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T04:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021061558336635236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021061558336635236",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021046603038294464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021046580166656000"
+          ]
+        },
+        "author_id": "1779149099084009472",
+        "conversation_id": "2020958384669769904",
+        "created_at": "2026-02-10T02:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021046603038294464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vp6UxTdV9",
+              "end": 41,
+              "expanded_url": "https://x.com/MikuLoverr_/status/2021046603038294464/video/1",
+              "media_key": "7_2021046580166656000",
+              "start": 18,
+              "url": "https://t.co/1vp6UxTdV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021046603038294464",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020958384669769904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这我也点不动啊 https://t.co/1vp6UxTdV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 865,
+          "like_count": 2003,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 521
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷（maimai，phi，arc，pjsk）/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku 有照片，只过熟人/双相ADHD感统失调/恋人 @WikuWiku1911 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "WikuWiku1911"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl4FbT"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm❄️🥝",
+        "pinned_tweet_id": "1994783507596677183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007766586707648513/c_VucSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 1125,
+          "like_count": 27617,
+          "listed_count": 10,
+          "media_count": 903,
+          "tweet_count": 13795
+        },
+        "url": "https://t.co/rz5fLl4FbT",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

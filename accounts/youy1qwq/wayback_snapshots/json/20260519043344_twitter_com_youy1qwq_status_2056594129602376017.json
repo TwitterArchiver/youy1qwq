@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2056547765719887962",
+    "created_at": "2026-05-19T04:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056594129602376017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572587347874820101",
+          "start": 0,
+          "username": "tangyuan131419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056594129602376017",
+    "in_reply_to_user_id": "1572587347874820101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056547765719887962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangyuan131419 没回关我啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 390,
+        "media_key": "3_2056547606017511424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpTJtBakAAqEfh.jpg",
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2056547765719887962",
+        "created_at": "2026-05-19T04:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056594129602376017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572587347874820101",
+              "start": 0,
+              "username": "tangyuan131419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056594129602376017",
+        "in_reply_to_user_id": "1572587347874820101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056547765719887962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangyuan131419 没回关我啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056547606017511424"
+          ]
+        },
+        "author_id": "1572587347874820101",
+        "conversation_id": "2056547765719887962",
+        "created_at": "2026-05-19T01:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056547765719887962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjYpnndZuK",
+              "end": 171,
+              "expanded_url": "https://x.com/tangyuan131419/status/2056547765719887962/photo/1",
+              "media_key": "3_2056547606017511424",
+              "start": 148,
+              "url": "https://t.co/mjYpnndZuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056547765719887962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 155,
+                "start": 150,
+                "tag": "蓝V互关"
+              },
+              {
+                "end": 159,
+                "start": 156,
+                "tag": "互关"
+              }
+            ]
+          },
+          "text": "这几天有好多人留言说再来一波蓝V互关！\n\n我们今天就再来一波蓝V互关吧  ！\n\n先说几点，\n1，回关每天是有上限的，如果你等不了就别来\n2，诚信互关  会取关的就别来了  \n3，点赞 留言 如果我有遗漏的记得再次提醒 \n\n我不会为了骗你那一个粉而搞这个互关，不要因为没及时回关口吐脏话，犯不上！\n \n#蓝V互关 #互关"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2443,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 148,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这几天有好多人留言说再来一波蓝V互关！\n\n我们今天就再来一波蓝V互关吧  ！\n\n先说几点，\n1，回关每天是有上限的，如果你等不了就别来\n2，诚信互关  会取关的就别来了  \n3，点赞 留言 如果我有遗漏的记得再次提醒 \n\n我不会为了骗你那一个粉而搞这个互关，不要因为没及时回关口吐脏话，犯不上！ https://t.co/mjYpnndZuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13206,
+          "following_count": 1828,
+          "like_count": 4187,
+          "listed_count": 20,
+          "media_count": 1789,
+          "tweet_count": 2320
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-21T14:03:51.000Z",
+        "description": "｜WEEX全球大使\n｜@GeezOnApe& @ApeCoin 持有者\n｜#Binance 币安广场金标认证创作者\n｜每日19:00-22:00 推特Space （UTC+8）\n｜每日23:00-1:00币安广场-小白撸毛知识分享\n｜广场&推特--KOL宣发&项目推广\n｜AMA项目合作--币安广场直播打包宣发",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "GeezOnApe"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "username": "ApeCoin"
+              }
+            ]
+          }
+        },
+        "id": "1572587347874820101",
+        "name": "Anna汤圆🦅",
+        "pinned_tweet_id": "2056047528253292921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002423726449561600/GgY1ee2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22372,
+          "following_count": 7494,
+          "like_count": 10604,
+          "listed_count": 45,
+          "media_count": 963,
+          "tweet_count": 10536
+        },
+        "username": "tangyuan131419",
+        "verified": true
+      }
+    ]
+  }
+}

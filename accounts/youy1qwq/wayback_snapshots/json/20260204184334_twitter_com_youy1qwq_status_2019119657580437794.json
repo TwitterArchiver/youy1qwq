@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018693459201397233",
+    "created_at": "2026-02-04T18:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T19:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019119657580437794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754395858727243777",
+          "start": 0,
+          "username": "GotOne666"
+        },
+        {
+          "end": 26,
+          "id": "1929464299115679745",
+          "start": 11,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019119657580437794",
+    "in_reply_to_user_id": "1754395858727243777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018916647055351938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GotOne666 @Devastated1726 只是在玩这个梗而已吧！就像我说“坑一个大叔”一样、难道我的意思是男的都会被坑吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018693459201397233",
+        "created_at": "2026-02-04T18:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019119657580437794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754395858727243777",
+              "start": 0,
+              "username": "GotOne666"
+            },
+            {
+              "end": 26,
+              "id": "1929464299115679745",
+              "start": 11,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019119657580437794",
+        "in_reply_to_user_id": "1754395858727243777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018916647055351938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GotOne666 @Devastated1726 只是在玩这个梗而已吧！就像我说“坑一个大叔”一样、难道我的意思是男的都会被坑吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754395858727243777",
+        "conversation_id": "2018693459201397233",
+        "created_at": "2026-02-04T05:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018916647055351938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929464299115679745",
+              "start": 0,
+              "username": "Devastated1726"
+            },
+            {
+              "end": 25,
+              "id": "2012631283898187776",
+              "start": 16,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018916647055351938",
+        "in_reply_to_user_id": "1929464299115679745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 654,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018695719100530902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devastated1726 @youy1qwq 虽然压力队友不对，但是打个游戏要特意强调一下性别那是真的脑子有问题了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 237,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 159
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T06:46:03.000Z",
+        "description": "人类观察员",
+        "id": "1754395858727243777",
+        "name": "Pokute",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018897773928865792/2Jal0TIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 242,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 84
+        },
+        "username": "GotOne666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "唉 疲惫大姐发牢骚 不必在意\n天使来互fo            \n    不聊骚 很恶心  发自内心的想吐",
+        "id": "1929464299115679745",
+        "location": "天国",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2018006082413871555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017999714143371264/LcQw6Jjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 71,
+          "like_count": 659,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 578
+        },
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

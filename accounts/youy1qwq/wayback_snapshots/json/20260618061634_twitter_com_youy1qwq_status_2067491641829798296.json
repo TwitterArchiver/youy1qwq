@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067113166878974280",
+    "created_at": "2026-06-18T06:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491641829798296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "358252239",
+          "start": 0,
+          "username": "warfarmer233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491641829798296",
+    "in_reply_to_user_id": "358252239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067418546343387413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warfarmer233 什么水？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 341,
+        "media_key": "3_2067418544263090176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDyNlzbUAAgBxr.jpg",
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067113166878974280",
+        "created_at": "2026-06-18T06:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491641829798296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "358252239",
+              "start": 0,
+              "username": "warfarmer233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491641829798296",
+        "in_reply_to_user_id": "358252239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067418546343387413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warfarmer233 什么水？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067418544263090176"
+          ]
+        },
+        "author_id": "358252239",
+        "conversation_id": "2067113166878974280",
+        "created_at": "2026-06-18T01:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067418546343387413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/753snB4vUA",
+              "end": 33,
+              "expanded_url": "https://x.com/warfarmer233/status/2067418546343387413/photo/1",
+              "media_key": "3_2067418544263090176",
+              "start": 10,
+              "url": "https://t.co/753snB4vUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067418546343387413",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067113166878974280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/753snB4vUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14750,
+          "following_count": 2139,
+          "like_count": 6248,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3347
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-19T16:36:19.000Z",
+        "description": "Stay young, stay naive",
+        "id": "358252239",
+        "location": "SYD",
+        "name": "鸭嘴火龙果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1166359801884028930/l2Gwd2NF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 664,
+          "like_count": 19048,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1462
+        },
+        "url": "",
+        "username": "warfarmer233",
+        "verified": false
+      }
+    ]
+  }
+}

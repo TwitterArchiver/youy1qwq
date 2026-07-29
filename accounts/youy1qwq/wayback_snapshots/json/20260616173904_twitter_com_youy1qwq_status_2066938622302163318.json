@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066518977359347932",
+    "created_at": "2026-06-16T17:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066938622302163318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047229899438751744",
+          "start": 0,
+          "username": "mier_joe2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066938622302163318",
+    "in_reply_to_user_id": "2047229899438751744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066855770751156498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mier_joe2003 是的哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-16T17:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066938622302163318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047229899438751744",
+              "start": 0,
+              "username": "mier_joe2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938622302163318",
+        "in_reply_to_user_id": "2047229899438751744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066855770751156498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mier_joe2003 是的哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047229899438751744",
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-16T12:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066855770751156498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066855770751156498",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066518977359347932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这阵容叫爸爸也赢不了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14724,
+          "following_count": 2130,
+          "like_count": 6121,
+          "listed_count": 25,
+          "media_count": 2063,
+          "tweet_count": 3232
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T08:24:10.000Z",
+        "description": "我会分享我所收集到的资源，希望这些资源能帮助到您！",
+        "id": "2047229899438751744",
+        "location": "New York, USA",
+        "name": "Cont1nue资源分享",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056986118768254976/sI6G4bLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "username": "mier_joe2003",
+        "verified": false
+      }
+    ]
+  }
+}

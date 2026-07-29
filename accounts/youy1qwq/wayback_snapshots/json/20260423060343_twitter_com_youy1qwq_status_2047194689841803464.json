@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2047194689841803464",
+    "created_at": "2026-04-23T06:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047194689841803464"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047194689841803464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一个审美正常的人，但凡听过非洲老黑吹骨头，敲骨头，听过元谋人敲石头，听过山顶洞人拨弄树枝，听过欧美老白打击铁矿，听过森林古猿砸植物果壳，听过安东尼克人的叫声，听过霸王龙磨牙，听过单细胞生物的挪动声，听过宇宙大爆炸，就会认为世界一切古典，一切流行乐都是垃圾，包括布鲁克纳第八交响曲，我曾经一个月不吃不喝只听老黑敲骨头，仅靠精神寄托就可以活，这就是超古乐，原始人，原始生物，老资历给我的自信。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个审美正常的人，但凡听过非洲老黑吹骨头，敲骨头，听过元谋人敲石头，听过山顶洞人拨弄树枝，听过欧美老白打击铁矿，听过森林古猿砸植物果壳，听过安东尼克人的叫声，听过霸王龙磨牙，听过单细胞生物的挪动声，听过宇宙大爆炸，就会认为世界一切古典，一切流行乐都是垃圾，包括布鲁克纳第八交响曲，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2047194689841803464",
+        "created_at": "2026-04-23T06:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047194689841803464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047194689841803464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个审美正常的人，但凡听过非洲老黑吹骨头，敲骨头，听过元谋人敲石头，听过山顶洞人拨弄树枝，听过欧美老白打击铁矿，听过森林古猿砸植物果壳，听过安东尼克人的叫声，听过霸王龙磨牙，听过单细胞生物的挪动声，听过宇宙大爆炸，就会认为世界一切古典，一切流行乐都是垃圾，包括布鲁克纳第八交响曲，我曾经一个月不吃不喝只听老黑敲骨头，仅靠精神寄托就可以活，这就是超古乐，原始人，原始生物，老资历给我的自信。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个审美正常的人，但凡听过非洲老黑吹骨头，敲骨头，听过元谋人敲石头，听过山顶洞人拨弄树枝，听过欧美老白打击铁矿，听过森林古猿砸植物果壳，听过安东尼克人的叫声，听过霸王龙磨牙，听过单细胞生物的挪动声，听过宇宙大爆炸，就会认为世界一切古典，一切流行乐都是垃圾，包括布鲁克纳第八交响曲，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11058,
+          "following_count": 1623,
+          "like_count": 3836,
+          "listed_count": 16,
+          "media_count": 1475,
+          "tweet_count": 1960
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024503375191273472"
+      ],
+      "media_source_tweet_id": [
+        "2024503383940616532"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2024554384965693750",
+    "created_at": "2026-02-19T18:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T19:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024554384965693750"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "反差"
+        },
+        {
+          "end": 26,
+          "start": 19,
+          "tag": "反差女大学生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1995375785759444992",
+          "start": 3,
+          "username": "Rainevs5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dHRpzy0Nm0",
+          "end": 50,
+          "expanded_url": "https://x.com/Rainevs5/status/2024503383940616532/photo/1",
+          "media_key": "3_2024503375191273472",
+          "start": 27,
+          "url": "https://t.co/dHRpzy0Nm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024554384965693750",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024503383940616532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainevs5: #反差  #反差女大学生 https://t.co/dHRpzy0Nm0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2024503375191273472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh7F-za8AA77uH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024503375191273472"
+          ],
+          "media_source_tweet_id": [
+            "2024503383940616532"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2024554384965693750",
+        "created_at": "2026-02-19T18:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024554384965693750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "反差"
+            },
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "反差女大学生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1995375785759444992",
+              "start": 3,
+              "username": "Rainevs5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHRpzy0Nm0",
+              "end": 50,
+              "expanded_url": "https://x.com/Rainevs5/status/2024503383940616532/photo/1",
+              "media_key": "3_2024503375191273472",
+              "start": 27,
+              "url": "https://t.co/dHRpzy0Nm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024554384965693750",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024503383940616532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainevs5: #反差  #反差女大学生 https://t.co/dHRpzy0Nm0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024503375191273472"
+          ]
+        },
+        "author_id": "1995375785759444992",
+        "conversation_id": "2024503383940616532",
+        "created_at": "2026-02-19T15:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024503383940616532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "反差"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "反差女大学生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHRpzy0Nm0",
+              "end": 36,
+              "expanded_url": "https://x.com/Rainevs5/status/2024503383940616532/photo/1",
+              "media_key": "3_2024503375191273472",
+              "start": 13,
+              "url": "https://t.co/dHRpzy0Nm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024503383940616532",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1235,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#反差  #反差女大学生 https://t.co/dHRpzy0Nm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3946,
+          "following_count": 1005,
+          "like_count": 2568,
+          "listed_count": 6,
+          "media_count": 424,
+          "tweet_count": 815
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-01T06:14:35.000Z",
+        "description": "06  163/55 喜欢我请过🚪88 /188/520 只回口令 江浙沪可✈️",
+        "id": "1995375785759444992",
+        "name": "S",
+        "pinned_tweet_id": "2020842986071113969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014981091657195520/uRVwR_X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 25,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 172
+        },
+        "username": "Rainevs5",
+        "verified": false
+      }
+    ]
+  }
+}

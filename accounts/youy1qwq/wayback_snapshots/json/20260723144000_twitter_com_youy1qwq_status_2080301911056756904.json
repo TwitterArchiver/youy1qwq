@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2080087369706082449",
+    "created_at": "2026-07-23T14:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080301911056756904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073695218810200064",
+          "start": 0,
+          "username": "PearDG052"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080301911056756904",
+    "in_reply_to_user_id": "2073695218810200064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080087369706082449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PearDG052 来吗 必回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2080087364773502976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN30b_8aYAAJit2.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2080087369706082449",
+        "created_at": "2026-07-23T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080301911056756904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073695218810200064",
+              "start": 0,
+              "username": "PearDG052"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080301911056756904",
+        "in_reply_to_user_id": "2073695218810200064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080087369706082449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PearDG052 来吗 必回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080087364773502976"
+          ]
+        },
+        "author_id": "2073695218810200064",
+        "conversation_id": "2080087369706082449",
+        "created_at": "2026-07-23T00:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080087369706082449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1wgVDk2mA",
+              "end": 133,
+              "expanded_url": "https://x.com/PearDG052/status/2080087369706082449/photo/1",
+              "media_key": "3_2080087364773502976",
+              "start": 110,
+              "url": "https://t.co/I1wgVDk2mA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080087369706082449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1720,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安\n做x刚好半个月了，\n目前快800粉丝了，\n我自己是挺满足的\n特别感谢家人们一路以来的支持\n\n希望可以越做越好，\n持续地记录与分享自己的点滴成长与进步\n\n接下来也会继续和大家交朋友🌹\n走个面儿\n祝大家都越来越优秀！ https://t.co/I1wgVDk2mA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16708,
+          "following_count": 2901,
+          "like_count": 8082,
+          "listed_count": 28,
+          "media_count": 2268,
+          "tweet_count": 3940
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-05T09:09:44.000Z",
+        "description": "04｜技术分析追求者\n大学期间把握btc主升浪实现资产跃迁\n投研/交易/AI｜持续记录自己",
+        "id": "2073695218810200064",
+        "name": "PearDG",
+        "pinned_tweet_id": "2078254486364242366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076451603083849728/QLdW2ZhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 727,
+          "like_count": 898,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "PearDG052",
+        "verified": true
+      }
+    ]
+  }
+}

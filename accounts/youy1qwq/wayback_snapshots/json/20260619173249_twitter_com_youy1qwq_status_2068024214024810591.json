@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067966017654100069",
+    "created_at": "2026-06-19T17:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068024214024810591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889673959383158784",
+          "start": 0,
+          "username": "LIN000929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068024214024810591",
+    "in_reply_to_user_id": "1889673959383158784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068008216760578548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LIN000929 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T17:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068024214024810591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889673959383158784",
+              "start": 0,
+              "username": "LIN000929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068024214024810591",
+        "in_reply_to_user_id": "1889673959383158784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068008216760578548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LIN000929 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889673959383158784",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T16:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068008216760578548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068008216760578548",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067966017654100069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我们物理老师写的浮像一个上头没接上的A…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14805,
+          "following_count": 2154,
+          "like_count": 6385,
+          "listed_count": 26,
+          "media_count": 2083,
+          "tweet_count": 3439
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T13:52:56.000Z",
+        "description": "回忆至此 周而复始｜🍅👺🔱⚔️🕷️🌟 \n主要中文 Eng⭕️ 每日废话生成中",
+        "id": "1889673959383158784",
+        "location": "在电幻的荒丘寻真实的绿洲",
+        "name": "暮色渐凉",
+        "pinned_tweet_id": "2046579443267752370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044064837660237824/uFP4BzjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 309,
+          "like_count": 17112,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1608
+        },
+        "url": "",
+        "username": "LIN000929",
+        "verified": false
+      }
+    ]
+  }
+}

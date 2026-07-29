@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065112212671504483",
+    "created_at": "2026-06-12T05:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065299036849250459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056111545747218432",
+          "start": 0,
+          "username": "JohnSmith38al"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065299036849250459",
+    "in_reply_to_user_id": "2056111545747218432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065282606816477218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnSmith38al 差不多吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065112212671504483",
+        "created_at": "2026-06-12T05:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065299036849250459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056111545747218432",
+              "start": 0,
+              "username": "JohnSmith38al"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065299036849250459",
+        "in_reply_to_user_id": "2056111545747218432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065282606816477218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnSmith38al 差不多吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056111545747218432",
+        "conversation_id": "2065112212671504483",
+        "created_at": "2026-06-12T03:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065282606816477218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065282606816477218",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065112212671504483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我看了下别人的评论…看以前还以为这个父亲喝酒喝傻逼了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14400,
+          "following_count": 2088,
+          "like_count": 5482,
+          "listed_count": 24,
+          "media_count": 2032,
+          "tweet_count": 2901
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T20:36:08.000Z",
+        "description": "喂，你们丫的，早点买个Surfshark VPN哈。不然挂了别说我没提醒你们。",
+        "id": "2056111545747218432",
+        "name": "John Smith",
+        "pinned_tweet_id": "2060923018298163339",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1541,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 3501
+        },
+        "username": "JohnSmith38al",
+        "verified": true
+      }
+    ]
+  }
+}

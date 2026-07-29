@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079608546438918146"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079608555485938049",
+    "created_at": "2026-07-21T16:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079608555485938049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DyeIEx7FBl",
+          "end": 41,
+          "expanded_url": "https://x.com/youy1qwq/status/2079608555485938049/photo/1",
+          "media_key": "3_2079608546438918146",
+          "start": 18,
+          "url": "https://t.co/DyeIEx7FBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079608555485938049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在结婚之后给老婆转账也叫力工了吗 https://t.co/DyeIEx7FBl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079608546438918146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxA9GpbsAI5MUj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079608546438918146"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079608555485938049",
+        "created_at": "2026-07-21T16:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079608555485938049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyeIEx7FBl",
+              "end": 41,
+              "expanded_url": "https://x.com/youy1qwq/status/2079608555485938049/photo/1",
+              "media_key": "3_2079608546438918146",
+              "start": 18,
+              "url": "https://t.co/DyeIEx7FBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079608555485938049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在结婚之后给老婆转账也叫力工了吗 https://t.co/DyeIEx7FBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16554,
+          "following_count": 2841,
+          "like_count": 8050,
+          "listed_count": 28,
+          "media_count": 2262,
+          "tweet_count": 3913
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

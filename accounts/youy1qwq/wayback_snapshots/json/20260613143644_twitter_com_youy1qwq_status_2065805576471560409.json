@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065361961135857766",
+    "created_at": "2026-06-13T14:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065805576471560409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052002210628702219",
+          "start": 0,
+          "username": "Maimai_Offical2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065805576471560409",
+    "in_reply_to_user_id": "2052002210628702219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065756689446686998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maimai_Offical2 想草老资历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065361961135857766",
+        "created_at": "2026-06-13T14:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065805576471560409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052002210628702219",
+              "start": 0,
+              "username": "Maimai_Offical2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065805576471560409",
+        "in_reply_to_user_id": "2052002210628702219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065756689446686998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maimai_Offical2 想草老资历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052002210628702219",
+        "conversation_id": "2065361961135857766",
+        "created_at": "2026-06-13T11:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065756689446686998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065756689446686998",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065361961135857766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 给老资历跪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14540,
+          "following_count": 2107,
+          "like_count": 5803,
+          "listed_count": 24,
+          "media_count": 2044,
+          "tweet_count": 3021
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-06T12:27:21.000Z",
+        "description": "大号是maimai_offical，可能是建制派??这个号会回fo所有人👿👿",
+        "id": "2052002210628702219",
+        "location": "巴克什 巴别塔",
+        "name": "乌鲁鲁🍥『👻搬复活版』",
+        "pinned_tweet_id": "2052004864348319745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052241704623931392/-gqavR6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 38,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 257
+        },
+        "username": "Maimai_Offical2",
+        "verified": false
+      }
+    ]
+  }
+}

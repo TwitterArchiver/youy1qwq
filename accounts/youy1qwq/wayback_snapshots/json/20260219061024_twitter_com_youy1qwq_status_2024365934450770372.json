@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2024317089914507512",
+    "created_at": "2026-02-19T06:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024365934450770372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975433797350109184",
+          "start": 0,
+          "username": "switchbibu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024365934450770372",
+    "in_reply_to_user_id": "1975433797350109184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024317089914507512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@switchbibu 蓝v互关必回关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2024317089914507512",
+        "created_at": "2026-02-19T06:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024365934450770372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975433797350109184",
+              "start": 0,
+              "username": "switchbibu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024365934450770372",
+        "in_reply_to_user_id": "1975433797350109184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024317089914507512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@switchbibu 蓝v互关必回关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975433797350109184",
+        "conversation_id": "2024317089914507512",
+        "created_at": "2026-02-19T02:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024317089914507512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024317089914507512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日互关继续\n\n当所有人都不再看好放弃互关，你的坚持就会遇到转机。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 983,
+          "like_count": 2554,
+          "listed_count": 6,
+          "media_count": 417,
+          "tweet_count": 806
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-07T05:31:57.000Z",
+        "description": "工程 地产老本行   副业美股 web3 贵金属              你一脚我一脚  跟随老马干到老",
+        "id": "1975433797350109184",
+        "name": "yongting yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007775439943868417/Cn25zbrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 1067,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 709
+        },
+        "username": "switchbibu",
+        "verified": true
+      }
+    ]
+  }
+}

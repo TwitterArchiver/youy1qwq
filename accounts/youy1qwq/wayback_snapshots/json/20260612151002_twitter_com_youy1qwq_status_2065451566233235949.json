@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065361961135857766",
+    "created_at": "2026-06-12T15:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065451566233235949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1410936828467712002",
+          "start": 0,
+          "username": "Blitz24053575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065451566233235949",
+    "in_reply_to_user_id": "1410936828467712002",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065429792112234924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blitz24053575 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065361961135857766",
+        "created_at": "2026-06-12T15:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065451566233235949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1410936828467712002",
+              "start": 0,
+              "username": "Blitz24053575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065451566233235949",
+        "in_reply_to_user_id": "1410936828467712002",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065429792112234924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blitz24053575 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410936828467712002",
+        "conversation_id": "2065361961135857766",
+        "created_at": "2026-06-12T13:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065429792112234924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065429792112234924",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065361961135857766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 老资历别找抄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14453,
+          "following_count": 2093,
+          "like_count": 5543,
+          "listed_count": 24,
+          "media_count": 2035,
+          "tweet_count": 2933
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-02T12:22:17.000Z",
+        "description": "碎碎念丨我是个恶俗的人丨想骂我的我宣布你获胜了，别骂我丨鼠鼠日留丨梦见啥发啥丨有时候x不会给我推送关注消息，私信互fo丨不割手，不od丨吃货努力减肥中丨用下面链接给我发悄悄话吧！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blitz24053575",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blitz24053575",
+                "start": 0,
+                "url": "https://t.co/fO3ZqKoeuC"
+              }
+            ]
+          }
+        },
+        "id": "1410936828467712002",
+        "location": "🚪3.1415926",
+        "name": "我只是只企鹅别难为我",
+        "pinned_tweet_id": "2063477212268118272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027489355464634368/l0ooMpQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 125,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2411
+        },
+        "url": "https://t.co/fO3ZqKoeuC",
+        "username": "Blitz24053575",
+        "verified": true
+      }
+    ]
+  }
+}

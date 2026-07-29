@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2074020312652656797",
+    "created_at": "2026-07-06T16:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074167156376502782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1116592715645374466",
+          "start": 0,
+          "username": "Aetlylily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074167156376502782",
+    "in_reply_to_user_id": "1116592715645374466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074123528342052891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aetlylily 你很臭喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074123506753961984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjEVxhbgAACswP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2074020312652656797",
+        "created_at": "2026-07-06T16:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074167156376502782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1116592715645374466",
+              "start": 0,
+              "username": "Aetlylily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074167156376502782",
+        "in_reply_to_user_id": "1116592715645374466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074123528342052891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aetlylily 你很臭喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074123506753961984"
+          ]
+        },
+        "author_id": "1116592715645374466",
+        "conversation_id": "2074020312652656797",
+        "created_at": "2026-07-06T13:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074123528342052891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhajQata8z",
+              "end": 33,
+              "expanded_url": "https://x.com/Aetlylily/status/2074123528342052891/photo/1",
+              "media_key": "3_2074123506753961984",
+              "start": 10,
+              "url": "https://t.co/AhajQata8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074123528342052891",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074020312652656797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/AhajQata8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15796,
+          "following_count": 2386,
+          "like_count": 7914,
+          "listed_count": 27,
+          "media_count": 2195,
+          "tweet_count": 3824
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-12T06:43:43.000Z",
+        "description": "🌬🌊",
+        "id": "1116592715645374466",
+        "location": "error",
+        "name": "永雏草塔菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073705608822624256/YevieZU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 132,
+          "like_count": 1482,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "Aetlylily",
+        "verified": false
+      }
+    ]
+  }
+}

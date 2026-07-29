@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2076094187628601794",
+    "created_at": "2026-07-12T00:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076094187628601794"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "蓝v互关"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076094187628601794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永不取关：\n蓝V互关最快的方式，是去看别人的蓝V互关帖，而不是只发帖等人来。  顺着他们的关注列表一个个点。  那里才是真正正在互关、正在起号的人。  主动一点，涨粉会快很多。 \n#蓝v互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2076094187628601794",
+        "created_at": "2026-07-12T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076094187628601794"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076094187628601794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永不取关：\n蓝V互关最快的方式，是去看别人的蓝V互关帖，而不是只发帖等人来。  顺着他们的关注列表一个个点。  那里才是真正正在互关、正在起号的人。  主动一点，涨粉会快很多。 \n#蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15997,
+          "following_count": 2452,
+          "like_count": 7948,
+          "listed_count": 27,
+          "media_count": 2220,
+          "tweet_count": 3857
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

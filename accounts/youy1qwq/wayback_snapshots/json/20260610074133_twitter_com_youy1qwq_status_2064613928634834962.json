@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064595130825466305",
+    "created_at": "2026-06-10T07:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064613928634834962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1652226890038403073",
+          "start": 0,
+          "username": "Kevin_zhanng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064613928634834962",
+    "in_reply_to_user_id": "1652226890038403073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064610991703470377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevin_zhanng 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064595130825466305",
+        "created_at": "2026-06-10T07:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064613928634834962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1652226890038403073",
+              "start": 0,
+              "username": "Kevin_zhanng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064613928634834962",
+        "in_reply_to_user_id": "1652226890038403073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064610991703470377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevin_zhanng 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652226890038403073",
+        "conversation_id": "2064595130825466305",
+        "created_at": "2026-06-10T07:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064610991703470377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064610991703470377",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064595130825466305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 打游戏千万不要买苹果 其他专业差别不很大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14209,
+          "following_count": 2069,
+          "like_count": 4818,
+          "listed_count": 24,
+          "media_count": 2015,
+          "tweet_count": 2748
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-29T08:22:58.000Z",
+        "description": "WELCOME！\nweb3 ethereum contracts builder/Polymarket/美股小白 超低价token👇🏻https://t.co/4sJ91WpZmQ 自用vpn稳稳稳稳到爆炸👇🏻👇🏻👇🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shop.xuedingtoken.com/?dist=58ZLQQRD",
+                "end": 90,
+                "expanded_url": "https://shop.xuedingtoken.com/?dist=58ZLQQRD",
+                "start": 67,
+                "url": "https://t.co/4sJ91WpZmQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dovee.cc/a.php?alavBTtF8",
+                "end": 23,
+                "expanded_url": "https://dovee.cc/a.php?alavBTtF8",
+                "start": 0,
+                "url": "https://t.co/uhPXZMe9WX"
+              }
+            ]
+          }
+        },
+        "id": "1652226890038403073",
+        "location": "Georgia, USA",
+        "name": "ignazoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686035097173028864/aGfWp_t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 448,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/uhPXZMe9WX",
+        "username": "Kevin_zhanng",
+        "verified": false
+      }
+    ]
+  }
+}

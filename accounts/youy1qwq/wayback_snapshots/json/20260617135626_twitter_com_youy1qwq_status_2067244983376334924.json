@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067175448740839556",
+    "created_at": "2026-06-17T13:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067244983376334924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1415488477878177796",
+          "start": 0,
+          "username": "xenolintel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067244983376334924",
+    "in_reply_to_user_id": "1415488477878177796",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067229663316041950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xenolintel ？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-17T13:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067244983376334924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1415488477878177796",
+              "start": 0,
+              "username": "xenolintel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067244983376334924",
+        "in_reply_to_user_id": "1415488477878177796",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067229663316041950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xenolintel ？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415488477878177796",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-17T12:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067229663316041950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067229663316041950",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175448740839556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 姬崎莉波？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14745,
+          "following_count": 2132,
+          "like_count": 6179,
+          "listed_count": 25,
+          "media_count": 2069,
+          "tweet_count": 3284
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-15T01:49:07.000Z",
+        "description": "",
+        "id": "1415488477878177796",
+        "name": "LintX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057595099857477632/8zrT7q-F_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 634,
+          "like_count": 18459,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 192
+        },
+        "username": "xenolintel",
+        "verified": false
+      }
+    ]
+  }
+}

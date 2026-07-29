@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064702403988148224",
+    "created_at": "2026-06-11T08:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064991192174264552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1746165405230718976",
+          "start": 0,
+          "username": "sexyraiin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064991192174264552",
+    "in_reply_to_user_id": "1746165405230718976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064984153591075120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sexyraiin 可以呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064702403988148224",
+        "created_at": "2026-06-11T08:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064991192174264552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1746165405230718976",
+              "start": 0,
+              "username": "sexyraiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064991192174264552",
+        "in_reply_to_user_id": "1746165405230718976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064984153591075120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sexyraiin 可以呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746165405230718976",
+        "conversation_id": "2064702403988148224",
+        "created_at": "2026-06-11T08:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064984153591075120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064984153591075120",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064702403988148224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 能拿文案吗我真的要笑死了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14290,
+          "following_count": 2083,
+          "like_count": 5242,
+          "listed_count": 24,
+          "media_count": 2025,
+          "tweet_count": 2846
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-13T13:41:08.000Z",
+        "description": "ㄱㅇㅇ",
+        "id": "1746165405230718976",
+        "name": "ㅇㄹ",
+        "pinned_tweet_id": "2040375214668935308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032879064269398016/7H9IsdWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 125,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1375
+        },
+        "username": "sexyraiin",
+        "verified": false
+      }
+    ]
+  }
+}

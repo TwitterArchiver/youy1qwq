@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066213753293803550",
+    "created_at": "2026-06-16T07:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066782914474561934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1932516539531735041",
+          "start": 0,
+          "username": "apihuis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066782914474561934",
+    "in_reply_to_user_id": "1932516539531735041",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066619146071384360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apihuis ^ω^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-16T07:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066782914474561934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1932516539531735041",
+              "start": 0,
+              "username": "apihuis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066782914474561934",
+        "in_reply_to_user_id": "1932516539531735041",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066619146071384360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apihuis ^ω^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932516539531735041",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-15T20:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066619146071384360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066619146071384360",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066213753293803550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq hhhhhhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14708,
+          "following_count": 2127,
+          "like_count": 6070,
+          "listed_count": 25,
+          "media_count": 2062,
+          "tweet_count": 3191
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-10T19:13:53.000Z",
+        "description": "168  丨 46kg  丨目前是在读大一  丨喜欢碎碎念 丨喜欢有礼貌的丨如果可以我想赚一点点零花钱丨不约！！现在不线下！！不出yw丨这些都是用于🚪哥抽奖的！！2888(0/1)",
+        "id": "1932516539531735041",
+        "location": "🚪99/188/2888",
+        "name": "小茹纱🧋",
+        "pinned_tweet_id": "2038169307390324736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932518411135037442/mEyiSk_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13605,
+          "following_count": 3,
+          "like_count": 147,
+          "listed_count": 39,
+          "media_count": 236,
+          "tweet_count": 1581
+        },
+        "username": "apihuis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2061356411305722050",
+    "created_at": "2026-06-02T04:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061660433434787882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013523966590361602",
+          "start": 0,
+          "username": "WuXian_BTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061660433434787882",
+    "in_reply_to_user_id": "2013523966590361602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061356411305722050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WuXian_BTC 你没回关我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2061356411305722050",
+        "created_at": "2026-06-02T04:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061660433434787882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013523966590361602",
+              "start": 0,
+              "username": "WuXian_BTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061660433434787882",
+        "in_reply_to_user_id": "2013523966590361602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061356411305722050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WuXian_BTC 你没回关我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013523966590361602",
+        "conversation_id": "2061356411305722050",
+        "created_at": "2026-06-01T07:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061356411305722050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061356411305722050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5852,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 133,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么别人发互关帖能涨那么多蓝v用户，而我发了一个都没有，真的跟长相有关系吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13930,
+          "following_count": 2010,
+          "like_count": 4353,
+          "listed_count": 23,
+          "media_count": 1924,
+          "tweet_count": 2507
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-20T08:08:27.000Z",
+        "description": "Financial veteran, focusing on real value and real opportunities  | Market trend follower, data-driven decisions  | Daily financia｜For inquiries, DM please.",
+        "id": "2013523966590361602",
+        "location": "Hong Kong",
+        "name": "Seraphina｜塞拉菲娜🔸BNB",
+        "pinned_tweet_id": "2037435596226875723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029912539296043008/-BqUOgmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 1250,
+          "like_count": 4999,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 3370
+        },
+        "username": "WuXian_BTC",
+        "verified": true
+      }
+    ]
+  }
+}

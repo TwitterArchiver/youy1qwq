@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2059835886620254351",
+    "created_at": "2026-05-28T11:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059954988638712078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2042526810362241024",
+          "start": 0,
+          "username": "Bubbluxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059954988638712078",
+    "in_reply_to_user_id": "2042526810362241024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059835886620254351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bubbluxm 我是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2059835886620254351",
+        "created_at": "2026-05-28T11:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059954988638712078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2042526810362241024",
+              "start": 0,
+              "username": "Bubbluxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059954988638712078",
+        "in_reply_to_user_id": "2042526810362241024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059835886620254351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bubbluxm 我是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042526810362241024",
+        "conversation_id": "2059835886620254351",
+        "created_at": "2026-05-28T03:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059835886620254351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059835886620254351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6686,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 161,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说实话，有些大粉丝博主搞 #蓝v互关 一点开他的关注总共才一两千个，这不是骗吗？我们给你凑人数，你倒是舒服，光给你点了，要不你就事后取消，活不起就别活，假的要命，吸血鬼，有关必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13774,
+          "following_count": 1987,
+          "like_count": 4317,
+          "listed_count": 22,
+          "media_count": 1884,
+          "tweet_count": 2461
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T08:56:10.000Z",
+        "description": "只做加密貨幣合約，不做長線價值投資（Hold） | 尋找日內高勝率 Setup | 贏了會所嫩模，輸了下海乾活 | 這裡只分享真實的做多/做空點位和復盤 狙擊手 🎯 | 歡迎交流，一起賺市場的錢。\n千人社區，每天福利單發放\n下方👇可進",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+f_84rybZWAswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+f_84rybZWAswNGM9",
+                "start": 0,
+                "url": "https://t.co/yJiXF1gSHx"
+              }
+            ]
+          }
+        },
+        "id": "2042526810362241024",
+        "location": "Taiwan",
+        "name": "Bubblu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043526482648330240/oR7_tGGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 274,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/yJiXF1gSHx",
+        "username": "Bubbluxm",
+        "verified": true
+      }
+    ]
+  }
+}

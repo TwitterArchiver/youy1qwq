@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067574766241030159",
+    "created_at": "2026-06-18T18:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067675484042010844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2061161323476738048",
+          "start": 0,
+          "username": "XL0803WZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067675484042010844",
+    "in_reply_to_user_id": "2061161323476738048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067661152860229933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XL0803WZQ 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2067661149945131008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHO3GZa8AA1CS2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067574766241030159",
+        "created_at": "2026-06-18T18:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067675484042010844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061161323476738048",
+              "start": 0,
+              "username": "XL0803WZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067675484042010844",
+        "in_reply_to_user_id": "2061161323476738048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067661152860229933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XL0803WZQ 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067661149945131008"
+          ]
+        },
+        "author_id": "2061161323476738048",
+        "conversation_id": "2067574766241030159",
+        "created_at": "2026-06-18T17:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067661152860229933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcHH0sU92A",
+              "end": 33,
+              "expanded_url": "https://x.com/XL0803WZQ/status/2067661152860229933/photo/1",
+              "media_key": "3_2067661149945131008",
+              "start": 10,
+              "url": "https://t.co/DcHH0sU92A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067661152860229933",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067574766241030159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/DcHH0sU92A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14781,
+          "following_count": 2152,
+          "like_count": 6319,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3399
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T19:03:09.000Z",
+        "description": "一个16岁的普通人，把推特当朋友圈发",
+        "id": "2061161323476738048",
+        "name": "蒋介鸡的石巴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061161896506781696/5mHizogP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "XL0803WZQ",
+        "verified": false
+      }
+    ]
+  }
+}

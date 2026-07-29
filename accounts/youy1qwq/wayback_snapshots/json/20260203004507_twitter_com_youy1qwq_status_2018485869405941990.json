@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018474519955185949",
+    "created_at": "2026-02-03T00:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018485869405941990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965235689357762560",
+          "start": 0,
+          "username": "TsunhanCheoyeun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018485869405941990",
+    "in_reply_to_user_id": "1965235689357762560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018485678263185701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TsunhanCheoyeun 钱性恋有福了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018474519955185949",
+        "created_at": "2026-02-03T00:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018485869405941990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965235689357762560",
+              "start": 0,
+              "username": "TsunhanCheoyeun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018485869405941990",
+        "in_reply_to_user_id": "1965235689357762560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018485678263185701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TsunhanCheoyeun 钱性恋有福了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965235689357762560",
+        "conversation_id": "2018474519955185949",
+        "created_at": "2026-02-03T00:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018485678263185701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018485678263185701",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018474519955185949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 一沓100元钞票的厚度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 202,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 102
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:08:29.000Z",
+        "description": "ブルアカとアークナイツと崩坏：スターレイルをしまたれと",
+        "id": "1965235689357762560",
+        "location": "Singapore",
+        "name": "형ボヒシアー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014874495060701185/FU8BbZXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 91
+        },
+        "username": "TsunhanCheoyeun",
+        "verified": false
+      }
+    ]
+  }
+}

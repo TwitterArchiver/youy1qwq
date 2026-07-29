@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069847958368251905"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069847966635225485",
+    "created_at": "2026-06-24T18:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069847966635225485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8JQaT5Mmi",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2069847966635225485/photo/1",
+          "media_key": "3_2069847958368251905",
+          "start": 14,
+          "url": "https://t.co/a8JQaT5Mmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069847966635225485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被出轨的感觉究竟有多不好受 https://t.co/a8JQaT5Mmi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2020,
+        "media_key": "3_2069847958368251905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmTwGmbcAEOAHz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069847958368251905"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069847966635225485",
+        "created_at": "2026-06-24T18:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069847966635225485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8JQaT5Mmi",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2069847966635225485/photo/1",
+              "media_key": "3_2069847958368251905",
+              "start": 14,
+              "url": "https://t.co/a8JQaT5Mmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069847966635225485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被出轨的感觉究竟有多不好受 https://t.co/a8JQaT5Mmi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15052,
+          "following_count": 2195,
+          "like_count": 7133,
+          "listed_count": 28,
+          "media_count": 2116,
+          "tweet_count": 3661
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

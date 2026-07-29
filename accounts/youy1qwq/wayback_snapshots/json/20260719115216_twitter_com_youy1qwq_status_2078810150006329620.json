@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2078639263479128308",
+    "created_at": "2026-07-19T11:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078810150006329620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971122505713876992",
+          "start": 0,
+          "username": "fanxing001_btc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078810150006329620",
+    "in_reply_to_user_id": "1971122505713876992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078639263479128308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanxing001_btc 加油 我必回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078639256298471424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjPY_faQAAHHB0.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2078639263479128308",
+        "created_at": "2026-07-19T11:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078810150006329620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971122505713876992",
+              "start": 0,
+              "username": "fanxing001_btc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078810150006329620",
+        "in_reply_to_user_id": "1971122505713876992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078639263479128308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanxing001_btc 加油 我必回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078639256298471424"
+          ]
+        },
+        "author_id": "1971122505713876992",
+        "conversation_id": "2078639263479128308",
+        "created_at": "2026-07-19T00:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078639263479128308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLJwRWXAgp",
+              "end": 96,
+              "expanded_url": "https://x.com/fanxing001_btc/status/2078639263479128308/photo/1",
+              "media_key": "3_2078639256298471424",
+              "start": 73,
+              "url": "https://t.co/kLJwRWXAgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078639263479128308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1298,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨日数据总结\n\n粉丝增长38人，浏览量4万\n\n毕竟昨天发帖的数量才个位数又是周末\n\n看着每天距离我的第一大目标5000粉越来越近，还是蛮开心的。 https://t.co/kLJwRWXAgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16432,
+          "following_count": 2766,
+          "like_count": 7997,
+          "listed_count": 26,
+          "media_count": 2242,
+          "tweet_count": 3879
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-25T08:00:28.000Z",
+        "description": "二级交易员 | 专注BTC & ETH &美股\n分享技术分析 + 实战交易策略\n资深营养师 × 健康管理师 × 心理咨询师\n知识·技术·能量满级交易员\n关注我的好友还可以学到健康知识\n\n欢迎同频交流与合作（私聊）\n主要交易在币安、欧意、Bitget 三大所",
+        "id": "1971122505713876992",
+        "name": "繁星BTC",
+        "pinned_tweet_id": "2048669893843964379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047531299917934592/hhnMoyHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 2695,
+          "like_count": 3234,
+          "listed_count": 8,
+          "media_count": 714,
+          "tweet_count": 7543
+        },
+        "url": "",
+        "username": "fanxing001_btc",
+        "verified": true
+      }
+    ]
+  }
+}

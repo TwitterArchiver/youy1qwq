@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068924401639362839",
+    "created_at": "2026-06-22T13:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069056937455726909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1696434925787066368",
+          "start": 0,
+          "username": "MPTM_Bees"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069056937455726909",
+    "in_reply_to_user_id": "1696434925787066368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068924401639362839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MPTM_Bees 还以为说的现实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068924401639362839",
+        "created_at": "2026-06-22T13:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069056937455726909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1696434925787066368",
+              "start": 0,
+              "username": "MPTM_Bees"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069056937455726909",
+        "in_reply_to_user_id": "1696434925787066368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068924401639362839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MPTM_Bees 还以为说的现实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696434925787066368",
+        "conversation_id": "2068924401639362839",
+        "created_at": "2026-06-22T05:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068924401639362839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2068724920788631856",
+              "start": 52,
+              "url": "https://t.co/fa9Liyz8Ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068924401639362839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068724920788631856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乾，笑死，我也覺得黑橡木的好看，然後我昨天本來也想換個門，但是我家的方圓一百公里沒一顆黑橡木🤣🤣🤣🤣🤣 https://t.co/fa9Liyz8Ys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14976,
+          "following_count": 2172,
+          "like_count": 6887,
+          "listed_count": 26,
+          "media_count": 2100,
+          "tweet_count": 3544
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-29T08:09:53.000Z",
+        "description": "🐝 🧸\n宇多田ヒカル(@utadahikaru)が大好き！\n日文好難噢\n変な日本語よく使っちゃってすみません\n*宇多田ヒカル関係ポスト多め注意*\n\nFF14 Alexander | Gaia   /   鳴潮/女漂主推\nINFP-T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "utadahikaru"
+              }
+            ]
+          }
+        },
+        "id": "1696434925787066368",
+        "name": "MPTM",
+        "pinned_tweet_id": "2066198398508888166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062540074286555137/w-GmTbCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 193,
+          "like_count": 1421,
+          "listed_count": 1,
+          "media_count": 625,
+          "tweet_count": 4173
+        },
+        "url": "",
+        "username": "MPTM_Bees",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067285065852203232",
+    "created_at": "2026-06-18T06:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491515048579345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1627428866",
+          "start": 0,
+          "username": "gongbaodd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491515048579345",
+    "in_reply_to_user_id": "1627428866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067285065852203232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongbaodd 经典单词www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067285065852203232",
+        "created_at": "2026-06-18T06:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491515048579345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1627428866",
+              "start": 0,
+              "username": "gongbaodd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491515048579345",
+        "in_reply_to_user_id": "1627428866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067285065852203232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongbaodd 经典单词www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627428866",
+        "conversation_id": "2067285065852203232",
+        "created_at": "2026-06-17T16:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067285065852203232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2067113166878974280",
+              "start": 12,
+              "url": "https://t.co/vM5Vcmu3aX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067285065852203232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067113166878974280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ass ass in😂 https://t.co/vM5Vcmu3aX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14750,
+          "following_count": 2139,
+          "like_count": 6245,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3344
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-28T08:42:13.000Z",
+        "description": "https://t.co/qbWy9qkrpS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "growgen.xyz",
+                "end": 23,
+                "expanded_url": "https://growgen.xyz",
+                "start": 0,
+                "url": "https://t.co/qbWy9qkrpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "growgen.xyz",
+                "end": 23,
+                "expanded_url": "https://growgen.xyz",
+                "start": 0,
+                "url": "https://t.co/qbWy9qkrpS"
+              }
+            ]
+          }
+        },
+        "id": "1627428866",
+        "name": "宫美娥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962747178683674624/Lc5UW5j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 3937,
+          "like_count": 40137,
+          "listed_count": 4,
+          "media_count": 1498,
+          "tweet_count": 14120
+        },
+        "url": "https://t.co/qbWy9qkrpS",
+        "username": "gongbaodd",
+        "verified": false
+      }
+    ]
+  }
+}

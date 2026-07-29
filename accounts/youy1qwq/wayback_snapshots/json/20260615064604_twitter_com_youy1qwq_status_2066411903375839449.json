@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066411894962061312"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066411903375839449",
+    "created_at": "2026-06-15T06:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066411903375839449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OyIWncqRZx",
+          "end": 35,
+          "expanded_url": "https://x.com/youy1qwq/status/2066411903375839449/photo/1",
+          "media_key": "3_2066411894962061312",
+          "start": 12,
+          "url": "https://t.co/OyIWncqRZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066411903375839449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "道长一看就是有水平的👍 https://t.co/OyIWncqRZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1981,
+        "media_key": "3_2066411894962061312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1eq47bAAA3M6i.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066411894962061312"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066411903375839449",
+        "created_at": "2026-06-15T06:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066411903375839449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyIWncqRZx",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2066411903375839449/photo/1",
+              "media_key": "3_2066411894962061312",
+              "start": 12,
+              "url": "https://t.co/OyIWncqRZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066411903375839449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "道长一看就是有水平的👍 https://t.co/OyIWncqRZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14690,
+          "following_count": 2121,
+          "like_count": 5964,
+          "listed_count": 25,
+          "media_count": 2055,
+          "tweet_count": 3100
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019842941364109563",
+    "created_at": "2026-02-07T09:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T10:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020072008789225751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010452180474761216",
+          "start": 0,
+          "username": "5205201314wik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020072008789225751",
+    "in_reply_to_user_id": "2010452180474761216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020071827276800371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5205201314wik 绷不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019842941364109563",
+        "created_at": "2026-02-07T09:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020072008789225751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010452180474761216",
+              "start": 0,
+              "username": "5205201314wik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020072008789225751",
+        "in_reply_to_user_id": "2010452180474761216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020071827276800371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5205201314wik 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010452180474761216",
+        "conversation_id": "2019842941364109563",
+        "created_at": "2026-02-07T09:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020071827276800371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020071827276800371",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019842941364109563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我弟八岁那年自己跑到公安局  里面的人逗他玩 他说能不能崩死我姐她总欺负我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 807,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 385
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-11T20:42:23.000Z",
+        "description": "拜託不要變成無聊的大人",
+        "id": "2010452180474761216",
+        "name": "Nivis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011631592905805824/N4LcjWVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "5205201314wik",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068239893445402787",
+    "created_at": "2026-06-20T14:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068343428799480129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243201577038512129",
+          "start": 0,
+          "username": "fangyuannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068343428799480129",
+    "in_reply_to_user_id": "1243201577038512129",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068341269546619312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangyuannya 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068239893445402787",
+        "created_at": "2026-06-20T14:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068343428799480129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243201577038512129",
+              "start": 0,
+              "username": "fangyuannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068343428799480129",
+        "in_reply_to_user_id": "1243201577038512129",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068341269546619312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangyuannya 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243201577038512129",
+        "conversation_id": "2068239893445402787",
+        "created_at": "2026-06-20T14:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068341269546619312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068341269546619312",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068239893445402787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 好可怜，封建迷信害死人呐……\n现如今，她的救下的后代，她所在的军队救下的的后代，可以出门，可以工作，可以在天安门静坐、被杀害，而不是被交还给家长关在卧室里，只有做饭的时候才能出门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14846,
+          "following_count": 2161,
+          "like_count": 6502,
+          "listed_count": 27,
+          "media_count": 2088,
+          "tweet_count": 3470
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-26T15:42:27.000Z",
+        "description": "MtF, coder, Marxist, Trotskyist, Maoist, frontend coder, political economy & historical society researcher",
+        "id": "1243201577038512129",
+        "location": "America",
+        "name": "Extra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040314010789425152/b4rnFhdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 151,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "fangyuannya",
+        "verified": false
+      }
+    ]
+  }
+}

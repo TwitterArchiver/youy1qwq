@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2073454972851859952",
+    "created_at": "2026-07-04T17:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073456542268166478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044623601022676993",
+          "start": 0,
+          "username": "Inspiration933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073456542268166478",
+    "in_reply_to_user_id": "2044623601022676993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073456063312179362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inspiration933 来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T17:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073456542268166478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044623601022676993",
+              "start": 0,
+              "username": "Inspiration933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073456542268166478",
+        "in_reply_to_user_id": "2044623601022676993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073456063312179362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inspiration933 来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044623601022676993",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T17:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073456063312179362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073456063312179362",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454972851859952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 先来占个位吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15580,
+          "following_count": 2292,
+          "like_count": 7888,
+          "listed_count": 27,
+          "media_count": 2184,
+          "tweet_count": 3801
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T03:47:40.000Z",
+        "description": "👁️ Wild Visual Observer | 🖌AI Creator\n\nNew Blue | Follow back always | DM for collab\n蓝V互关",
+        "id": "2044623601022676993",
+        "name": "灵感画师 Inspiration933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069399946059710464/2Z9ONz4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 3994,
+          "like_count": 4396,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 1788
+        },
+        "url": "",
+        "username": "Inspiration933",
+        "verified": true
+      }
+    ]
+  }
+}

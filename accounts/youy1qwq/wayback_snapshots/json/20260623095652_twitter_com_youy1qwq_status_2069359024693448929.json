@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069301196050026563",
+    "created_at": "2026-06-23T09:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069359024693448929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2834094312",
+          "start": 0,
+          "username": "wang_xiaoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069359024693448929",
+    "in_reply_to_user_id": "2834094312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069301196050026563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_xiaoshen 互吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069301188085039104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeid4kaQAAeJ0n.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069301196050026563",
+        "created_at": "2026-06-23T09:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069359024693448929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2834094312",
+              "start": 0,
+              "username": "wang_xiaoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069359024693448929",
+        "in_reply_to_user_id": "2834094312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069301196050026563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_xiaoshen 互吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069301188085039104"
+          ]
+        },
+        "author_id": "2834094312",
+        "conversation_id": "2069301196050026563",
+        "created_at": "2026-06-23T06:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069301196050026563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mV4nIXhRbE",
+              "end": 42,
+              "expanded_url": "https://x.com/wang_xiaoshen/status/2069301196050026563/photo/1",
+              "media_key": "3_2069301188085039104",
+              "start": 19,
+              "url": "https://t.co/mV4nIXhRbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069301196050026563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2332,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "佛得角愈战愈勇，沙特已经瑟瑟发抖了🥶 https://t.co/mV4nIXhRbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14988,
+          "following_count": 2175,
+          "like_count": 6955,
+          "listed_count": 26,
+          "media_count": 2107,
+          "tweet_count": 3569
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-27T14:51:29.000Z",
+        "description": "｜币圈段子手、玩梗专家\n｜互联网已退休产品经理，一个还没脱离低级趣味的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Ace.box",
+                "end": 23,
+                "expanded_url": "http://Ace.box",
+                "start": 0,
+                "url": "https://t.co/Gy626ieHy9"
+              }
+            ]
+          }
+        },
+        "id": "2834094312",
+        "location": "合作联系TG：wang_xiaoshen",
+        "name": "王小神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063437226814681088/Xa3_1RgY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13697,
+          "following_count": 7247,
+          "like_count": 60525,
+          "listed_count": 39,
+          "media_count": 1601,
+          "tweet_count": 33464
+        },
+        "url": "https://t.co/Gy626ieHy9",
+        "username": "wang_xiaoshen",
+        "verified": true
+      }
+    ]
+  }
+}

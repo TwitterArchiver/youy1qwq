@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2042286423878091151",
+    "created_at": "2026-04-09T19:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T20:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042322160778088463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1626859178643050496",
+          "start": 0,
+          "username": "xhngtla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042322160778088463",
+    "in_reply_to_user_id": "1626859178643050496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042289490153427229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhngtla 已通知全体店员整容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042286423878091151",
+        "created_at": "2026-04-09T19:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042322160778088463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1626859178643050496",
+              "start": 0,
+              "username": "xhngtla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042322160778088463",
+        "in_reply_to_user_id": "1626859178643050496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042289490153427229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhngtla 已通知全体店员整容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626859178643050496",
+        "conversation_id": "2042286423878091151",
+        "created_at": "2026-04-09T17:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042289490153427229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042289490153427229",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042286423878091151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 已通知全体店员整容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9915,
+          "following_count": 1500,
+          "like_count": 3595,
+          "listed_count": 13,
+          "media_count": 1289,
+          "tweet_count": 1727
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-18T08:20:45.000Z",
+        "description": "1i+4i\n偶尔看看，发一点碎碎念和照片，消息可能不及时回｜间接性高频冲浪｜168｜130斤（我是猪。。我真的要减肥了。。）｜INFJ｜03年｜颜控｜switch偏s｜喜欢看白皮帅哥腹肌埋帅气男妈妈大胸或者薄肌细狗之类的（别管了好看的我都爱🤪）｜偶尔上推玩\n\n约舔私信发照片身高体重简介喵",
+        "id": "1626859178643050496",
+        "location": "浙江",
+        "name": "唯一老实女人在线找小楚男",
+        "pinned_tweet_id": "2026682104923484403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626859358557732864/0hUwQdoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 101,
+          "like_count": 4068,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "username": "xhngtla",
+        "verified": false
+      }
+    ]
+  }
+}

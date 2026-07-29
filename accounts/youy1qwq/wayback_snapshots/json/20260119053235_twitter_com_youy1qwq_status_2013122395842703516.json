@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2013122395842703516",
+    "created_at": "2026-01-19T05:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T06:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013122395842703516"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "药娘"
+        },
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "男娘"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "xyn"
+        },
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "femboy"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "ts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013122395842703516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同类贴贴，有没有互粉的呀～ #药娘 #男娘 #xyn #femboy #ts"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2013122395842703516",
+        "created_at": "2026-01-19T05:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T06:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013122395842703516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "药娘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "xyn"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "femboy"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013122395842703516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同类贴贴，有没有互粉的呀～ #药娘 #男娘 #xyn #femboy #ts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜bpd｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013120558318116864/9ZAqbllP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 56,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 17
+        },
+        "username": "youy1qwq",
+        "verified": false
+      }
+    ]
+  }
+}

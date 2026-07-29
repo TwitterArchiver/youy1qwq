@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2023981008513564858",
+    "created_at": "2026-02-18T07:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024021845721174055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412013339115360258",
+          "start": 0,
+          "username": "gaoxiaojiede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024021845721174055",
+    "in_reply_to_user_id": "1412013339115360258",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024020542127321491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoxiaojiede 😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2023981008513564858",
+        "created_at": "2026-02-18T07:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024021845721174055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412013339115360258",
+              "start": 0,
+              "username": "gaoxiaojiede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024021845721174055",
+        "in_reply_to_user_id": "1412013339115360258",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024020542127321491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoxiaojiede 😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412013339115360258",
+        "conversation_id": "2023981008513564858",
+        "created_at": "2026-02-18T07:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024020542127321491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024020542127321491",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023981008513564858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 她不一样😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 964,
+          "like_count": 2461,
+          "listed_count": 5,
+          "media_count": 394,
+          "tweet_count": 769
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-05T11:40:01.000Z",
+        "description": "有些人，血里带风，注定要漂泊的",
+        "id": "1412013339115360258",
+        "name": "高小姐的皮卡丘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914839226585374722/5j-G2RiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 47,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 3618
+        },
+        "username": "gaoxiaojiede",
+        "verified": false
+      }
+    ]
+  }
+}

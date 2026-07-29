@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066213753293803550",
+    "created_at": "2026-06-15T13:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066520430580752667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "709011905348677632",
+          "start": 0,
+          "username": "BestLidamao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066520430580752667",
+    "in_reply_to_user_id": "709011905348677632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066451831417696511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BestLidamao 气笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-15T13:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066520430580752667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "709011905348677632",
+              "start": 0,
+              "username": "BestLidamao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066520430580752667",
+        "in_reply_to_user_id": "709011905348677632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066451831417696511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BestLidamao 气笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "709011905348677632",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-15T09:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066451831417696511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066451831417696511",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066213753293803550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 福建的蛇不会偷渡吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14698,
+          "following_count": 2123,
+          "like_count": 6002,
+          "listed_count": 25,
+          "media_count": 2057,
+          "tweet_count": 3133
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-13T13:43:05.000Z",
+        "description": "WEB3 BUIDLer | AIGC色图生成师 | All in FOCG  | 本升专导师 |  https://t.co/8PQEgNyZKv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youshouldbuybitcoin.com",
+                "end": 74,
+                "expanded_url": "https://youshouldbuybitcoin.com/",
+                "start": 51,
+                "url": "https://t.co/8PQEgNyZKv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lidamao.com",
+                "end": 23,
+                "expanded_url": "http://lidamao.com",
+                "start": 0,
+                "url": "https://t.co/DEBnFsuT07"
+              }
+            ]
+          }
+        },
+        "id": "709011905348677632",
+        "name": "lidamao.eth ( 本升专导师 )",
+        "pinned_tweet_id": "1984604194545025477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881781642127437824/Il0B43-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 542,
+          "like_count": 1038,
+          "listed_count": 14,
+          "media_count": 669,
+          "tweet_count": 2299
+        },
+        "url": "https://t.co/DEBnFsuT07",
+        "username": "BestLidamao",
+        "verified": true
+      }
+    ]
+  }
+}

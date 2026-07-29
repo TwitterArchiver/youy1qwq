@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2073454972851859952",
+    "created_at": "2026-07-05T02:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073593488005062927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920869622670393344",
+          "start": 0,
+          "username": "onodera_29x52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073593488005062927",
+    "in_reply_to_user_id": "1920869622670393344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073476233174950335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onodera_29x52 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-05T02:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073593488005062927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920869622670393344",
+              "start": 0,
+              "username": "onodera_29x52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073593488005062927",
+        "in_reply_to_user_id": "1920869622670393344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073476233174950335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onodera_29x52 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920869622670393344",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T18:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073476233174950335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073476233174950335",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454972851859952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 借个楼互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15790,
+          "following_count": 2325,
+          "like_count": 7893,
+          "listed_count": 27,
+          "media_count": 2185,
+          "tweet_count": 3811
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "追踪我讲好中国故事，带你了解真正的中国\n日本語を勉強しています| 梗图每日分享 | 少政",
+        "id": "1920869622670393344",
+        "location": "厕所革命冲浪里",
+        "name": "小野寺薄瓜瓜_オノデラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 1003,
+          "like_count": 7549,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1526
+        },
+        "url": "",
+        "username": "onodera_29x52",
+        "verified": true
+      }
+    ]
+  }
+}

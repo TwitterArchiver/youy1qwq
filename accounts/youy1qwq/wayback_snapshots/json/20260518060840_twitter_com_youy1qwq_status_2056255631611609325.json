@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2056024928051433516",
+    "created_at": "2026-05-18T06:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056255631611609325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1239545982431293442",
+          "start": 0,
+          "username": "wfjman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056255631611609325",
+    "in_reply_to_user_id": "1239545982431293442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056024928051433516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wfjman 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2056024928051433516",
+        "created_at": "2026-05-18T06:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056255631611609325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1239545982431293442",
+              "start": 0,
+              "username": "wfjman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056255631611609325",
+        "in_reply_to_user_id": "1239545982431293442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056024928051433516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wfjman 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239545982431293442",
+        "conversation_id": "2056024928051433516",
+        "created_at": "2026-05-17T14:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056024928051433516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056024928051433516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 573,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷了一会推发现怎么都是些熟脸   国区的蓝v我都关注遍了吗？  没有新人了？新面孔到底在哪里？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13164,
+          "following_count": 1821,
+          "like_count": 4179,
+          "listed_count": 20,
+          "media_count": 1779,
+          "tweet_count": 2309
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T13:36:20.000Z",
+        "description": "I live in Shenzhen, China for a long time. I run a textile clothing business. I like to share my life and I love life. Come on!",
+        "id": "1239545982431293442",
+        "name": "wfjman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054032924648091648/QmqG43ZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 4077,
+          "like_count": 9812,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 393
+        },
+        "username": "wfjman",
+        "verified": true
+      }
+    ]
+  }
+}

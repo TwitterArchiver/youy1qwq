@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019697574366830852",
+    "created_at": "2026-02-06T09:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019702242753048829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012594602675515392",
+          "start": 0,
+          "username": "Yatai_1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019702242753048829",
+    "in_reply_to_user_id": "2012594602675515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019700671793221690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yatai_1008 堪比一根成年香蕉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019697574366830852",
+        "created_at": "2026-02-06T09:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019702242753048829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012594602675515392",
+              "start": 0,
+              "username": "Yatai_1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019702242753048829",
+        "in_reply_to_user_id": "2012594602675515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019700671793221690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yatai_1008 堪比一根成年香蕉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012594602675515392",
+        "conversation_id": "2019697574366830852",
+        "created_at": "2026-02-06T09:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019700671793221690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019700671793221690",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019697574366830852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 表达能力堪比一碗成年泡面！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 571,
+          "like_count": 1186,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 323
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T18:36:02.000Z",
+        "description": "人类。人累。人泪。",
+        "id": "2012594602675515392",
+        "name": "幸福夭折",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015076433903886336/TwCn6AXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 84
+        },
+        "username": "Yatai_1008",
+        "verified": false
+      }
+    ]
+  }
+}

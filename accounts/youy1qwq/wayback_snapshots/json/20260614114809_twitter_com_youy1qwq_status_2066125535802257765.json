@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066125528529285120"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066125535802257765",
+    "created_at": "2026-06-14T11:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066125535802257765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cwTZ74C3pX",
+          "end": 36,
+          "expanded_url": "https://x.com/youy1qwq/status/2066125535802257765/photo/1",
+          "media_key": "3_2066125528529285120",
+          "start": 13,
+          "url": "https://t.co/cwTZ74C3pX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066125535802257765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "军师肘了8分钟抢回手机了 https://t.co/cwTZ74C3pX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2066125528529285120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxaOK1asAA2XYE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066125528529285120"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066125535802257765",
+        "created_at": "2026-06-14T11:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066125535802257765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwTZ74C3pX",
+              "end": 36,
+              "expanded_url": "https://x.com/youy1qwq/status/2066125535802257765/photo/1",
+              "media_key": "3_2066125528529285120",
+              "start": 13,
+              "url": "https://t.co/cwTZ74C3pX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066125535802257765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "军师肘了8分钟抢回手机了 https://t.co/cwTZ74C3pX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14630,
+          "following_count": 2116,
+          "like_count": 5889,
+          "listed_count": 25,
+          "media_count": 2050,
+          "tweet_count": 3056
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

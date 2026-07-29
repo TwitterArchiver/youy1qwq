@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020292941521314034",
+    "created_at": "2026-02-08T01:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T02:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020308011693322527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020308011693322527",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020292941521314034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 第一眼还以为是水果手机（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020292931329093633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmFt5IacAEQJxZ.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020292941521314034",
+        "created_at": "2026-02-08T01:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020308011693322527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020308011693322527",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020292941521314034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 第一眼还以为是水果手机（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020292931329093633"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2020292941521314034",
+        "created_at": "2026-02-08T00:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020292941521314034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MiNfedRaGv",
+              "end": 35,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2020292941521314034/photo/1",
+              "media_key": "3_2020292931329093633",
+              "start": 12,
+              "url": "https://t.co/MiNfedRaGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020292941521314034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑残吗这手机，认不出我 https://t.co/MiNfedRaGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 835,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 439
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18｜天空树｜爱发高p照仔细甄别😵‍💫|发日常|成分复杂|😹best athlete must be @Yg_Trece @TheTraeYoung !|会给同类互fo|好姐姐 @HappyHejsDay 特别的 @shixveriya 🥰|安卓小号 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "Yg_Trece"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "TheTraeYoung"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "shixveriya"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "PG13LD77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnI3l"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness😣",
+        "pinned_tweet_id": "2017161495646490860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 831,
+          "like_count": 3603,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/MqRT8JnI3l",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

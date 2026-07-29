@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018474519955185949",
+    "created_at": "2026-02-03T00:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018479012516180041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1538196082513125378",
+          "start": 0,
+          "username": "cepheu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018479012516180041",
+    "in_reply_to_user_id": "1538196082513125378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018477419200643402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cepheu4 我也想😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2018477407603474432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMSggNbQAAB-63.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018474519955185949",
+        "created_at": "2026-02-03T00:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018479012516180041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1538196082513125378",
+              "start": 0,
+              "username": "cepheu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018479012516180041",
+        "in_reply_to_user_id": "1538196082513125378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018477419200643402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cepheu4 我也想😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018477407603474432"
+          ]
+        },
+        "author_id": "1538196082513125378",
+        "conversation_id": "2018474519955185949",
+        "created_at": "2026-02-03T00:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018477419200643402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBww6bhcyu",
+              "end": 89,
+              "expanded_url": "https://x.com/cepheu4/status/2018477419200643402/photo/1",
+              "media_key": "3_2018477407603474432",
+              "start": 66,
+              "url": "https://t.co/IBww6bhcyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018477419200643402",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018474519955185949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 让我的大脑多五厘米，这样脑容量大一点是不是可以想清楚怎么搞钱，我需要很多钱，然后就可以退休了，我想在25岁退休 https://t.co/IBww6bhcyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 201,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 93
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T16:25:17.000Z",
+        "description": "21岁 | 全栈开发🍵 | 与爱人樱与晓自25年5月2日恋爱到明天 ‍🩹 | 分享认知和三个灵魂的真实故事🍀 | 欢迎你来看我的成长✨",
+        "id": "1538196082513125378",
+        "name": "Anson、樱与晓",
+        "pinned_tweet_id": "2018095186711392627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206958873182208/oca1SCoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 681,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 365
+        },
+        "username": "cepheu4",
+        "verified": true
+      }
+    ]
+  }
+}

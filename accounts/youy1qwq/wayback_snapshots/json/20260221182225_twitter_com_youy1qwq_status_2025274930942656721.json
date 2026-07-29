@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2025269289004269640",
+    "created_at": "2026-02-21T18:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T19:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025274930942656721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024627613436956673",
+          "start": 0,
+          "username": "lovemiku41412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025274930942656721",
+    "in_reply_to_user_id": "2024627613436956673",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025270365103292523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovemiku41412 www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2025269289004269640",
+        "created_at": "2026-02-21T18:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025274930942656721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024627613436956673",
+              "start": 0,
+              "username": "lovemiku41412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025274930942656721",
+        "in_reply_to_user_id": "2024627613436956673",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025270365103292523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovemiku41412 www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024627613436956673",
+        "conversation_id": "2025269289004269640",
+        "created_at": "2026-02-21T18:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025270365103292523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025270365103292523",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025269289004269640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 什么资源包这么真。。。哦那不是物品栏啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4254,
+          "following_count": 1058,
+          "like_count": 2628,
+          "listed_count": 6,
+          "media_count": 459,
+          "tweet_count": 854
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T23:30:24.000Z",
+        "description": "应该，不会，有人发现我吧？",
+        "id": "2024627613436956673",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "碎碎念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024713313255641090/q5xn2UQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 142
+        },
+        "username": "lovemiku41412",
+        "verified": false
+      }
+    ]
+  }
+}

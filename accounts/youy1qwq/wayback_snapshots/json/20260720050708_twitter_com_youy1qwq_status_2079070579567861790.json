@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2078846061217476866",
+    "created_at": "2026-07-20T05:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079070579567861790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2749328816",
+          "start": 0,
+          "username": "looismes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079070579567861790",
+    "in_reply_to_user_id": "2749328816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078846061217476866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looismes 一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2078846061217476866",
+        "created_at": "2026-07-20T05:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079070579567861790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2749328816",
+              "start": 0,
+              "username": "looismes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079070579567861790",
+        "in_reply_to_user_id": "2749328816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078846061217476866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looismes 一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2749328816",
+        "conversation_id": "2078846061217476866",
+        "created_at": "2026-07-19T14:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078846061217476866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "一起喝一杯"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078846061217476866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1043,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X新规出，大家都瑟瑟发抖\n\n现在的暗号是：一起喝一杯，哈哈哈哈\n\n#一起喝一杯\n\n来吧宝宝们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16445,
+          "following_count": 2781,
+          "like_count": 8004,
+          "listed_count": 26,
+          "media_count": 2246,
+          "tweet_count": 3887
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-20T15:23:21.000Z",
+        "description": "AI & Crypto 双修玩家 | 环球旅行 30+ 国 | 电影库 2000+ | 半马/铁三完赛者 | 活在未来，跑在当下",
+        "id": "2749328816",
+        "location": "Torrecilla de los Angeles",
+        "name": "vager | 蓝V互关",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009139308637126656/WYvUvcWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014,
+          "following_count": 4074,
+          "like_count": 1638,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 3180
+        },
+        "url": "",
+        "username": "looismes",
+        "verified": true
+      }
+    ]
+  }
+}

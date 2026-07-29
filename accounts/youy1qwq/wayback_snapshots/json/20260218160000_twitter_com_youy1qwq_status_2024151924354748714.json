@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024025931262885888"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2024151924354748714",
+    "created_at": "2026-02-18T16:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024151924354748714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8iDMuOkYLt",
+          "end": 39,
+          "expanded_url": "https://x.com/youy1qwq/status/2024151924354748714/photo/1",
+          "media_key": "3_2024025931262885888",
+          "start": 16,
+          "url": "https://t.co/8iDMuOkYLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024151924354748714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉自己压力大的可以看一下这个 https://t.co/8iDMuOkYLt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024025931262885888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbI3FkagAAKMql.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024025931262885888"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2024151924354748714",
+        "created_at": "2026-02-18T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024151924354748714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iDMuOkYLt",
+              "end": 39,
+              "expanded_url": "https://x.com/youy1qwq/status/2024151924354748714/photo/1",
+              "media_key": "3_2024025931262885888",
+              "start": 16,
+              "url": "https://t.co/8iDMuOkYLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024151924354748714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己压力大的可以看一下这个 https://t.co/8iDMuOkYLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3708,
+          "following_count": 968,
+          "like_count": 2474,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 779
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

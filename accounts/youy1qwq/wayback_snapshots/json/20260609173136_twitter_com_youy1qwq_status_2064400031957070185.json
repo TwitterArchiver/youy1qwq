@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064237826632204590",
+    "created_at": "2026-06-09T17:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064400031957070185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223415775278428160",
+          "start": 0,
+          "username": "sophhhsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064400031957070185",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064237826632204590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophhhsama 碎碎念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064237826632204590",
+        "created_at": "2026-06-09T17:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064400031957070185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064400031957070185",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064237826632204590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 碎碎念"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2064237826632204590",
+        "created_at": "2026-06-09T06:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064237826632204590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064237826632204590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像生活里大部分的社交真的只有推友了啊啊\n其实也没有 只是会经常发点碎碎念跟自己说话（ \n有时候没有想说的事情不过也想有人陪着的感觉哇\n生活有够无聊的 &gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14196,
+          "following_count": 2062,
+          "like_count": 4743,
+          "listed_count": 24,
+          "media_count": 2011,
+          "tweet_count": 2711
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 469,
+          "like_count": 23835,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3296
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

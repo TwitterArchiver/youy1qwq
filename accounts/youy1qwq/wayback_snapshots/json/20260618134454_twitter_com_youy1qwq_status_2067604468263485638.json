@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067574766241030159",
+    "created_at": "2026-06-18T13:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067604468263485638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "69546024",
+          "start": 0,
+          "username": "moreoronce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067604468263485638",
+    "in_reply_to_user_id": "69546024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067603325500207265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moreoronce 不懂的有难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067574766241030159",
+        "created_at": "2026-06-18T13:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067604468263485638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "69546024",
+              "start": 0,
+              "username": "moreoronce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067604468263485638",
+        "in_reply_to_user_id": "69546024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067603325500207265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moreoronce 不懂的有难了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69546024",
+        "conversation_id": "2067574766241030159",
+        "created_at": "2026-06-18T13:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067603325500207265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067603325500207265",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067574766241030159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14769,
+          "following_count": 2150,
+          "like_count": 6284,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3381
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-28T09:13:13.000Z",
+        "description": "自我迭代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deeprouter.org",
+                "end": 23,
+                "expanded_url": "https://deeprouter.org",
+                "start": 0,
+                "url": "https://t.co/JP4wgQA4FJ"
+              }
+            ]
+          }
+        },
+        "id": "69546024",
+        "name": "Lex Parsimoniae🚲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011250033107365888/ziB0RGqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 392,
+          "like_count": 1862,
+          "listed_count": 16,
+          "media_count": 1561,
+          "tweet_count": 49118
+        },
+        "url": "https://t.co/JP4wgQA4FJ",
+        "username": "moreoronce",
+        "verified": true
+      }
+    ]
+  }
+}

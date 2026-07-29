@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064689028713291977",
+    "created_at": "2026-06-10T13:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064705061851373985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2020167685770739712",
+          "start": 0,
+          "username": "B_Sen114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064705061851373985",
+    "in_reply_to_user_id": "2020167685770739712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064689028713291977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_Sen114514 我来啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064689028713291977",
+        "created_at": "2026-06-10T13:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064705061851373985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2020167685770739712",
+              "start": 0,
+              "username": "B_Sen114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064705061851373985",
+        "in_reply_to_user_id": "2020167685770739712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064689028713291977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_Sen114514 我来啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020167685770739712",
+        "conversation_id": "2064689028713291977",
+        "created_at": "2026-06-10T12:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064689028713291977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064689028713291977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没人给我的帖子点赞....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14224,
+          "following_count": 2077,
+          "like_count": 4987,
+          "listed_count": 24,
+          "media_count": 2019,
+          "tweet_count": 2773
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-07T16:08:20.000Z",
+        "description": "蓝V互fo and 神秘老天津卫\n佛山市小邓网络文创科技工作室运营@xiaodengwangluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "xiaodengwangluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaodeng123.cn",
+                "end": 23,
+                "expanded_url": "http://xiaodeng123.cn",
+                "start": 0,
+                "url": "https://t.co/YTTxOoha45"
+              }
+            ]
+          }
+        },
+        "id": "2020167685770739712",
+        "location": "Tianjin China",
+        "name": "Sen®",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060622387167789056/0mC4dj0J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 472,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/YTTxOoha45",
+        "username": "B_Sen114514",
+        "verified": true
+      }
+    ]
+  }
+}

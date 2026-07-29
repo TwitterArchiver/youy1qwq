@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065501024551571940",
+    "created_at": "2026-06-13T06:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065679845154316696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1527586768891125760",
+          "start": 0,
+          "username": "wangxizhiKYWYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065679845154316696",
+    "in_reply_to_user_id": "1527586768891125760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065671615359471898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangxizhiKYWYW 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 291,
+        "media_key": "3_2065671613140643840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKq9Y0PbMAAh6Tg.jpg",
+        "width": 713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065501024551571940",
+        "created_at": "2026-06-13T06:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065679845154316696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527586768891125760",
+              "start": 0,
+              "username": "wangxizhiKYWYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065679845154316696",
+        "in_reply_to_user_id": "1527586768891125760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065671615359471898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangxizhiKYWYW 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065671613140643840"
+          ]
+        },
+        "author_id": "1527586768891125760",
+        "conversation_id": "2065501024551571940",
+        "created_at": "2026-06-13T05:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065671615359471898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEqy5wM1DN",
+              "end": 33,
+              "expanded_url": "https://x.com/wangxizhiKYWYW/status/2065671615359471898/photo/1",
+              "media_key": "3_2065671613140643840",
+              "start": 10,
+              "url": "https://t.co/jEqy5wM1DN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065671615359471898",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065501024551571940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/jEqy5wM1DN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14495,
+          "following_count": 2105,
+          "like_count": 5680,
+          "listed_count": 24,
+          "media_count": 2042,
+          "tweet_count": 2987
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-20T09:47:40.000Z",
+        "description": "半文盲|\n我是回民见不得这个|\n为梁启超乐园而奋斗|\n学无止境|\n啊哈哈哈，我不识字|",
+        "id": "1527586768891125760",
+        "location": "汉地",
+        "name": "怒尼威",
+        "pinned_tweet_id": "2040417016893636890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010168349041537025/dgUXtGIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 930,
+          "like_count": 43474,
+          "listed_count": 4,
+          "media_count": 3477,
+          "tweet_count": 13603
+        },
+        "username": "wangxizhiKYWYW",
+        "verified": false
+      }
+    ]
+  }
+}

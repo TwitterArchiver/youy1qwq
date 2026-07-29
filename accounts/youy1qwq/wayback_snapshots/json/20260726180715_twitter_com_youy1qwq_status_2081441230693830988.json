@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081441223697739776"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2081441230693830988",
+    "created_at": "2026-07-26T18:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081441230693830988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RXbI3Qap47",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2081441230693830988/photo/1",
+          "media_key": "3_2081441223697739776",
+          "start": 14,
+          "url": "https://t.co/RXbI3Qap47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081441230693830988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚得知 bin哥即将回归 https://t.co/RXbI3Qap47"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 622,
+        "media_key": "3_2081441223697739776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLDw9dbsAAg86-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081441223697739776"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2081441230693830988",
+        "created_at": "2026-07-26T18:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081441230693830988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXbI3Qap47",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2081441230693830988/photo/1",
+              "media_key": "3_2081441223697739776",
+              "start": 14,
+              "url": "https://t.co/RXbI3Qap47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081441230693830988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚得知 bin哥即将回归 https://t.co/RXbI3Qap47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16974,
+          "following_count": 2953,
+          "like_count": 8103,
+          "listed_count": 28,
+          "media_count": 2284,
+          "tweet_count": 3960
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

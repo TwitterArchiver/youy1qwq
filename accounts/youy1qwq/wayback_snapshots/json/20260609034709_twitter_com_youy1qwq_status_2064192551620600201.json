@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064026245617377715",
+    "created_at": "2026-06-09T03:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064192551620600201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1649804216137924611",
+          "start": 0,
+          "username": "Muj_ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064192551620600201",
+    "in_reply_to_user_id": "1649804216137924611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064068865446002871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Muj_ty 是这样的www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064026245617377715",
+        "created_at": "2026-06-09T03:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064192551620600201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1649804216137924611",
+              "start": 0,
+              "username": "Muj_ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064192551620600201",
+        "in_reply_to_user_id": "1649804216137924611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064068865446002871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muj_ty 是这样的www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649804216137924611",
+        "conversation_id": "2064026245617377715",
+        "created_at": "2026-06-08T19:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064068865446002871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064068865446002871",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 725,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064026245617377715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 有人竖中指吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14169,
+          "following_count": 2051,
+          "like_count": 4610,
+          "listed_count": 24,
+          "media_count": 2002,
+          "tweet_count": 2644
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-22T15:56:13.000Z",
+        "description": "感谢喜欢🥲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/88776565",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/88776565",
+                "start": 0,
+                "url": "https://t.co/7ahFMial3e"
+              }
+            ]
+          }
+        },
+        "id": "1649804216137924611",
+        "name": "⚡",
+        "pinned_tweet_id": "1934221897463681166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060972988514942976/2KCgU7W8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 123,
+          "like_count": 8105,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/7ahFMial3e",
+        "username": "Muj_ty",
+        "verified": false
+      }
+    ]
+  }
+}

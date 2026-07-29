@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064677384125624827",
+    "created_at": "2026-06-10T13:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064704676415836226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012048367845822464",
+          "start": 0,
+          "username": "souomaoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064704676415836226",
+    "in_reply_to_user_id": "2012048367845822464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064677384125624827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@souomaoxo 助力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064677384125624827",
+        "created_at": "2026-06-10T13:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064704676415836226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012048367845822464",
+              "start": 0,
+              "username": "souomaoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064704676415836226",
+        "in_reply_to_user_id": "2012048367845822464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064677384125624827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@souomaoxo 助力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012048367845822464",
+        "conversation_id": "2064677384125624827",
+        "created_at": "2026-06-10T11:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064677384125624827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064677384125624827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挖槽 两天马上一百个粉丝了 什么实力 100粉fo我我我送个啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14224,
+          "following_count": 2075,
+          "like_count": 4984,
+          "listed_count": 24,
+          "media_count": 2019,
+          "tweet_count": 2770
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-16T06:24:57.000Z",
+        "description": "解毒劑@王馬小吉\n🇨🇳|精神不穩定|OD \n想和各種各樣的女孩們禮貌互動",
+        "id": "2012048367845822464",
+        "name": "所有人都死了",
+        "pinned_tweet_id": "2057266630741143696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064016601490305024/Mb6TDe3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 97,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 126
+        },
+        "username": "souomaoxo",
+        "verified": false
+      }
+    ]
+  }
+}

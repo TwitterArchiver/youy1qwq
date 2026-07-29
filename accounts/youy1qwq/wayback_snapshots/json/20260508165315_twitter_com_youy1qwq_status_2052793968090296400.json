@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2052778254730436916",
+    "created_at": "2026-05-08T16:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052793968090296400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559377837861130240",
+          "start": 0,
+          "username": "poewr15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052793968090296400",
+    "in_reply_to_user_id": "1559377837861130240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052778254730436916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poewr15 互关吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 257,
+        "media_key": "3_2052778247314931712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzu8JnbAAALtjA.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2052778254730436916",
+        "created_at": "2026-05-08T16:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052793968090296400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559377837861130240",
+              "start": 0,
+              "username": "poewr15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052793968090296400",
+        "in_reply_to_user_id": "1559377837861130240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052778254730436916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poewr15 互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052778247314931712"
+          ]
+        },
+        "author_id": "1559377837861130240",
+        "conversation_id": "2052778254730436916",
+        "created_at": "2026-05-08T15:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052778254730436916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQnOc3RGUc",
+              "end": 57,
+              "expanded_url": "https://x.com/poewr15/status/2052778254730436916/photo/1",
+              "media_key": "3_2052778247314931712",
+              "start": 34,
+              "url": "https://t.co/JQnOc3RGUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052778254730436916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然这样 我就要开始更新账号了  \n勤劳如牛 请大家多多支持我🫶🔥 https://t.co/JQnOc3RGUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12580,
+          "following_count": 1763,
+          "like_count": 4057,
+          "listed_count": 20,
+          "media_count": 1676,
+          "tweet_count": 2189
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-16T03:13:49.000Z",
+        "description": "06年 | 从迷茫到All in Web3 |  记录普通人真实转行经历与思考  | 认真学习 | 真实分享 |  欢迎同频朋友交流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sujingwen66618",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sujingwen66618",
+                "start": 0,
+                "url": "https://t.co/SaVN4ETZCM"
+              }
+            ]
+          }
+        },
+        "id": "1559377837861130240",
+        "location": "San Jose, CA",
+        "name": "kuku",
+        "pinned_tweet_id": "2041210326025376078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017867250246795264/Df7GCl3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 734,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/SaVN4ETZCM",
+        "username": "poewr15",
+        "verified": true
+      }
+    ]
+  }
+}

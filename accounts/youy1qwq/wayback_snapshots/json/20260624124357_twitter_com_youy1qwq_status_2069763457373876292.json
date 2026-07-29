@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069763446359326721"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069763457373876292",
+    "created_at": "2026-06-24T12:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069763457373876292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ar5qaxlTbA",
+          "end": 34,
+          "expanded_url": "https://x.com/youy1qwq/status/2069763457373876292/photo/1",
+          "media_key": "3_2069763446359326721",
+          "start": 11,
+          "url": "https://t.co/Ar5qaxlTbA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069763457373876292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于看到正常外卖员了 https://t.co/Ar5qaxlTbA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1561,
+        "media_key": "3_2069763446359326721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlG421WAAEclfw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069763446359326721"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069763457373876292",
+        "created_at": "2026-06-24T12:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069763457373876292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ar5qaxlTbA",
+              "end": 34,
+              "expanded_url": "https://x.com/youy1qwq/status/2069763457373876292/photo/1",
+              "media_key": "3_2069763446359326721",
+              "start": 11,
+              "url": "https://t.co/Ar5qaxlTbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069763457373876292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于看到正常外卖员了 https://t.co/Ar5qaxlTbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15029,
+          "following_count": 2188,
+          "like_count": 7062,
+          "listed_count": 26,
+          "media_count": 2113,
+          "tweet_count": 3609
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

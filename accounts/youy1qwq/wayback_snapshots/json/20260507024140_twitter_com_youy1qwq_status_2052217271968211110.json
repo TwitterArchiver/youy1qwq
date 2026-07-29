@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2051932819434455377",
+    "created_at": "2026-05-07T02:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052217271968211110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938354247961399296",
+          "start": 0,
+          "username": "tiandoubtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052217271968211110",
+    "in_reply_to_user_id": "1938354247961399296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051932819434455377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiandoubtc 互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2051932819434455377",
+        "created_at": "2026-05-07T02:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052217271968211110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938354247961399296",
+              "start": 0,
+              "username": "tiandoubtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052217271968211110",
+        "in_reply_to_user_id": "1938354247961399296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051932819434455377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiandoubtc 互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938354247961399296",
+        "conversation_id": "2051932819434455377",
+        "created_at": "2026-05-06T07:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051932819434455377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051932819434455377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1123,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "周末好，新的一周继续蓝 v 互关\n\n大家对于那种短期充值蓝 v 的朋友是如何对待的，今天看了一下早起关注的一些朋友 v 标都没了。\n\n当下行情确实不太好，开蓝 v 也未必就能拿到马老板的三瓜俩枣，如果你不是蓝 v，但是会经常和我积极互动，时常分享一些有意思、有想法的推文，评论我，我来关注你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12348,
+          "following_count": 1746,
+          "like_count": 4041,
+          "listed_count": 20,
+          "media_count": 1663,
+          "tweet_count": 2174
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T21:50:55.000Z",
+        "description": "Experience is the best teacher ｜ 资深币圈玩家 ｜ BTC长期持有者 ｜ 二级实盘交易员 ｜ 一级投研 ｜ 数据分析 ｜ #binance #Okx #BNB #sol 合作DM或者联系TG：https://t.co/XwPsslqRFP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "binance"
+              },
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "Okx"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "BNB"
+              },
+              {
+                "end": 100,
+                "start": 96,
+                "tag": "sol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tiantoubtc",
+                "end": 135,
+                "expanded_url": "http://t.me/tiantoubtc",
+                "start": 112,
+                "url": "https://t.co/XwPsslqRFP"
+              }
+            ]
+          }
+        },
+        "id": "1938354247961399296",
+        "location": "Sham Shui Po District",
+        "name": "鹿鹿DeFi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015720791090843648/0Q-xd04Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1548,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2311
+        },
+        "url": "",
+        "username": "tiandoubtc",
+        "verified": true
+      }
+    ]
+  }
+}

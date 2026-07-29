@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018193765064724697",
+    "created_at": "2026-02-02T05:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018196923476287938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016618894094716928",
+          "start": 0,
+          "username": "YuZhi22731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018196923476287938",
+    "in_reply_to_user_id": "2016618894094716928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018196557125087530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuZhi22731 扣什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018193765064724697",
+        "created_at": "2026-02-02T05:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018196923476287938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016618894094716928",
+              "start": 0,
+              "username": "YuZhi22731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018196923476287938",
+        "in_reply_to_user_id": "2016618894094716928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018196557125087530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuZhi22731 扣什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016618894094716928",
+        "conversation_id": "2018193765064724697",
+        "created_at": "2026-02-02T05:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018196557125087530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018196557125087530",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018193765064724697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 能扣别的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 176,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 67
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T21:06:47.000Z",
+        "description": "",
+        "id": "2016618894094716928",
+        "name": "宇智波带土",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016619974358712320/RYpL684Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "YuZhi22731",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2060438129891315919",
+    "created_at": "2026-05-30T07:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060625642035773819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874887449404448769",
+          "start": 0,
+          "username": "youngstockuser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060625642035773819",
+    "in_reply_to_user_id": "1874887449404448769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060438129891315919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youngstockuser 来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2060438129891315919",
+        "created_at": "2026-05-30T07:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060625642035773819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874887449404448769",
+              "start": 0,
+              "username": "youngstockuser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060625642035773819",
+        "in_reply_to_user_id": "1874887449404448769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060438129891315919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youngstockuser 来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874887449404448769",
+        "conversation_id": "2060438129891315919",
+        "created_at": "2026-05-29T19:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060438129891315919"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060438129891315919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1935,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中文圈最火的应该就是：\n\n蓝v互关了前一段时间火过一次，\n现在似乎又火起来了。    \n\n目前来看，国人圈子小，话语权不高，抱团其实还是挺有必要的。 \n\n #蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13837,
+          "following_count": 2002,
+          "like_count": 4326,
+          "listed_count": 23,
+          "media_count": 1895,
+          "tweet_count": 2476
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T18:36:28.000Z",
+        "description": "美股ai板块的狂热投资者 现在是ai时代坚定投资ai板块 每日分享ai板块好股\n分享自己炒股经验 仅做分享不构成投资建议",
+        "id": "1874887449404448769",
+        "name": "爱炒美股的young",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874887586293919744/NBkxBvzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 187,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 116
+        },
+        "username": "youngstockuser",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065361961135857766",
+    "created_at": "2026-06-13T04:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065650896512639442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1563458181094789121",
+          "start": 0,
+          "username": "RoyalMaidMiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065650896512639442",
+    "in_reply_to_user_id": "1563458181094789121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065516228438044699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoyalMaidMiss 老资历来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065361961135857766",
+        "created_at": "2026-06-13T04:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065650896512639442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1563458181094789121",
+              "start": 0,
+              "username": "RoyalMaidMiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065650896512639442",
+        "in_reply_to_user_id": "1563458181094789121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065516228438044699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoyalMaidMiss 老资历来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563458181094789121",
+        "conversation_id": "2065361961135857766",
+        "created_at": "2026-06-12T19:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065516228438044699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065516228438044699",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065361961135857766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 想当初我们那时候……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14487,
+          "following_count": 2104,
+          "like_count": 5627,
+          "listed_count": 24,
+          "media_count": 2040,
+          "tweet_count": 2980
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-27T09:27:42.000Z",
+        "description": "",
+        "id": "1563458181094789121",
+        "name": "Polaris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064045549972779008/pYqPlSzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 56,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "RoyalMaidMiss",
+        "verified": false
+      }
+    ]
+  }
+}

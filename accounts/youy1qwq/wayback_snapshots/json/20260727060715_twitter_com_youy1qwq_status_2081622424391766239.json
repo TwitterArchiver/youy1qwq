@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2081374693756653682",
+    "created_at": "2026-07-27T06:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081622424391766239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049430405292650496",
+          "start": 0,
+          "username": "dashuju_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081622424391766239",
+    "in_reply_to_user_id": "2049430405292650496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081374693756653682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dashuju_ 借楼一起 必回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2081374693756653682",
+        "created_at": "2026-07-27T06:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081622424391766239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049430405292650496",
+              "start": 0,
+              "username": "dashuju_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081622424391766239",
+        "in_reply_to_user_id": "2049430405292650496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081374693756653682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dashuju_ 借楼一起 必回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049430405292650496",
+        "conversation_id": "2081374693756653682",
+        "created_at": "2026-07-26T13:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081374693756653682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081374693756653682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3519,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 152,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷不到新人了啊\n\n交个朋友，\n\n走个面儿，\n\n寻找知己，\n\n我搭桥，大家来认识吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16983,
+          "following_count": 2953,
+          "like_count": 8102,
+          "listed_count": 28,
+          "media_count": 2286,
+          "tweet_count": 3964
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-29T10:08:23.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shuju79999",
+                "end": 23,
+                "expanded_url": "https://t.me/shuju79999",
+                "start": 0,
+                "url": "https://t.co/M8rO7GAzkJ"
+              }
+            ]
+          }
+        },
+        "id": "2049430405292650496",
+        "location": "全行业用户数据",
+        "name": "Da Shuju",
+        "pinned_tweet_id": "2066451912984277273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051940137433784320/ZVHgMxr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 1842,
+          "like_count": 1152,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 870
+        },
+        "url": "https://t.co/M8rO7GAzkJ",
+        "username": "dashuju_",
+        "verified": true
+      }
+    ]
+  }
+}

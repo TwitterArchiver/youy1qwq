@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068724920788631856",
+    "created_at": "2026-06-22T04:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068918608353489133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1996607680925069312",
+          "start": 0,
+          "username": "whyyoufanduiUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068918608353489133",
+    "in_reply_to_user_id": "1996607680925069312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068830024212549995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoufanduiUN 而且有镂空看着很没安全感哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068724920788631856",
+        "created_at": "2026-06-22T04:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068918608353489133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996607680925069312",
+              "start": 0,
+              "username": "whyyoufanduiUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068918608353489133",
+        "in_reply_to_user_id": "1996607680925069312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068830024212549995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoufanduiUN 而且有镂空看着很没安全感哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996607680925069312",
+        "conversation_id": "2068724920788631856",
+        "created_at": "2026-06-21T22:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T23:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068830024212549995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068830024212549995",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068724920788631856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 主要是别的看着都不大结实的感觉😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14967,
+          "following_count": 2170,
+          "like_count": 6875,
+          "listed_count": 26,
+          "media_count": 2099,
+          "tweet_count": 3540
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-04T15:51:55.000Z",
+        "description": "荣耀归于精神远行者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.su",
+                "end": 23,
+                "expanded_url": "http://gov.su",
+                "start": 0,
+                "url": "https://t.co/9IwJbyXMpD"
+              }
+            ]
+          }
+        },
+        "id": "1996607680925069312",
+        "location": "乌鲁木齐中路, 大石坝街道, 斩杀县, 江油市, 南苏联",
+        "name": "曹老师不是枣老师",
+        "pinned_tweet_id": "2060140191239795082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051419896358301696/i9oeShDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 102,
+          "like_count": 5094,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/9IwJbyXMpD",
+        "username": "whyyoufanduiUN",
+        "verified": false
+      }
+    ]
+  }
+}

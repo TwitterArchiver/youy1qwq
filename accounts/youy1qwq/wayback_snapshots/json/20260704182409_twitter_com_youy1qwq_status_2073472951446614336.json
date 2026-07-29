@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2073454972851859952",
+    "created_at": "2026-07-04T18:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073472951446614336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689502923372240896",
+          "start": 0,
+          "username": "David_wang_wang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073472951446614336",
+    "in_reply_to_user_id": "1689502923372240896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073466978090848726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@David_wang_wang 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T18:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073472951446614336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689502923372240896",
+              "start": 0,
+              "username": "David_wang_wang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073472951446614336",
+        "in_reply_to_user_id": "1689502923372240896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073466978090848726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@David_wang_wang 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689502923372240896",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T18:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073466978090848726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073466978090848726",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454972851859952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15616,
+          "following_count": 2301,
+          "like_count": 7890,
+          "listed_count": 27,
+          "media_count": 2185,
+          "tweet_count": 3805
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T05:04:41.000Z",
+        "description": "Free Thinker | 老牛马日记🔥\n\n胡说八道的专业户，@Grok 认证的垃圾桶。。。。\n人生感悟、社会观察、韭菜的自我修养\n\n兄弟姐妹同频的来，卷不动的就一起摆烂！😂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 32,
+                "username": "Grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UC_d1t…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UC_d1t6NewrefMUgecupl5ew",
+                "start": 0,
+                "url": "https://t.co/FYuxq3RTco"
+              }
+            ]
+          }
+        },
+        "id": "1689502923372240896",
+        "name": "Free Thinker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069814168727822336/M-CKjjlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 1583,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 3597
+        },
+        "url": "https://t.co/FYuxq3RTco",
+        "username": "David_wang_wang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2081884801955709034",
+    "created_at": "2026-07-28T07:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082001662328344831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068158119277178880",
+          "start": 0,
+          "username": "aiqinghai99988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082001662328344831",
+    "in_reply_to_user_id": "2068158119277178880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081884801955709034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiqinghai99988 来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2081884801955709034",
+        "created_at": "2026-07-28T07:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082001662328344831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068158119277178880",
+              "start": 0,
+              "username": "aiqinghai99988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082001662328344831",
+        "in_reply_to_user_id": "2068158119277178880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081884801955709034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiqinghai99988 来吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068158119277178880",
+        "conversation_id": "2081884801955709034",
+        "created_at": "2026-07-27T23:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081884801955709034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081884801955709034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "来X两三个月，从0粉丝的陌生账号，慢慢认识了不少有趣的同路人。没有亮眼流量，点赞评论都很少。\n\n我不追热度，也不迎合大V。\n\n比起冰冷的数据，我更看重那些愿意认真读、真心交流的人——每一条互动，我都会认真回，凡留下足迹的朋友，我也一定会回访，对我来说，X不只是发声的地方，更像一片可以静静探索的星空。\n保持真诚，持续输出，慢慢沉淀。成长或许缓慢，但走过的每一步，都不会白费。\n\n好奇想问大家：\n\n近期你在X上，收获最大的一次互动是怎样的？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1182,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来X两三个月，从0粉丝的陌生账号，慢慢认识了不少有趣的同路人。没有亮眼流量，点赞评论都很少。\n\n我不追热度，也不迎合大V。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17012,
+          "following_count": 2983,
+          "like_count": 8122,
+          "listed_count": 28,
+          "media_count": 2293,
+          "tweet_count": 3982
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-20T02:28:39.000Z",
+        "description": "web3 | 生活娱乐日常 | 期待结识更多朋友，共同交流成长。",
+        "id": "2068158119277178880",
+        "name": "feng",
+        "pinned_tweet_id": "2078750226450661435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076866611110371328/CxbL_rh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 656,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "aiqinghai99988",
+        "verified": true
+      }
+    ]
+  }
+}

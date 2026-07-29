@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025086914768863232"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2025118298707558452",
+    "created_at": "2026-02-21T08:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025118298707558452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dh1hdyGVyt",
+          "end": 32,
+          "expanded_url": "https://x.com/youy1qwq/status/2025118298707558452/photo/1",
+          "media_key": "3_2025086914768863232",
+          "start": 9,
+          "url": "https://t.co/Dh1hdyGVyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025118298707558452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三步之内必有解药 https://t.co/Dh1hdyGVyt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1969,
+        "media_key": "3_2025086914768863232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqN0dIXAAARkAx.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025086914768863232"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2025118298707558452",
+        "created_at": "2026-02-21T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025118298707558452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dh1hdyGVyt",
+              "end": 32,
+              "expanded_url": "https://x.com/youy1qwq/status/2025118298707558452/photo/1",
+              "media_key": "3_2025086914768863232",
+              "start": 9,
+              "url": "https://t.co/Dh1hdyGVyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025118298707558452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三步之内必有解药 https://t.co/Dh1hdyGVyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4192,
+          "following_count": 1055,
+          "like_count": 2621,
+          "listed_count": 6,
+          "media_count": 452,
+          "tweet_count": 846
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

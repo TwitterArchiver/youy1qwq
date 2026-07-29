@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079877160291242094",
+    "created_at": "2026-07-23T03:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080136081677472096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1625442343439732737",
+          "start": 0,
+          "username": "yeyuhaoyangmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080136081677472096",
+    "in_reply_to_user_id": "1625442343439732737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079877160291242094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyuhaoyangmao 必回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079877160291242094",
+        "created_at": "2026-07-23T03:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080136081677472096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1625442343439732737",
+              "start": 0,
+              "username": "yeyuhaoyangmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080136081677472096",
+        "in_reply_to_user_id": "1625442343439732737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079877160291242094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyuhaoyangmao 必回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625442343439732737",
+        "conversation_id": "2079877160291242094",
+        "created_at": "2026-07-22T10:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079877160291242094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079877160291242094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4882,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 154,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朋友“走个面”交个朋友\n\n好久没有交新朋友了\n\n听说暗号都更新了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16645,
+          "following_count": 2872,
+          "like_count": 8074,
+          "listed_count": 28,
+          "media_count": 2268,
+          "tweet_count": 3931
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-14T10:30:39.000Z",
+        "description": "三十已过，四十将至，遇人遇事遇己都会更加珍重更加珍惜。\n#撸毛新手 #卑微的打工人 #虚拟币买卖就用宇宙第一大所Binance（币安）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "撸毛新手"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "卑微的打工人"
+              },
+              {
+                "end": 63,
+                "start": 42,
+                "tag": "虚拟币买卖就用宇宙第一大所Binance"
+              }
+            ]
+          }
+        },
+        "id": "1625442343439732737",
+        "name": "小小",
+        "pinned_tweet_id": "2070523787821641902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005837977197654016/LVXlgrKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7292,
+          "following_count": 7891,
+          "like_count": 1165,
+          "listed_count": 11,
+          "media_count": 119,
+          "tweet_count": 5209
+        },
+        "url": "",
+        "username": "yeyuhaoyangmao",
+        "verified": true
+      }
+    ]
+  }
+}

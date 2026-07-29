@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024739463910277120"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2024755913526301002",
+    "created_at": "2026-02-20T08:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024755913526301002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/niLgktUlxJ",
+          "end": 47,
+          "expanded_url": "https://x.com/youy1qwq/status/2024755913526301002/photo/1",
+          "media_key": "3_2024739463910277120",
+          "start": 24,
+          "url": "https://t.co/niLgktUlxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024755913526301002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "表达很委婉很形象，但是商家没看懂，顾客的无力感 https://t.co/niLgktUlxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_2024739463910277120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlR0J0WQAAk4py.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024739463910277120"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2024755913526301002",
+        "created_at": "2026-02-20T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024755913526301002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/niLgktUlxJ",
+              "end": 47,
+              "expanded_url": "https://x.com/youy1qwq/status/2024755913526301002/photo/1",
+              "media_key": "3_2024739463910277120",
+              "start": 24,
+              "url": "https://t.co/niLgktUlxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024755913526301002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "表达很委婉很形象，但是商家没看懂，顾客的无力感 https://t.co/niLgktUlxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4000,
+          "following_count": 1024,
+          "like_count": 2602,
+          "listed_count": 6,
+          "media_count": 435,
+          "tweet_count": 829
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

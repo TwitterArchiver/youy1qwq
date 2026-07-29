@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019338840427884797",
+    "created_at": "2026-02-05T21:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T22:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019529995308396961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1033965360226041856",
+          "start": 0,
+          "username": "ambition520000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019529995308396961",
+    "in_reply_to_user_id": "1033965360226041856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019491977700823375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ambition520000 wow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019338840427884797",
+        "created_at": "2026-02-05T21:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019529995308396961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1033965360226041856",
+              "start": 0,
+              "username": "ambition520000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019529995308396961",
+        "in_reply_to_user_id": "1033965360226041856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019491977700823375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ambition520000 wow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1033965360226041856",
+        "conversation_id": "2019338840427884797",
+        "created_at": "2026-02-05T19:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T20:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019491977700823375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019491977700823375",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019338840427884797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 说个比较偏的，我有过敏性鼻炎，但是我每次吃完专注达后，鼻子呼吸特别通畅。低能量可能是因为身体因为什么原因在消耗神经递质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 407,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 246
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-27T06:32:06.000Z",
+        "description": "entp adhd 民主社会主义 吉他手 性格不好有冒犯请理解（不理解就拉黑吧）",
+        "id": "1033965360226041856",
+        "name": "Hollow",
+        "pinned_tweet_id": "1954062283765952717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778751763111403520/nB7owWoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 773,
+          "like_count": 45,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 1438
+        },
+        "username": "ambition520000",
+        "verified": false
+      }
+    ]
+  }
+}

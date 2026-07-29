@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070136920383115264"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2070136930612961297",
+    "created_at": "2026-06-25T13:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070136930612961297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eBbGqanhkL",
+          "end": 29,
+          "expanded_url": "https://x.com/youy1qwq/status/2070136930612961297/photo/1",
+          "media_key": "3_2070136920383115264",
+          "start": 6,
+          "url": "https://t.co/eBbGqanhkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070136930612961297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爸爸还护食 https://t.co/eBbGqanhkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_2070136920383115264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqaj5_bUAAkQ8q.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070136920383115264"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2070136930612961297",
+        "created_at": "2026-06-25T13:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070136930612961297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBbGqanhkL",
+              "end": 29,
+              "expanded_url": "https://x.com/youy1qwq/status/2070136930612961297/photo/1",
+              "media_key": "3_2070136920383115264",
+              "start": 6,
+              "url": "https://t.co/eBbGqanhkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070136930612961297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸还护食 https://t.co/eBbGqanhkL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15183,
+          "following_count": 2219,
+          "like_count": 7220,
+          "listed_count": 28,
+          "media_count": 2124,
+          "tweet_count": 3685
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

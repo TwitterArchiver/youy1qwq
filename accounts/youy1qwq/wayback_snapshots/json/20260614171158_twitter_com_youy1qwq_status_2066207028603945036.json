@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066117682219594121",
+    "created_at": "2026-06-14T17:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066207028603945036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1971907907592867840",
+          "start": 0,
+          "username": "Rinyuhim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066207028603945036",
+    "in_reply_to_user_id": "1971907907592867840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066201879588311476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyuhim 高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066117682219594121",
+        "created_at": "2026-06-14T17:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066207028603945036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1971907907592867840",
+              "start": 0,
+              "username": "Rinyuhim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066207028603945036",
+        "in_reply_to_user_id": "1971907907592867840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066201879588311476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyuhim 高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971907907592867840",
+        "conversation_id": "2066117682219594121",
+        "created_at": "2026-06-14T16:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066201879588311476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066201879588311476",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066117682219594121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 对面的情商无限接近于一根成年香蕉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14656,
+          "following_count": 2117,
+          "like_count": 5923,
+          "listed_count": 25,
+          "media_count": 2051,
+          "tweet_count": 3071
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T12:01:07.000Z",
+        "description": "动漫爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com",
+                "start": 0,
+                "url": "https://t.co/bnKIslOBtW"
+              }
+            ]
+          }
+        },
+        "id": "1971907907592867840",
+        "location": "看我位置干啥？我在中国(China)",
+        "name": "Rinyu其人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049796502915366912/3-x4_azV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 306,
+          "like_count": 6478,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 4328
+        },
+        "url": "https://t.co/bnKIslOBtW",
+        "username": "Rinyuhim",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064245726482469067",
+    "created_at": "2026-06-09T07:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064245726482469067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiyun114514/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/zhiyun114514/status/2064205289457594440",
+          "start": 13,
+          "url": "https://t.co/hvJWaLts5e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064245726482469067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064205289457594440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是谁在扔答辩我不多说 https://t.co/hvJWaLts5e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1695,
+        "media_key": "3_2064205282033688576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWHxHMaYAACqHg.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064245726482469067",
+        "created_at": "2026-06-09T07:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064245726482469067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiyun114514/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/zhiyun114514/status/2064205289457594440",
+              "start": 13,
+              "url": "https://t.co/hvJWaLts5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064245726482469067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064205289457594440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁在扔答辩我不多说 https://t.co/hvJWaLts5e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064205282033688576"
+          ]
+        },
+        "author_id": "1839865017392394240",
+        "conversation_id": "2064205289457594440",
+        "created_at": "2026-06-09T04:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064205289457594440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2bNoAfr5r",
+              "end": 30,
+              "expanded_url": "https://x.com/zhiyun114514/status/2064205289457594440/photo/1",
+              "media_key": "3_2064205282033688576",
+              "start": 7,
+              "url": "https://t.co/Q2bNoAfr5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064205289457594440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老图再放送！ https://t.co/Q2bNoAfr5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14181,
+          "following_count": 2047,
+          "like_count": 4623,
+          "listed_count": 24,
+          "media_count": 2005,
+          "tweet_count": 2654
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n中国人\n(有多少人认识我？)\n二世:@zhi96886   小号:@mmj199747\n一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "zhi96886"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "mmj199747"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2063125785729433944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036083407361642496/EoLSSXvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 1227,
+          "like_count": 9329,
+          "listed_count": 5,
+          "media_count": 778,
+          "tweet_count": 4968
+        },
+        "username": "zhiyun114514",
+        "verified": true
+      }
+    ]
+  }
+}

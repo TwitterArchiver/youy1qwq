@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2051803775992836294",
+    "created_at": "2026-05-06T05:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051891753574105163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1481229653410914307",
+          "start": 0,
+          "username": "CXLH22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051891753574105163",
+    "in_reply_to_user_id": "1481229653410914307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051803775992836294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CXLH22 互关吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2051803775992836294",
+        "created_at": "2026-05-06T05:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051891753574105163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1481229653410914307",
+              "start": 0,
+              "username": "CXLH22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051891753574105163",
+        "in_reply_to_user_id": "1481229653410914307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051803775992836294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CXLH22 互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481229653410914307",
+        "conversation_id": "2051803775992836294",
+        "created_at": "2026-05-05T23:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051803775992836294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051803775992836294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晨起拾光，不负今朝，早安✨\n互动起来。新的一天又开始了\n今天的流量会不会大涨起来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12301,
+          "following_count": 1742,
+          "like_count": 4023,
+          "listed_count": 20,
+          "media_count": 1646,
+          "tweet_count": 2156
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T11:41:02.000Z",
+        "description": "币圈萌新，永远新手，被反复收割的区块链散户韭菜，也是19年资深中餐厨师，爆仓了就给人炒菜打工挣钱然后在入坑。",
+        "id": "1481229653410914307",
+        "location": "中国",
+        "name": "扎西索朗",
+        "pinned_tweet_id": "2051582615053103113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927289528953327616/oWxwzN3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 2342,
+          "like_count": 120,
+          "listed_count": 6,
+          "media_count": 49,
+          "tweet_count": 999
+        },
+        "username": "CXLH22",
+        "verified": true
+      }
+    ]
+  }
+}

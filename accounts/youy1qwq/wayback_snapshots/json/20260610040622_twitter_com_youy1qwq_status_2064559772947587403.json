@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064399497061658909",
+    "created_at": "2026-06-10T04:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064559772947587403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747202572061130752",
+          "start": 0,
+          "username": "dawalis112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064559772947587403",
+    "in_reply_to_user_id": "1747202572061130752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064496096270041279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dawalis112 一点亏也不吃啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064399497061658909",
+        "created_at": "2026-06-10T04:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064559772947587403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747202572061130752",
+              "start": 0,
+              "username": "dawalis112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064559772947587403",
+        "in_reply_to_user_id": "1747202572061130752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064496096270041279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dawalis112 一点亏也不吃啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747202572061130752",
+        "conversation_id": "2064399497061658909",
+        "created_at": "2026-06-09T23:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064496096270041279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064496096270041279",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064399497061658909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 对方不光想离开，还想要你命😏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14202,
+          "following_count": 2067,
+          "like_count": 4748,
+          "listed_count": 24,
+          "media_count": 2011,
+          "tweet_count": 2716
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-16T10:22:26.000Z",
+        "description": "被 X 算法教育中 | AI 工具测试 + 互联网文化观察 | 电子流浪汉 | 每天一点真实吐槽",
+        "id": "1747202572061130752",
+        "name": "达瓦里氏",
+        "pinned_tweet_id": "2063491121360273683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859938422980534272/P7SlCHyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1170,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 874
+        },
+        "username": "dawalis112",
+        "verified": true
+      }
+    ]
+  }
+}

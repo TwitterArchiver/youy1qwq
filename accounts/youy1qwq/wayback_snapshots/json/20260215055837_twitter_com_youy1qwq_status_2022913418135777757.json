@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2022853371284300169",
+    "created_at": "2026-02-15T05:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022913418135777757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1692041330774638592",
+          "start": 0,
+          "username": "huangshang1982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022913418135777757",
+    "in_reply_to_user_id": "1692041330774638592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022901640924463530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huangshang1982 已采纳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2022901636344266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLKUgnbQAAOUAw.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2022853371284300169",
+        "created_at": "2026-02-15T05:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022913418135777757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1692041330774638592",
+              "start": 0,
+              "username": "huangshang1982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022913418135777757",
+        "in_reply_to_user_id": "1692041330774638592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022901640924463530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huangshang1982 已采纳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022901636344266752"
+          ]
+        },
+        "author_id": "1692041330774638592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022853371284300169",
+        "created_at": "2026-02-15T05:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022901640924463530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWTd2bEqwa",
+              "end": 41,
+              "expanded_url": "https://x.com/huangshang1982/status/2022901640924463530/photo/1",
+              "media_key": "3_2022901636344266752",
+              "start": 18,
+              "url": "https://t.co/HWTd2bEqwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022901640924463530",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022853371284300169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 是个当骑手的料 https://t.co/HWTd2bEqwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3240,
+          "following_count": 924,
+          "like_count": 2334,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 688
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T05:11:13.000Z",
+        "description": "",
+        "id": "1692041330774638592",
+        "name": "低空行为",
+        "pinned_tweet_id": "1696227266152546317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973834116006313984/5GoX8q1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 158,
+          "like_count": 247,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 3905
+        },
+        "username": "huangshang1982",
+        "verified": false
+      }
+    ]
+  }
+}

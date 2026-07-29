@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2051467527491133643",
+    "created_at": "2026-05-05T01:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051479292995940653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1092088554",
+          "start": 0,
+          "username": "Bitcoin188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051479292995940653",
+    "in_reply_to_user_id": "1092088554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051467527491133643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitcoin188 借楼一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 625,
+        "media_key": "3_2051467525070950400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhG2EwakAA1vaU.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2051467527491133643",
+        "created_at": "2026-05-05T01:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051479292995940653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1092088554",
+              "start": 0,
+              "username": "Bitcoin188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051479292995940653",
+        "in_reply_to_user_id": "1092088554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051467527491133643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitcoin188 借楼一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051467525070950400"
+          ]
+        },
+        "author_id": "1092088554",
+        "conversation_id": "2051467527491133643",
+        "created_at": "2026-05-05T01:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051467527491133643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3cqFyPyuAR",
+              "end": 81,
+              "expanded_url": "https://x.com/Bitcoin188/status/2051467527491133643/photo/1",
+              "media_key": "3_2051467525070950400",
+              "start": 58,
+              "url": "https://t.co/3cqFyPyuAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051467527491133643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2375,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "休息4天了 发现蓝V又掉了很多 \n来一波蓝V互关\n\n诚信互关  ，取关的不要来 直接留言就行 6000个蓝V关注你 https://t.co/3cqFyPyuAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12195,
+          "following_count": 1729,
+          "like_count": 4011,
+          "listed_count": 21,
+          "media_count": 1633,
+          "tweet_count": 2139
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-15T13:33:36.000Z",
+        "description": "近3亿用户的共同选择，出入金安全，启程Web3，就在币安：链接https://t.co/x3jFU2a7X0     TG ： https://t.co/twpusIpbp0 比特币",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "binance.com/zh-CN/join?ref…",
+                "end": 54,
+                "expanded_url": "https://www.binance.com/zh-CN/join?ref=1013628275",
+                "start": 31,
+                "url": "https://t.co/x3jFU2a7X0"
+              },
+              {
+                "display_url": "t.me/Btbd188",
+                "end": 87,
+                "expanded_url": "https://t.me/Btbd188",
+                "start": 64,
+                "url": "https://t.co/twpusIpbp0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Btbd188",
+                "end": 23,
+                "expanded_url": "https://t.me/Btbd188",
+                "start": 0,
+                "url": "https://t.co/twpusIpbp0"
+              }
+            ]
+          }
+        },
+        "id": "1092088554",
+        "name": "比特币道",
+        "pinned_tweet_id": "2048366443897737480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461000327323271174/F0oJujcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85533,
+          "following_count": 10138,
+          "like_count": 37466,
+          "listed_count": 131,
+          "media_count": 1659,
+          "tweet_count": 47471
+        },
+        "url": "https://t.co/twpusIpbp0",
+        "username": "Bitcoin188",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018493101149409280"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018512262575935815",
+    "created_at": "2026-02-03T02:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T03:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018512262575935815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cY1JYllAVl",
+          "end": 32,
+          "expanded_url": "https://x.com/youy1qwq/status/2018512262575935815/photo/1",
+          "media_key": "3_2018493101149409280",
+          "start": 9,
+          "url": "https://t.co/cY1JYllAVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018512262575935815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "春晚导演学聪明了 https://t.co/cY1JYllAVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_2018493101149409280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMgx_OWUAAN_0B.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018493101149409280"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018512262575935815",
+        "created_at": "2026-02-03T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018512262575935815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cY1JYllAVl",
+              "end": 32,
+              "expanded_url": "https://x.com/youy1qwq/status/2018512262575935815/photo/1",
+              "media_key": "3_2018493101149409280",
+              "start": 9,
+              "url": "https://t.co/cY1JYllAVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018512262575935815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春晚导演学聪明了 https://t.co/cY1JYllAVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 207,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 114
+        },
+        "username": "youy1qwq",
+        "verified": false
+      }
+    ]
+  }
+}

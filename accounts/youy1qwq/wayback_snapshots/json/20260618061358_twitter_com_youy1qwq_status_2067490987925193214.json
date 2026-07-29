@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067175448740839556",
+    "created_at": "2026-06-18T06:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067490987925193214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061877002588860416",
+          "start": 0,
+          "username": "Azrael_9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067490987925193214",
+    "in_reply_to_user_id": "2061877002588860416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067244994692596194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azrael_9527 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-18T06:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067490987925193214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061877002588860416",
+              "start": 0,
+              "username": "Azrael_9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067490987925193214",
+        "in_reply_to_user_id": "2061877002588860416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067244994692596194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azrael_9527 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061877002588860416",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-17T13:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067244994692596194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067244994692596194",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175448740839556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我一直以为这玩意得有百年历史"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6240,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3328
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T18:27:21.000Z",
+        "description": "07｜大一\nAI辅助 公众号｜视频号｜抖音｜小红书\n老马的黑奴｜X的持续活跃者",
+        "id": "2061877002588860416",
+        "name": "Eleven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064925026831507456/KXhRR-Yx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 247,
+          "like_count": 394,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 312
+        },
+        "username": "Azrael_9527",
+        "verified": true
+      }
+    ]
+  }
+}

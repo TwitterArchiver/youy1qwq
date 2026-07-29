@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079478876741542100",
+    "created_at": "2026-07-22T08:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079843514209402921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999431383723483136",
+          "start": 0,
+          "username": "ysp2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079843514209402921",
+    "in_reply_to_user_id": "1999431383723483136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079478876741542100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysp2025 一起吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079478868310933504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvLA1-awAAhyeb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079478876741542100",
+        "created_at": "2026-07-22T08:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079843514209402921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999431383723483136",
+              "start": 0,
+              "username": "ysp2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079843514209402921",
+        "in_reply_to_user_id": "1999431383723483136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079478876741542100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysp2025 一起吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079478868310933504"
+          ]
+        },
+        "author_id": "1999431383723483136",
+        "conversation_id": "2079478876741542100",
+        "created_at": "2026-07-21T08:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079478876741542100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4BXpBNmR1",
+              "end": 77,
+              "expanded_url": "https://x.com/ysp2025/status/2079478876741542100/photo/1",
+              "media_key": "3_2079478868310933504",
+              "start": 54,
+              "url": "https://t.co/l4BXpBNmR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079478876741542100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2065,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一会涨了一百个，等我挨个回复，\n\n执行力强是我唯一的优势，我要利用好。\n\n这个月到 1.5 万，没问题吧？ https://t.co/l4BXpBNmR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16583,
+          "following_count": 2851,
+          "like_count": 8056,
+          "listed_count": 28,
+          "media_count": 2263,
+          "tweet_count": 3916
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-12T10:49:43.000Z",
+        "description": "20年电商创业经历，操作过多个电商头部品牌，25年破产，26年学习自媒体， 有卫浴，浴室柜，供应链资源，想付费做跨境，欢迎链接V：97289",
+        "id": "1999431383723483136",
+        "name": "老叶聊电商自媒体",
+        "pinned_tweet_id": "2008129126100869509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999438473670098944/e-I6FlvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12171,
+          "following_count": 6703,
+          "like_count": 24,
+          "listed_count": 11,
+          "media_count": 1535,
+          "tweet_count": 8042
+        },
+        "url": "",
+        "username": "ysp2025",
+        "verified": true
+      }
+    ]
+  }
+}

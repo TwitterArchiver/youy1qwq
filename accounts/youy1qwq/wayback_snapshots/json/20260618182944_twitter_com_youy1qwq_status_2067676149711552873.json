@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067266376998543575",
+    "created_at": "2026-06-18T18:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067676149711552873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1373465862527610881",
+          "start": 0,
+          "username": "lsla_error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067676149711552873",
+    "in_reply_to_user_id": "1373465862527610881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067619859538784376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsla_error 赢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067266376998543575",
+        "created_at": "2026-06-18T18:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067676149711552873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1373465862527610881",
+              "start": 0,
+              "username": "lsla_error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067676149711552873",
+        "in_reply_to_user_id": "1373465862527610881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067619859538784376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsla_error 赢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373465862527610881",
+        "conversation_id": "2067266376998543575",
+        "created_at": "2026-06-18T14:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067619859538784376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067619859538784376",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266376998543575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 夜师傅完全胜利✌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14781,
+          "following_count": 2152,
+          "like_count": 6327,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3405
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-21T02:46:01.000Z",
+        "description": "",
+        "id": "1373465862527610881",
+        "location": "上海",
+        "name": "maga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484812570829541376/sjmEyOMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 94,
+          "like_count": 5832,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 779
+        },
+        "url": "",
+        "username": "lsla_error",
+        "verified": false
+      }
+    ]
+  }
+}

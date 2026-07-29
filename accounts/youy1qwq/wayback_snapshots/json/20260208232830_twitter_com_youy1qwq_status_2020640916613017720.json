@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020241154940268727",
+    "created_at": "2026-02-08T23:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T00:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020640916613017720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1225274552940318720",
+          "start": 0,
+          "username": "realOliverSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020640916613017720",
+    "in_reply_to_user_id": "1225274552940318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我支持，这个烂梗被发明出来除了又多了个方式微妙歧视性少数之外我想不出任何用处，并且毫无笑点，和成都系列梗一样。而且以前发自己兽设就算是圈外路人有时候也会夸夸可爱，现在只需要扣下这三个字或者骂两句来装懂哥就够了。然后再来一轮反串，装福瑞说傻逼话然后被骂，给骂福瑞又套了一层合法性，并且两个人都在其中获得爽感而被骂的东西本身甚至完全没参与这些"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020523248358683087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realOliverSama 其实我支持，这个烂梗被发明出来除了又多了个方式微妙歧视性少数之外我想不出任何用处，并且毫无笑点，和成都系列梗一样。而且以前发自己兽设就算是圈外路人有时候也会夸夸可爱，现在只需要扣下这三个字或者骂两句来装懂哥就够了。然后再来一轮反串，装福瑞说傻逼话然后被骂，给骂福瑞又套了一层合法性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020241154940268727",
+        "created_at": "2026-02-08T23:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T00:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020640916613017720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1225274552940318720",
+              "start": 0,
+              "username": "realOliverSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020640916613017720",
+        "in_reply_to_user_id": "1225274552940318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我支持，这个烂梗被发明出来除了又多了个方式微妙歧视性少数之外我想不出任何用处，并且毫无笑点，和成都系列梗一样。而且以前发自己兽设就算是圈外路人有时候也会夸夸可爱，现在只需要扣下这三个字或者骂两句来装懂哥就够了。然后再来一轮反串，装福瑞说傻逼话然后被骂，给骂福瑞又套了一层合法性，并且两个人都在其中获得爽感而被骂的东西本身甚至完全没参与这些"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020523248358683087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realOliverSama 其实我支持，这个烂梗被发明出来除了又多了个方式微妙歧视性少数之外我想不出任何用处，并且毫无笑点，和成都系列梗一样。而且以前发自己兽设就算是圈外路人有时候也会夸夸可爱，现在只需要扣下这三个字或者骂两句来装懂哥就够了。然后再来一轮反串，装福瑞说傻逼话然后被骂，给骂福瑞又套了一层合法性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225274552940318720",
+        "conversation_id": "2020241154940268727",
+        "created_at": "2026-02-08T15:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020523248358683087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020523248358683087",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4072,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020241154940268727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 傻逼，你老奶下葬的时候骨灰盒上画个龙你也跟你爹说这是骚福瑞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 848,
+          "like_count": 1802,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 483
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-06T04:26:49.000Z",
+        "description": "I'm ready to dive. @Zerlight0653",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Zerlight0653"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kogabyoliver?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/kogabyoliver?s=21",
+                "start": 0,
+                "url": "https://t.co/wqRTCJu30G"
+              }
+            ]
+          }
+        },
+        "id": "1225274552940318720",
+        "location": "Ocean Blvd.",
+        "name": "Oliver",
+        "pinned_tweet_id": "2017634092398088664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014342812406575105/YsjfbHB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16883,
+          "following_count": 925,
+          "like_count": 57154,
+          "listed_count": 19,
+          "media_count": 744,
+          "tweet_count": 4593
+        },
+        "url": "https://t.co/wqRTCJu30G",
+        "username": "realOliverSama",
+        "verified": false
+      }
+    ]
+  }
+}

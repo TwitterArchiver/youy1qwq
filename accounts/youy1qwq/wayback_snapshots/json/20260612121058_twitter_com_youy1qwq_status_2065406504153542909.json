@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065375020747252191",
+    "created_at": "2026-06-12T12:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065406504153542909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394500556488540164",
+          "start": 0,
+          "username": "QvD6YyEv1TBevht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065406504153542909",
+    "in_reply_to_user_id": "1394500556488540164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065398415207657511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QvD6YyEv1TBevht 肯定没有😔不然为什么会有这么多招娣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065375020747252191",
+        "created_at": "2026-06-12T12:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065406504153542909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394500556488540164",
+              "start": 0,
+              "username": "QvD6YyEv1TBevht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065406504153542909",
+        "in_reply_to_user_id": "1394500556488540164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065398415207657511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QvD6YyEv1TBevht 肯定没有😔不然为什么会有这么多招娣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394500556488540164",
+        "conversation_id": "2065375020747252191",
+        "created_at": "2026-06-12T11:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065398415207657511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065398415207657511",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065375020747252191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这样的父母还没灭绝吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14435,
+          "following_count": 2092,
+          "like_count": 5531,
+          "listed_count": 24,
+          "media_count": 2034,
+          "tweet_count": 2930
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-18T03:50:25.000Z",
+        "description": "研究生在读，考研阅卷人\n主见很重要，盲目跟风不可取",
+        "id": "1394500556488540164",
+        "location": "距离你1光年",
+        "name": "🥄🖊匋亭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037330610415603712/rjA2NIVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 128,
+          "like_count": 2995,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1445
+        },
+        "username": "QvD6YyEv1TBevht",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064384430341517681",
+    "created_at": "2026-06-10T04:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064563027157155973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980683409342230528",
+          "start": 0,
+          "username": "RxZERO000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064563027157155973",
+    "in_reply_to_user_id": "1980683409342230528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064419380692451413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RxZERO000 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064384430341517681",
+        "created_at": "2026-06-10T04:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064563027157155973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980683409342230528",
+              "start": 0,
+              "username": "RxZERO000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064563027157155973",
+        "in_reply_to_user_id": "1980683409342230528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064419380692451413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RxZERO000 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980683409342230528",
+        "conversation_id": "2064384430341517681",
+        "created_at": "2026-06-09T18:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064419380692451413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064419380692451413",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1124,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064384430341517681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 的确挺好的，让他们圈子自我消化就好，别放出来了👍实际放出来也找不着，只不过不会恶心到别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14202,
+          "following_count": 2067,
+          "like_count": 4754,
+          "listed_count": 24,
+          "media_count": 2011,
+          "tweet_count": 2719
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T17:12:19.000Z",
+        "description": "",
+        "id": "1980683409342230528",
+        "name": "Rx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995203459617009664/JrsI5j25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 1331,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 343
+        },
+        "username": "RxZERO000",
+        "verified": false
+      }
+    ]
+  }
+}

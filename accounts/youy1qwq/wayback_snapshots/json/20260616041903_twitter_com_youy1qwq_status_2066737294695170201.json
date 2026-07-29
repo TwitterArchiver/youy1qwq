@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066573932615041450",
+    "created_at": "2026-06-16T04:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066737294695170201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "855565460464652288",
+          "start": 0,
+          "username": "CarlosZeLuis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066737294695170201",
+    "in_reply_to_user_id": "855565460464652288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066708161994908148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlosZeLuis 是哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T04:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066737294695170201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "855565460464652288",
+              "start": 0,
+              "username": "CarlosZeLuis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066737294695170201",
+        "in_reply_to_user_id": "855565460464652288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066708161994908148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlosZeLuis 是哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "855565460464652288",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T02:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066708161994908148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066708161994908148",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573932615041450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq were是正确的，但现实里用was的大有人在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14700,
+          "following_count": 2126,
+          "like_count": 6029,
+          "listed_count": 25,
+          "media_count": 2059,
+          "tweet_count": 3153
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-21T23:34:36.000Z",
+        "description": "不忠于任何政治倾向和宗教信仰，也试图不沉溺于任何信息茧房。喜欢琢磨世间一切的本质，努力扒掉所有皇帝的新装。There’s no such a thing as absolute certainty.",
+        "id": "855565460464652288",
+        "name": "小蓝鸟归来",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954767913573101568/pwvaDtXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1008,
+          "like_count": 280438,
+          "listed_count": 5,
+          "media_count": 391,
+          "tweet_count": 17539
+        },
+        "username": "CarlosZeLuis",
+        "verified": true
+      }
+    ]
+  }
+}

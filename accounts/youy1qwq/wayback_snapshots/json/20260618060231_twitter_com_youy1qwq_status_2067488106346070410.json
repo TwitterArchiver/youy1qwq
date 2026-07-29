@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067266376998543575",
+    "created_at": "2026-06-18T06:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067488106346070410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940588552485761024",
+          "start": 0,
+          "username": "april940427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067488106346070410",
+    "in_reply_to_user_id": "1940588552485761024",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067432143186502047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@april940427 www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067266376998543575",
+        "created_at": "2026-06-18T06:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067488106346070410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940588552485761024",
+              "start": 0,
+              "username": "april940427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067488106346070410",
+        "in_reply_to_user_id": "1940588552485761024",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067432143186502047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@april940427 www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940588552485761024",
+        "conversation_id": "2067266376998543575",
+        "created_at": "2026-06-18T02:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067432143186502047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067432143186502047",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266376998543575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我敲啊这个抓得好牛逼😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6217,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-03T01:49:09.000Z",
+        "description": "Amateur photographer.📷\ncapturing moments in life. \nWelcome chat with me.",
+        "id": "1940588552485761024",
+        "location": "山海关外",
+        "name": "Aprille",
+        "pinned_tweet_id": "2044401391926722855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947217503773446144/-XymI0Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 622,
+          "like_count": 6340,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 6459
+        },
+        "url": "",
+        "username": "april940427",
+        "verified": false
+      }
+    ]
+  }
+}

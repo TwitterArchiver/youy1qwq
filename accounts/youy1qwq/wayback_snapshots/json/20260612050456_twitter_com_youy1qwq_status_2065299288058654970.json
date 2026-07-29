@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065029787824066912",
+    "created_at": "2026-06-12T05:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065299288058654970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1271308446378283008",
+          "start": 0,
+          "username": "XKK80566097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065299288058654970",
+    "in_reply_to_user_id": "1271308446378283008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065133252076290126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XKK80566097 正确"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "16_2065133236272123904",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKjTvKHaUAAchz4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKjTvKHaUAAchz4.mp4"
+          }
+        ],
+        "width": 342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065029787824066912",
+        "created_at": "2026-06-12T05:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065299288058654970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1271308446378283008",
+              "start": 0,
+              "username": "XKK80566097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065299288058654970",
+        "in_reply_to_user_id": "1271308446378283008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065133252076290126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XKK80566097 正确"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065133236272123904"
+          ]
+        },
+        "author_id": "1271308446378283008",
+        "conversation_id": "2065029787824066912",
+        "created_at": "2026-06-11T18:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065133252076290126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xtq5aRIiL7",
+              "end": 33,
+              "expanded_url": "https://x.com/XKK80566097/status/2065133252076290126/photo/1",
+              "media_key": "16_2065133236272123904",
+              "start": 10,
+              "url": "https://t.co/Xtq5aRIiL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065133252076290126",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3921,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065029787824066912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/Xtq5aRIiL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14400,
+          "following_count": 2088,
+          "like_count": 5482,
+          "listed_count": 24,
+          "media_count": 2032,
+          "tweet_count": 2906
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-12T05:09:01.000Z",
+        "description": "我是现充",
+        "id": "1271308446378283008",
+        "location": "Adelaide, South Australia",
+        "name": "GUotaku-好像没有那么肥宅了",
+        "pinned_tweet_id": "1770482158194344000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787448062438432768/XaVT-IU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 345,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 292
+        },
+        "username": "XKK80566097",
+        "verified": false
+      }
+    ]
+  }
+}

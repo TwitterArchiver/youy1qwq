@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019606986502103480",
+    "created_at": "2026-02-06T05:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T06:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019649399786520766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1538788709042356224",
+          "start": 0,
+          "username": "SepEight_0908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019649399786520766",
+    "in_reply_to_user_id": "1538788709042356224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019648143407894843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SepEight_0908 怎么全都是平的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019606986502103480",
+        "created_at": "2026-02-06T05:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019649399786520766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1538788709042356224",
+              "start": 0,
+              "username": "SepEight_0908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019649399786520766",
+        "in_reply_to_user_id": "1538788709042356224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019648143407894843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SepEight_0908 怎么全都是平的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538788709042356224",
+        "conversation_id": "2019606986502103480",
+        "created_at": "2026-02-06T05:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019648143407894843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019648143407894843",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019606986502103480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 阿爺無大咪 木蘭無長兄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 526,
+          "like_count": 1145,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 298
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-20T07:40:15.000Z",
+        "description": "Let it be",
+        "id": "1538788709042356224",
+        "name": "秋來九月八",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628070206227779584/2Rt9PZDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 1018,
+          "like_count": 58374,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1745
+        },
+        "username": "SepEight_0908",
+        "verified": false
+      }
+    ]
+  }
+}

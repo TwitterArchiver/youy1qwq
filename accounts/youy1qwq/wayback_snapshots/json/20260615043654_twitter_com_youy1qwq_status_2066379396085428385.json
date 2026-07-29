@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066125535802257765",
+    "created_at": "2026-06-15T04:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066379396085428385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1549743701622001666",
+          "start": 0,
+          "username": "ccc05wi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066379396085428385",
+    "in_reply_to_user_id": "1549743701622001666",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066291077947306486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccc05wi 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_2066291070955335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzwyAbasAAPEL9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066125535802257765",
+        "created_at": "2026-06-15T04:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066379396085428385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1549743701622001666",
+              "start": 0,
+              "username": "ccc05wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066379396085428385",
+        "in_reply_to_user_id": "1549743701622001666",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066291077947306486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccc05wi 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066291070955335680"
+          ]
+        },
+        "author_id": "1549743701622001666",
+        "conversation_id": "2066125535802257765",
+        "created_at": "2026-06-14T22:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066291077947306486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoWEODgEoc",
+              "end": 33,
+              "expanded_url": "https://x.com/ccc05wi/status/2066291077947306486/photo/1",
+              "media_key": "3_2066291070955335680",
+              "start": 10,
+              "url": "https://t.co/SoWEODgEoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066291077947306486",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 869,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066125535802257765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/SoWEODgEoc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14680,
+          "following_count": 2119,
+          "like_count": 5948,
+          "listed_count": 25,
+          "media_count": 2053,
+          "tweet_count": 3088
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-20T13:11:15.000Z",
+        "description": "I'm fine",
+        "id": "1549743701622001666",
+        "location": "青青草原",
+        "name": "想当外星人👽",
+        "pinned_tweet_id": "1779852811154686385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945069206120357888/s5lRzQXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 583,
+          "like_count": 2506,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 488
+        },
+        "username": "ccc05wi",
+        "verified": false
+      }
+    ]
+  }
+}

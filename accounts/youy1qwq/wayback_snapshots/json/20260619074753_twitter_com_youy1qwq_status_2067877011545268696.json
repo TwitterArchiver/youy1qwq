@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067491923200532509",
+    "created_at": "2026-06-19T07:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067877011545268696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927261154377670656",
+          "start": 0,
+          "username": "lei_ren38662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067877011545268696",
+    "in_reply_to_user_id": "1927261154377670656",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067844985207287894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lei_ren38662 OS: OS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067491923200532509",
+        "created_at": "2026-06-19T07:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067877011545268696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927261154377670656",
+              "start": 0,
+              "username": "lei_ren38662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067877011545268696",
+        "in_reply_to_user_id": "1927261154377670656",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067844985207287894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei_ren38662 OS: OS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927261154377670656",
+        "conversation_id": "2067491923200532509",
+        "created_at": "2026-06-19T05:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067844985207287894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067844985207287894",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067491923200532509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 向日葵的意思在心里想就可以挡雨了，不用说出来。\nOS:我能听见向日葵的心声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14790,
+          "following_count": 2151,
+          "like_count": 6348,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3412
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-27T07:10:52.000Z",
+        "description": "",
+        "id": "1927261154377670656",
+        "name": "类人猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980657102847696896/Av7cBXm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 36,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "lei_ren38662",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065361961135857766",
+    "created_at": "2026-06-13T04:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065650878095471063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1180408815478607873",
+          "start": 0,
+          "username": "LGBTR_Ellenya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065650878095471063",
+    "in_reply_to_user_id": "1180408815478607873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065620090213609579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LGBTR_Ellenya 好棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065361961135857766",
+        "created_at": "2026-06-13T04:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065650878095471063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1180408815478607873",
+              "start": 0,
+              "username": "LGBTR_Ellenya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065650878095471063",
+        "in_reply_to_user_id": "1180408815478607873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065620090213609579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGBTR_Ellenya 好棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180408815478607873",
+        "conversation_id": "2065361961135857766",
+        "created_at": "2026-06-13T02:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065620090213609579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065620090213609579",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065361961135857766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 😭我更怀念是侏罗兽鼠鼠的阶段\n不一定美好，但是很短暂\n就算美好时间长了我们也会耐受\n被恐龙当饭后甜点也不是不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14487,
+          "following_count": 2104,
+          "like_count": 5627,
+          "listed_count": 24,
+          "media_count": 2040,
+          "tweet_count": 2979
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-05T09:06:17.000Z",
+        "description": "痛定思痛，感谢你在世界的角落找到我，生理结构侏罗兽大黑耗子，心理认同哈基咪。哈基咪一世秽土转生 @LGBBQ_Ellenya\n痛定思痛，不发布观点，不造谣，只讲事实逻辑\n痛定思痛为党为国为民\n误b私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "LGBBQ_Ellenya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn/GB/64107/index…",
+                "end": 23,
+                "expanded_url": "https://cpc.people.com.cn/GB/64107/index.html",
+                "start": 0,
+                "url": "https://t.co/d0OuSTuUTO"
+              }
+            ]
+          }
+        },
+        "id": "1180408815478607873",
+        "location": "Iberian Union",
+        "name": "糖基哈德•艾琳娜•千秋（推友寻回中）",
+        "pinned_tweet_id": "2043764375232663560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042929657192886272/iYyUQHtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 1110,
+          "like_count": 54013,
+          "listed_count": 10,
+          "media_count": 2233,
+          "tweet_count": 22988
+        },
+        "url": "https://t.co/d0OuSTuUTO",
+        "username": "LGBTR_Ellenya",
+        "verified": true
+      }
+    ]
+  }
+}

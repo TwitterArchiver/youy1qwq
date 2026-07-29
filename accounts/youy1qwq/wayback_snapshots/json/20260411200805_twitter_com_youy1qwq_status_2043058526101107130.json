@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2042965894033477737",
+    "created_at": "2026-04-11T20:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043058526101107130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578410350537736192",
+          "start": 0,
+          "username": "KawaiOchaken"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043058526101107130",
+    "in_reply_to_user_id": "1578410350537736192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042989811875877068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiOchaken 可能是风格吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042965894033477737",
+        "created_at": "2026-04-11T20:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043058526101107130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578410350537736192",
+              "start": 0,
+              "username": "KawaiOchaken"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043058526101107130",
+        "in_reply_to_user_id": "1578410350537736192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042989811875877068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiOchaken 可能是风格吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578410350537736192",
+        "conversation_id": "2042965894033477737",
+        "created_at": "2026-04-11T15:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042989811875877068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042989811875877068",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1108,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042965894033477737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这咋能看出来？中日韩长得都一样呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10075,
+          "following_count": 1533,
+          "like_count": 3666,
+          "listed_count": 14,
+          "media_count": 1324,
+          "tweet_count": 1792
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-07T15:42:21.000Z",
+        "description": "我来到这里只作两件事：晒茶犬和嚼泡泡糖。我现在已经没有泡泡糖了。",
+        "id": "1578410350537736192",
+        "location": "正在行驶的塔奇克马驾驶室",
+        "name": "𝕆𝕔𝕙𝕒𝕜𝕖𝕟 𝕊𝕡𝕣𝕖𝕒𝕕𝕖𝕣",
+        "pinned_tweet_id": "1847204843565302256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578410865174646785/wIkBoGdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 686,
+          "like_count": 12615,
+          "listed_count": 2,
+          "media_count": 1561,
+          "tweet_count": 11790
+        },
+        "username": "KawaiOchaken",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078359911067680768"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078359947117818138",
+    "created_at": "2026-07-18T06:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078359947117818138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGkn49jWZK",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2078359947117818138/photo/1",
+          "media_key": "3_2078359911067680768",
+          "start": 14,
+          "url": "https://t.co/JGkn49jWZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078359947117818138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给物理老师触发幸福者退让了 https://t.co/JGkn49jWZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078359911067680768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfRU9aaAAAO54L.jpg",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078359911067680768"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078359947117818138",
+        "created_at": "2026-07-18T06:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078359947117818138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGkn49jWZK",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2078359947117818138/photo/1",
+              "media_key": "3_2078359911067680768",
+              "start": 14,
+              "url": "https://t.co/JGkn49jWZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078359947117818138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给物理老师触发幸福者退让了 https://t.co/JGkn49jWZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16466,
+          "following_count": 2776,
+          "like_count": 7962,
+          "listed_count": 27,
+          "media_count": 2229,
+          "tweet_count": 3857
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2043388683433455855",
+    "created_at": "2026-04-12T22:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T23:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043451185252741319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950428768822317057",
+          "start": 0,
+          "username": "teto20090401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043451185252741319",
+    "in_reply_to_user_id": "1950428768822317057",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043438181652238599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teto20090401 www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2043388683433455855",
+        "created_at": "2026-04-12T22:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T23:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043451185252741319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950428768822317057",
+              "start": 0,
+              "username": "teto20090401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043451185252741319",
+        "in_reply_to_user_id": "1950428768822317057",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043438181652238599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teto20090401 www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950428768822317057",
+        "conversation_id": "2043388683433455855",
+        "created_at": "2026-04-12T21:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043438181652238599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043438181652238599",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043388683433455855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 房主给点钻块我盖房子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10162,
+          "following_count": 1562,
+          "like_count": 3683,
+          "listed_count": 15,
+          "media_count": 1338,
+          "tweet_count": 1809
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T05:30:43.000Z",
+        "description": "",
+        "id": "1950428768822317057",
+        "name": "teto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031276855567986691/WOWMjTyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 85
+        },
+        "username": "teto20090401",
+        "verified": false
+      }
+    ]
+  }
+}

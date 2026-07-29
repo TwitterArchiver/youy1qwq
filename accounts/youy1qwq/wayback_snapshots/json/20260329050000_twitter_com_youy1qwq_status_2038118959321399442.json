@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038087364220960768"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038118959321399442",
+    "created_at": "2026-03-29T05:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038118959321399442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7IYM9c4Ymv",
+          "end": 136,
+          "expanded_url": "https://x.com/youy1qwq/status/2038118959321399442/photo/1",
+          "media_key": "3_2038087364220960768",
+          "start": 113,
+          "url": "https://t.co/7IYM9c4Ymv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038118959321399442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你如果特别恨我这个网友，告诉你个很简单的方式就是你首先举起你的手机，接着狠狠把手机砸向地板，最后我就死了。而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。 https://t.co/7IYM9c4Ymv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2038087364220960768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEi9qNWaQAAYxy-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038087364220960768"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038118959321399442",
+        "created_at": "2026-03-29T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038118959321399442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IYM9c4Ymv",
+              "end": 136,
+              "expanded_url": "https://x.com/youy1qwq/status/2038118959321399442/photo/1",
+              "media_key": "3_2038087364220960768",
+              "start": 113,
+              "url": "https://t.co/7IYM9c4Ymv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038118959321399442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你如果特别恨我这个网友，告诉你个很简单的方式就是你首先举起你的手机，接着狠狠把手机砸向地板，最后我就死了。而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。 https://t.co/7IYM9c4Ymv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8744,
+          "following_count": 1418,
+          "like_count": 3345,
+          "listed_count": 13,
+          "media_count": 1111,
+          "tweet_count": 1534
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

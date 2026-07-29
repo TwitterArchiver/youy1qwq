@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019327635445481902",
+    "created_at": "2026-02-05T08:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019331332900368608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422417346623279104",
+          "start": 0,
+          "username": "tm8onQ2EQrJTXEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019331332900368608",
+    "in_reply_to_user_id": "1422417346623279104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019330969204060289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tm8onQ2EQrJTXEL 挺好的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019327635445481902",
+        "created_at": "2026-02-05T08:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019331332900368608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422417346623279104",
+              "start": 0,
+              "username": "tm8onQ2EQrJTXEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019331332900368608",
+        "in_reply_to_user_id": "1422417346623279104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019330969204060289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tm8onQ2EQrJTXEL 挺好的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422417346623279104",
+        "conversation_id": "2019327635445481902",
+        "created_at": "2026-02-05T08:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019330969204060289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019330969204060289",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019327635445481902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 像我们这种男女比例3:1 一对情侣一对基怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 284,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 209
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T04:41:54.000Z",
+        "description": "成都的 不是gay",
+        "id": "1422417346623279104",
+        "name": "攸荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018611404832387073/MTc_48Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 87
+        },
+        "username": "tm8onQ2EQrJTXEL",
+        "verified": false
+      }
+    ]
+  }
+}

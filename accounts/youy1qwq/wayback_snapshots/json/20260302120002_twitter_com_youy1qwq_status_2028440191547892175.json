@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028356917257523202"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2028440191547892175",
+    "created_at": "2026-03-02T12:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028440191547892175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N3o1TMx6XP",
+          "end": 34,
+          "expanded_url": "https://x.com/youy1qwq/status/2028440191547892175/photo/1",
+          "media_key": "3_2028356917257523202",
+          "start": 11,
+          "url": "https://t.co/N3o1TMx6XP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028440191547892175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "艾特原创只有你做到了 https://t.co/N3o1TMx6XP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_2028356917257523202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYr3prXUAI-Dss.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028356917257523202"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2028440191547892175",
+        "created_at": "2026-03-02T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028440191547892175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3o1TMx6XP",
+              "end": 34,
+              "expanded_url": "https://x.com/youy1qwq/status/2028440191547892175/photo/1",
+              "media_key": "3_2028356917257523202",
+              "start": 11,
+              "url": "https://t.co/N3o1TMx6XP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028440191547892175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艾特原创只有你做到了 https://t.co/N3o1TMx6XP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5705,
+          "following_count": 1221,
+          "like_count": 2829,
+          "listed_count": 9,
+          "media_count": 620,
+          "tweet_count": 1021
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

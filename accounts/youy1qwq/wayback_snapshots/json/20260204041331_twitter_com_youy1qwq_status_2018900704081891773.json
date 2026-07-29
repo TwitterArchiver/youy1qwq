@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018854338093834277",
+    "created_at": "2026-02-04T04:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018900704081891773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490670069877252101",
+          "start": 0,
+          "username": "Sww2080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018900704081891773",
+    "in_reply_to_user_id": "1490670069877252101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018883566957101202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sww2080 哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018854338093834277",
+        "created_at": "2026-02-04T04:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018900704081891773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490670069877252101",
+              "start": 0,
+              "username": "Sww2080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018900704081891773",
+        "in_reply_to_user_id": "1490670069877252101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018883566957101202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sww2080 哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490670069877252101",
+        "conversation_id": "2018854338093834277",
+        "created_at": "2026-02-04T03:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018883566957101202"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "湖北宜昌",
+              "probability": 0.6529,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "description": "近期，中國湖北宜昌也意外發現一座酷似小狗的山脈，因為長得實在太像狗狗，被網友親切地稱為「狗狗山」。",
+              "display_url": "tw.news.yahoo.com/%E9%82%A3%E8%A…",
+              "end": 39,
+              "expanded_url": "https://tw.news.yahoo.com/%E9%82%A3%E8%A3%A1%E6%9C%89%E7%8B%97%E5%8B%BE-%E6%B9%96%E5%8C%97%E8%B6%85%E5%8F%AF%E6%84%9B%E6%96%B0%E6%99%AF%E9%BB%9E-%E5%B0%8F%E7%8B%97%E5%B1%B1-%E5%A4%95%E7%88%86%E7%B4%85%E6%88%90%E6%89%93%E5%8D%A1%E5%8B%9D%E5%9C%B0-%E7%B6%B2%E5%8F%8B%E5%A4%A7%E5%96%8A-022100017.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAI8_IzgQLLr1YCtTHafTKvr_pRUweisU48nxHaOOhdo2mkA_XtDaJFc7Vkwl7IPDxA3CBs1ggm3D6Fk7DcgbPS1feuTJTbiL7NMMfay-0nK6gOXqX3KUSg3uRIDZ7X5KUJAXk6EVyiGSrRzmrM2V_c-WeYGSnlxGEV8EwzjYnAaC",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2018883609571233792/komGQekY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018883609571233792/komGQekY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "那裡有狗勾～湖北超可愛新景點「小狗山」，一夕爆紅成打卡勝地，網友大喊：太像了",
+              "unwound_url": "https://tw.news.yahoo.com/%E9%82%A3%E8%A3%A1%E6%9C%89%E7%8B%97%E5%8B%BE-%E6%B9%96%E5%8C%97%E8%B6%85%E5%8F%AF%E6%84%9B%E6%96%B0%E6%99%AF%E9%BB%9E-%E5%B0%8F%E7%8B%97%E5%B1%B1-%E5%A4%95%E7%88%86%E7%B4%85%E6%88%90%E6%89%93%E5%8D%A1%E5%8B%9D%E5%9C%B0-%E7%B6%B2%E5%8F%8B%E5%A4%A7%E5%96%8A-022100017.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAI8_IzgQLLr1YCtTHafTKvr_pRUweisU48nxHaOOhdo2mkA_XtDaJFc7Vkwl7IPDxA3CBs1ggm3D6Fk7DcgbPS1feuTJTbiL7NMMfay-0nK6gOXqX3KUSg3uRIDZ7X5KUJAXk6EVyiGSrRzmrM2V_c-WeYGSnlxGEV8EwzjYnAaC",
+              "url": "https://t.co/V9OoBZdSAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018883566957101202",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018854338093834277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 湖北宜昌\n\nhttps://t.co/V9OoBZdSAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 232,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 144
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T12:53:44.000Z",
+        "description": "粤/普/Eng\n\n先问是不是，再问为什么\n\nI never want someone's chest lying under my foot\nЯ никому не хочу ставить ногу на грудь\n\n我先是一个人，然后才是各种身份标签",
+        "id": "1490670069877252101",
+        "location": "幻想乡，距离你1.4公里",
+        "name": "千早爱因S坦🇵🇸🇭🇰(不吃香菜版)",
+        "pinned_tweet_id": "1715195016287752650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000493459996598275/6DOjxy0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1772,
+          "like_count": 295219,
+          "listed_count": 17,
+          "media_count": 1706,
+          "tweet_count": 50156
+        },
+        "username": "Sww2080",
+        "verified": false
+      }
+    ]
+  }
+}

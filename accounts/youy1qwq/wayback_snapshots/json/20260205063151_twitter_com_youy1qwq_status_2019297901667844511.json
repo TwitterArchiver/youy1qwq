@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019291233236009027",
+    "created_at": "2026-02-05T06:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T07:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019297901667844511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843350430811860995",
+          "start": 0,
+          "username": "xiwnxun519830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019297901667844511",
+    "in_reply_to_user_id": "1843350430811860995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019296137233211600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiwnxun519830 回关了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019291233236009027",
+        "created_at": "2026-02-05T06:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019297901667844511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843350430811860995",
+              "start": 0,
+              "username": "xiwnxun519830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019297901667844511",
+        "in_reply_to_user_id": "1843350430811860995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019296137233211600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiwnxun519830 回关了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843350430811860995",
+        "conversation_id": "2019291233236009027",
+        "created_at": "2026-02-05T06:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019296137233211600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019296137233211600",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019291233236009027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我呢😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 255,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 186
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T17:59:43.000Z",
+        "description": "",
+        "id": "1843350430811860995",
+        "name": "根号π",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008385863169015808/ZmlWqUrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 71,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 426
+        },
+        "username": "xiwnxun519830",
+        "verified": false
+      }
+    ]
+  }
+}

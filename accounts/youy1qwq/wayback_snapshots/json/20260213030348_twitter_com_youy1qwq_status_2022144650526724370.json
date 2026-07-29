@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2022064875007332420",
+    "created_at": "2026-02-13T03:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022144650526724370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721693159149674497",
+          "start": 0,
+          "username": "gu_wen98233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022144650526724370",
+    "in_reply_to_user_id": "1721693159149674497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022144475754385424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_wen98233 托雷基亚😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2022064875007332420",
+        "created_at": "2026-02-13T03:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022144650526724370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721693159149674497",
+              "start": 0,
+              "username": "gu_wen98233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022144650526724370",
+        "in_reply_to_user_id": "1721693159149674497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022144475754385424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_wen98233 托雷基亚😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721693159149674497",
+        "conversation_id": "2022064875007332420",
+        "created_at": "2026-02-13T03:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022144475754385424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022144475754385424",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022064875007332420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 不如我们 奥特大英雄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3071,
+          "following_count": 893,
+          "like_count": 2196,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 615
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T00:57:11.000Z",
+        "description": "你好我是千青，欢迎与我私信，有什么想说的都可以和我说，我不会骂你的。讨论艺术，科学，意识形态，或者你的日常生活。看情况互fo",
+        "id": "1721693159149674497",
+        "location": "IN YOUR MIND",
+        "name": "千青",
+        "pinned_tweet_id": "2007880622287827087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016131975413956608/ann-XesV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 85,
+          "like_count": 824,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1152
+        },
+        "username": "gu_wen98233",
+        "verified": false
+      }
+    ]
+  }
+}

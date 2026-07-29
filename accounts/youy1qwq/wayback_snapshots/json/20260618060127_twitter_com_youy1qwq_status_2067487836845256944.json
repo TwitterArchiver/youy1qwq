@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067266376998543575",
+    "created_at": "2026-06-18T06:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067487836845256944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1863073460",
+          "start": 0,
+          "username": "l_zoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067487836845256944",
+    "in_reply_to_user_id": "1863073460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067473704934944979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l_zoet 珠颈斑鸠看上去就傻傻的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2067473694373638144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEkXv-a8AAgfvb.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067266376998543575",
+        "created_at": "2026-06-18T06:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067487836845256944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1863073460",
+              "start": 0,
+              "username": "l_zoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067487836845256944",
+        "in_reply_to_user_id": "1863073460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067473704934944979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l_zoet 珠颈斑鸠看上去就傻傻的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067473694373638144"
+          ]
+        },
+        "author_id": "1863073460",
+        "conversation_id": "2067266376998543575",
+        "created_at": "2026-06-18T05:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067473704934944979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gU5XvzzEPz",
+              "end": 58,
+              "expanded_url": "https://x.com/l_zoet/status/2067473704934944979/photo/1",
+              "media_key": "3_2067473694373638144",
+              "start": 35,
+              "url": "https://t.co/gU5XvzzEPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067473704934944979",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266376998543575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 夜鹭用粑粑轰炸了珠颈斑鸠……\n夜鹭看上去就坏坏的 https://t.co/gU5XvzzEPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6213,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3309
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-14T08:05:01.000Z",
+        "description": "🥊 最会打泰拳的科研人员\n📖 最会做科研的业余泰拳选手\n🤖 AI玩家｜工学博士\n🚧 外企→公务员→创业→高校",
+        "id": "1863073460",
+        "name": "加勒比海带",
+        "pinned_tweet_id": "2060175214995181935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052191664404574208/6xbaCC1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 889,
+          "like_count": 3454,
+          "listed_count": 7,
+          "media_count": 186,
+          "tweet_count": 2839
+        },
+        "url": "",
+        "username": "l_zoet",
+        "verified": true
+      }
+    ]
+  }
+}

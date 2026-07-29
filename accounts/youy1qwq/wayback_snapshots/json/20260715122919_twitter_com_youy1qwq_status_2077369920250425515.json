@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2077035163352174923",
+    "created_at": "2026-07-15T12:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077369920250425515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009876491971244033",
+          "start": 0,
+          "username": "hnwn223381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077369920250425515",
+    "in_reply_to_user_id": "2009876491971244033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077272926756422052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnwn223381 不许骂人，赶紧道歉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2077035163352174923",
+        "created_at": "2026-07-15T12:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077369920250425515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009876491971244033",
+              "start": 0,
+              "username": "hnwn223381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077369920250425515",
+        "in_reply_to_user_id": "2009876491971244033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077272926756422052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnwn223381 不许骂人，赶紧道歉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009876491971244033",
+        "conversation_id": "2077035163352174923",
+        "created_at": "2026-07-15T06:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077272926756422052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077272926756422052",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077035163352174923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这期为啥不是007ai分身？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16417,
+          "following_count": 2726,
+          "like_count": 7957,
+          "listed_count": 27,
+          "media_count": 2232,
+          "tweet_count": 3870
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T06:35:12.000Z",
+        "description": "中间偏左（Center-left），政治上偏自由主义，经济上支持适度福利国家。所有哲学流派都沾点。很感性 很阴郁。 喜欢少女乐队  。我认可中国共产党的一部分主张。王薄江涛痴男，重度依赖。挚爱改革派和团派 （韩表：文 博 卢  惠）中华民國萬歲！哲学 键政  音乐  文学，会反串和发癫。不要骂我，玻璃心",
+        "id": "2009876491971244033",
+        "location": "秦城监狱里服刑",
+        "name": "伟大同志搞搞新意思（互fo）🇹🇼🇺🇸🇯🇵🍑",
+        "pinned_tweet_id": "2075546040397439268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064146942578581504/9Fi0Q731_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 663,
+          "like_count": 1997,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1769
+        },
+        "url": "",
+        "username": "hnwn223381",
+        "verified": false
+      }
+    ]
+  }
+}

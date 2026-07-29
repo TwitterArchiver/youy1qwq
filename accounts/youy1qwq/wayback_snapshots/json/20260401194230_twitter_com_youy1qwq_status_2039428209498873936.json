@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2039428209498873936",
+    "created_at": "2026-04-01T19:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T20:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039428209498873936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huiquke69pe/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/huiquke69pe/status/2039381699310887008",
+          "start": 14,
+          "url": "https://t.co/N0F9ju7il9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039428209498873936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039381699310887008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关注这个宝宝！她大号被封了 https://t.co/N0F9ju7il9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2039381689903054848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1W14QbgAAlVDs.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1579,
+        "media_key": "3_2039381689601073152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1W13IboAAoLHW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1642,
+        "media_key": "3_2039381689919840256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1W14UboAAqc3d.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1599,
+        "media_key": "3_2039381689898819584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1W14Pa4AAQ9wz.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2039428209498873936",
+        "created_at": "2026-04-01T19:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T20:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039428209498873936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huiquke69pe/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/huiquke69pe/status/2039381699310887008",
+              "start": 14,
+              "url": "https://t.co/N0F9ju7il9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039428209498873936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039381699310887008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注这个宝宝！她大号被封了 https://t.co/N0F9ju7il9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039381689903054848",
+            "3_2039381689601073152",
+            "3_2039381689919840256",
+            "3_2039381689898819584"
+          ]
+        },
+        "author_id": "2022204910914469888",
+        "conversation_id": "2039381699310887008",
+        "created_at": "2026-04-01T16:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039381699310887008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "日本"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZWmXqZL1H",
+              "end": 55,
+              "expanded_url": "https://x.com/HuiQuke69pe/status/2039381699310887008/photo/1",
+              "media_key": "3_2039381689903054848",
+              "start": 32,
+              "url": "https://t.co/0ZWmXqZL1H"
+            },
+            {
+              "display_url": "pic.x.com/0ZWmXqZL1H",
+              "end": 55,
+              "expanded_url": "https://x.com/HuiQuke69pe/status/2039381699310887008/photo/1",
+              "media_key": "3_2039381689601073152",
+              "start": 32,
+              "url": "https://t.co/0ZWmXqZL1H"
+            },
+            {
+              "display_url": "pic.x.com/0ZWmXqZL1H",
+              "end": 55,
+              "expanded_url": "https://x.com/HuiQuke69pe/status/2039381699310887008/photo/1",
+              "media_key": "3_2039381689919840256",
+              "start": 32,
+              "url": "https://t.co/0ZWmXqZL1H"
+            },
+            {
+              "display_url": "pic.x.com/0ZWmXqZL1H",
+              "end": 55,
+              "expanded_url": "https://x.com/HuiQuke69pe/status/2039381699310887008/photo/1",
+              "media_key": "3_2039381689898819584",
+              "start": 32,
+              "url": "https://t.co/0ZWmXqZL1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039381699310887008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "帮我转发一下我的新账号  点点关注 抽两个宝宝免🚪谢谢 #日本 https://t.co/0ZWmXqZL1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9371,
+          "following_count": 1458,
+          "like_count": 3457,
+          "listed_count": 13,
+          "media_count": 1185,
+          "tweet_count": 1616
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T07:04:38.000Z",
+        "description": "谢谢你的关注 bbw微胖博主 大号已无 我们重新认识一下吧 希望你能走进我的生活 我的内心世界。长期在🇯🇵",
+        "id": "2022204910914469888",
+        "location": "🚪99/188/520",
+        "name": "Karina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039376642523688961/-vlMMM2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 36,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "HuiQuke69pe",
+        "verified": false
+      }
+    ]
+  }
+}

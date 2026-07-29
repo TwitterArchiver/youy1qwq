@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2062685833573073186",
+    "created_at": "2026-06-05T03:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062742703469965505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796929111996456960",
+          "start": 0,
+          "username": "nbrkfst0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062742703469965505",
+    "in_reply_to_user_id": "1796929111996456960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062689889083359286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbrkfst0721 好奶呀，是弟弟吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2062685833573073186",
+        "created_at": "2026-06-05T03:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062742703469965505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796929111996456960",
+              "start": 0,
+              "username": "nbrkfst0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062742703469965505",
+        "in_reply_to_user_id": "1796929111996456960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062689889083359286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbrkfst0721 好奶呀，是弟弟吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796929111996456960",
+        "conversation_id": "2062685833573073186",
+        "created_at": "2026-06-05T00:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062689889083359286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062689889083359286",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062685833573073186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 那奶奶的弟弟是奶弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14018,
+          "following_count": 2039,
+          "like_count": 4449,
+          "listed_count": 25,
+          "media_count": 1956,
+          "tweet_count": 2567
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T15:38:51.000Z",
+        "description": "東方｜秘封｜简/繁中文｜Eng｜機械翻訳日本語|成分复杂｜\n無言フォロー失礼いたしまし\n\n【道歉啟事】\n本人在此向社會大眾致歉，\n\n雖然還沒犯什麼錯，但怕有人不喜歡事後道歉\n所以先放著以備不時之需。\n\n很遺憾自己做了這種事，未來必定深刻反省",
+        "id": "1796929111996456960",
+        "location": "霧ノ湖",
+        "name": "𝓤𝓷𝓬𝓼𝓬𝓼鎮魂曲 ╭ᰩ ᭄╮",
+        "pinned_tweet_id": "2060051603978326453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061430164047949824/E4hVHoxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 1337,
+          "like_count": 16419,
+          "listed_count": 0,
+          "media_count": 564,
+          "tweet_count": 2222
+        },
+        "username": "nbrkfst0721",
+        "verified": false
+      }
+    ]
+  }
+}

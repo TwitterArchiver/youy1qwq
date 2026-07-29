@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2081658396391190847",
+    "created_at": "2026-07-27T17:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081787733811634616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1401556396320071693",
+          "start": 0,
+          "username": "a5577517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081787733811634616",
+    "in_reply_to_user_id": "1401556396320071693",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081658396391190847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a5577517 hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081658373679009792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOJQwLa0AA8gBf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2081658396391190847",
+        "created_at": "2026-07-27T17:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081787733811634616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1401556396320071693",
+              "start": 0,
+              "username": "a5577517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081787733811634616",
+        "in_reply_to_user_id": "1401556396320071693",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081658396391190847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a5577517 hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081658373679009792"
+          ]
+        },
+        "author_id": "1401556396320071693",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081658396391190847",
+        "created_at": "2026-07-27T08:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081658396391190847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdukeBQnIT",
+              "end": 105,
+              "expanded_url": "https://x.com/a5577517/status/2081658396391190847/photo/1",
+              "media_key": "3_2081658373679009792",
+              "start": 82,
+              "url": "https://t.co/hdukeBQnIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081658396391190847",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3579,
+          "like_count": 158,
+          "quote_count": 1,
+          "reply_count": 277,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "Who wants to discover new accounts?\n\nLeave your @ below.✅\n\nLet’s see who’s here.🤝 https://t.co/hdukeBQnIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17000,
+          "following_count": 2973,
+          "like_count": 8116,
+          "listed_count": 28,
+          "media_count": 2290,
+          "tweet_count": 3975
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-06T15:07:47.000Z",
+        "description": "Mapping what replaces the decaying system\nBitcoin × AI × Personal Sovereignty\nDM for collaborations 💌\nFrom Taipei 🇹🇼",
+        "id": "1401556396320071693",
+        "location": "🇹🇼 ",
+        "name": "Kai Explains",
+        "pinned_tweet_id": "2081762216878240155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041120976071786496/HucFDisR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23298,
+          "following_count": 22704,
+          "like_count": 4095,
+          "listed_count": 13,
+          "media_count": 176,
+          "tweet_count": 21747
+        },
+        "url": "",
+        "username": "a5577517",
+        "verified": true
+      }
+    ]
+  }
+}

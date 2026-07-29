@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2059643558286831984",
+    "created_at": "2026-05-28T11:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059954881121989010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938263192117121029",
+          "start": 0,
+          "username": "Nvwueth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059954881121989010",
+    "in_reply_to_user_id": "1938263192117121029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059643558286831984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nvwueth 来呀加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2059643558286831984",
+        "created_at": "2026-05-28T11:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059954881121989010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938263192117121029",
+              "start": 0,
+              "username": "Nvwueth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059954881121989010",
+        "in_reply_to_user_id": "1938263192117121029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059643558286831984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nvwueth 来呀加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938263192117121029",
+        "conversation_id": "2059643558286831984",
+        "created_at": "2026-05-27T14:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059643558286831984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059643558286831984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4337,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 137,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当下中文圈蓝V互关热潮再起\n\n我们本身圈子不大、话语权有限\n\n彼此抱团扶持，才是长久发展的关键"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13774,
+          "following_count": 1985,
+          "like_count": 4315,
+          "listed_count": 22,
+          "media_count": 1884,
+          "tweet_count": 2458
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T15:49:03.000Z",
+        "description": "20年喊过SOL300，22年抄底15800BTC的少女观测员，Holds $SOL $DOGE 等风来🌬️ The meaning of persistence #OKB #BTC #BNB 合作DM https://t.co/2Cx79DUJw7",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 42,
+                "start": 38,
+                "tag": "SOL"
+              },
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "DOGE"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "OKB"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "BTC"
+              },
+              {
+                "end": 96,
+                "start": 92,
+                "tag": "BNB"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Nvwueth",
+                "end": 125,
+                "expanded_url": "https://t.me/Nvwueth",
+                "start": 102,
+                "url": "https://t.co/2Cx79DUJw7"
+              }
+            ]
+          }
+        },
+        "id": "1938263192117121029",
+        "name": "采儿姐🎀BNB",
+        "pinned_tweet_id": "2058074777760510010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029535283478466561/iQDbW_-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 2282,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2978
+        },
+        "username": "Nvwueth",
+        "verified": true
+      }
+    ]
+  }
+}

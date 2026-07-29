@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069343337249902662",
+    "created_at": "2026-06-24T09:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069707468444483878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833906499846025216",
+          "start": 0,
+          "username": "want_take_easy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069707468444483878",
+    "in_reply_to_user_id": "1833906499846025216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069664632420405755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@want_take_easy 实则还是内耗 这么能纠结"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069343337249902662",
+        "created_at": "2026-06-24T09:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069707468444483878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833906499846025216",
+              "start": 0,
+              "username": "want_take_easy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069707468444483878",
+        "in_reply_to_user_id": "1833906499846025216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069664632420405755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@want_take_easy 实则还是内耗 这么能纠结"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833906499846025216",
+        "conversation_id": "2069343337249902662",
+        "created_at": "2026-06-24T06:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069664632420405755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069664632420405755",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069343337249902662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 有啥说啥，不内耗自己挺好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15034,
+          "following_count": 2182,
+          "like_count": 7052,
+          "listed_count": 26,
+          "media_count": 2112,
+          "tweet_count": 3604
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-11T16:32:50.000Z",
+        "description": "🌍 世界万物观察员\n🧠 冷知识 / 热知识 / 奇闻 / 技术 / AI / 设计 / 人类行为\n🔭 用工程师视角拆解日常，用好奇心扫描宇宙\n⚡ 分享你不知道、想不到、但看完会觉得“卧槽”的知识\n🚀 在信息洪流里，捕捉有趣、有用、有点离谱的信号\n蓝V互关永不取关！~",
+        "id": "1833906499846025216",
+        "name": "终极阿Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062037567437209600/PE0OoWtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 1741,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2454
+        },
+        "url": "",
+        "username": "want_take_easy",
+        "verified": true
+      }
+    ]
+  }
+}

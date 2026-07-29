@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068179227825037421",
+    "created_at": "2026-06-20T10:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068280456550965660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2059499405246418946",
+          "start": 0,
+          "username": "mikunoinu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068280456550965660",
+    "in_reply_to_user_id": "2059499405246418946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068261823090917621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikunoinu666 （长期素食是我的母亲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068179227825037421",
+        "created_at": "2026-06-20T10:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068280456550965660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2059499405246418946",
+              "start": 0,
+              "username": "mikunoinu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068280456550965660",
+        "in_reply_to_user_id": "2059499405246418946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068261823090917621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikunoinu666 （长期素食是我的母亲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059499405246418946",
+        "conversation_id": "2068179227825037421",
+        "created_at": "2026-06-20T09:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068261823090917621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068261823090917621",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068179227825037421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq （长期素食是我的母亲）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14831,
+          "following_count": 2158,
+          "like_count": 6460,
+          "listed_count": 27,
+          "media_count": 2085,
+          "tweet_count": 3459
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T04:59:44.000Z",
+        "description": "from china. 今日本語を勉強します\n私は青い紙です、色々な食べ物好きだよ、特別な日本料理欲しいな。皆さんの友達owo.",
+        "id": "2059499405246418946",
+        "name": "青いの紙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059500137991352325/lCv7Wj9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "mikunoinu666",
+        "verified": false
+      }
+    ]
+  }
+}

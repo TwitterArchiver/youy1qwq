@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2049018604868211014",
+    "created_at": "2026-04-28T07:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049031767772811454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "935948965",
+          "start": 0,
+          "username": "hdhd516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049031767772811454",
+    "in_reply_to_user_id": "935948965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049027933155823717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hdhd516 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2049018604868211014",
+        "created_at": "2026-04-28T07:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049031767772811454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "935948965",
+              "start": 0,
+              "username": "hdhd516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049031767772811454",
+        "in_reply_to_user_id": "935948965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049027933155823717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hdhd516 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "935948965",
+        "conversation_id": "2049018604868211014",
+        "created_at": "2026-04-28T07:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049027933155823717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049027933155823717",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049018604868211014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 诚信互关最重要。一起成长，常互动必回🔥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11653,
+          "following_count": 1705,
+          "like_count": 3928,
+          "listed_count": 17,
+          "media_count": 1546,
+          "tweet_count": 2050
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2012-11-09T02:26:17.000Z",
+        "description": "AI工具實戰 × 科技趨勢解析 把複雜科技轉化為可直接應用的能力 效率系統・AI活用・テック解説 中日雙語｜中文・日本語対応",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hdhd516.carrd.co",
+                "end": 23,
+                "expanded_url": "https://hdhd516.carrd.co",
+                "start": 0,
+                "url": "https://t.co/IH6YGyCs1e"
+              }
+            ]
+          }
+        },
+        "id": "935948965",
+        "location": "Santa Monica, California",
+        "name": "Quintion | 科技與成長洞見",
+        "pinned_tweet_id": "2025004867073572867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018597588593938432/VpnGL-Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 3291,
+          "like_count": 2744,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 4302
+        },
+        "url": "https://t.co/IH6YGyCs1e",
+        "username": "hdhd516",
+        "verified": true
+      }
+    ]
+  }
+}

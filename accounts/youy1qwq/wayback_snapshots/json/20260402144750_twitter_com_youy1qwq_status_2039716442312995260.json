@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2039615092254486561",
+    "created_at": "2026-04-02T14:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039716442312995260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032731513398452224",
+          "start": 0,
+          "username": "nightWu115560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039716442312995260",
+    "in_reply_to_user_id": "2032731513398452224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039615092254486561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nightWu115560 走一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2039615092254486561",
+        "created_at": "2026-04-02T14:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039716442312995260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032731513398452224",
+              "start": 0,
+              "username": "nightWu115560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039716442312995260",
+        "in_reply_to_user_id": "2032731513398452224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039615092254486561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nightWu115560 走一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032731513398452224",
+        "conversation_id": "2039615092254486561",
+        "created_at": "2026-04-02T08:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039615092254486561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039615092254486561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4373,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 162,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有新的蓝V，走一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9383,
+          "following_count": 1478,
+          "like_count": 3486,
+          "listed_count": 13,
+          "media_count": 1193,
+          "tweet_count": 1625
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T08:12:33.000Z",
+        "description": "专注以小博大全靠运气和梭哈仅此一个账号谨防被骗！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nice1263",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nice1263",
+                "start": 0,
+                "url": "https://t.co/F4AEyirk2a"
+              }
+            ]
+          }
+        },
+        "id": "2032731513398452224",
+        "location": "交易所反佣→",
+        "name": "比特币老王",
+        "pinned_tweet_id": "2038919394399826032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033834887283937280/nWXf33h9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 524,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/F4AEyirk2a",
+        "username": "nightWu115560",
+        "verified": true
+      }
+    ]
+  }
+}

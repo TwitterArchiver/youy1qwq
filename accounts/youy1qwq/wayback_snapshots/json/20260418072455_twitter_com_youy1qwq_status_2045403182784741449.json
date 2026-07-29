@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2045017618063745255",
+    "created_at": "2026-04-18T07:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045403182784741449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1620847606158204929",
+          "start": 0,
+          "username": "bizixun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045403182784741449",
+    "in_reply_to_user_id": "1620847606158204929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045017618063745255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bizixun 借楼一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2045017618063745255",
+        "created_at": "2026-04-18T07:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045403182784741449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1620847606158204929",
+              "start": 0,
+              "username": "bizixun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045403182784741449",
+        "in_reply_to_user_id": "1620847606158204929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045017618063745255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bizixun 借楼一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620847606158204929",
+        "conversation_id": "2045017618063745255",
+        "created_at": "2026-04-17T05:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045017618063745255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045017618063745255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6154,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 211,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "来一波蓝V互关\n\n诚信互关  ，取关的不要来\n\n点赞 留言 如果有遗漏的私信我\n\n#蓝V互关 #互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10450,
+          "following_count": 1571,
+          "like_count": 3746,
+          "listed_count": 15,
+          "media_count": 1402,
+          "tweet_count": 1880
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-01T18:13:02.000Z",
+        "description": "段子手 & 热点吐槽 | 每日干货分析 & 避坑指南\n\n被何一关注的男人 | 看我少走弯路\n\n接中英文KOL合作 \n\n合作DM➕TG:\nhttps://t.co/OgTPYslK1L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/bizixun8686",
+                "end": 91,
+                "expanded_url": "https://t.me/bizixun8686",
+                "start": 68,
+                "url": "https://t.co/OgTPYslK1L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.binance.com/uni-qr/cpro/bi…",
+                "end": 23,
+                "expanded_url": "https://app.binance.com/uni-qr/cpro/bizixun?l=zh-CN&r=582686894&uc=app_square_share_link&us=copylink",
+                "start": 0,
+                "url": "https://t.co/QDhVnv9EyS"
+              }
+            ]
+          }
+        },
+        "id": "1620847606158204929",
+        "location": "HongKong",
+        "name": "币资讯",
+        "pinned_tweet_id": "2017131169423503400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768031588447862785/AhnENqf4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36089,
+          "following_count": 6772,
+          "like_count": 20839,
+          "listed_count": 64,
+          "media_count": 2242,
+          "tweet_count": 24851
+        },
+        "url": "https://t.co/QDhVnv9EyS",
+        "username": "bizixun",
+        "verified": true
+      }
+    ]
+  }
+}

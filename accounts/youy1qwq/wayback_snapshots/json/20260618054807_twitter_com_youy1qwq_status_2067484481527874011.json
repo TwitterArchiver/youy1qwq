@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067484470199091200"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067484481527874011",
+    "created_at": "2026-06-18T05:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067484481527874011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5pZpWKuvem",
+          "end": 36,
+          "expanded_url": "https://x.com/youy1qwq/status/2067484481527874011/photo/1",
+          "media_key": "3_2067484470199091200",
+          "start": 13,
+          "url": "https://t.co/5pZpWKuvem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067484481527874011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家庭开放程度堪比恶搞之家 https://t.co/5pZpWKuvem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067484470199091200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEuK_DagAA7nsE.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067484470199091200"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067484481527874011",
+        "created_at": "2026-06-18T05:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067484481527874011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5pZpWKuvem",
+              "end": 36,
+              "expanded_url": "https://x.com/youy1qwq/status/2067484481527874011/photo/1",
+              "media_key": "3_2067484470199091200",
+              "start": 13,
+              "url": "https://t.co/5pZpWKuvem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067484481527874011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家庭开放程度堪比恶搞之家 https://t.co/5pZpWKuvem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6209,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3305
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

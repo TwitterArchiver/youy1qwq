@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070005066111791104"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2070005075985261015",
+    "created_at": "2026-06-25T04:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070005075985261015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sefFUKwgQJ",
+          "end": 52,
+          "expanded_url": "https://x.com/youy1qwq/status/2070005075985261015/photo/1",
+          "media_key": "3_2070005066111791104",
+          "start": 29,
+          "url": "https://t.co/sefFUKwgQJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070005075985261015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "考试瞥了一眼这吊图 刚好前桌回头跟我说话 给我笑得肚子疼 https://t.co/sefFUKwgQJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2070005066111791104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoio-jaMAAkpzB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070005066111791104"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2070005075985261015",
+        "created_at": "2026-06-25T04:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070005075985261015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sefFUKwgQJ",
+              "end": 52,
+              "expanded_url": "https://x.com/youy1qwq/status/2070005075985261015/photo/1",
+              "media_key": "3_2070005066111791104",
+              "start": 29,
+              "url": "https://t.co/sefFUKwgQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070005075985261015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考试瞥了一眼这吊图 刚好前桌回头跟我说话 给我笑得肚子疼 https://t.co/sefFUKwgQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15096,
+          "following_count": 2211,
+          "like_count": 7159,
+          "listed_count": 28,
+          "media_count": 2119,
+          "tweet_count": 3679
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

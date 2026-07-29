@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070123983555710976"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2070123998646788238",
+    "created_at": "2026-06-25T12:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070123998646788238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8PqRmLnE5S",
+          "end": 33,
+          "expanded_url": "https://x.com/youy1qwq/status/2070123998646788238/photo/1",
+          "media_key": "3_2070123983555710976",
+          "start": 10,
+          "url": "https://t.co/8PqRmLnE5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070123998646788238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同学们性感毕业中… https://t.co/8PqRmLnE5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 456,
+        "media_key": "3_2070123983555710976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqOy4ja0AAJeyy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070123983555710976"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2070123998646788238",
+        "created_at": "2026-06-25T12:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070123998646788238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PqRmLnE5S",
+              "end": 33,
+              "expanded_url": "https://x.com/youy1qwq/status/2070123998646788238/photo/1",
+              "media_key": "3_2070123983555710976",
+              "start": 10,
+              "url": "https://t.co/8PqRmLnE5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070123998646788238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同学们性感毕业中… https://t.co/8PqRmLnE5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15177,
+          "following_count": 2219,
+          "like_count": 7219,
+          "listed_count": 28,
+          "media_count": 2123,
+          "tweet_count": 3684
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

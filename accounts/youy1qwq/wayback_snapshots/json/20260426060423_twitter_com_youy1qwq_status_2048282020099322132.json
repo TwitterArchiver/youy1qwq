@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2048111725908467717",
+    "created_at": "2026-04-26T06:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048282020099322132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3034209602",
+          "start": 0,
+          "username": "sadreal99827600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048282020099322132",
+    "in_reply_to_user_id": "3034209602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048111725908467717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadreal99827600 恭喜，互关吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 186,
+        "media_key": "3_2048111557478141952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxanDPbUAABgU1.png",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2048111725908467717",
+        "created_at": "2026-04-26T06:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048282020099322132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3034209602",
+              "start": 0,
+              "username": "sadreal99827600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048282020099322132",
+        "in_reply_to_user_id": "3034209602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048111725908467717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadreal99827600 恭喜，互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048111557478141952"
+          ]
+        },
+        "author_id": "3034209602",
+        "conversation_id": "2048111725908467717",
+        "created_at": "2026-04-25T18:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048111725908467717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLMN41wWtZ",
+              "end": 65,
+              "expanded_url": "https://x.com/sadreal99827600/status/2048111725908467717/photo/1",
+              "media_key": "3_2048111557478141952",
+              "start": 42,
+              "url": "https://t.co/lLMN41wWtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048111725908467717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1036,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于达成2000成就 感谢朋友们的帮助和支持 希望我们能够继续努力，一起成长！！！ https://t.co/lLMN41wWtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11282,
+          "following_count": 1654,
+          "like_count": 3883,
+          "listed_count": 16,
+          "media_count": 1517,
+          "tweet_count": 2011
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-21T07:44:52.000Z",
+        "description": "交易工作者 经常分享有趣事物 谢谢关注",
+        "id": "3034209602",
+        "name": "Monroe",
+        "pinned_tweet_id": "2042885894978343259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028472142627569664/rehvUtpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 1526,
+          "like_count": 456,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 608
+        },
+        "username": "sadreal99827600",
+        "verified": true
+      }
+    ]
+  }
+}

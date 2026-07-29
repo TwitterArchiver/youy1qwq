@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2060602200418930975",
+    "created_at": "2026-05-30T15:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060752564149453103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009855995510681600",
+          "start": 0,
+          "username": "Cryptoss168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060752564149453103",
+    "in_reply_to_user_id": "2009855995510681600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060602200418930975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cryptoss168 借楼一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2060601966460596224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi6kipa8AAgfQU.png",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2060602200418930975",
+        "created_at": "2026-05-30T15:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060752564149453103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009855995510681600",
+              "start": 0,
+              "username": "Cryptoss168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060752564149453103",
+        "in_reply_to_user_id": "2009855995510681600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060602200418930975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cryptoss168 借楼一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060601966460596224"
+          ]
+        },
+        "author_id": "2009855995510681600",
+        "conversation_id": "2060602200418930975",
+        "created_at": "2026-05-30T06:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060602200418930975"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQFauglCuA",
+              "end": 148,
+              "expanded_url": "https://x.com/Cryptoss168/status/2060602200418930975/photo/1",
+              "media_key": "3_2060601966460596224",
+              "start": 125,
+              "url": "https://t.co/DQFauglCuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060602200418930975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1233,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝V互关\n很多人以为蓝 V 互关只是“交换关注”。\n但实际上， 对于新号来说，\n它更像是：\n「快速建立初始社交关系和信任感」。\n\n尤其中文圈本来就不大，\n流量又分散。\n\n很多账号真正开始起量，\n并不是因为突然爆了一条内容，\n而是先被更多人看见了。 https://t.co/DQFauglCuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13845,
+          "following_count": 2001,
+          "like_count": 4332,
+          "listed_count": 23,
+          "media_count": 1899,
+          "tweet_count": 2481
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T05:13:32.000Z",
+        "description": "PolyMarket官方注册链接：https://t.co/JlCwSAXBEU 加入我的PolyMarket电报群：https://t.co/b7XZd13iOO 玩MemeCoin我只用GMGN：https://t.co/dj3dKEI3gz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/zh/?r=PM888",
+                "end": 40,
+                "expanded_url": "https://polymarket.com/zh/?r=PM888",
+                "start": 17,
+                "url": "https://t.co/JlCwSAXBEU"
+              },
+              {
+                "display_url": "t.me/PM13168",
+                "end": 82,
+                "expanded_url": "https://t.me/PM13168",
+                "start": 59,
+                "url": "https://t.co/b7XZd13iOO"
+              },
+              {
+                "display_url": "gmgn.ai/?ref=MjhhuWaq",
+                "end": 123,
+                "expanded_url": "https://gmgn.ai/?ref=MjhhuWaq",
+                "start": 100,
+                "url": "https://t.co/dj3dKEI3gz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2ljk.v516.shop/ok168",
+                "end": 23,
+                "expanded_url": "https://2ljk.v516.shop/ok168",
+                "start": 0,
+                "url": "https://t.co/JnMMeQeBGw"
+              }
+            ]
+          }
+        },
+        "id": "2009855995510681600",
+        "location": "币圈你需要的全部工具👉",
+        "name": "区块链圣手",
+        "pinned_tweet_id": "2060561908865122694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009856150595153920/osqaLbEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 2049,
+          "like_count": 4124,
+          "listed_count": 1,
+          "media_count": 4558,
+          "tweet_count": 9365
+        },
+        "url": "https://t.co/JnMMeQeBGw",
+        "username": "Cryptoss168",
+        "verified": true
+      }
+    ]
+  }
+}

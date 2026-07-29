@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067918641279148197",
+    "created_at": "2026-06-19T18:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068037250877972925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2036910565541761024",
+          "start": 0,
+          "username": "limerance_cure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068037250877972925",
+    "in_reply_to_user_id": "2036910565541761024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068033640584593714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limerance_cure 太能绷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067918641279148197",
+        "created_at": "2026-06-19T18:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068037250877972925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2036910565541761024",
+              "start": 0,
+              "username": "limerance_cure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068037250877972925",
+        "in_reply_to_user_id": "2036910565541761024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068033640584593714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limerance_cure 太能绷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036910565541761024",
+        "conversation_id": "2067918641279148197",
+        "created_at": "2026-06-19T18:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068033640584593714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068033640584593714",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067918641279148197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 轻松绷住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14808,
+          "following_count": 2154,
+          "like_count": 6392,
+          "listed_count": 26,
+          "media_count": 2083,
+          "tweet_count": 3441
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-25T21:00:49.000Z",
+        "description": "",
+        "id": "2036910565541761024",
+        "location": "北京大学",
+        "name": "limerance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036911407648956419/cbaLDueQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "limerance_cure",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2048263748214022641",
+    "created_at": "2026-04-26T05:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048276966646722945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2659880771",
+          "start": 0,
+          "username": "btcoindown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048276966646722945",
+    "in_reply_to_user_id": "2659880771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048263748214022641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btcoindown 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2048263748214022641",
+        "created_at": "2026-04-26T05:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048276966646722945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2659880771",
+              "start": 0,
+              "username": "btcoindown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048276966646722945",
+        "in_reply_to_user_id": "2659880771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048263748214022641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btcoindown 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2659880771",
+        "conversation_id": "2048263748214022641",
+        "created_at": "2026-04-26T04:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048263748214022641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/btcoindown/sta…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/btcoindown/status/2047898377086702059",
+              "start": 70,
+              "url": "https://t.co/F8JiAn4Kcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048263748214022641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 980,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047898377086702059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#蓝V互关  第14天继续！         \n\n冲击2W粉！\n\n继续互关互动走起  \n\n漏的评论区提醒下  \n\n大家也可以在评论区互关。 https://t.co/F8JiAn4Kcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11277,
+          "following_count": 1650,
+          "like_count": 3883,
+          "listed_count": 16,
+          "media_count": 1517,
+          "tweet_count": 2008
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-01T12:08:38.000Z",
+        "description": "#MEME 爱好者丨宣发推广丨空投福利发掘 丨 #Binance 币安广场创作者 丨 #HTXNovaPlus   火币高返 👉 https://t.co/BVYqpGVY61",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "MEME"
+              },
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "Binance"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "tag": "HTXNovaPlus"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "htx.com.am/invite/zh-cn/1…",
+                "end": 88,
+                "expanded_url": "https://www.htx.com.am/invite/zh-cn/1h?invite_code=btc200000",
+                "start": 65,
+                "url": "https://t.co/BVYqpGVY61"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/whynotio",
+                "end": 23,
+                "expanded_url": "http://t.me/whynotio",
+                "start": 0,
+                "url": "https://t.co/rQTOeQuNDS"
+              }
+            ]
+          }
+        },
+        "id": "2659880771",
+        "name": "空空 | Gate13周年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009255300155756544/NbsyLzIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18670,
+          "following_count": 8563,
+          "like_count": 131369,
+          "listed_count": 60,
+          "media_count": 2490,
+          "tweet_count": 137674
+        },
+        "url": "https://t.co/rQTOeQuNDS",
+        "username": "btcoindown",
+        "verified": true
+      }
+    ]
+  }
+}

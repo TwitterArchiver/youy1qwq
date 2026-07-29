@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065029787824066912",
+    "created_at": "2026-06-12T03:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065268345579139300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2779664258",
+          "start": 0,
+          "username": "gavinnizeq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065268345579139300",
+    "in_reply_to_user_id": "2779664258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065238077363327365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gavinnizeq 原来如此！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065029787824066912",
+        "created_at": "2026-06-12T03:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065268345579139300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2779664258",
+              "start": 0,
+              "username": "gavinnizeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065268345579139300",
+        "in_reply_to_user_id": "2779664258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065238077363327365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gavinnizeq 原来如此！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2779664258",
+        "conversation_id": "2065029787824066912",
+        "created_at": "2026-06-12T01:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065238077363327365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065238077363327365",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1246,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065029787824066912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 不光是乳糖不耐受者会这样，酒精过敏者也会！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14387,
+          "following_count": 2088,
+          "like_count": 5379,
+          "listed_count": 24,
+          "media_count": 2030,
+          "tweet_count": 2893
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-30T01:50:04.000Z",
+        "description": "From the river to the sea, Palestine will be free. 不信仰任何宗教。提高自己的姿势水平。Interested in Middle Eastern history。对中东历史很感兴趣。",
+        "id": "2779664258",
+        "name": "pepe爱因斯坦🇵🇸",
+        "pinned_tweet_id": "1794918399510000037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124796328280649728/s_J_L-1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 1076,
+          "like_count": 166465,
+          "listed_count": 10,
+          "media_count": 558,
+          "tweet_count": 35948
+        },
+        "username": "gavinnizeq",
+        "verified": false
+      }
+    ]
+  }
+}

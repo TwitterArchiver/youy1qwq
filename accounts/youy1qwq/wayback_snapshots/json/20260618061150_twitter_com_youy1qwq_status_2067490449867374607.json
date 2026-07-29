@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067244612633415908",
+    "created_at": "2026-06-18T06:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067490449867374607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1904457911369105409",
+          "start": 0,
+          "username": "OmerOzer5234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067490449867374607",
+    "in_reply_to_user_id": "1904457911369105409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067471965632532737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OmerOzer5234 我笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067244612633415908",
+        "created_at": "2026-06-18T06:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067490449867374607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1904457911369105409",
+              "start": 0,
+              "username": "OmerOzer5234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067490449867374607",
+        "in_reply_to_user_id": "1904457911369105409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067471965632532737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OmerOzer5234 我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904457911369105409",
+        "conversation_id": "2067244612633415908",
+        "created_at": "2026-06-18T04:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067471965632532737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067471965632532737",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067244612633415908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 从出生开始就倒欠一个肋骨鼻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14749,
+          "following_count": 2139,
+          "like_count": 6223,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3321
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-25T08:58:56.000Z",
+        "description": "欺负一只兔子？",
+        "id": "1904457911369105409",
+        "location": "老鼠乐园",
+        "name": "中专王",
+        "pinned_tweet_id": "2063321098733941150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067115023592574976/WBH7lu0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 5,
+          "like_count": 4410,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "OmerOzer5234",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020120359257665781",
+    "created_at": "2026-02-07T23:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T00:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020274668729458727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1578361546803068928",
+          "start": 0,
+          "username": "lyx_is_stupid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020274668729458727",
+    "in_reply_to_user_id": "1578361546803068928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020272144694014428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyx_is_stupid 谢谢呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020120359257665781",
+        "created_at": "2026-02-07T23:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T00:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020274668729458727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1578361546803068928",
+              "start": 0,
+              "username": "lyx_is_stupid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020274668729458727",
+        "in_reply_to_user_id": "1578361546803068928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020272144694014428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyx_is_stupid 谢谢呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578361546803068928",
+        "conversation_id": "2020120359257665781",
+        "created_at": "2026-02-07T23:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T00:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020272144694014428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020272144694014428",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020120359257665781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 可爱死了😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 831,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 433
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-07T12:28:28.000Z",
+        "description": "·—··（L）—·——（Y）—··—（X）",
+        "id": "1578361546803068928",
+        "location": "你猜",
+        "name": "Luyos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994795804369063936/cvHW9Zvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 561,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 254
+        },
+        "username": "lyx_is_stupid",
+        "verified": false
+      }
+    ]
+  }
+}

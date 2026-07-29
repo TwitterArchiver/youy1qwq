@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2057866025853751342",
+    "created_at": "2026-05-23T03:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058031592560541896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1973302399080308736",
+          "start": 0,
+          "username": "CNYYNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058031592560541896",
+    "in_reply_to_user_id": "1973302399080308736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057866025853751342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CNYYNB 互关一起加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "16_2057866010296987649",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI8CO7saMAER2aj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI8CO7saMAER2aj.mp4"
+          }
+        ],
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2057866025853751342",
+        "created_at": "2026-05-23T03:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058031592560541896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1973302399080308736",
+              "start": 0,
+              "username": "CNYYNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058031592560541896",
+        "in_reply_to_user_id": "1973302399080308736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057866025853751342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNYYNB 互关一起加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2057866010296987649"
+          ]
+        },
+        "author_id": "1973302399080308736",
+        "conversation_id": "2057866025853751342",
+        "created_at": "2026-05-22T16:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057866025853751342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ung7sYtTUo",
+              "end": 57,
+              "expanded_url": "https://x.com/CNYYNB/status/2057866025853751342/photo/1",
+              "media_key": "16_2057866010296987649",
+              "start": 34,
+              "url": "https://t.co/ung7sYtTUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057866025853751342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1007,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X我操你的，给我流量，mad发半天，我的帖子都没人看，那我玩个毛啊 https://t.co/ung7sYtTUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13348,
+          "following_count": 1858,
+          "like_count": 4231,
+          "listed_count": 21,
+          "media_count": 1824,
+          "tweet_count": 2366
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-01T08:22:16.000Z",
+        "description": "观察科技、生活、未来趋势和全球热点。Less noise, more context for a changing world.",
+        "id": "1973302399080308736",
+        "location": "未来时代中心",
+        "name": "FutureNotesCC",
+        "pinned_tweet_id": "2057866025853751342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973302499118555137/No-wFR3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 671,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 572
+        },
+        "username": "CNYYNB",
+        "verified": true
+      }
+    ]
+  }
+}

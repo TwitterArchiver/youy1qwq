@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081714826078986240"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081714835923046853",
+    "created_at": "2026-07-27T12:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081714835923046853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5OaRX3agRG",
+          "end": 35,
+          "expanded_url": "https://x.com/youy1qwq/status/2081714835923046853/photo/1",
+          "media_key": "3_2081714826078986240",
+          "start": 12,
+          "url": "https://t.co/5OaRX3agRG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081714835923046853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说完好友只剩微信团队了 https://t.co/5OaRX3agRG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1815,
+        "media_key": "3_2081714826078986240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO8mtwaIAAEnsA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081714826078986240"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081714835923046853",
+        "created_at": "2026-07-27T12:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081714835923046853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OaRX3agRG",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2081714835923046853/photo/1",
+              "media_key": "3_2081714826078986240",
+              "start": 12,
+              "url": "https://t.co/5OaRX3agRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081714835923046853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说完好友只剩微信团队了 https://t.co/5OaRX3agRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16996,
+          "following_count": 2970,
+          "like_count": 8109,
+          "listed_count": 28,
+          "media_count": 2290,
+          "tweet_count": 3972
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

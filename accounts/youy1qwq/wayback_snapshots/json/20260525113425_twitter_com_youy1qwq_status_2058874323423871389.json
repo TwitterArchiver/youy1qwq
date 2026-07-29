@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2058753680577626266",
+    "created_at": "2026-05-25T11:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058874323423871389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1888402541253435392",
+          "start": 0,
+          "username": "qxgy88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058874323423871389",
+    "in_reply_to_user_id": "1888402541253435392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058753680577626266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxgy88 我可以吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2058753677763256320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIpj-sboAAW9fd.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2058753680577626266",
+        "created_at": "2026-05-25T11:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058874323423871389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1888402541253435392",
+              "start": 0,
+              "username": "qxgy88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058874323423871389",
+        "in_reply_to_user_id": "1888402541253435392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058753680577626266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxgy88 我可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058753677763256320"
+          ]
+        },
+        "author_id": "1888402541253435392",
+        "conversation_id": "2058753680577626266",
+        "created_at": "2026-05-25T03:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058753680577626266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjmkZNcvTw",
+              "end": 80,
+              "expanded_url": "https://x.com/qxgy88/status/2058753680577626266/photo/1",
+              "media_key": "3_2058753677763256320",
+              "start": 57,
+              "url": "https://t.co/jjmkZNcvTw"
+            },
+            {
+              "display_url": "x.com/qxgy88/status/…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/qxgy88/status/2058047382315798585",
+              "start": 81,
+              "url": "https://t.co/z7Tnunxy9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058753680577626266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3983,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 124,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058047382315798585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝子们新的一周继续 ＃蓝V互关 ！\n\n要求——500+粉丝或者蓝V！\n\n漏了评论区告诉我！\n低俗账号别来，不回！ https://t.co/jjmkZNcvTw https://t.co/z7Tnunxy9a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13532,
+          "following_count": 1911,
+          "like_count": 4264,
+          "listed_count": 22,
+          "media_count": 1852,
+          "tweet_count": 2406
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-09T01:40:43.000Z",
+        "description": "日拱一卒的加密爱好者🔥｜空投｜撸毛 ~\nAmbassador @spaace_io\n所有内容均不作为投资建议\n商务TG：@qcsmbflll\n🌈蓝v互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "spaace_io"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "qcsmbflll"
+              }
+            ]
+          }
+        },
+        "id": "1888402541253435392",
+        "location": "Hong Kong",
+        "name": "禹攸🐬TermMax",
+        "pinned_tweet_id": "2058027976097497368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905839690227261440/OWcn0IS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13444,
+          "following_count": 12180,
+          "like_count": 83986,
+          "listed_count": 34,
+          "media_count": 1514,
+          "tweet_count": 75770
+        },
+        "username": "qxgy88",
+        "verified": true
+      }
+    ]
+  }
+}

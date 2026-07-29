@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032040042420715522"
+      ],
+      "media_source_tweet_id": [
+        "2032040051811693041"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2032622279352365129",
+    "created_at": "2026-03-14T00:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T01:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032622279352365129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2013974189628407808",
+          "start": 3,
+          "username": "blue934709"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f2NnUGyb7N",
+          "end": 43,
+          "expanded_url": "https://x.com/blue934709/status/2032040051811693041/photo/1",
+          "media_key": "3_2032040042420715522",
+          "start": 20,
+          "url": "https://t.co/f2NnUGyb7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032622279352365129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032040051811693041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blue934709: 今天和 https://t.co/f2NnUGyb7N"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032622279352365129].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032622279352365129",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032622279352365129"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2032040042420715522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNBpwHbQAILAC8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032040042420715522"
+          ]
+        },
+        "author_id": "2013974189628407808",
+        "conversation_id": "2032040051811693041",
+        "created_at": "2026-03-12T10:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032040051811693041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2NnUGyb7N",
+              "end": 27,
+              "expanded_url": "https://x.com/blue934709/status/2032040051811693041/photo/1",
+              "media_key": "3_2032040042420715522",
+              "start": 4,
+              "url": "https://t.co/f2NnUGyb7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032040051811693041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天和 https://t.co/f2NnUGyb7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7058,
+          "following_count": 1282,
+          "like_count": 3062,
+          "listed_count": 9,
+          "media_count": 843,
+          "tweet_count": 1252
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-21T13:57:31.000Z",
+        "description": "05反差，164/105喜欢我可以私信入🚪88/188/520/1314 江浙沪可✈️",
+        "id": "2013974189628407808",
+        "name": "甜豆包",
+        "pinned_tweet_id": "2030236050342531317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032305026459451393/fPFoWJI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 35
+        },
+        "username": "blue934709",
+        "verified": false
+      }
+    ]
+  }
+}

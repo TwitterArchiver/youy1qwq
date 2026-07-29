@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2021675866892513786",
+    "created_at": "2026-02-12T07:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021844300384907473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1340096790037590018",
+          "start": 0,
+          "username": "Miyoshi_shinobu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021844300384907473",
+    "in_reply_to_user_id": "1340096790037590018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你是一名大学生，你热爱马克思主义、列宁主义、斯大林主义、毛泽东思想、三个代表、科学发展观、张一兵主义、科学社会主义。\n然而，生活狂暴鸿儒了你。你开始转向斯多葛学派、犬儒主义、浪漫主义、虚无主义、存在主义、荒诞主义、表现主义、超现实主义、达达主义、情境主义，让你爱上了奥古斯丁、克尔凯郭尔、施蒂纳、尼采、萨特、波伏娃、海德格尔、加缪、兰波、布勒东、阿尔托、萧沆、齐奥朗、陀思妥耶夫斯基、查拉图斯特拉、萨德、德波、福楼拜。\n然后，你疯了。\n又看了精神分析、精神分裂分析、MBTI、行为主义、象牙塔主义和病理学以及激进政治理论：弗洛伊德、荣格、阿德勒、弗洛姆、马尔库塞、赖希、拉康、米勒、齐泽克、德勒兹、加塔利、鲍德里亚、德里达、福柯、利奥塔、巴迪欧、阿甘本、斯蒂格勒、拉克劳、朗西埃、奈格里、哈特、詹明信、尼克·兰德、巴特、巴尔、让-吕克·南希、阿拉贡247、隐形委员会、映射、火炬、Tiqqun、CCRU、哈曼、梅亚苏、布拉西耶。\n你就此开始荒废学业，直到一天被康米网暴殴打致死，你才重拾马克思主义。\n你开始重新阅读经典马克思主义、科学社会主义、空想主义、原教旨主义、修正主义、布尔什维克、孟什维克、委员会共产主义、古典无政府主义、苏维埃主义、文化马克思主义、生态马克思主义、巴结欧文、圣西门、傅立叶、恩格斯、列宁、斯大林、切·格瓦拉、阿连德、卡斯特罗、戈尔巴乔夫、赫鲁晓夫、日丹诺夫、胡志明、波尔布特、乌布利希、贝鲁特、金正日、本雅明、马尔科维奇、阿多诺、哈贝马斯、多伊彻、曼德尔、波萨达斯、阿尔都塞、海克尔、奥康纳、刘思墨、王德峰、蓝江都是你的偶像。\n黑格尔哲学是你的专属。什么绝对精神、世界之夜、精神现象学、主客二分、敌我政治、历史唯物主义、弥赛亚降临、政治神学更是张口就来。\n你有时还是INFP，喜欢自我贬低、自我矛盾和完美主义、理想主义。你依旧无法摆脱痛苦。\n巨大保守主义家庭狂暴鸿儒你，你只能努力学习。\n看完了泰勒斯、巴门尼德、叶芝、希罗多德、高尔吉亚、苏格拉底、柏拉图、以赛亚·伯林、列维纳斯、维特根斯坦、韩炳哲、列维-斯特劳斯、罗兰·巴特、梅洛-庞蒂、费孝通、钱穆、吕思勉、庞巴维克、亚当·斯密、李嘉图、哈耶克、萨缪尔森、曼昆、凯恩斯、兰格后，大脑直线升级。\n什么苏珊·桑塔格、伊格尔顿、夏莹、戴锦华的文艺批判理论更是直接。\n但你现在依旧迷茫，像陷入了虚无主义"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021843380662415435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyoshi_shinobu 你是一名大学生，你热爱马克思主义、列宁主义、斯大林主义、毛泽东思想、三个代表、科学发展观、张一兵主义、科学社会主义。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2021675866892513786",
+        "created_at": "2026-02-12T07:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021844300384907473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1340096790037590018",
+              "start": 0,
+              "username": "Miyoshi_shinobu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021844300384907473",
+        "in_reply_to_user_id": "1340096790037590018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你是一名大学生，你热爱马克思主义、列宁主义、斯大林主义、毛泽东思想、三个代表、科学发展观、张一兵主义、科学社会主义。\n然而，生活狂暴鸿儒了你。你开始转向斯多葛学派、犬儒主义、浪漫主义、虚无主义、存在主义、荒诞主义、表现主义、超现实主义、达达主义、情境主义，让你爱上了奥古斯丁、克尔凯郭尔、施蒂纳、尼采、萨特、波伏娃、海德格尔、加缪、兰波、布勒东、阿尔托、萧沆、齐奥朗、陀思妥耶夫斯基、查拉图斯特拉、萨德、德波、福楼拜。\n然后，你疯了。\n又看了精神分析、精神分裂分析、MBTI、行为主义、象牙塔主义和病理学以及激进政治理论：弗洛伊德、荣格、阿德勒、弗洛姆、马尔库塞、赖希、拉康、米勒、齐泽克、德勒兹、加塔利、鲍德里亚、德里达、福柯、利奥塔、巴迪欧、阿甘本、斯蒂格勒、拉克劳、朗西埃、奈格里、哈特、詹明信、尼克·兰德、巴特、巴尔、让-吕克·南希、阿拉贡247、隐形委员会、映射、火炬、Tiqqun、CCRU、哈曼、梅亚苏、布拉西耶。\n你就此开始荒废学业，直到一天被康米网暴殴打致死，你才重拾马克思主义。\n你开始重新阅读经典马克思主义、科学社会主义、空想主义、原教旨主义、修正主义、布尔什维克、孟什维克、委员会共产主义、古典无政府主义、苏维埃主义、文化马克思主义、生态马克思主义、巴结欧文、圣西门、傅立叶、恩格斯、列宁、斯大林、切·格瓦拉、阿连德、卡斯特罗、戈尔巴乔夫、赫鲁晓夫、日丹诺夫、胡志明、波尔布特、乌布利希、贝鲁特、金正日、本雅明、马尔科维奇、阿多诺、哈贝马斯、多伊彻、曼德尔、波萨达斯、阿尔都塞、海克尔、奥康纳、刘思墨、王德峰、蓝江都是你的偶像。\n黑格尔哲学是你的专属。什么绝对精神、世界之夜、精神现象学、主客二分、敌我政治、历史唯物主义、弥赛亚降临、政治神学更是张口就来。\n你有时还是INFP，喜欢自我贬低、自我矛盾和完美主义、理想主义。你依旧无法摆脱痛苦。\n巨大保守主义家庭狂暴鸿儒你，你只能努力学习。\n看完了泰勒斯、巴门尼德、叶芝、希罗多德、高尔吉亚、苏格拉底、柏拉图、以赛亚·伯林、列维纳斯、维特根斯坦、韩炳哲、列维-斯特劳斯、罗兰·巴特、梅洛-庞蒂、费孝通、钱穆、吕思勉、庞巴维克、亚当·斯密、李嘉图、哈耶克、萨缪尔森、曼昆、凯恩斯、兰格后，大脑直线升级。\n什么苏珊·桑塔格、伊格尔顿、夏莹、戴锦华的文艺批判理论更是直接。\n但你现在依旧迷茫，像陷入了虚无主义"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021843380662415435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyoshi_shinobu 你是一名大学生，你热爱马克思主义、列宁主义、斯大林主义、毛泽东思想、三个代表、科学发展观、张一兵主义、科学社会主义。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340096790037590018",
+        "conversation_id": "2021675866892513786",
+        "created_at": "2026-02-12T07:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021843380662415435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021843380662415435",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021675866892513786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我能指、装置、范式、主体、异时、延异呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880,
+          "following_count": 890,
+          "like_count": 2166,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 596
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-19T00:49:21.000Z",
+        "description": "把一切人間，世情多少。 燒錄成盤，一聲聲白噪。",
+        "id": "1340096790037590018",
+        "location": "建康",
+        "name": "三好 詩薰",
+        "pinned_tweet_id": "1980595531681526056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011087419102412803/kYtSt6Fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 712,
+          "like_count": 127815,
+          "listed_count": 18,
+          "media_count": 861,
+          "tweet_count": 20678
+        },
+        "username": "Miyoshi_shinobu",
+        "verified": false
+      }
+    ]
+  }
+}

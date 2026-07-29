@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2073454972851859952",
+    "created_at": "2026-07-05T02:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073593511220482222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1404733302607581184",
+          "start": 0,
+          "username": "0x_dcgbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073593511220482222",
+    "in_reply_to_user_id": "1404733302607581184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073479861512061250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x_dcgbb 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-05T02:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073593511220482222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1404733302607581184",
+              "start": 0,
+              "username": "0x_dcgbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073593511220482222",
+        "in_reply_to_user_id": "1404733302607581184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073479861512061250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x_dcgbb 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404733302607581184",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T18:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073479861512061250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073479861512061250",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454972851859952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 来了，姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15790,
+          "following_count": 2325,
+          "like_count": 7893,
+          "listed_count": 27,
+          "media_count": 2185,
+          "tweet_count": 3812
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-15T09:31:47.000Z",
+        "description": "#crypto 早期项目投研 百倍项目挖掘机🌞\n #BTC #SOL  #Meme #ETH\n\n #LoveTesla\n\n曾经是个黄毛 现在是个王者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "crypto"
+              },
+              {
+                "end": 29,
+                "start": 25,
+                "tag": "BTC"
+              },
+              {
+                "end": 34,
+                "start": 30,
+                "tag": "SOL"
+              },
+              {
+                "end": 41,
+                "start": 36,
+                "tag": "Meme"
+              },
+              {
+                "end": 46,
+                "start": 42,
+                "tag": "ETH"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "tag": "LoveTesla"
+              }
+            ]
+          }
+        },
+        "id": "1404733302607581184",
+        "name": "曾经是个赌神",
+        "pinned_tweet_id": "1962183240015647003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014648747712708608/ir5pOkBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9528,
+          "following_count": 6449,
+          "like_count": 101816,
+          "listed_count": 36,
+          "media_count": 123,
+          "tweet_count": 105551
+        },
+        "url": "",
+        "username": "0x_dcgbb",
+        "verified": true
+      }
+    ]
+  }
+}

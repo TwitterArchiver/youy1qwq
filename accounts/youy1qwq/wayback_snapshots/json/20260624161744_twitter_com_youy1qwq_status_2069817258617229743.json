@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-24T16:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069817258617229743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2065656825282957312",
+          "start": 0,
+          "username": "skozih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069817258617229743",
+    "in_reply_to_user_id": "2065656825282957312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069815940595040595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skozih 嘻嘻谢谢呀😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T16:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069817258617229743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065656825282957312",
+              "start": 0,
+              "username": "skozih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069817258617229743",
+        "in_reply_to_user_id": "2065656825282957312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069815940595040595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skozih 嘻嘻谢谢呀😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065656825282957312",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T16:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069815940595040595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069815940595040595",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 兄弟你好香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15033,
+          "following_count": 2190,
+          "like_count": 7109,
+          "listed_count": 27,
+          "media_count": 2114,
+          "tweet_count": 3635
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-13T04:46:40.000Z",
+        "description": "",
+        "id": "2065656825282957312",
+        "name": "インドア系なら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065657250149195776/i1pibP-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "skozih",
+        "verified": false
+      }
+    ]
+  }
+}

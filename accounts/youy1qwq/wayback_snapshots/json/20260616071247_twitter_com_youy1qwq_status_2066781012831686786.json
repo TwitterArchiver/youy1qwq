@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066778690189738398",
+    "created_at": "2026-06-16T07:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066781012831686786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2001163937388355584",
+          "start": 0,
+          "username": "Lorp_Voltemord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066781012831686786",
+    "in_reply_to_user_id": "2001163937388355584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066778690189738398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lorp_Voltemord 复习喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066778690189738398",
+        "created_at": "2026-06-16T07:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066781012831686786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2001163937388355584",
+              "start": 0,
+              "username": "Lorp_Voltemord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066781012831686786",
+        "in_reply_to_user_id": "2001163937388355584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066778690189738398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lorp_Voltemord 复习喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001163937388355584",
+        "conversation_id": "2066778690189738398",
+        "created_at": "2026-06-16T07:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066778690189738398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2066573932615041450",
+              "start": 29,
+              "url": "https://t.co/EPjtlFvBlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066778690189738398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573932615041450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实快要忘记有were这么个词了\n\n顺便一说我想选was https://t.co/EPjtlFvBlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14707,
+          "following_count": 2127,
+          "like_count": 6048,
+          "listed_count": 25,
+          "media_count": 2062,
+          "tweet_count": 3171
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-17T05:34:15.000Z",
+        "description": "什么都发，意思是包括NSFW类文字\n目前主要为小猫｜发推｜日常\n顺女友跨\n抑郁症严肃发作中。期末月焦虑中。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/losgarvilles",
+                "end": 23,
+                "expanded_url": "https://ngl.link/losgarvilles",
+                "start": 0,
+                "url": "https://t.co/MkuHjO5Gpb"
+              }
+            ]
+          }
+        },
+        "id": "2001163937388355584",
+        "name": "盐都不盐了！",
+        "pinned_tweet_id": "2063970419791843696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063572227946373120/oAedct4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 321,
+          "like_count": 4266,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/MkuHjO5Gpb",
+        "username": "Lorp_Voltemord",
+        "verified": false
+      }
+    ]
+  }
+}

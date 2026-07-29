@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019576777698603071",
+    "created_at": "2026-02-06T04:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019627445180068092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1393430510848733188",
+          "start": 0,
+          "username": "Liu40094964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019627445180068092",
+    "in_reply_to_user_id": "1393430510848733188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019627336271073783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu40094964 那很神秘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019576777698603071",
+        "created_at": "2026-02-06T04:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019627445180068092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1393430510848733188",
+              "start": 0,
+              "username": "Liu40094964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019627445180068092",
+        "in_reply_to_user_id": "1393430510848733188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019627336271073783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu40094964 那很神秘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393430510848733188",
+        "conversation_id": "2019576777698603071",
+        "created_at": "2026-02-06T04:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019627336271073783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019627336271073783",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019576777698603071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 就我第一眼把胳膊看成白丝的吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 509,
+          "like_count": 1098,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 279
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-15T04:58:29.000Z",
+        "description": "❤️416❤️",
+        "id": "1393430510848733188",
+        "location": "China",
+        "name": "Liu_Three",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759912608914911232/F3yBnRGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 257,
+          "like_count": 78365,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 1368
+        },
+        "username": "Liu40094964",
+        "verified": false
+      }
+    ]
+  }
+}

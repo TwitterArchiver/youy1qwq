@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020392042312921088",
+        "3_2020392042313007104"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020407249978667321",
+    "created_at": "2026-02-08T08:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T09:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020407249978667321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VOavFbIA2o",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2020407249978667321/photo/1",
+          "media_key": "3_2020392042312921088",
+          "start": 14,
+          "url": "https://t.co/VOavFbIA2o"
+        },
+        {
+          "display_url": "pic.x.com/VOavFbIA2o",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2020407249978667321/photo/1",
+          "media_key": "3_2020392042313007104",
+          "start": 14,
+          "url": "https://t.co/VOavFbIA2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020407249978667321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈：看我装唐一手蒙混过关 https://t.co/VOavFbIA2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1488,
+        "media_key": "3_2020392042312921088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnf26UWcAAFriz.jpg",
+        "width": 1179
+      },
+      {
+        "height": 889,
+        "media_key": "3_2020392042313007104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnf26UXwAA71-J.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020392042312921088",
+            "3_2020392042313007104"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020407249978667321",
+        "created_at": "2026-02-08T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020407249978667321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOavFbIA2o",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2020407249978667321/photo/1",
+              "media_key": "3_2020392042312921088",
+              "start": 14,
+              "url": "https://t.co/VOavFbIA2o"
+            },
+            {
+              "display_url": "pic.x.com/VOavFbIA2o",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2020407249978667321/photo/1",
+              "media_key": "3_2020392042313007104",
+              "start": 14,
+              "url": "https://t.co/VOavFbIA2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020407249978667321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈：看我装唐一手蒙混过关 https://t.co/VOavFbIA2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 843,
+          "like_count": 1690,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 458
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

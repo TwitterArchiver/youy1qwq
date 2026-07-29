@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2022641979805569429",
+    "created_at": "2026-02-14T18:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T19:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022739809903501390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1664969828942368770",
+          "start": 0,
+          "username": "YuTuo15459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022739809903501390",
+    "in_reply_to_user_id": "1664969828942368770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022712757808767179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuTuo15459 沈明珠屋内不许荡秋千"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2022641979805569429",
+        "created_at": "2026-02-14T18:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022739809903501390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1664969828942368770",
+              "start": 0,
+              "username": "YuTuo15459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022739809903501390",
+        "in_reply_to_user_id": "1664969828942368770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022712757808767179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuTuo15459 沈明珠屋内不许荡秋千"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664969828942368770",
+        "conversation_id": "2022641979805569429",
+        "created_at": "2026-02-14T16:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022712757808767179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022712757808767179",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022641979805569429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我洗澡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 923,
+          "like_count": 2311,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 676
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-03T12:18:50.000Z",
+        "description": "03年生人，基督徒✝️，出生于中华人民共和国🇨🇳福建省，农村长大，在厦门读书。发小在中华民国🇹🇼台湾省服兵役。\n去过十几个国家，现居美利坚合众国🇺🇸，纽约市布鲁克林，在新泽西州帕特森市工作。",
+        "id": "1664969828942368770",
+        "location": "Brooklyn, NY",
+        "name": "鐵血地獄拖拉機",
+        "pinned_tweet_id": "2011240753876369486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902094404673839104/5Fkkwdi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 324,
+          "like_count": 1043,
+          "listed_count": 1,
+          "media_count": 635,
+          "tweet_count": 4144
+        },
+        "username": "YuTuo15459",
+        "verified": false
+      }
+    ]
+  }
+}

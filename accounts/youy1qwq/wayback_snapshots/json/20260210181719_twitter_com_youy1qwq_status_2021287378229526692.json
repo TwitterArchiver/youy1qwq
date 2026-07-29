@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021280624733286401"
+      ],
+      "media_source_tweet_id": [
+        "2021280640327401699"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2021287378229526692",
+    "created_at": "2026-02-10T18:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T19:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021287378229526692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1995375785759444992",
+          "start": 3,
+          "username": "Rainevs5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E1d1ucoZJb",
+          "end": 54,
+          "expanded_url": "https://x.com/Rainevs5/status/2021280640327401699/photo/1",
+          "media_key": "3_2021280624733286401",
+          "start": 31,
+          "url": "https://t.co/E1d1ucoZJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021287378229526692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021280640327401699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainevs5: 嗯，是嘟 我的🚪哥六分钟就好了。 https://t.co/E1d1ucoZJb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021287378229526692].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021287378229526692",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021287378229526692"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2021280624733286401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA0IBNybcAEpuiV.jpg",
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021280624733286401"
+          ]
+        },
+        "author_id": "1995375785759444992",
+        "conversation_id": "2021280640327401699",
+        "created_at": "2026-02-10T17:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021280640327401699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1d1ucoZJb",
+              "end": 40,
+              "expanded_url": "https://x.com/Rainevs5/status/2021280640327401699/photo/1",
+              "media_key": "3_2021280624733286401",
+              "start": 17,
+              "url": "https://t.co/E1d1ucoZJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021280640327401699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，是嘟 我的🚪哥六分钟就好了。 https://t.co/E1d1ucoZJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 874,
+          "like_count": 2082,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 552
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-01T06:14:35.000Z",
+        "description": "06 喜欢我请过🚪88 /188/520 只回口令 江浙沪可✈️",
+        "id": "1995375785759444992",
+        "name": "S",
+        "pinned_tweet_id": "2020842986071113969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014981091657195520/uRVwR_X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 24,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 152
+        },
+        "username": "Rainevs5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068339528956555756",
+    "created_at": "2026-06-20T18:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068404296857878950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1376993173528973313",
+          "start": 0,
+          "username": "0x888w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068404296857878950",
+    "in_reply_to_user_id": "1376993173528973313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068339528956555756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x888w 互吗 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068339521801048064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ31ifaUAAX22r.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068339528956555756",
+        "created_at": "2026-06-20T18:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068404296857878950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1376993173528973313",
+              "start": 0,
+              "username": "0x888w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068404296857878950",
+        "in_reply_to_user_id": "1376993173528973313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068339528956555756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x888w 互吗 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068339521801048064"
+          ]
+        },
+        "author_id": "1376993173528973313",
+        "conversation_id": "2068339528956555756",
+        "created_at": "2026-06-20T14:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068339528956555756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BeMbRKp7wn",
+              "end": 66,
+              "expanded_url": "https://x.com/0x888w/status/2068339528956555756/photo/1",
+              "media_key": "3_2068339521801048064",
+              "start": 43,
+              "url": "https://t.co/BeMbRKp7wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068339528956555756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1548,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开通蓝v已经快半个月了\n\n距离创作者收益分成遥遥无期啊\n\n不知道要不要继续坚持下去了 https://t.co/BeMbRKp7wn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14862,
+          "following_count": 2165,
+          "like_count": 6560,
+          "listed_count": 27,
+          "media_count": 2094,
+          "tweet_count": 3492
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-30T20:22:19.000Z",
+        "description": "BTC重仓者｜Crypto Alpha猎人\n记录真实交易与周期思考\n不喊单，只分享认知\n蓝V互关｜关注必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x0x888w",
+                "end": 23,
+                "expanded_url": "https://t.me/x0x888w",
+                "start": 0,
+                "url": "https://t.co/GTW2kRlcvI"
+              }
+            ]
+          }
+        },
+        "id": "1376993173528973313",
+        "name": "凌川Crypto（蓝V互关）",
+        "pinned_tweet_id": "2062231107538702373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063650470250663938/fWmkh8Fk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 1136,
+          "like_count": 1848,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 3697
+        },
+        "url": "https://t.co/GTW2kRlcvI",
+        "username": "0x888w",
+        "verified": true
+      }
+    ]
+  }
+}

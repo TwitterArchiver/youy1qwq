@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067235166364602539",
+    "created_at": "2026-06-17T13:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067245247441310136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1153315107310489600",
+          "start": 0,
+          "username": "ohnoappliedmath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067245247441310136",
+    "in_reply_to_user_id": "1153315107310489600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067235166364602539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohnoappliedmath 这是好事啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067235166364602539",
+        "created_at": "2026-06-17T13:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067245247441310136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1153315107310489600",
+              "start": 0,
+              "username": "ohnoappliedmath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067245247441310136",
+        "in_reply_to_user_id": "1153315107310489600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067235166364602539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohnoappliedmath 这是好事啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153315107310489600",
+        "conversation_id": "2067235166364602539",
+        "created_at": "2026-06-17T13:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067235166364602539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2067113166878974280",
+              "start": 5,
+              "url": "https://t.co/QaPJ5A3p07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067235166364602539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067113166878974280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全毀了 https://t.co/QaPJ5A3p07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14745,
+          "following_count": 2132,
+          "like_count": 6182,
+          "listed_count": 25,
+          "media_count": 2069,
+          "tweet_count": 3287
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T14:45:23.000Z",
+        "description": "正本清源 手把手 有積累 有傳承 衝鋒 做中學 頂著幹 玩真的 不炫技 不適合旁聽 含金量高",
+        "id": "1153315107310489600",
+        "name": "薨",
+        "pinned_tweet_id": "2066053894615245005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748966291279601664/7MKcE-CK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 886,
+          "like_count": 2412,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 1737
+        },
+        "username": "ohnoappliedmath",
+        "verified": false
+      }
+    ]
+  }
+}

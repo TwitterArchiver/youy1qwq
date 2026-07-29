@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-25T02:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069967563875057984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2064297702884593664",
+          "start": 0,
+          "username": "jcrml8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069967563875057984",
+    "in_reply_to_user_id": "2064297702884593664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069873004880769032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jcrml8 我还没满足条件😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-25T02:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069967563875057984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2064297702884593664",
+              "start": 0,
+              "username": "jcrml8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069967563875057984",
+        "in_reply_to_user_id": "2064297702884593664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069873004880769032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jcrml8 我还没满足条件😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064297702884593664",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T19:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069873004880769032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069873004880769032",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 开付费订阅，我想订阅你都没有入口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15085,
+          "following_count": 2211,
+          "like_count": 7134,
+          "listed_count": 28,
+          "media_count": 2116,
+          "tweet_count": 3663
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-09T10:55:22.000Z",
+        "description": "10年商用厨具从业者|现致力于自媒体\n关注互联网与世界变化|不谈论政治相关话题",
+        "id": "2064297702884593664",
+        "name": "江城如梦里",
+        "pinned_tweet_id": "2065115777145942220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065216090712539136/3sBZDoSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1026,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "jcrml8",
+        "verified": true
+      }
+    ]
+  }
+}

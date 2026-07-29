@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2058779098634391595",
+    "created_at": "2026-05-25T14:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058922545479581996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "855808044667502593",
+          "start": 0,
+          "username": "SFZYGALLERY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058922545479581996",
+    "in_reply_to_user_id": "855808044667502593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058779098634391595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SFZYGALLERY 我我我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2058779095253872640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJAreObcAAGQTn.jpg",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2058779098634391595",
+        "created_at": "2026-05-25T14:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058922545479581996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "855808044667502593",
+              "start": 0,
+              "username": "SFZYGALLERY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058922545479581996",
+        "in_reply_to_user_id": "855808044667502593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058779098634391595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SFZYGALLERY 我我我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058779095253872640"
+          ]
+        },
+        "author_id": "855808044667502593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058779098634391595",
+        "created_at": "2026-05-25T05:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058779098634391595"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5x2ImsBkS",
+              "end": 78,
+              "expanded_url": "https://x.com/SFZYGALLERY/status/2058779098634391595/photo/1",
+              "media_key": "3_2058779095253872640",
+              "start": 55,
+              "url": "https://t.co/h5x2ImsBkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058779098634391595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近蓝V互关是真的很火吗？\n\n怎么到处都有人在喊新面孔在哪里？\n\n所以！\n\n新面孔到底在哪里？\n\n#蓝v互关 https://t.co/h5x2ImsBkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13556,
+          "following_count": 1917,
+          "like_count": 4271,
+          "listed_count": 22,
+          "media_count": 1855,
+          "tweet_count": 2412
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-22T15:38:32.000Z",
+        "description": "You don’t see the world.\nYou see how you were trained to see.\nI reveal the system behind vision.\n你看到的不是世界，\n是你被训练出来的观看方式。\n我揭示观看背后的系统。\nby Li Rongnan",
+        "id": "855808044667502593",
+        "location": "日本",
+        "name": "How You See",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050812833928212480/ZFGegMVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 1265,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 1567
+        },
+        "username": "SFZYGALLERY",
+        "verified": true
+      }
+    ]
+  }
+}

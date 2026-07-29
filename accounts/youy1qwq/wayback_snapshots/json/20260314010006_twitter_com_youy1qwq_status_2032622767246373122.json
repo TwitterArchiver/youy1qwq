@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2032590300670050430",
+    "created_at": "2026-03-14T01:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T02:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032622767246373122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889109090967658496",
+          "start": 0,
+          "username": "XCX090314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032622767246373122",
+    "in_reply_to_user_id": "1889109090967658496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032611075158651177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XCX090314 我一直很懵逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2032590300670050430",
+        "created_at": "2026-03-14T01:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T02:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032622767246373122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889109090967658496",
+              "start": 0,
+              "username": "XCX090314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032622767246373122",
+        "in_reply_to_user_id": "1889109090967658496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032611075158651177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XCX090314 我一直很懵逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889109090967658496",
+        "conversation_id": "2032590300670050430",
+        "created_at": "2026-03-14T00:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T01:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032611075158651177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032611075158651177",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032590300670050430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 给我擦皮鞋是最尬的，一群傻子模仿香港口音在那喊😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7058,
+          "following_count": 1282,
+          "like_count": 3064,
+          "listed_count": 9,
+          "media_count": 844,
+          "tweet_count": 1255
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-11T00:28:08.000Z",
+        "description": "😂",
+        "id": "1889109090967658496",
+        "name": "😂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031926278874705920/0UvNwERu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 24,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 528
+        },
+        "username": "XCX090314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055942607059169280"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2055942622527754298",
+    "created_at": "2026-05-17T09:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055942622527754298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pSeJ7LLvkC",
+          "end": 33,
+          "expanded_url": "https://x.com/youy1qwq/status/2055942622527754298/photo/1",
+          "media_key": "3_2055942607059169280",
+          "start": 10,
+          "url": "https://t.co/pSeJ7LLvkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055942622527754298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帮我放职高厕所谢谢 https://t.co/pSeJ7LLvkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1123,
+        "media_key": "3_2055942607059169280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgs6IRaMAApZ5v.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055942607059169280"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2055942622527754298",
+        "created_at": "2026-05-17T09:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055942622527754298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSeJ7LLvkC",
+              "end": 33,
+              "expanded_url": "https://x.com/youy1qwq/status/2055942622527754298/photo/1",
+              "media_key": "3_2055942607059169280",
+              "start": 10,
+              "url": "https://t.co/pSeJ7LLvkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055942622527754298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮我放职高厕所谢谢 https://t.co/pSeJ7LLvkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13102,
+          "following_count": 1810,
+          "like_count": 4158,
+          "listed_count": 20,
+          "media_count": 1770,
+          "tweet_count": 2297
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

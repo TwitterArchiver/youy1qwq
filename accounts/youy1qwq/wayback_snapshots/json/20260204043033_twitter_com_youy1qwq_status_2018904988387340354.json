@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018633062154989839",
+    "created_at": "2026-02-04T04:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018904988387340354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "772130292618309632",
+          "start": 0,
+          "username": "raselkhan93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018904988387340354",
+    "in_reply_to_user_id": "772130292618309632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018904853930782920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raselkhan93 c神开播了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018633062154989839",
+        "created_at": "2026-02-04T04:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018904988387340354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "772130292618309632",
+              "start": 0,
+              "username": "raselkhan93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018904988387340354",
+        "in_reply_to_user_id": "772130292618309632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018904853930782920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raselkhan93 c神开播了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "772130292618309632",
+        "conversation_id": "2018633062154989839",
+        "created_at": "2026-02-04T04:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018904853930782920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018904853930782920",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018633062154989839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我笑吐了呀闺蜜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 232,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 148
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T17:53:02.000Z",
+        "description": "苯人已签订主仆契约。。。",
+        "id": "772130292618309632",
+        "name": "许愿一个处男。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002419465942937605/JlXOyw0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 38,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 432
+        },
+        "username": "raselkhan93",
+        "verified": false
+      }
+    ]
+  }
+}

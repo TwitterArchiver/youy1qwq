@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024006576084832256"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2024061327929643501",
+    "created_at": "2026-02-18T10:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024061327929643501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XsRQiH4ty2",
+          "end": 31,
+          "expanded_url": "https://x.com/youy1qwq/status/2024061327929643501/photo/1",
+          "media_key": "3_2024006576084832256",
+          "start": 8,
+          "url": "https://t.co/XsRQiH4ty2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024061327929643501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两广人民抽卡中 https://t.co/XsRQiH4ty2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2024006576084832256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa3Qd6XUAAekqw.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024006576084832256"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2024061327929643501",
+        "created_at": "2026-02-18T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024061327929643501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsRQiH4ty2",
+              "end": 31,
+              "expanded_url": "https://x.com/youy1qwq/status/2024061327929643501/photo/1",
+              "media_key": "3_2024006576084832256",
+              "start": 8,
+              "url": "https://t.co/XsRQiH4ty2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024061327929643501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两广人民抽卡中 https://t.co/XsRQiH4ty2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 964,
+          "like_count": 2470,
+          "listed_count": 6,
+          "media_count": 397,
+          "tweet_count": 773
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

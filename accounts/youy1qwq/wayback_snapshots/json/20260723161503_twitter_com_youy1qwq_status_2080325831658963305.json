@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2080325831658963305",
+    "created_at": "2026-07-23T16:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080325831658963305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youy1qwq/creat…",
+          "end": 120,
+          "expanded_url": "https://x.com/youy1qwq/creator-subscriptions/subscribe",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2079921731591077888/rtTNPYqf?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079921731591077888/rtTNPYqf?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/flow/login",
+          "url": "https://t.co/IHT1z1FZMs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080325831658963305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢所有粉丝所有观众感谢X这个平台，由依今天开通subscribe了喵！\n订阅可以看到由依每月的不定时自拍生活照碎碎念，以及可以和由依私信闲聊喵w\n再次感谢所有支持过由依的大家，爱你们喵🥺❤️ https://t.co/IHT1z1FZMs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2080325831658963305",
+        "created_at": "2026-07-23T16:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080325831658963305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/creat…",
+              "end": 120,
+              "expanded_url": "https://x.com/youy1qwq/creator-subscriptions/subscribe",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2079921731591077888/rtTNPYqf?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079921731591077888/rtTNPYqf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/IHT1z1FZMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080325831658963305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢所有粉丝所有观众感谢X这个平台，由依今天开通subscribe了喵！\n订阅可以看到由依每月的不定时自拍生活照碎碎念，以及可以和由依私信闲聊喵w\n再次感谢所有支持过由依的大家，爱你们喵🥺❤️ https://t.co/IHT1z1FZMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16723,
+          "following_count": 2912,
+          "like_count": 8087,
+          "listed_count": 28,
+          "media_count": 2270,
+          "tweet_count": 3946
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

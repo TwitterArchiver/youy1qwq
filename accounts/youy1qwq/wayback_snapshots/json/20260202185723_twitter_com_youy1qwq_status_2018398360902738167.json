@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018193765064724697",
+    "created_at": "2026-02-02T18:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T19:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018398360902738167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1992965330793332736",
+          "start": 0,
+          "username": "1223Loveamiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018398360902738167",
+    "in_reply_to_user_id": "1992965330793332736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018255795977400511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1223Loveamiya 也可以喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018193765064724697",
+        "created_at": "2026-02-02T18:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018398360902738167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992965330793332736",
+              "start": 0,
+              "username": "1223Loveamiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018398360902738167",
+        "in_reply_to_user_id": "1992965330793332736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018255795977400511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1223Loveamiya 也可以喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992965330793332736",
+        "conversation_id": "2018193765064724697",
+        "created_at": "2026-02-02T09:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018255795977400511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018255795977400511",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018193765064724697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 扣2嘻嘻()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 186,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 82
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T14:35:53.000Z",
+        "description": "16岁/家长不管/生产日期2009/11/30/ENFP-T/176cm/hrt/xyn/mtf/无证含糖qwq/hrt开始于2026.1.16\n不od不割手/爱玩明日方舟 and Minecraft",
+        "id": "1992965330793332736",
+        "location": "罗德岛",
+        "name": "阿米娅_Amiya🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018255125132042240/1rQpHtPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 255,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 49
+        },
+        "username": "1223Loveamiya",
+        "verified": false
+      }
+    ]
+  }
+}

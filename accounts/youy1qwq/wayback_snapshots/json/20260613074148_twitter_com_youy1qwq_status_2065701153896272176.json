@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065667536612733058",
+    "created_at": "2026-06-13T07:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065701153896272176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1294089530048491520",
+          "start": 0,
+          "username": "MarissaLeeann5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065701153896272176",
+    "in_reply_to_user_id": "1294089530048491520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065693884022247723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MarissaLeeann5 骂人是错误行为 他就要明白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065667536612733058",
+        "created_at": "2026-06-13T07:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065701153896272176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1294089530048491520",
+              "start": 0,
+              "username": "MarissaLeeann5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065701153896272176",
+        "in_reply_to_user_id": "1294089530048491520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065693884022247723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarissaLeeann5 骂人是错误行为 他就要明白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294089530048491520",
+        "conversation_id": "2065667536612733058",
+        "created_at": "2026-06-13T07:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065693884022247723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065693884022247723",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065667536612733058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 收集人类的光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14504,
+          "following_count": 2106,
+          "like_count": 5688,
+          "listed_count": 24,
+          "media_count": 2042,
+          "tweet_count": 2990
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-14T01:52:53.000Z",
+        "description": "高强度冲浪  无业躺平人士，还是个笨蛋~\n奇怪的私信不回，虽然我脾气很好，但是太过分也会生气哦～",
+        "id": "1294089530048491520",
+        "name": "铃小橘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056921619776372736/tzb2x-UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 56,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 92
+        },
+        "username": "MarissaLeeann5",
+        "verified": false
+      }
+    ]
+  }
+}

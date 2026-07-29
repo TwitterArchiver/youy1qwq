@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069309739616579939",
+    "created_at": "2026-06-23T15:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069444717327302872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693380480555479040",
+          "start": 0,
+          "username": "xinxin06150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069444717327302872",
+    "in_reply_to_user_id": "1693380480555479040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069395992747880698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxin06150 就这样不吃亏好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069309739616579939",
+        "created_at": "2026-06-23T15:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069444717327302872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693380480555479040",
+              "start": 0,
+              "username": "xinxin06150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069444717327302872",
+        "in_reply_to_user_id": "1693380480555479040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069395992747880698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxin06150 就这样不吃亏好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693380480555479040",
+        "conversation_id": "2069309739616579939",
+        "created_at": "2026-06-23T12:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069395992747880698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069395992747880698",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1623,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069309739616579939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 啥时候能有别人的嘴…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14995,
+          "following_count": 2180,
+          "like_count": 6970,
+          "listed_count": 26,
+          "media_count": 2108,
+          "tweet_count": 3580
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-20T21:52:36.000Z",
+        "description": "160cm 46kg/ 记录我的点点滴滴/接线下、感情指导 可私信过门/dy前主播、IELTS assistant teacher/上半年在广、下半年开始在KL",
+        "id": "1693380480555479040",
+        "location": "💗💗💗",
+        "name": "王欠欠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042257647735549952/tJBSCuji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 77,
+          "like_count": 171,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "xinxin06150",
+        "verified": true
+      }
+    ]
+  }
+}

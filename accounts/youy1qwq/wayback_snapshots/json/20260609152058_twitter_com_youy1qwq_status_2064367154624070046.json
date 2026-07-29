@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2053145226051514704",
+    "created_at": "2026-06-09T15:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064367154624070046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052175511988609024",
+          "start": 0,
+          "username": "kawaiiiwanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064367154624070046",
+    "in_reply_to_user_id": "2052175511988609024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053145226051514704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaiiiwanqwq 以前特别喜欢这个漫画！好可爱🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053145206912917504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH48sApXIAAahEO.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2053145226051514704",
+        "created_at": "2026-06-09T15:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064367154624070046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052175511988609024",
+              "start": 0,
+              "username": "kawaiiiwanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064367154624070046",
+        "in_reply_to_user_id": "2052175511988609024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053145226051514704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaiiiwanqwq 以前特别喜欢这个漫画！好可爱🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053145206912917504"
+          ]
+        },
+        "author_id": "2052175511988609024",
+        "conversation_id": "2053145226051514704",
+        "created_at": "2026-05-09T16:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053145226051514704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "WhoMadeMeAPrincess"
+            },
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "어느날공주가되어버렸다"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "某天成为公主"
+            },
+            {
+              "end": 61,
+              "start": 41,
+              "tag": "ある日お姫様になってしまった件について"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIDVu9x51Y",
+              "end": 88,
+              "expanded_url": "https://x.com/kawaiiiwanqwq/status/2053145226051514704/photo/1",
+              "media_key": "3_2053145206912917504",
+              "start": 65,
+              "url": "https://t.co/RIDVu9x51Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053145226051514704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2404,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#WhoMadeMeAPrincess #어느날공주가되어버렸다 #某天成为公主 #ある日お姫様になってしまった件について\n🎀💠 https://t.co/RIDVu9x51Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14196,
+          "following_count": 2059,
+          "like_count": 4718,
+          "listed_count": 24,
+          "media_count": 2009,
+          "tweet_count": 2702
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-06T23:58:37.000Z",
+        "description": "(՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷̥᷅⸝⸝՞)我叫MOMOBAN（晚晚！）记录日常Ⱄⱄ\n“晚晚酱?” “は一い在~!✧ (🫶🏻 ' ') “你喜欢什么?”\n“比起任何人 我!更!喜!欢!My Melo(ノ ́ヮ ́)ノ♥*”\n🍓 ₊⁺ ♡̴₊⁺ ₊⁺ ♡̴₊⁺ ₊⁺ ♡̴₊⁺ ～🚫存我照片，我会很生气",
+        "id": "2052175511988609024",
+        "location": "18↓ (U U )❍ 🇨🇳",
+        "name": "モモ晚",
+        "pinned_tweet_id": "2053145226051514704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062511465806901248/z1-X8ArL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 94,
+          "like_count": 1382,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 69
+        },
+        "username": "kawaiiiwanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

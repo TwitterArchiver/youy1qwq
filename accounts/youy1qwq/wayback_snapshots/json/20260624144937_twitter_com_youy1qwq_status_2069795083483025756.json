@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069795059948761088"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-24T14:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069795083483025756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aWW7QdjeDm",
+          "end": 53,
+          "expanded_url": "https://x.com/youy1qwq/status/2069795083483025756/photo/1",
+          "media_key": "3_2069795059948761088",
+          "start": 30,
+          "url": "https://t.co/aWW7QdjeDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069795083483025756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一万五粉丝答应的发照片&gt; &lt;\n是之前冬天拍的喵 https://t.co/aWW7QdjeDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2069795059948761088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLljpAoasAAMlZF.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069795059948761088"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T14:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069795083483025756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWW7QdjeDm",
+              "end": 53,
+              "expanded_url": "https://x.com/youy1qwq/status/2069795083483025756/photo/1",
+              "media_key": "3_2069795059948761088",
+              "start": 30,
+              "url": "https://t.co/aWW7QdjeDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069795083483025756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一万五粉丝答应的发照片&gt; &lt;\n是之前冬天拍的喵 https://t.co/aWW7QdjeDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15030,
+          "following_count": 2189,
+          "like_count": 7076,
+          "listed_count": 26,
+          "media_count": 2114,
+          "tweet_count": 3610
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

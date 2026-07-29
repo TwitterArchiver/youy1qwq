@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2058587054137811098",
+    "created_at": "2026-05-25T04:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058767545361183074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980073016752304128",
+          "start": 0,
+          "username": "TonyLin_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058767545361183074",
+    "in_reply_to_user_id": "1980073016752304128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058587054137811098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TonyLin_X 我呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2058586974408355840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGR8kTbMAAGDYW.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2058587054137811098",
+        "created_at": "2026-05-25T04:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058767545361183074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980073016752304128",
+              "start": 0,
+              "username": "TonyLin_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058767545361183074",
+        "in_reply_to_user_id": "1980073016752304128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058587054137811098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TonyLin_X 我呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058586974408355840"
+          ]
+        },
+        "author_id": "1980073016752304128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058587054137811098",
+        "created_at": "2026-05-24T16:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:32:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058586980804608498",
+          "2058587054137811098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jukUUpwsuP",
+              "end": 78,
+              "expanded_url": "https://x.com/TonyLin_X/status/2058587054137811098/photo/1",
+              "media_key": "3_2058586974408355840",
+              "start": 55,
+              "url": "https://t.co/jukUUpwsuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058587054137811098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 870,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近蓝V互关是真的很火吗？\n\n怎么到处都有人在喊新面孔在哪里？\n\n所以！\n\n新面孔到底在哪里？\n\n#蓝v互关 https://t.co/jukUUpwsuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13493,
+          "following_count": 1887,
+          "like_count": 4253,
+          "listed_count": 21,
+          "media_count": 1848,
+          "tweet_count": 2391
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T00:46:31.000Z",
+        "description": "🌱 币圈韭菜天花板｜🃏德扑傻鱼代言人",
+        "id": "1980073016752304128",
+        "location": "X",
+        "name": "Tony Lin",
+        "pinned_tweet_id": "2058446135413666243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058366488449617920/ONWGghPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 345,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 207
+        },
+        "username": "TonyLin_X",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2057981357675200837",
+    "created_at": "2026-05-23T03:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058031322644574469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1403576621139775493",
+          "start": 0,
+          "username": "gdzj1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058031322644574469",
+    "in_reply_to_user_id": "1403576621139775493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057981357675200837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdzj1005 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2057980720682045440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9qj9LbEAAJbQj.jpg",
+        "width": 1452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2057981357675200837",
+        "created_at": "2026-05-23T03:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058031322644574469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1403576621139775493",
+              "start": 0,
+              "username": "gdzj1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058031322644574469",
+        "in_reply_to_user_id": "1403576621139775493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057981357675200837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdzj1005 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057980720682045440"
+          ]
+        },
+        "author_id": "1403576621139775493",
+        "conversation_id": "2057981357675200837",
+        "created_at": "2026-05-23T00:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057981357675200837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2360EGIlJV",
+              "end": 79,
+              "expanded_url": "https://x.com/gdzj1005/status/2057981357675200837/photo/1",
+              "media_key": "3_2057980720682045440",
+              "start": 56,
+              "url": "https://t.co/2360EGIlJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057981357675200837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1625,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 91,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开通蓝V第三天了，总结一下，昨天突然来了一波流量新增了一百多的尊贵蓝V朋友，总体还不错，今天继续。 #蓝v互关 https://t.co/2360EGIlJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13348,
+          "following_count": 1856,
+          "like_count": 4229,
+          "listed_count": 21,
+          "media_count": 1824,
+          "tweet_count": 2364
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-12T04:56:38.000Z",
+        "description": "记录链上生活。\n顺风不浪，逆风不怂。\n2021年入行，\n资深老黑奴及老韭菜。\nstoup.eth",
+        "id": "1403576621139775493",
+        "name": "牛弹琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961647052687118337/e0H_gOuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 1189,
+          "like_count": 1904,
+          "listed_count": 11,
+          "media_count": 352,
+          "tweet_count": 4640
+        },
+        "username": "gdzj1005",
+        "verified": true
+      }
+    ]
+  }
+}

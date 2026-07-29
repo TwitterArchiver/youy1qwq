@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064248802186612841",
+    "created_at": "2026-06-09T13:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064343440595583285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1716793662510940160",
+          "start": 0,
+          "username": "TekeLili222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064343440595583285",
+    "in_reply_to_user_id": "1716793662510940160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064320122131804623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TekeLili222 都是学生的话应该没事吧 而且只是吃嘴子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064248802186612841",
+        "created_at": "2026-06-09T13:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064343440595583285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1716793662510940160",
+              "start": 0,
+              "username": "TekeLili222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064343440595583285",
+        "in_reply_to_user_id": "1716793662510940160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064320122131804623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TekeLili222 都是学生的话应该没事吧 而且只是吃嘴子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716793662510940160",
+        "conversation_id": "2064248802186612841",
+        "created_at": "2026-06-09T12:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064320122131804623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064320122131804623",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064248802186612841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 你会看见两个17岁学生吃嘴子双双被判猥亵罪（两小无猜适用范围为14-16）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14191,
+          "following_count": 2047,
+          "like_count": 4640,
+          "listed_count": 24,
+          "media_count": 2008,
+          "tweet_count": 2668
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-24T12:28:08.000Z",
+        "description": "幸福的三要素：自私，无知，健康  。\n多锻炼身体，也祝你成为一个幸福的人",
+        "id": "1716793662510940160",
+        "name": "AAA饼干打孔污师傅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062435608862314496/sZA3daqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 209
+        },
+        "username": "TekeLili222",
+        "verified": false
+      }
+    ]
+  }
+}

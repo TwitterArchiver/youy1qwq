@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020176735632003443",
+    "created_at": "2026-02-07T19:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T20:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020220717556449542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807484145439756288",
+          "start": 0,
+          "username": "sb3013905913940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020220717556449542",
+    "in_reply_to_user_id": "1807484145439756288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020220515777146934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sb3013905913940 生理不适"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020176735632003443",
+        "created_at": "2026-02-07T19:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020220717556449542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807484145439756288",
+              "start": 0,
+              "username": "sb3013905913940"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020220717556449542",
+        "in_reply_to_user_id": "1807484145439756288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020220515777146934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sb3013905913940 生理不适"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807484145439756288",
+        "conversation_id": "2020176735632003443",
+        "created_at": "2026-02-07T19:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020220515777146934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020220515777146934",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020176735632003443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 唐完了这表情包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 828,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 422
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-30T18:39:49.000Z",
+        "description": "为什么封我号😭",
+        "id": "1807484145439756288",
+        "name": "泰拉皇宫镇压叛乱坦克驾驶手牢兵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809119808820051968/sHJ8sz4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 82,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 917
+        },
+        "username": "sb3013905913940",
+        "verified": false
+      }
+    ]
+  }
+}

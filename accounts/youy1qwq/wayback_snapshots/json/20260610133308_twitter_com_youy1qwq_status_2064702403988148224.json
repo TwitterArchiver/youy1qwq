@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064702403988148224",
+    "created_at": "2026-06-10T13:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064702403988148224"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064702403988148224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日日程安排\n8:00-10:00出轨\n10:00-10:10休息\n10:10-12:30媚男\n12:30-13:30偷外卖午餐\n13:30-14:30代孕\n14:30-14:40休息\n14:40-16:00当小三\n16:00-18:00雌竞\n18:00-19:00偷外卖 晚餐\n19:00-21:00 电影院摄盗\n21:00--22:00看片\n23:00睡觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064702403988148224",
+        "created_at": "2026-06-10T13:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064702403988148224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064702403988148224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日日程安排\n8:00-10:00出轨\n10:00-10:10休息\n10:10-12:30媚男\n12:30-13:30偷外卖午餐\n13:30-14:30代孕\n14:30-14:40休息\n14:40-16:00当小三\n16:00-18:00雌竞\n18:00-19:00偷外卖 晚餐\n19:00-21:00 电影院摄盗\n21:00--22:00看片\n23:00睡觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14223,
+          "following_count": 2074,
+          "like_count": 4978,
+          "listed_count": 24,
+          "media_count": 2019,
+          "tweet_count": 2768
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

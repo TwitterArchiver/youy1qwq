@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068614666507682131",
+    "created_at": "2026-06-21T15:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068723204181623217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677347760385949696",
+          "start": 0,
+          "username": "haoyueqianli142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068723204181623217",
+    "in_reply_to_user_id": "1677347760385949696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068705426238259222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haoyueqianli142 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068614666507682131",
+        "created_at": "2026-06-21T15:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068723204181623217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677347760385949696",
+              "start": 0,
+              "username": "haoyueqianli142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068723204181623217",
+        "in_reply_to_user_id": "1677347760385949696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068705426238259222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haoyueqianli142 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677347760385949696",
+        "conversation_id": "2068614666507682131",
+        "created_at": "2026-06-21T14:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068705426238259222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068705426238259222",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068614666507682131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 还是第一个被重视的跨性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14949,
+          "following_count": 2180,
+          "like_count": 6705,
+          "listed_count": 26,
+          "media_count": 2095,
+          "tweet_count": 3518
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-07T16:04:15.000Z",
+        "description": "Cofounder of the OpenClass project\nhttps://t.co/h6Bli7lNor\nhttps://t.co/wr7srwQQxc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "open-classes.com",
+                "end": 58,
+                "expanded_url": "http://open-classes.com",
+                "start": 35,
+                "url": "https://t.co/h6Bli7lNor"
+              },
+              {
+                "display_url": "github.com/MrFlow-mean/op…",
+                "end": 82,
+                "expanded_url": "https://github.com/MrFlow-mean/openclass",
+                "start": 59,
+                "url": "https://t.co/wr7srwQQxc"
+              }
+            ]
+          }
+        },
+        "id": "1677347760385949696",
+        "location": "Beijin, China",
+        "name": "川道 Flowmean",
+        "pinned_tweet_id": "2004859528806858963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004861955815714817/E6R0wlwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 1567,
+          "like_count": 23972,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "haoyueqianli142",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2059470173778874501",
+    "created_at": "2026-05-27T09:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059566215996293229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1391012909728157697",
+          "start": 0,
+          "username": "nickair5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059566215996293229",
+    "in_reply_to_user_id": "1391012909728157697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059470173778874501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nickair5 借楼一起加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059470166233395200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS1NGPbMAAMaUo.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2059470173778874501",
+        "created_at": "2026-05-27T09:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059566215996293229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1391012909728157697",
+              "start": 0,
+              "username": "nickair5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059566215996293229",
+        "in_reply_to_user_id": "1391012909728157697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059470173778874501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nickair5 借楼一起加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059470166233395200"
+          ]
+        },
+        "author_id": "1391012909728157697",
+        "conversation_id": "2059470173778874501",
+        "created_at": "2026-05-27T03:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059470173778874501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXKHicD1nd",
+              "end": 51,
+              "expanded_url": "https://x.com/nickair5/status/2059470173778874501/photo/1",
+              "media_key": "3_2059470166233395200",
+              "start": 28,
+              "url": "https://t.co/JXKHicD1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059470173778874501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1906,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天曝光流量49677，互动搞起来才有流量，X不养闲人 https://t.co/JXKHicD1nd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13726,
+          "following_count": 1957,
+          "like_count": 4299,
+          "listed_count": 22,
+          "media_count": 1870,
+          "tweet_count": 2440
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-08T12:52:26.000Z",
+        "description": "币股双修，股市赚钱币圈花（现在股市也不赚钱了），一分别想带回家",
+        "id": "1391012909728157697",
+        "name": "中级吗喽",
+        "pinned_tweet_id": "2054192902172180983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042134568363552768/xQOdlVUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 839,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 954
+        },
+        "username": "nickair5",
+        "verified": true
+      }
+    ]
+  }
+}

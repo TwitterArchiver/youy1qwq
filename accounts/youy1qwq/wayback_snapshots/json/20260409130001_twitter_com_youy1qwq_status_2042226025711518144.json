@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042163211835748352"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2042226025711518144",
+    "created_at": "2026-04-09T13:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042226025711518144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/npExvl5LTe",
+          "end": 35,
+          "expanded_url": "https://x.com/youy1qwq/status/2042226025711518144/photo/1",
+          "media_key": "3_2042163211835748352",
+          "start": 12,
+          "url": "https://t.co/npExvl5LTe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042226025711518144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直很害怕ch这个圈子 https://t.co/npExvl5LTe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1475,
+        "media_key": "3_2042163211835748352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFc4nw7XMAAVsX4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042163211835748352"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042226025711518144",
+        "created_at": "2026-04-09T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042226025711518144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npExvl5LTe",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2042226025711518144/photo/1",
+              "media_key": "3_2042163211835748352",
+              "start": 12,
+              "url": "https://t.co/npExvl5LTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042226025711518144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直很害怕ch这个圈子 https://t.co/npExvl5LTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9892,
+          "following_count": 1501,
+          "like_count": 3585,
+          "listed_count": 13,
+          "media_count": 1284,
+          "tweet_count": 1721
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

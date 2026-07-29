@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064690889356915167",
+    "created_at": "2026-06-11T04:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064929397468262895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997942998185959424",
+          "start": 0,
+          "username": "qgh1584880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064929397468262895",
+    "in_reply_to_user_id": "1997942998185959424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064867917104365653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qgh1584880 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064690889356915167",
+        "created_at": "2026-06-11T04:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064929397468262895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997942998185959424",
+              "start": 0,
+              "username": "qgh1584880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064929397468262895",
+        "in_reply_to_user_id": "1997942998185959424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064867917104365653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qgh1584880 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997942998185959424",
+        "conversation_id": "2064690889356915167",
+        "created_at": "2026-06-11T00:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064867917104365653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064867917104365653",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064690889356915167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 感觉那些人已经吃出优越感来了，你说你是清北的别人会说你装，但是你说你爱吃鹅腿就能毫无痕迹地装🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14266,
+          "following_count": 2080,
+          "like_count": 5079,
+          "listed_count": 24,
+          "media_count": 2021,
+          "tweet_count": 2804
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-08T08:15:21.000Z",
+        "description": "",
+        "id": "1997942998185959424",
+        "name": "qgh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997943209906130944/cpyUpqmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "qgh1584880",
+        "verified": false
+      }
+    ]
+  }
+}

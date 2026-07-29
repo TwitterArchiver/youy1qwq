@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066518977359347932",
+    "created_at": "2026-06-16T17:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066938272551715300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1807290802420486144",
+          "start": 0,
+          "username": "sb250qp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066938272551715300",
+    "in_reply_to_user_id": "1807290802420486144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066838118527885427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sb250qp 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-16T17:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066938272551715300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1807290802420486144",
+              "start": 0,
+              "username": "sb250qp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938272551715300",
+        "in_reply_to_user_id": "1807290802420486144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066838118527885427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sb250qp 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807290802420486144",
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-16T10:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066838118527885427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066838118527885427",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1435,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066518977359347932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这阵容怎么都赢不了，除非天意局"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14724,
+          "following_count": 2130,
+          "like_count": 6118,
+          "listed_count": 25,
+          "media_count": 2063,
+          "tweet_count": 3229
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-30T05:51:37.000Z",
+        "description": "我的最爱 梗图和色图",
+        "id": "1807290802420486144",
+        "name": "绿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901299894394245120/EtR9RDoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 3526,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 148
+        },
+        "username": "sb250qp",
+        "verified": false
+      }
+    ]
+  }
+}

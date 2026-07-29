@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2062839042656641177",
+    "created_at": "2026-06-05T16:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062929016714359141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4591998432",
+          "start": 0,
+          "username": "BANGYANGYAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062929016714359141",
+    "in_reply_to_user_id": "4591998432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062839042656641177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BANGYANGYAO 一起加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 55,
+        "media_key": "3_2062838051030896640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCsRyzbEAAAIsu.png",
+        "width": 126
+      },
+      {
+        "height": 117,
+        "media_key": "3_2062838906023022592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCtDj5bkAAMNfm.png",
+        "width": 523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2062839042656641177",
+        "created_at": "2026-06-05T16:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062929016714359141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4591998432",
+              "start": 0,
+              "username": "BANGYANGYAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062929016714359141",
+        "in_reply_to_user_id": "4591998432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062839042656641177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BANGYANGYAO 一起加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062838051030896640",
+            "3_2062838906023022592"
+          ]
+        },
+        "author_id": "4591998432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062839042656641177",
+        "created_at": "2026-06-05T10:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062839042656641177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfNPdOMETR",
+              "end": 63,
+              "expanded_url": "https://x.com/BANGYANGYAO/status/2062839042656641177/photo/1",
+              "media_key": "3_2062838051030896640",
+              "start": 40,
+              "url": "https://t.co/yfNPdOMETR"
+            },
+            {
+              "display_url": "pic.x.com/yfNPdOMETR",
+              "end": 63,
+              "expanded_url": "https://x.com/BANGYANGYAO/status/2062839042656641177/photo/1",
+              "media_key": "3_2062838906023022592",
+              "start": 40,
+              "url": "https://t.co/yfNPdOMETR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062839042656641177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 926,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你今天才开始加蓝 v。不到100粉。\n不要气馁，加油。\n这是我的两张截图。 https://t.co/yfNPdOMETR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14035,
+          "following_count": 2041,
+          "like_count": 4537,
+          "listed_count": 24,
+          "media_count": 1964,
+          "tweet_count": 2583
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-18T08:28:15.000Z",
+        "description": "It's better to write the introduction by hand.\nHandwriting is precious in this era of prompts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/3051380",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/3051380",
+                "start": 0,
+                "url": "https://t.co/rkUFQJWmIA"
+              }
+            ]
+          }
+        },
+        "id": "4591998432",
+        "name": "bobo",
+        "pinned_tweet_id": "2062121329713971705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044877661802229760/YC-06X2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 2870,
+          "like_count": 2569,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/rkUFQJWmIA",
+        "username": "BANGYANGYAO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2023562758654930973",
+    "created_at": "2026-02-17T00:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T01:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023562758654930973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xyraxi9/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xyraxi9/status/2023453836879520157",
+          "start": 5,
+          "url": "https://t.co/3gL3UF69jr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023562758654930973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023453836879520157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/3gL3UF69jr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2023453820223893504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBTAh13aMAA7Kl4.jpg",
+        "width": 1119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2023562758654930973",
+        "created_at": "2026-02-17T00:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T01:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023562758654930973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xyraxi9/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xyraxi9/status/2023453836879520157",
+              "start": 5,
+              "url": "https://t.co/3gL3UF69jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023562758654930973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023453836879520157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/3gL3UF69jr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023453820223893504"
+          ]
+        },
+        "author_id": "1753274149529915392",
+        "conversation_id": "2023453836879520157",
+        "created_at": "2026-02-16T17:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023453836879520157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZLVMBivo9L",
+              "end": 31,
+              "expanded_url": "https://x.com/XyraXi9/status/2023453836879520157/photo/1",
+              "media_key": "3_2023453820223893504",
+              "start": 8,
+              "url": "https://t.co/ZLVMBivo9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023453836879520157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 28795,
+          "like_count": 153,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好 终于解决了 https://t.co/ZLVMBivo9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3448,
+          "following_count": 949,
+          "like_count": 2400,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 740
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T04:28:37.000Z",
+        "description": "无门 不约 谁也看不上",
+        "id": "1753274149529915392",
+        "name": "xyra",
+        "pinned_tweet_id": "1782617185866932547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015700646947655680/ivSzzFSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 56,
+          "like_count": 983,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 299
+        },
+        "username": "XyraXi9",
+        "verified": false
+      }
+    ]
+  }
+}

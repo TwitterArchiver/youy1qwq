@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069066098415440010",
+    "created_at": "2026-06-22T16:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069097850936684795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681763223664508934",
+          "start": 0,
+          "username": "Ferrazinn021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069097850936684795",
+    "in_reply_to_user_id": "1681763223664508934",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069091117346529506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ferrazinn021 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069066098415440010",
+        "created_at": "2026-06-22T16:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069097850936684795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1681763223664508934",
+              "start": 0,
+              "username": "Ferrazinn021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069097850936684795",
+        "in_reply_to_user_id": "1681763223664508934",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069091117346529506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ferrazinn021 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681763223664508934",
+        "conversation_id": "2069066098415440010",
+        "created_at": "2026-06-22T16:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069091117346529506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069091117346529506",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069066098415440010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 期待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14981,
+          "following_count": 2171,
+          "like_count": 6929,
+          "listed_count": 26,
+          "media_count": 2102,
+          "tweet_count": 3552
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-19T20:29:39.000Z",
+        "description": "",
+        "id": "1681763223664508934",
+        "name": "Ferrazinn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020510056996085760/AJqeoAeM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 1967,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Ferrazinn021",
+        "verified": false
+      }
+    ]
+  }
+}

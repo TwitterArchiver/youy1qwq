@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-24T15:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069805534317076738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920869622670393344",
+          "start": 0,
+          "username": "onodera_bogua42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069805534317076738",
+    "in_reply_to_user_id": "1920869622670393344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069796560574050671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onodera_bogua42 感谢喵😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T15:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069805534317076738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920869622670393344",
+              "start": 0,
+              "username": "onodera_bogua42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069805534317076738",
+        "in_reply_to_user_id": "1920869622670393344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069796560574050671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onodera_bogua42 感谢喵😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920869622670393344",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T14:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069796560574050671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069796560574050671",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 好美捏喵😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15030,
+          "following_count": 2189,
+          "like_count": 7095,
+          "listed_count": 27,
+          "media_count": 2114,
+          "tweet_count": 3618
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "冲浪是要缓慢的冲慢慢地冲，要跑步进入神奈川主义，要学习萨格尔王精神的冲浪，一定要十里山路不换肩的精神冲浪，要岿然不动、大海掀翻小池塘的冲浪，冲浪就不要当官",
+        "id": "1920869622670393344",
+        "location": "中南海冲浪里",
+        "name": "小野寺薄瓜瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 414,
+          "like_count": 6630,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1385
+        },
+        "url": "",
+        "username": "onodera_bogua42",
+        "verified": false
+      }
+    ]
+  }
+}

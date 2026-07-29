@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065029787824066912",
+    "created_at": "2026-06-12T10:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065374117759713386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1365236220297498627",
+          "start": 0,
+          "username": "wanghaolg16450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065374117759713386",
+    "in_reply_to_user_id": "1365236220297498627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065364232443736215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanghaolg16450 这下知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065029787824066912",
+        "created_at": "2026-06-12T10:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065374117759713386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1365236220297498627",
+              "start": 0,
+              "username": "wanghaolg16450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065374117759713386",
+        "in_reply_to_user_id": "1365236220297498627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065364232443736215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanghaolg16450 这下知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365236220297498627",
+        "conversation_id": "2065029787824066912",
+        "created_at": "2026-06-12T09:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065364232443736215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065364232443736215",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065029787824066912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 冷知识：尿道结石患者也会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14424,
+          "following_count": 2091,
+          "like_count": 5517,
+          "listed_count": 24,
+          "media_count": 2032,
+          "tweet_count": 2919
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-26T09:44:25.000Z",
+        "description": "中文，English，在深圳长大的香港人，约稿居多，留学中，会做饭，xp是海洋动物，熊or奇美拉，以及增肥手术，同偏双的肥肥控，是yj人也是yj人，辛克莱激推🕰️🍏💚💚，黑熊才是阿峰哦，白熊叫利维，推主要作为约稿备份，偶尔也有生活分享，bf：@46yamaginjiro 小账： @10924760012ban",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "46yamaginjiro"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "10924760012ban"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/gpangf…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/gpangfeng.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VnQ4YZ3NIG"
+              }
+            ]
+          }
+        },
+        "id": "1365236220297498627",
+        "location": "Savannah, GA",
+        "name": "胖峰",
+        "pinned_tweet_id": "1920278152229568888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046859213440425984/IxsPQyOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4432,
+          "following_count": 2391,
+          "like_count": 11891,
+          "listed_count": 9,
+          "media_count": 368,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/VnQ4YZ3NIG",
+        "username": "wanghaolg16450",
+        "verified": true
+      }
+    ]
+  }
+}

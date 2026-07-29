@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065649244275617974",
+    "created_at": "2026-06-14T04:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066013633713410053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006794264957825026",
+          "start": 0,
+          "username": "Hedizirong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066013633713410053",
+    "in_reply_to_user_id": "2006794264957825026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065852530404524328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hedizirong 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_2065852524167589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKth7OVacAAR9TF.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065649244275617974",
+        "created_at": "2026-06-14T04:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066013633713410053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006794264957825026",
+              "start": 0,
+              "username": "Hedizirong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066013633713410053",
+        "in_reply_to_user_id": "2006794264957825026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065852530404524328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hedizirong 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065852524167589888"
+          ]
+        },
+        "author_id": "2006794264957825026",
+        "conversation_id": "2065649244275617974",
+        "created_at": "2026-06-13T17:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065852530404524328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZk2xc7OyQ",
+              "end": 43,
+              "expanded_url": "https://x.com/Hedizirong/status/2065852530404524328/photo/1",
+              "media_key": "3_2065852524167589888",
+              "start": 20,
+              "url": "https://t.co/vZk2xc7OyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065852530404524328",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065649244275617974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 已经在里面了怎么办 https://t.co/vZk2xc7OyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14606,
+          "following_count": 2115,
+          "like_count": 5852,
+          "listed_count": 24,
+          "media_count": 2045,
+          "tweet_count": 3040
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T18:27:01.000Z",
+        "description": "一个奇怪的家伙，喜欢好多东西以至于无法列举。一个观察者，喜欢视奸别人和发表评论。",
+        "id": "2006794264957825026",
+        "location": "在所有唯独外飞行",
+        "name": "Чжэньи",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006794409334157315/dnv7LNZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 48
+        },
+        "username": "Hedizirong",
+        "verified": false
+      }
+    ]
+  }
+}

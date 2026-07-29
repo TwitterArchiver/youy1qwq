@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2071103342844190810",
+    "created_at": "2026-06-28T16:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071269655545831623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1639652027142926337",
+          "start": 0,
+          "username": "Alve_angele"
+        },
+        {
+          "end": 28,
+          "id": "134802243",
+          "start": 13,
+          "username": "volkankaya1012"
+        },
+        {
+          "end": 37,
+          "id": "4040456182",
+          "start": 29,
+          "username": "irmkrdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071269655545831623",
+    "in_reply_to_user_id": "1639652027142926337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071268679539634436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alve_angele @volkankaya1012 @irmkrdn 我真的不行了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2071103342844190810",
+        "created_at": "2026-06-28T16:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071269655545831623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1639652027142926337",
+              "start": 0,
+              "username": "Alve_angele"
+            },
+            {
+              "end": 28,
+              "id": "134802243",
+              "start": 13,
+              "username": "volkankaya1012"
+            },
+            {
+              "end": 37,
+              "id": "4040456182",
+              "start": 29,
+              "username": "irmkrdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071269655545831623",
+        "in_reply_to_user_id": "1639652027142926337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071268679539634436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alve_angele @volkankaya1012 @irmkrdn 我真的不行了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639652027142926337",
+        "conversation_id": "2071103342844190810",
+        "created_at": "2026-06-28T16:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071268679539634436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "134802243",
+              "start": 0,
+              "username": "volkankaya1012"
+            },
+            {
+              "end": 25,
+              "id": "2012631283898187776",
+              "start": 16,
+              "username": "youy1qwq"
+            },
+            {
+              "end": 34,
+              "id": "4040456182",
+              "start": 26,
+              "username": "irmkrdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071268679539634436",
+        "in_reply_to_user_id": "134802243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071224855513727236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@volkankaya1012 @youy1qwq @irmkrdn 中国最丑广告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15365,
+          "following_count": 2254,
+          "like_count": 7515,
+          "listed_count": 28,
+          "media_count": 2144,
+          "tweet_count": 3734
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-25T15:34:58.000Z",
+        "description": "",
+        "id": "1639652027142926337",
+        "name": "应该是浩岚电解质",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069094751568326660/Qpuh8e4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 78,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Alve_angele",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-19T13:50:08.000Z",
+        "description": "",
+        "id": "134802243",
+        "location": "Kocaeli, Türkiye",
+        "name": "Volkan KAYA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/686671907446505472/iS6cZhq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 419,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "volkankaya1012",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-25T17:26:12.000Z",
+        "description": "INTP👾 不接推广不卖号别问了",
+        "id": "4040456182",
+        "location": "附近3.87km",
+        "name": "欣欣",
+        "pinned_tweet_id": "2071168237400887403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052839851075239936/AXukiGn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7303,
+          "following_count": 142,
+          "like_count": 6167,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "irmkrdn",
+        "verified": false
+      }
+    ]
+  }
+}

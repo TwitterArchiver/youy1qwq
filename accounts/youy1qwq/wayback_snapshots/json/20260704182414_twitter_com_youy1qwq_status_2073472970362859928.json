@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2073454972851859952",
+    "created_at": "2026-07-04T18:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073472970362859928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739838524470546432",
+          "start": 0,
+          "username": "OYsllrPMVG27849"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073472970362859928",
+    "in_reply_to_user_id": "1739838524470546432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073466696510435703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OYsllrPMVG27849 一起互动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T18:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073472970362859928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739838524470546432",
+              "start": 0,
+              "username": "OYsllrPMVG27849"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073472970362859928",
+        "in_reply_to_user_id": "1739838524470546432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073466696510435703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OYsllrPMVG27849 一起互动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739838524470546432",
+        "conversation_id": "2073454972851859952",
+        "created_at": "2026-07-04T17:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073466696510435703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073466696510435703",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454972851859952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 一起来蓝v互关 互动吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15616,
+          "following_count": 2301,
+          "like_count": 7890,
+          "listed_count": 27,
+          "media_count": 2185,
+          "tweet_count": 3806
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-27T02:40:16.000Z",
+        "description": "币安广场内容创作者｜币安小主播 专注长期价值投资 坚定BNB长期持有者 分享靠谱逻辑与真实机会 📈",
+        "id": "1739838524470546432",
+        "name": "Yo-yo糖悠悠",
+        "pinned_tweet_id": "2071617024330187050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019048136162107392/yRfkGjC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3671,
+          "following_count": 2941,
+          "like_count": 1262,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 3644
+        },
+        "url": "",
+        "username": "OYsllrPMVG27849",
+        "verified": true
+      }
+    ]
+  }
+}

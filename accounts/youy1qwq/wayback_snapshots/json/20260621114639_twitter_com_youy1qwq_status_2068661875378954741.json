@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068624563853053967",
+    "created_at": "2026-06-21T11:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068661875378954741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898758953342996481",
+          "start": 0,
+          "username": "grisesunus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068661875378954741",
+    "in_reply_to_user_id": "1898758953342996481",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068641592374690286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grisesunus 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068624563853053967",
+        "created_at": "2026-06-21T11:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068661875378954741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898758953342996481",
+              "start": 0,
+              "username": "grisesunus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068661875378954741",
+        "in_reply_to_user_id": "1898758953342996481",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068641592374690286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grisesunus 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898758953342996481",
+        "conversation_id": "2068624563853053967",
+        "created_at": "2026-06-21T10:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068641592374690286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068641592374690286",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068624563853053967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 辞职就交够公司欠你的工资的三倍的罚款，交了才允许走😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14930,
+          "following_count": 2174,
+          "like_count": 6690,
+          "listed_count": 26,
+          "media_count": 2095,
+          "tweet_count": 3514
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-09T15:33:14.000Z",
+        "description": "“足够撑起海底那座琼楼。”",
+        "id": "1898758953342996481",
+        "location": "荏ノ花湯",
+        "name": "四川金山製藥代表取締役社長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068613795853852672/0W2ZMooC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 266,
+          "like_count": 2315,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 899
+        },
+        "url": "",
+        "username": "grisesunus",
+        "verified": false
+      }
+    ]
+  }
+}

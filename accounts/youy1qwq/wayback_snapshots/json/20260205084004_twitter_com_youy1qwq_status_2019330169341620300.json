@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019297687913496603",
+    "created_at": "2026-02-05T08:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019330169341620300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1311700032228216833",
+          "start": 0,
+          "username": "sherry4869000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019330169341620300",
+    "in_reply_to_user_id": "1311700032228216833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019316340251836424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sherry4869000 生吃完直接少走六十年弯路？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019297687913496603",
+        "created_at": "2026-02-05T08:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019330169341620300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1311700032228216833",
+              "start": 0,
+              "username": "sherry4869000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019330169341620300",
+        "in_reply_to_user_id": "1311700032228216833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019316340251836424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sherry4869000 生吃完直接少走六十年弯路？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311700032228216833",
+        "conversation_id": "2019297687913496603",
+        "created_at": "2026-02-05T07:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019316340251836424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019316340251836424",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019297687913496603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 正常，一般这种直接生吃的🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 279,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 206
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-01T16:10:44.000Z",
+        "description": "裏切りは女のアクセサリーみたいなものだわ。  臭白菜：@afdtb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 27,
+                "username": "afdtb"
+              }
+            ]
+          }
+        },
+        "id": "1311700032228216833",
+        "location": "广东省, 中山市",
+        "name": "白菜騎士（互fo）",
+        "pinned_tweet_id": "2003329444304551958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998702237313544194/V1rLMTvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3243,
+          "following_count": 2929,
+          "like_count": 14842,
+          "listed_count": 7,
+          "media_count": 218,
+          "tweet_count": 2631
+        },
+        "username": "sherry4869000",
+        "verified": false
+      }
+    ]
+  }
+}

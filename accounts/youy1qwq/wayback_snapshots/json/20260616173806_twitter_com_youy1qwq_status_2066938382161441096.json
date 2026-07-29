@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066518977359347932",
+    "created_at": "2026-06-16T17:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066938382161441096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2910970063",
+          "start": 0,
+          "username": "futurenote94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066938382161441096",
+    "in_reply_to_user_id": "2910970063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066856897953804412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@futurenote94 现在直接检测到都能被踢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-16T17:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066938382161441096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2910970063",
+              "start": 0,
+              "username": "futurenote94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938382161441096",
+        "in_reply_to_user_id": "2910970063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066856897953804412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futurenote94 现在直接检测到都能被踢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2910970063",
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-16T12:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066856897953804412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066856897953804412",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 986,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066518977359347932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 挂机不能举报吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14724,
+          "following_count": 2130,
+          "like_count": 6119,
+          "listed_count": 25,
+          "media_count": 2063,
+          "tweet_count": 3231
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-26T13:24:50.000Z",
+        "description": "留学生から会社員・日本語難しい・最近B -leagueを観てる・NBAのCelticsのファン・日本語を練習したいので一緒にモンハンやってくれませんか？(違う",
+        "id": "2910970063",
+        "location": "地球",
+        "name": "おおとり兵衛・インコはまり中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1039901469460160514/7jaInJiD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 636,
+          "like_count": 28761,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 863
+        },
+        "username": "futurenote94",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2025255232364839219",
+    "created_at": "2026-02-22T02:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025404558852170032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        },
+        {
+          "end": 24,
+          "id": "1818731995310309376",
+          "start": 8,
+          "username": "fuckpregaabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025404558852170032",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025319550011801718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop @fuckpregaabalin 怎么不回关我😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2025255232364839219",
+        "created_at": "2026-02-22T02:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025404558852170032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 24,
+              "id": "1818731995310309376",
+              "start": 8,
+              "username": "fuckpregaabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025404558852170032",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025319550011801718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @fuckpregaabalin 怎么不回关我😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "2025255232364839219",
+        "created_at": "2026-02-21T21:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T22:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025319550011801718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1818731995310309376",
+              "start": 0,
+              "username": "fuckpregaabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025319550011801718",
+        "in_reply_to_user_id": "1818731995310309376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025255232364839219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregaabalin 好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4284,
+          "following_count": 1059,
+          "like_count": 2634,
+          "listed_count": 6,
+          "media_count": 462,
+          "tweet_count": 859
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2023889364997337493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100756,
+          "following_count": 709,
+          "like_count": 34387,
+          "listed_count": 289,
+          "media_count": 16140,
+          "tweet_count": 23168
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "个人信息",
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "魔怔乐子人",
+        "pinned_tweet_id": "2019287591275958775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021824040504373248/slwPNlHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 2720,
+          "like_count": 168839,
+          "listed_count": 12,
+          "media_count": 1552,
+          "tweet_count": 32138
+        },
+        "username": "fuckpregaabalin",
+        "verified": false
+      }
+    ]
+  }
+}

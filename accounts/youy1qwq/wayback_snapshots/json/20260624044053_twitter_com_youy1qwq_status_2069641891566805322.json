@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069343337249902662",
+    "created_at": "2026-06-24T04:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069641891566805322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911382504214323200",
+          "start": 0,
+          "username": "barrakuga0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069641891566805322",
+    "in_reply_to_user_id": "1911382504214323200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069395479612506618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barrakuga0427 笑死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2069395477393821696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf4OPnb0AA_YRQ.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069343337249902662",
+        "created_at": "2026-06-24T04:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069641891566805322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911382504214323200",
+              "start": 0,
+              "username": "barrakuga0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069641891566805322",
+        "in_reply_to_user_id": "1911382504214323200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069395479612506618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barrakuga0427 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069395477393821696"
+          ]
+        },
+        "author_id": "1911382504214323200",
+        "conversation_id": "2069343337249902662",
+        "created_at": "2026-06-23T12:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069395479612506618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHNsLEdJZI",
+              "end": 33,
+              "expanded_url": "https://x.com/barrakuga0427/status/2069395479612506618/photo/1",
+              "media_key": "3_2069395477393821696",
+              "start": 10,
+              "url": "https://t.co/NHNsLEdJZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069395479612506618",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069343337249902662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/NHNsLEdJZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15022,
+          "following_count": 2181,
+          "like_count": 7020,
+          "listed_count": 26,
+          "media_count": 2110,
+          "tweet_count": 3599
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T11:35:03.000Z",
+        "description": "☮️🙏🏻✌🏻💟\n\n😸❤️🎸&🏎️\n    \n😻 🌹🐉  \n\n😺🎮 GTA/NFS/Monster Hunter\n\n🐈💤🌠 a VW van or Cadillac SUV",
+        "id": "1911382504214323200",
+        "location": "Around the world for rocknroll",
+        "name": "barracuda24",
+        "pinned_tweet_id": "2060660337297568156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911383750782439424/Wh2dtkny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 95,
+          "like_count": 29728,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2588
+        },
+        "url": "",
+        "username": "barrakuga0427",
+        "verified": false
+      }
+    ]
+  }
+}

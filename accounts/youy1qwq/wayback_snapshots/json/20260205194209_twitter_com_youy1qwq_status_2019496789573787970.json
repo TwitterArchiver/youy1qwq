@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019431794152735140",
+    "created_at": "2026-02-05T19:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T20:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019496789573787970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364200446080913413",
+          "start": 0,
+          "username": "andy88988696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019496789573787970",
+    "in_reply_to_user_id": "1364200446080913413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019432289130934477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andy88988696 互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019431794152735140",
+        "created_at": "2026-02-05T19:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T20:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019496789573787970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364200446080913413",
+              "start": 0,
+              "username": "andy88988696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019496789573787970",
+        "in_reply_to_user_id": "1364200446080913413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019432289130934477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andy88988696 互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364200446080913413",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2019431794152735140",
+        "created_at": "2026-02-05T15:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019432289130934477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019432289130934477",
+        "in_reply_to_user_id": "1364200446080913413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 162,
+                "start": 146,
+                "tag": "ResistantStarch"
+              },
+              {
+                "end": 173,
+                "start": 163,
+                "tag": "GutHealth"
+              },
+              {
+                "end": 185,
+                "start": 174,
+                "tag": "HealthTips"
+              },
+              {
+                "end": 196,
+                "start": 186,
+                "tag": "Nutrition"
+              },
+              {
+                "end": 206,
+                "start": 197,
+                "tag": "Wellness"
+              }
+            ]
+          },
+          "text": "實用小撇步：\n\n1. 冷藏大法：米飯、義大利麵煮熟後放冰箱一夜再吃。\n\n2. 選青不選紅：想補充抗性澱粉，選帶點綠的香蕉。\n\n3. 豆類入菜：增加鷹嘴豆或扁豆攝取。\n\n以上內容僅供參考與科普，不構成醫療建議。有健康問題請諮詢合格醫療專業人員。\n你有試過「冷飯」飲食法嗎？留言分享你的感覺！\n\n#ResistantStarch #GutHealth #HealthTips #Nutrition #Wellness"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019431794152735140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "實用小撇步：\n\n1. 冷藏大法：米飯、義大利麵煮熟後放冰箱一夜再吃。\n\n2. 選青不選紅：想補充抗性澱粉，選帶點綠的香蕉。\n\n3. 豆類入菜：增加鷹嘴豆或扁豆攝取。\n\n以上內容僅供參考與科普，不構成醫療建議。有健康問題請諮詢合格醫療專業人員。\n你有試過「冷飯」飲食法嗎？留言分享你的感覺！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 347,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 235
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-23T13:08:34.000Z",
+        "description": "健康｜醫學｜撕糖衣｜拆邏輯｜只談現實｜藍V｜偶爾分享一些有趣的影片",
+        "id": "1364200446080913413",
+        "name": "DIABETE_PANDA",
+        "pinned_tweet_id": "2019313138387308682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897447830480097280/q4Do2mUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 1204,
+          "like_count": 2134,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 5274
+        },
+        "username": "andy88988696",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2075581078539051518",
+    "created_at": "2026-07-11T04:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075792788734792159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831435289341894656",
+          "start": 0,
+          "username": "IntCyberDigest"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/youy1qwq/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/youy1qwq/status/2075444313132351828",
+          "start": 19,
+          "url": "https://t.co/yZA0gTBNdK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075792788734792159",
+    "in_reply_to_user_id": "1831435289341894656",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075444313132351828",
+        "type": "quoted"
+      },
+      {
+        "id": "2075581322714595679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IntCyberDigest Ty https://t.co/yZA0gTBNdK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2075444304936681472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM11mWLbwAAv1L_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075581078539051518",
+        "created_at": "2026-07-11T04:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075792788734792159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831435289341894656",
+              "start": 0,
+              "username": "IntCyberDigest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2075444313132351828",
+              "start": 19,
+              "url": "https://t.co/yZA0gTBNdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075792788734792159",
+        "in_reply_to_user_id": "1831435289341894656",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075444313132351828",
+            "type": "quoted"
+          },
+          {
+            "id": "2075581322714595679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IntCyberDigest Ty https://t.co/yZA0gTBNdK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075444304936681472"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075444313132351828",
+        "created_at": "2026-07-10T04:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075444313132351828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Y9EjazQGd",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2075444313132351828/photo/1",
+              "media_key": "3_2075444304936681472",
+              "start": 14,
+              "url": "https://t.co/0Y9EjazQGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075444313132351828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2110,
+          "impression_count": 2630903,
+          "like_count": 29523,
+          "quote_count": 340,
+          "reply_count": 585,
+          "retweet_count": 1878
+        },
+        "reply_settings": "everyone",
+        "text": "华为长焦拍飞机被识别成鸟了 https://t.co/0Y9EjazQGd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831435289341894656",
+        "conversation_id": "2075581078539051518",
+        "created_at": "2026-07-10T14:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075581322714595679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012631283898187776",
+              "start": 4,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075581322714595679",
+        "in_reply_to_user_id": "1831435289341894656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 82984,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075581078539051518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Via @youy1qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15951,
+          "following_count": 2425,
+          "like_count": 7942,
+          "listed_count": 27,
+          "media_count": 2216,
+          "tweet_count": 3851
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T20:53:04.000Z",
+        "description": "Independent reporting on cybersecurity, tech, AI & digital policy.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "internationalcyberdigest.com",
+                "end": 23,
+                "expanded_url": "https://www.internationalcyberdigest.com/",
+                "start": 0,
+                "url": "https://t.co/CXYUkPuF60"
+              }
+            ]
+          }
+        },
+        "id": "1831435289341894656",
+        "name": "International Cyber Digest",
+        "pinned_tweet_id": "2072744743600275717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831435438562615296/imkSFey2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184183,
+          "following_count": 291,
+          "like_count": 7154,
+          "listed_count": 916,
+          "media_count": 3188,
+          "tweet_count": 7376
+        },
+        "url": "https://t.co/CXYUkPuF60",
+        "username": "IntCyberDigest",
+        "verified": true
+      }
+    ]
+  }
+}

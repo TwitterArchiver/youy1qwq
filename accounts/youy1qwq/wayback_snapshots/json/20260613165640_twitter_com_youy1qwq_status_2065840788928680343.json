@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065667536612733058",
+    "created_at": "2026-06-13T16:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065840788928680343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959988785049165825",
+          "start": 0,
+          "username": "yagebu18803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065840788928680343",
+    "in_reply_to_user_id": "1959988785049165825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065818028743577742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yagebu18803 原来还能这样断句"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065667536612733058",
+        "created_at": "2026-06-13T16:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065840788928680343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959988785049165825",
+              "start": 0,
+              "username": "yagebu18803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065840788928680343",
+        "in_reply_to_user_id": "1959988785049165825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065818028743577742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yagebu18803 原来还能这样断句"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959988785049165825",
+        "conversation_id": "2065667536612733058",
+        "created_at": "2026-06-13T15:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065818028743577742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065818028743577742",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065667536612733058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 操 死鹅腿阿姨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14554,
+          "following_count": 2110,
+          "like_count": 5810,
+          "listed_count": 24,
+          "media_count": 2044,
+          "tweet_count": 3026
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T14:39:01.000Z",
+        "description": "XP奇多的女研\n🈶好看男博推给我",
+        "id": "1959988785049165825",
+        "location": "距离5.20Km",
+        "name": "大居居爱好者",
+        "pinned_tweet_id": "2065471446277874017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964709486293405697/rO41JVW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 6413,
+          "like_count": 18767,
+          "listed_count": 6,
+          "media_count": 2,
+          "tweet_count": 2199
+        },
+        "username": "yagebu18803",
+        "verified": false
+      }
+    ]
+  }
+}

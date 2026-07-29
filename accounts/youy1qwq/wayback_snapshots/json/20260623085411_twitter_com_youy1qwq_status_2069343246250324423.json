@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068724920788631856",
+    "created_at": "2026-06-23T08:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069343246250324423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816097586505474048",
+          "start": 0,
+          "username": "mimimimi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069343246250324423",
+    "in_reply_to_user_id": "1816097586505474048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069331062740930928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimimimi8964 这个有金色把手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068724920788631856",
+        "created_at": "2026-06-23T08:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069343246250324423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816097586505474048",
+              "start": 0,
+              "username": "mimimimi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343246250324423",
+        "in_reply_to_user_id": "1816097586505474048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069331062740930928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimimimi8964 这个有金色把手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816097586505474048",
+        "conversation_id": "2068724920788631856",
+        "created_at": "2026-06-23T08:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069331062740930928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069331062740930928",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068724920788631856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我觉得这个特别高级"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14987,
+          "following_count": 2172,
+          "like_count": 6948,
+          "listed_count": 27,
+          "media_count": 2106,
+          "tweet_count": 3561
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-24T13:06:37.000Z",
+        "description": "",
+        "id": "1816097586505474048",
+        "name": "⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998049416784310272/CKUZzGpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 134,
+          "like_count": 2155,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "mimimimi8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "1971960708830314683",
+    "created_at": "2026-02-02T05:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018202639805083771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621761267068473344",
+          "start": 0,
+          "username": "moriyomiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018202639805083771",
+    "in_reply_to_user_id": "1621761267068473344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971960708830314683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moriyomiko 好美啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1854,
+        "media_key": "3_1971960698919100416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13PzsoaoAAdZg0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971960698931740672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13PzsrbgAALIoX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "1971960708830314683",
+        "created_at": "2026-02-02T05:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018202639805083771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621761267068473344",
+              "start": 0,
+              "username": "moriyomiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018202639805083771",
+        "in_reply_to_user_id": "1621761267068473344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971960708830314683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moriyomiko 好美啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971960698919100416",
+            "3_1971960698931740672"
+          ]
+        },
+        "author_id": "1621761267068473344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1971960708830314683",
+        "created_at": "2025-09-27T15:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971960708830314683"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "inART"
+            },
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "HololiveEN"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "cosplay"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "一伊那尔栖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gi0FGX0WXg",
+              "end": 64,
+              "expanded_url": "https://x.com/moriyomiko/status/1971960708830314683/photo/1",
+              "media_key": "3_1971960698919100416",
+              "start": 41,
+              "url": "https://t.co/Gi0FGX0WXg"
+            },
+            {
+              "display_url": "pic.x.com/Gi0FGX0WXg",
+              "end": 64,
+              "expanded_url": "https://x.com/moriyomiko/status/1971960708830314683/photo/1",
+              "media_key": "3_1971960698931740672",
+              "start": 41,
+              "url": "https://t.co/Gi0FGX0WXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971960708830314683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9570,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🐙冷脸 \n\n#inART #HololiveEN #cosplay #一伊那尔栖 https://t.co/Gi0FGX0WXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 179,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 72
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:43:27.000Z",
+        "description": "cosplayer 感谢喜欢🥰⚠️重加工‼️Language：中/EN/日本語｜烹饪烘焙｜汉文化书法爱好者｜ACG兴趣｜狸奴国国王🐱｜喜欢饲养小动物，cos只是趣味非专业coser🫶🏻感谢各位支持！好好吃饭！！！我永远爱小笼包！陌生人聊天请先打钱 泛类人猿主义者",
+        "id": "1621761267068473344",
+        "location": "小笼包星球",
+        "name": "太祖赵匡胤",
+        "pinned_tweet_id": "1971960708830314683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461519412563968/1Op1PdI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 456,
+          "like_count": 13115,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 4584
+        },
+        "username": "moriyomiko",
+        "verified": false
+      }
+    ]
+  }
+}

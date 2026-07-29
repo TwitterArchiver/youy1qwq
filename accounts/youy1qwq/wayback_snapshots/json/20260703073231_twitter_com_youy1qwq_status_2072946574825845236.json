@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2072867581166559737",
+    "created_at": "2026-07-03T07:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072946574825845236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669067205386838042",
+          "start": 0,
+          "username": "Willam7392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072946574825845236",
+    "in_reply_to_user_id": "1669067205386838042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072867581166559737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Willam7392 扩散啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2072867569942560768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMROEoTagAAMgol.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2072867569925758976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMROEoPaIAAW1fE.jpg",
+        "width": 554
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2072867569955196928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMROEoWbUAAwEZT.jpg",
+        "width": 675
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2072867569925844992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMROEoPbcAAmtEg.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2072867581166559737",
+        "created_at": "2026-07-03T07:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072946574825845236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669067205386838042",
+              "start": 0,
+              "username": "Willam7392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072946574825845236",
+        "in_reply_to_user_id": "1669067205386838042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072867581166559737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Willam7392 扩散啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072867569942560768",
+            "3_2072867569925758976",
+            "3_2072867569955196928",
+            "3_2072867569925844992"
+          ]
+        },
+        "author_id": "1669067205386838042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072867581166559737",
+        "created_at": "2026-07-03T02:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072867581166559737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5llza8T6my",
+              "end": 54,
+              "expanded_url": "https://x.com/Willam7392/status/2072867581166559737/photo/1",
+              "media_key": "3_2072867569942560768",
+              "start": 31,
+              "url": "https://t.co/5llza8T6my"
+            },
+            {
+              "display_url": "pic.x.com/5llza8T6my",
+              "end": 54,
+              "expanded_url": "https://x.com/Willam7392/status/2072867581166559737/photo/1",
+              "media_key": "3_2072867569925758976",
+              "start": 31,
+              "url": "https://t.co/5llza8T6my"
+            },
+            {
+              "display_url": "pic.x.com/5llza8T6my",
+              "end": 54,
+              "expanded_url": "https://x.com/Willam7392/status/2072867581166559737/photo/1",
+              "media_key": "3_2072867569955196928",
+              "start": 31,
+              "url": "https://t.co/5llza8T6my"
+            },
+            {
+              "display_url": "pic.x.com/5llza8T6my",
+              "end": 54,
+              "expanded_url": "https://x.com/Willam7392/status/2072867581166559737/photo/1",
+              "media_key": "3_2072867569925844992",
+              "start": 31,
+              "url": "https://t.co/5llza8T6my"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072867581166559737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 995,
+                "id": "2248186033",
+                "start": 982,
+                "username": "jeremy_webot"
+              },
+              {
+                "end": 1003,
+                "id": "1131033937092808704",
+                "start": 996,
+                "username": "pionex"
+              },
+              {
+                "end": 1014,
+                "id": "1521719954818621444",
+                "start": 1004,
+                "username": "Webot_com"
+              },
+              {
+                "end": 1025,
+                "id": "1494164896560611329",
+                "start": 1015,
+                "username": "pionex_zh"
+              },
+              {
+                "end": 1036,
+                "id": "1155719317855461376",
+                "start": 1026,
+                "username": "Mariolxc2"
+              },
+              {
+                "end": 1050,
+                "id": "1479163393751666690",
+                "start": 1037,
+                "username": "Widya97Widya"
+              },
+              {
+                "end": 1066,
+                "id": "1808381069772967936",
+                "start": 1051,
+                "username": "Eberlinliu0220"
+              },
+              {
+                "end": 1082,
+                "id": "1468411303337562112",
+                "start": 1067,
+                "username": "TheBonnieChang"
+              },
+              {
+                "end": 1090,
+                "id": "959291597622886400",
+                "start": 1083,
+                "username": "haze0x"
+              },
+              {
+                "end": 1105,
+                "id": "1056818658",
+                "start": 1091,
+                "username": "CryptoPainter"
+              },
+              {
+                "end": 1121,
+                "id": "1592823343710732288",
+                "start": 1106,
+                "username": "BrainBroCrypto"
+              },
+              {
+                "end": 1133,
+                "id": "893738248916357120",
+                "start": 1122,
+                "username": "FurkanCCTV"
+              }
+            ]
+          },
+          "text": "Pionex（派网）只进不出貔貅所，侵占我38万u拒不归还！\n     2025年1月，我合伙人往Pionex充值了3.8个BTC（图1）并将BTC在交易所内换成了USDT，正常的交易兑换，一天之后想部分提币遭遇了风控，起初他并未多想，只让助理沟通，这笔钱是印度和孟加拉生意的分红，Pionex账户KYC是我合伙人（孟加拉人）的母亲，是我要求分红给我数字货币，所以他们会在当地兑换成数字货币，为了资产的价值不受市场波动，选择了在交易所兑换成USDT。这是背景。\n    此后开始了长达一年半的沟通，在此期间重复提交了多次资料，包括资金来源证明，KYC视频验证，KYC免责视频，充值钱包验证，交易合同等等，来回拉扯到了2025年12月，最离谱的来了，Pionex突然要求所有资料必须由当地警方提供证明文件，由警方联系Pionex（图2）以验证文件的真实性。\n   我终于意识到不对劲，开始找熟悉Pionex内部的人，最终找到几位熟悉Pionex的朋友帮忙问到了Pionex内部的记录，内容为该账户与一韩国人存在争议，建议用户报警处理，同时将孟加拉警方的回复以工单邮件的方式告知了Pionex。回复是要求依旧，并表示他们处理的依据是用户协议（图3）。\n     咨询当地律师和警方的反馈让我无可奈何，1，他们没有任何义务配合其他国家的加密货币交易所的调查并联系他们，2，加密货币在孟加拉属于非法活动，不受孟加拉法律保护，协助交易所调查无任何法律依据，3，个人的交易目的和资产来源警方没有出具证明文件的权力和义务，出具的证明文件也无任何法律效力。\n    以上均有邮件往来记录验证真实性。现在我在公开的场合继续问你们没正面回答的问题，\n 1，请问该账户是否有更换过绑定的KYC信息，邮箱，谷歌验证等行为，如有，请问更换过程是否违规，如没有，所谓韩国人主张账户所有权的依据是什么？\n2，该账户是否涉及司法请求，如有请告知，如没有，请问你们长时间冻结我账户的依据是什么？为何不要求受害人报警，你们配合司法请求，反而要求账户持有人请求司法介入解禁自己的账户！\n 3，请问贵所要求当地警方介入才能解冻账户的依据是什么？你们回复说用户协议，请明确是用户协议的哪条！\n  以上信息希望得到大家的关注，Pionex的做法是否合理，交易所这么不要脸的侵占用户资产应该让所有人看看。\n  @jeremy_webot @pionex @Webot_com @pionex_zh @Mariolxc2 @Widya97Widya @Eberlinliu0220 @TheBonnieChang @haze0x @CryptoPainter @BrainBroCrypto @FurkanCCTV"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3946,
+          "like_count": 17,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Pionex（派网）只进不出貔貅所，侵占我38万u拒不归还！ https://t.co/5llza8T6my"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15532,
+          "following_count": 2285,
+          "like_count": 7869,
+          "listed_count": 27,
+          "media_count": 2177,
+          "tweet_count": 3790
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-14T19:40:20.000Z",
+        "description": "",
+        "id": "1669067205386838042",
+        "name": "Willam -蓝V互关版",
+        "pinned_tweet_id": "2072867581166559737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035994369187336192/3siLqeRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 2090,
+          "like_count": 2171,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "Willam7392",
+        "verified": true
+      }
+    ]
+  }
+}

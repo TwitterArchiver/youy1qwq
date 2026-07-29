@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064384430341517681",
+    "created_at": "2026-06-09T17:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064396004653474153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991532007801909248",
+          "start": 0,
+          "username": "wxb202530605113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064396004653474153",
+    "in_reply_to_user_id": "1991532007801909248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064391376104808893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb202530605113 无孩爱猫是对的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064384430341517681",
+        "created_at": "2026-06-09T17:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064396004653474153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991532007801909248",
+              "start": 0,
+              "username": "wxb202530605113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064396004653474153",
+        "in_reply_to_user_id": "1991532007801909248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064391376104808893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb202530605113 无孩爱猫是对的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991532007801909248",
+        "conversation_id": "2064384430341517681",
+        "created_at": "2026-06-09T16:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064391376104808893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064391376104808893",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064384430341517681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 同为无孩爱猫，不过是男的...这种人线下粘我拳头上最难洗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14197,
+          "following_count": 2062,
+          "like_count": 4735,
+          "listed_count": 24,
+          "media_count": 2010,
+          "tweet_count": 2709
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-20T15:40:17.000Z",
+        "description": "05丨CN丨性别：武装直升机丨种族：猫丨ENTP丨任何消息都会回的，任何。时间可能会长，但一定会回。",
+        "id": "1991532007801909248",
+        "name": "evil_cattttyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060657450282553344/0KesHK5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 21,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 167
+        },
+        "username": "wxb202530605113",
+        "verified": false
+      }
+    ]
+  }
+}

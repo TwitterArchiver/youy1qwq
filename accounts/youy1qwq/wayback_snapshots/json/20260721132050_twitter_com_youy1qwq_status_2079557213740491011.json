@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079428059737014512",
+    "created_at": "2026-07-21T13:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079557213740491011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3322153737",
+          "start": 0,
+          "username": "Maddere7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079557213740491011",
+    "in_reply_to_user_id": "3322153737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079428059737014512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maddere7 来了 新人呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2079428048374697984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNucyu9bkAAQPG0.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079428059737014512",
+        "created_at": "2026-07-21T13:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079557213740491011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3322153737",
+              "start": 0,
+              "username": "Maddere7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079557213740491011",
+        "in_reply_to_user_id": "3322153737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079428059737014512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maddere7 来了 新人呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079428048374697984"
+          ]
+        },
+        "author_id": "3322153737",
+        "conversation_id": "2079428059737014512",
+        "created_at": "2026-07-21T04:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079428059737014512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxEVYkkZgF",
+              "end": 56,
+              "expanded_url": "https://x.com/Maddere7/status/2079428059737014512/photo/1",
+              "media_key": "3_2079428048374697984",
+              "start": 33,
+              "url": "https://t.co/DxEVYkkZgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079428059737014512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "共同开发，成就更多。 持续做那个稳住的人。 集体，我们保持纪律。 https://t.co/DxEVYkkZgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16534,
+          "following_count": 2821,
+          "like_count": 8027,
+          "listed_count": 27,
+          "media_count": 2257,
+          "tweet_count": 3904
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-13T02:41:19.000Z",
+        "description": "万物皆周期，顺势而为，资深美股币圈玩家，热衷于追寻热点。",
+        "id": "3322153737",
+        "location": "有关必回",
+        "name": "K-Line",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071721489762783232/E5Ip1awG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7346,
+          "following_count": 6286,
+          "like_count": 1861,
+          "listed_count": 8,
+          "media_count": 143,
+          "tweet_count": 21682
+        },
+        "url": "",
+        "username": "Maddere7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019342737431048522",
+    "created_at": "2026-02-05T09:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019344059983360260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422417346623279104",
+          "start": 0,
+          "username": "tm8onQ2EQrJTXEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019344059983360260",
+    "in_reply_to_user_id": "1422417346623279104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019343941783679171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tm8onQ2EQrJTXEL mc是最棒的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019342737431048522",
+        "created_at": "2026-02-05T09:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019344059983360260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422417346623279104",
+              "start": 0,
+              "username": "tm8onQ2EQrJTXEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019344059983360260",
+        "in_reply_to_user_id": "1422417346623279104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019343941783679171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tm8onQ2EQrJTXEL mc是最棒的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422417346623279104",
+        "conversation_id": "2019342737431048522",
+        "created_at": "2026-02-05T09:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019343941783679171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019343941783679171",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019342737431048522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这个是真的好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2019291233236009027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 297,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 219
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T04:41:54.000Z",
+        "description": "成都的 不是gay",
+        "id": "1422417346623279104",
+        "name": "攸荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018611404832387073/MTc_48Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 65,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 96
+        },
+        "username": "tm8onQ2EQrJTXEL",
+        "verified": false
+      }
+    ]
+  }
+}

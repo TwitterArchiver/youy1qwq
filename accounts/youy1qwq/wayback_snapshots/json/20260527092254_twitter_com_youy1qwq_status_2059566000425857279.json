@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2059456728190869596",
+    "created_at": "2026-05-27T09:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059566000425857279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4405568663",
+          "start": 0,
+          "username": "Ace_yexin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059566000425857279",
+    "in_reply_to_user_id": "4405568663",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059456728190869596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace_yexin 来呀一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2059456728190869596",
+        "created_at": "2026-05-27T09:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059566000425857279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4405568663",
+              "start": 0,
+              "username": "Ace_yexin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059566000425857279",
+        "in_reply_to_user_id": "4405568663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059456728190869596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_yexin 来呀一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4405568663",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2059456728190869596",
+        "created_at": "2026-05-27T02:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059456728190869596"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "有关必回"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059456728190869596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3917,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 167,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天做个互关，长期有效！\n如不及时请提醒，共同进步！\n\n共同创作出更多促进整个web3行业发展的优质内容！\n#蓝V互关 #有关必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13724,
+          "following_count": 1953,
+          "like_count": 4295,
+          "listed_count": 22,
+          "media_count": 1870,
+          "tweet_count": 2436
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-07T14:18:01.000Z",
+        "description": "21年入圈一直在学习｜热爱加密｜挖掘潜力MemeCoin｜#Binance #BNB #Sol #ETH TG频道 https://t.co/ki9nkebiUr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 29,
+                "tag": "Binance"
+              },
+              {
+                "end": 42,
+                "start": 38,
+                "tag": "BNB"
+              },
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "Sol"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "tag": "ETH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Acegroupl",
+                "end": 81,
+                "expanded_url": "https://t.me/Acegroupl",
+                "start": 58,
+                "url": "https://t.co/ki9nkebiUr"
+              }
+            ]
+          }
+        },
+        "id": "4405568663",
+        "name": "Ye❤",
+        "pinned_tweet_id": "2059456728190869596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008218853256642560/RAaemHrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 825,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 834
+        },
+        "username": "Ace_yexin",
+        "verified": true
+      }
+    ]
+  }
+}

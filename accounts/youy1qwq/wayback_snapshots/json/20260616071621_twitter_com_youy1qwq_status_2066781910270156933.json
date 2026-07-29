@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066594002909233406",
+    "created_at": "2026-06-16T07:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066781910270156933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1695711265417502720",
+          "start": 0,
+          "username": "CRH1AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066781910270156933",
+    "in_reply_to_user_id": "1695711265417502720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066759285623926827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CRH1AA 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066594002909233406",
+        "created_at": "2026-06-16T07:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066781910270156933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1695711265417502720",
+              "start": 0,
+              "username": "CRH1AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066781910270156933",
+        "in_reply_to_user_id": "1695711265417502720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066759285623926827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CRH1AA 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695711265417502720",
+        "conversation_id": "2066594002909233406",
+        "created_at": "2026-06-16T05:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066759285623926827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066759285623926827",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066594002909233406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 看设进了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14707,
+          "following_count": 2127,
+          "like_count": 6064,
+          "listed_count": 25,
+          "media_count": 2062,
+          "tweet_count": 3185
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-27T08:14:16.000Z",
+        "description": "AUV胖宝宝好胖好可爱｜此账号已进入寿命末期",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/CRH1AA",
+                "end": 23,
+                "expanded_url": "https://x.com/CRH1AA",
+                "start": 0,
+                "url": "https://t.co/k7WMfD8V7a"
+              }
+            ]
+          }
+        },
+        "id": "1695711265417502720",
+        "location": "Null",
+        "name": "哈吉鼠（爱泼斯坦-海德里希主义者）",
+        "pinned_tweet_id": "2019879902959583535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017857634901364737/j75RxyXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 122,
+          "like_count": 6130,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2086
+        },
+        "url": "https://t.co/k7WMfD8V7a",
+        "username": "CRH1AA",
+        "verified": false
+      }
+    ]
+  }
+}

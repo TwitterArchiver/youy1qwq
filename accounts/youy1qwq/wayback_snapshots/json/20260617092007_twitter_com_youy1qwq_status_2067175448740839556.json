@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067175440226332672"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067175448740839556",
+    "created_at": "2026-06-17T09:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067175448740839556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cO5ceP1w5u",
+          "end": 40,
+          "expanded_url": "https://x.com/youy1qwq/status/2067175448740839556/photo/1",
+          "media_key": "3_2067175440226332672",
+          "start": 17,
+          "url": "https://t.co/cO5ceP1w5u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067175448740839556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Python36岁了，该被优化了 https://t.co/cO5ceP1w5u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2067175440226332672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVHEsaMAAWmcB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067175440226332672"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067175448740839556",
+        "created_at": "2026-06-17T09:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067175448740839556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cO5ceP1w5u",
+              "end": 40,
+              "expanded_url": "https://x.com/youy1qwq/status/2067175448740839556/photo/1",
+              "media_key": "3_2067175440226332672",
+              "start": 17,
+              "url": "https://t.co/cO5ceP1w5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067175448740839556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Python36岁了，该被优化了 https://t.co/cO5ceP1w5u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14740,
+          "following_count": 2130,
+          "like_count": 6157,
+          "listed_count": 25,
+          "media_count": 2067,
+          "tweet_count": 3266
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

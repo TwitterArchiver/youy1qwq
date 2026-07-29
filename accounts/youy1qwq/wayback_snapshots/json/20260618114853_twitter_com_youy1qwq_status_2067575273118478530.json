@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067278404676964598",
+    "created_at": "2026-06-18T11:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067575273118478530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1773770272946188288",
+          "start": 0,
+          "username": "peter1303973622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067575273118478530",
+    "in_reply_to_user_id": "1773770272946188288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067538188608872577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peter1303973622 耍起耍起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067278404676964598",
+        "created_at": "2026-06-18T11:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067575273118478530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1773770272946188288",
+              "start": 0,
+              "username": "peter1303973622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067575273118478530",
+        "in_reply_to_user_id": "1773770272946188288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067538188608872577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peter1303973622 耍起耍起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773770272946188288",
+        "conversation_id": "2067278404676964598",
+        "created_at": "2026-06-18T09:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067538188608872577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067538188608872577",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067278404676964598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 四川人噻？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14763,
+          "following_count": 2147,
+          "like_count": 6271,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3370
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-29T17:52:50.000Z",
+        "description": "我要打音游！我要打音游！！我要打音游！！！",
+        "id": "1773770272946188288",
+        "location": "Boston",
+        "name": "FULi GAZER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062599289701023744/lhtgryCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 35,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "peter1303973622",
+        "verified": false
+      }
+    ]
+  }
+}

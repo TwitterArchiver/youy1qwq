@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064248802186612841",
+    "created_at": "2026-06-10T04:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064564271447719936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "972290099349082112",
+          "start": 0,
+          "username": "joeyx103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064564271447719936",
+    "in_reply_to_user_id": "972290099349082112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064522988813214061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joeyx103 有时候未成年人在这方面真的不够成熟的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064248802186612841",
+        "created_at": "2026-06-10T04:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064564271447719936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "972290099349082112",
+              "start": 0,
+              "username": "joeyx103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064564271447719936",
+        "in_reply_to_user_id": "972290099349082112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064522988813214061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joeyx103 有时候未成年人在这方面真的不够成熟的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972290099349082112",
+        "conversation_id": "2064248802186612841",
+        "created_at": "2026-06-10T01:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064522988813214061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064522988813214061",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064248802186612841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 逻辑来说，有性同意权，女的不同意，一样算强奸\n所以14岁性同意的设立是为了保护意志同意而肉体实际无法同意的情形\n这包括思维幼稚和身体幼稚，前者容易受骗后者容易受伤\n但是在如今这个时代，肉体和思维都早于前辈成熟，合理的逻辑应该是提前性同意才对\n还是那句话，如果主观不同意，表达就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14202,
+          "following_count": 2067,
+          "like_count": 4776,
+          "listed_count": 24,
+          "media_count": 2011,
+          "tweet_count": 2735
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-10T01:56:38.000Z",
+        "description": "",
+        "id": "972290099349082112",
+        "name": "Joewhite",
+        "pinned_tweet_id": "1981168667665829959",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 109,
+          "like_count": 739,
+          "listed_count": 6,
+          "media_count": 13,
+          "tweet_count": 4988
+        },
+        "username": "joeyx103",
+        "verified": false
+      }
+    ]
+  }
+}

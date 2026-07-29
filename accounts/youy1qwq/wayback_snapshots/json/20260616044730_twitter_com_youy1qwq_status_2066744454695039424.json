@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066573932615041450",
+    "created_at": "2026-06-16T04:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066744454695039424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056111545747218432",
+          "start": 0,
+          "username": "JohnSmith38al"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066744454695039424",
+    "in_reply_to_user_id": "2056111545747218432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066740851200360886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnSmith38al @grok 虚拟语气是were哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T04:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066744454695039424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056111545747218432",
+              "start": 0,
+              "username": "JohnSmith38al"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066744454695039424",
+        "in_reply_to_user_id": "2056111545747218432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066740851200360886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnSmith38al @grok 虚拟语气是were哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056111545747218432",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T04:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066740851200360886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            },
+            {
+              "end": 29,
+              "id": "1720665183188922368",
+              "start": 24,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066740851200360886",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573932615041450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我猜是was，就是虚拟语气？@grok 我们以前老师提过，但是当时我没学（会）？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14702,
+          "following_count": 2126,
+          "like_count": 6037,
+          "listed_count": 25,
+          "media_count": 2060,
+          "tweet_count": 3161
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T20:36:08.000Z",
+        "description": "喂，你们丫的，早点买个Surfshark VPN哈。不然挂了别说我没提醒你们。 https://t.co/j6uxU3iySc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "surfshark.club/friend/9Pcr75K9",
+                "end": 63,
+                "expanded_url": "https://surfshark.club/friend/9Pcr75K9",
+                "start": 40,
+                "url": "https://t.co/j6uxU3iySc"
+              }
+            ]
+          }
+        },
+        "id": "2056111545747218432",
+        "name": "John Smith",
+        "pinned_tweet_id": "2060923018298163339",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 1573,
+          "like_count": 2217,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 3886
+        },
+        "username": "JohnSmith38al",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8808519,
+          "following_count": 5,
+          "like_count": 104,
+          "listed_count": 7015,
+          "media_count": 9051942,
+          "tweet_count": 129050769
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

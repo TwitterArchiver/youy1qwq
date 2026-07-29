@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065501016628535296"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065501024551571940",
+    "created_at": "2026-06-12T18:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065501024551571940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZA5b5baDhp",
+          "end": 42,
+          "expanded_url": "https://x.com/youy1qwq/status/2065501024551571940/photo/1",
+          "media_key": "3_2065501016628535296",
+          "start": 19,
+          "url": "https://t.co/ZA5b5baDhp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065501024551571940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "细思鼻孔 篮字这两个地方竟然是一样的 https://t.co/ZA5b5baDhp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2065501016628535296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoiOytaIAAWM_C.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065501016628535296"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065501024551571940",
+        "created_at": "2026-06-12T18:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065501024551571940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZA5b5baDhp",
+              "end": 42,
+              "expanded_url": "https://x.com/youy1qwq/status/2065501024551571940/photo/1",
+              "media_key": "3_2065501016628535296",
+              "start": 19,
+              "url": "https://t.co/ZA5b5baDhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065501024551571940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "细思鼻孔 篮字这两个地方竟然是一样的 https://t.co/ZA5b5baDhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14467,
+          "following_count": 2102,
+          "like_count": 5579,
+          "listed_count": 24,
+          "media_count": 2039,
+          "tweet_count": 2951
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066573932615041450",
+    "created_at": "2026-06-16T17:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066938104729174365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1138067549504004101",
+          "start": 0,
+          "username": "GeoriaShang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066938104729174365",
+    "in_reply_to_user_id": "1138067549504004101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066761672723947803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeoriaShang 正确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T17:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066938104729174365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1138067549504004101",
+              "start": 0,
+              "username": "GeoriaShang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938104729174365",
+        "in_reply_to_user_id": "1138067549504004101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066761672723947803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeoriaShang 正确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138067549504004101",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T05:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066761672723947803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066761672723947803",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573932615041450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq were"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14724,
+          "following_count": 2130,
+          "like_count": 6114,
+          "listed_count": 25,
+          "media_count": 2063,
+          "tweet_count": 3223
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-10T12:57:02.000Z",
+        "description": "Insights",
+        "id": "1138067549504004101",
+        "name": "Georia Shang",
+        "pinned_tweet_id": "2065163716682035268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336409138016256/6ZGqEwc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 35,
+          "like_count": 4954,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 654
+        },
+        "username": "GeoriaShang",
+        "verified": false
+      }
+    ]
+  }
+}

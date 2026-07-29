@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048675670750851072"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048779199704453560",
+    "created_at": "2026-04-27T15:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048779199704453560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LgEZiFcQ20",
+          "end": 38,
+          "expanded_url": "https://x.com/youy1qwq/status/2048779199704453560/photo/1",
+          "media_key": "3_2048675670750851072",
+          "start": 15,
+          "url": "https://t.co/LgEZiFcQ20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048779199704453560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁不想急头白脸住一住奶龙宿舍 https://t.co/LgEZiFcQ20"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_2048675670750851072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5bqw8W8AATVO_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048675670750851072"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048779199704453560",
+        "created_at": "2026-04-27T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048779199704453560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgEZiFcQ20",
+              "end": 38,
+              "expanded_url": "https://x.com/youy1qwq/status/2048779199704453560/photo/1",
+              "media_key": "3_2048675670750851072",
+              "start": 15,
+              "url": "https://t.co/LgEZiFcQ20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048779199704453560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁不想急头白脸住一住奶龙宿舍 https://t.co/LgEZiFcQ20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11490,
+          "following_count": 1690,
+          "like_count": 3901,
+          "listed_count": 17,
+          "media_count": 1540,
+          "tweet_count": 2041
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

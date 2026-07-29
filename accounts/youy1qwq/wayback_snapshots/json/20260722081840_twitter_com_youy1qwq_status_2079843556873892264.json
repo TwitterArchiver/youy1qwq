@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079724823266410679",
+    "created_at": "2026-07-22T08:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079843556873892264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580505187088625666",
+          "start": 0,
+          "username": "lumingxi2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079843556873892264",
+    "in_reply_to_user_id": "1580505187088625666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079724823266410679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumingxi2025 加油 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079724815800520704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyqs3xa0AAAu3Y.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079724823266410679",
+        "created_at": "2026-07-22T08:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079843556873892264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580505187088625666",
+              "start": 0,
+              "username": "lumingxi2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079843556873892264",
+        "in_reply_to_user_id": "1580505187088625666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079724823266410679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumingxi2025 加油 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079724815800520704"
+          ]
+        },
+        "author_id": "1580505187088625666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2079724823266410679",
+        "created_at": "2026-07-22T00:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079724823266410679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GK07n8uLcL",
+              "end": 146,
+              "expanded_url": "https://x.com/lumingxi2025/status/2079724823266410679/photo/1",
+              "media_key": "3_2079724815800520704",
+              "start": 123,
+              "url": "https://t.co/GK07n8uLcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079724823266410679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 270,
+                "start": 265,
+                "tag": "交蓝朋友"
+              }
+            ]
+          },
+          "text": "3000还差一点。今天能不能到？\n\n刷X这么久，越来越觉得：在这个平台上，如果只是刷刷信息、看看热闹，却不认识几个能聊得来的朋友，那真的有点可惜。\n\n我喜欢分享每天的撸毛Alpha、BTC和Meme的看法、空投实操心得，也会发一些生活里的小碎片\n\n想找一些志同道合的朋友，一起讨论项目、交流经验、互相鼓励，也一起吐槽生活里的荒诞瞬间。\n\n不搞形式主义，不用天天寒暄，只要偶尔能聊得来、互相启发就很好了。\n\n如果你也觉得X上应该多一些真朋友，欢迎来找我聊聊～诚信为本\n\n期待在这里遇到更多有趣的灵魂，一起把这趟X之旅过得充实一点\n\n#交蓝朋友"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3000还差一点。今天能不能到？\n\n刷X这么久，越来越觉得：在这个平台上，如果只是刷刷信息、看看热闹，却不认识几个能聊得来的朋友，那真的有点可惜。\n\n我喜欢分享每天的撸毛Alpha、BTC和Meme的看法、空投实操心得，也会发一些生活里的小碎片 https://t.co/GK07n8uLcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16583,
+          "following_count": 2851,
+          "like_count": 8057,
+          "listed_count": 28,
+          "media_count": 2263,
+          "tweet_count": 3917
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T10:26:41.000Z",
+        "description": "每日撸毛Alpha | BTC/ meme/空投实操分享 | 生活碎碎念 | NFA DYOR\n\n努力是下限 运气是上限",
+        "id": "1580505187088625666",
+        "name": "鹿鸣溪",
+        "pinned_tweet_id": "2079126386908987774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059111347091292160/OfUN5TAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 2721,
+          "like_count": 4192,
+          "listed_count": 5,
+          "media_count": 348,
+          "tweet_count": 7907
+        },
+        "url": "",
+        "username": "lumingxi2025",
+        "verified": true
+      }
+    ]
+  }
+}

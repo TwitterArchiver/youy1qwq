@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2049018604868211014",
+    "created_at": "2026-04-28T07:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049027663969267954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1736678245544919040",
+          "start": 0,
+          "username": "PengjianZ5710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049027663969267954",
+    "in_reply_to_user_id": "1736678245544919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049021789934960818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PengjianZ5710 一起加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2049018604868211014",
+        "created_at": "2026-04-28T07:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049027663969267954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1736678245544919040",
+              "start": 0,
+              "username": "PengjianZ5710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049027663969267954",
+        "in_reply_to_user_id": "1736678245544919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049021789934960818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PengjianZ5710 一起加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736678245544919040",
+        "conversation_id": "2049018604868211014",
+        "created_at": "2026-04-28T07:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049021789934960818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049021789934960818",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049018604868211014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我在这插个眼，借楼，等待大家+1."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11653,
+          "following_count": 1705,
+          "like_count": 3927,
+          "listed_count": 17,
+          "media_count": 1546,
+          "tweet_count": 2049
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-18T09:22:36.000Z",
+        "description": "1、海军陆战队退役，军人品质保持初心。遨游在web圈10年，日常记录所思所想、交易策略和投资研究 ，价值输出，实事求是，不割韭菜。\n\n2、你我本身平等，关注我的我会回关，双向奔赴，共赴星辰大海。\n希望乘着web3这波红利，大家一起成长，成财。\n\n3、男人四十，不惧风浪，重新起航，不过尔尔。",
+        "id": "1736678245544919040",
+        "name": "沧海老张",
+        "pinned_tweet_id": "2046487611431350414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996114609380724736/9RIb0PAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10272,
+          "following_count": 9665,
+          "like_count": 25320,
+          "listed_count": 16,
+          "media_count": 570,
+          "tweet_count": 14041
+        },
+        "username": "PengjianZ5710",
+        "verified": true
+      }
+    ]
+  }
+}

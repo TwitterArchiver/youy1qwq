@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064960392661749854",
+    "created_at": "2026-06-12T05:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065300000138244234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000382625505296385",
+          "start": 0,
+          "username": "meEichi110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065300000138244234",
+    "in_reply_to_user_id": "2000382625505296385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065242580326224320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meEichi110 终于有人懂铁棍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064960392661749854",
+        "created_at": "2026-06-12T05:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065300000138244234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000382625505296385",
+              "start": 0,
+              "username": "meEichi110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065300000138244234",
+        "in_reply_to_user_id": "2000382625505296385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065242580326224320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meEichi110 终于有人懂铁棍了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000382625505296385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2064960392661749854",
+        "created_at": "2026-06-12T01:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065242580326224320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065242580326224320",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064960392661749854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 铁棍文学还在追我！（婆婆跑过来婆婆跑过去）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14400,
+          "following_count": 2088,
+          "like_count": 5493,
+          "listed_count": 24,
+          "media_count": 2032,
+          "tweet_count": 2908
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T01:49:25.000Z",
+        "description": "全网最尊重曹操子宫的账号。90%黄色废料10%牢骚。",
+        "id": "2000382625505296385",
+        "name": "羊肉串",
+        "pinned_tweet_id": "2023578460778910037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062207011518058496/LV7Z-kJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 16,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 366
+        },
+        "username": "meEichi110",
+        "verified": false
+      }
+    ]
+  }
+}

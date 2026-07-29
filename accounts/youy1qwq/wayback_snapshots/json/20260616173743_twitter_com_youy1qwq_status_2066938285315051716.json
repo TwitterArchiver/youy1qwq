@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066518977359347932",
+    "created_at": "2026-06-16T17:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066938285315051716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835501565274165248",
+          "start": 0,
+          "username": "hh6191291686273"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066938285315051716",
+    "in_reply_to_user_id": "1835501565274165248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066844166395404560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hh6191291686273 被发现了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-16T17:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066938285315051716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835501565274165248",
+              "start": 0,
+              "username": "hh6191291686273"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938285315051716",
+        "in_reply_to_user_id": "1835501565274165248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066844166395404560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hh6191291686273 被发现了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835501565274165248",
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-16T11:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066844166395404560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066844166395404560",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1432,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066518977359347932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 三个打野，两个射手吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14724,
+          "following_count": 2130,
+          "like_count": 6119,
+          "listed_count": 25,
+          "media_count": 2063,
+          "tweet_count": 3230
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-16T02:11:03.000Z",
+        "description": "nobody cares me",
+        "id": "1835501565274165248",
+        "name": "Goodpasture",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931229222338490368/c9OCHcuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 58,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "username": "hh6191291686273",
+        "verified": false
+      }
+    ]
+  }
+}

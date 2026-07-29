@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019963993167945875",
+    "created_at": "2026-02-07T03:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019972813382406474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999019738803089408",
+          "start": 0,
+          "username": "Jimutoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019972813382406474",
+    "in_reply_to_user_id": "1999019738803089408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019963993167945875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jimutoc 借楼一起互关，包回关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019963983802036225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhaioGacAExN2G.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019963993167945875",
+        "created_at": "2026-02-07T03:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019972813382406474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999019738803089408",
+              "start": 0,
+              "username": "Jimutoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019972813382406474",
+        "in_reply_to_user_id": "1999019738803089408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019963993167945875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jimutoc 借楼一起互关，包回关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019963983802036225"
+          ]
+        },
+        "author_id": "1999019738803089408",
+        "conversation_id": "2019963993167945875",
+        "created_at": "2026-02-07T02:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019963993167945875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZTFuM1lvh",
+              "end": 66,
+              "expanded_url": "https://x.com/Jimutoc/status/2019963993167945875/photo/1",
+              "media_key": "3_2019963983802036225",
+              "start": 43,
+              "url": "https://t.co/oZTFuM1lvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019963993167945875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GM\n还没互关的继续互关啦！\n有关必回，不取关。\n都回关了没关注到了可以提醒我一下哈 https://t.co/oZTFuM1lvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 680,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 361
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T07:35:05.000Z",
+        "description": "",
+        "id": "1999019738803089408",
+        "name": "Jimutoc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999020331655462912/nxgoh0HK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 1014,
+          "like_count": 989,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 212
+        },
+        "username": "Jimutoc",
+        "verified": true
+      }
+    ]
+  }
+}

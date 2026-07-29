@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020580894705414303",
+    "created_at": "2026-02-08T21:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T22:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020609246421832113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1492455622633086980",
+          "start": 0,
+          "username": "GeorgianaAurum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020609246421832113",
+    "in_reply_to_user_id": "1492455622633086980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020600941066764333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeorgianaAurum 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020580894705414303",
+        "created_at": "2026-02-08T21:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T22:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020609246421832113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492455622633086980",
+              "start": 0,
+              "username": "GeorgianaAurum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020609246421832113",
+        "in_reply_to_user_id": "1492455622633086980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020600941066764333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeorgianaAurum 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492455622633086980",
+        "conversation_id": "2020580894705414303",
+        "created_at": "2026-02-08T20:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T21:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020600941066764333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020600941066764333",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020580894705414303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 其實畫得不錯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 848,
+          "like_count": 1740,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 481
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-12T11:08:56.000Z",
+        "description": "Use any｜She｜They｜ISFJ｜30⬆️還很孩子氣的中年少女｜個性是珍珠烏龍🧋｜作息爆炸｜生活｜日記｜碎碎唸｜網路怪人｜謝謝大家｜主推：🧪🥁🍬🤥▲🐺｜主視覺：clibo-你要不要吃哈密呱｜頭像：我｜🔞偶爾會有NSFW發言和圖文🔞｜這裡是個普通動漫電玩宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/imGeorgiana",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/imGeorgiana",
+                "start": 0,
+                "url": "https://t.co/tjVyqE4A5p"
+              }
+            ]
+          }
+        },
+        "id": "1492455622633086980",
+        "location": "About Myself➡️",
+        "name": "✨喬治亞娜🔮怪人系個人不勢Vtuber",
+        "pinned_tweet_id": "1926715495887048970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011529930191081472/7aHDXcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 447,
+          "like_count": 21075,
+          "listed_count": 3,
+          "media_count": 713,
+          "tweet_count": 27927
+        },
+        "url": "https://t.co/tjVyqE4A5p",
+        "username": "GeorgianaAurum",
+        "verified": false
+      }
+    ]
+  }
+}

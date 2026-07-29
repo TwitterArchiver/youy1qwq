@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066573932615041450",
+    "created_at": "2026-06-16T17:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066937508743823553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "105099190",
+          "start": 0,
+          "username": "smdhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066937508743823553",
+    "in_reply_to_user_id": "105099190",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066805043274436614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smdhz 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T17:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066937508743823553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "105099190",
+              "start": 0,
+              "username": "smdhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066937508743823553",
+        "in_reply_to_user_id": "105099190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066805043274436614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smdhz 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "105099190",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T08:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066805043274436614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066805043274436614",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573932615041450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq were，看了阿兹漫画大王不知为什么就背住了 I wish I were a bird"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14724,
+          "following_count": 2130,
+          "like_count": 6109,
+          "listed_count": 25,
+          "media_count": 2063,
+          "tweet_count": 3210
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-15T10:46:42.000Z",
+        "description": "社畜 舰狗 六池门徒 没有超级牛力 沉迷2B小姐姐 / 社畜　提督　スタークラフトプレーヤー　2Bさん大好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oasis.kokuryuu.club",
+                "end": 23,
+                "expanded_url": "https://oasis.kokuryuu.club/",
+                "start": 0,
+                "url": "https://t.co/3oAIWobFWZ"
+              }
+            ]
+          }
+        },
+        "id": "105099190",
+        "location": "横浜市",
+        "name": "法布雷大叔 ファブレおっさん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614155835424350209/2Ptcun2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 515,
+          "like_count": 3734,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 4683
+        },
+        "url": "https://t.co/3oAIWobFWZ",
+        "username": "smdhz",
+        "verified": false
+      }
+    ]
+  }
+}

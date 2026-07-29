@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2048275845962162592",
+    "created_at": "2026-04-26T07:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048307285865148673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1649850909105717248",
+          "start": 0,
+          "username": "QingchenLee02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048307285865148673",
+    "in_reply_to_user_id": "1649850909105717248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048290373806784623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingchenLee02 回关啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2048275845962162592",
+        "created_at": "2026-04-26T07:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048307285865148673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1649850909105717248",
+              "start": 0,
+              "username": "QingchenLee02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048307285865148673",
+        "in_reply_to_user_id": "1649850909105717248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048290373806784623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingchenLee02 回关啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649850909105717248",
+        "conversation_id": "2048275845962162592",
+        "created_at": "2026-04-26T06:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048290373806784623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048290373806784623",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048275845962162592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 前排"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11299,
+          "following_count": 1659,
+          "like_count": 3883,
+          "listed_count": 16,
+          "media_count": 1517,
+          "tweet_count": 2013
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-22T19:01:44.000Z",
+        "description": "普通人走向世界的记录\n二本在读 → 准备出国做中文老师\n拆解成长、出国、选择与行动\n用理性理解世界，用行动改变自己 🌏",
+        "id": "1649850909105717248",
+        "location": "on the earth",
+        "name": "李清宸 | Ian ☺️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047917083850342400/ZzZik7Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 319,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 312
+        },
+        "username": "QingchenLee02",
+        "verified": true
+      }
+    ]
+  }
+}

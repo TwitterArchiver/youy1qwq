@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067113166878974280",
+    "created_at": "2026-06-18T06:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491587907867052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "797824175461105664",
+          "start": 0,
+          "username": "NagySandors"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491587907867052",
+    "in_reply_to_user_id": "797824175461105664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067387415208067329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagySandors 笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067113166878974280",
+        "created_at": "2026-06-18T06:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491587907867052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "797824175461105664",
+              "start": 0,
+              "username": "NagySandors"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491587907867052",
+        "in_reply_to_user_id": "797824175461105664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067387415208067329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagySandors 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "797824175461105664",
+        "conversation_id": "2067113166878974280",
+        "created_at": "2026-06-17T23:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067387415208067329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067387415208067329",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067113166878974280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 看得我拳头一硬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14750,
+          "following_count": 2139,
+          "like_count": 6248,
+          "listed_count": 26,
+          "media_count": 2074,
+          "tweet_count": 3346
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-13T15:31:21.000Z",
+        "description": "工业史研究，数据科学家，业余民俗研究，亚民族群体研究",
+        "id": "797824175461105664",
+        "location": "Moscow, RUS",
+        "name": "Nagy Sandors🇷🇺",
+        "pinned_tweet_id": "2008079239237804324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/797829966692044801/mSbgrDF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 272,
+          "like_count": 12627,
+          "listed_count": 17,
+          "media_count": 1332,
+          "tweet_count": 7250
+        },
+        "url": "",
+        "username": "NagySandors",
+        "verified": false
+      }
+    ]
+  }
+}

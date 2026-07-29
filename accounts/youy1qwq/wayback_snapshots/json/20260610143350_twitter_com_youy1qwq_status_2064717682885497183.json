@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064702403988148224",
+    "created_at": "2026-06-10T14:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064717682885497183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580456162050584577",
+          "start": 0,
+          "username": "chushouplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064717682885497183",
+    "in_reply_to_user_id": "1580456162050584577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064713484030578705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chushouplay 自律"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064702403988148224",
+        "created_at": "2026-06-10T14:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064717682885497183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580456162050584577",
+              "start": 0,
+              "username": "chushouplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064717682885497183",
+        "in_reply_to_user_id": "1580456162050584577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064713484030578705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chushouplay 自律"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580456162050584577",
+        "conversation_id": "2064702403988148224",
+        "created_at": "2026-06-10T14:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064713484030578705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064713484030578705",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064702403988148224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 挺好的，充实的生活 顺便还睡满了9小时。不赖\n˃ 𖥦 ˂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14227,
+          "following_count": 2077,
+          "like_count": 4993,
+          "listed_count": 24,
+          "media_count": 2019,
+          "tweet_count": 2776
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T07:11:58.000Z",
+        "description": "175/50kg，xyn。算半个mtf｜无证含🍥中｜HRT🍥：26.3.21 ｜不od，很怕死｜家长不知道/家长管不到档hh\n私信聊天看到会尽量回。（喜欢水月，扩张pg，女装，露出）",
+        "id": "1580456162050584577",
+        "name": "精灵_Elf🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934613644912078848/WLK1vBEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 21,
+          "like_count": 139,
+          "listed_count": 7,
+          "media_count": 54,
+          "tweet_count": 160
+        },
+        "username": "chushouplay",
+        "verified": false
+      }
+    ]
+  }
+}

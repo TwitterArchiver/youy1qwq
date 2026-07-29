@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079915413182562618",
+    "created_at": "2026-07-23T05:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080167546398048365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1379274525074841602",
+          "start": 0,
+          "username": "ranranyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080167546398048365",
+    "in_reply_to_user_id": "1379274525074841602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079915413182562618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranranyk 走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079915413182562618",
+        "created_at": "2026-07-23T05:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080167546398048365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1379274525074841602",
+              "start": 0,
+              "username": "ranranyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080167546398048365",
+        "in_reply_to_user_id": "1379274525074841602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079915413182562618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranranyk 走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379274525074841602",
+        "conversation_id": "2079915413182562618",
+        "created_at": "2026-07-22T13:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079915413182562618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079915413182562618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1054,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在都有暗号了？走个面？ 和我交朋友好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16655,
+          "following_count": 2877,
+          "like_count": 8076,
+          "listed_count": 28,
+          "media_count": 2268,
+          "tweet_count": 3933
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-06T03:27:40.000Z",
+        "description": "8 years in crypto. Lost money. Lost sleep. Learned the game. If you’re here for easy money — wrong place. If you’re here to survive cycles — welcome",
+        "id": "1379274525074841602",
+        "location": "Singapore",
+        "name": "ranran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070904743946588160/RID-b9Ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5484,
+          "following_count": 5370,
+          "like_count": 586,
+          "listed_count": 1,
+          "media_count": 704,
+          "tweet_count": 1810
+        },
+        "url": "",
+        "username": "ranranyk",
+        "verified": true
+      }
+    ]
+  }
+}

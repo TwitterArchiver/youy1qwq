@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2080096283302543364",
+    "created_at": "2026-07-23T05:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080167711997587472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1873637451799154688",
+          "start": 0,
+          "username": "XDniwei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080167711997587472",
+    "in_reply_to_user_id": "1873637451799154688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080096283302543364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XDniwei 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080096277652783104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN38izAbQAAqkfe.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2080096283302543364",
+        "created_at": "2026-07-23T05:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080167711997587472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1873637451799154688",
+              "start": 0,
+              "username": "XDniwei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080167711997587472",
+        "in_reply_to_user_id": "1873637451799154688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080096283302543364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XDniwei 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080096277652783104"
+          ]
+        },
+        "author_id": "1873637451799154688",
+        "conversation_id": "2080096283302543364",
+        "created_at": "2026-07-23T01:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080096283302543364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqgYM8Mqlw",
+              "end": 49,
+              "expanded_url": "https://x.com/XDniwei/status/2080096283302543364/photo/1",
+              "media_key": "3_2080096277652783104",
+              "start": 26,
+              "url": "https://t.co/mqgYM8Mqlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080096283302543364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有天赋\n那就重复\n今日继续加油\n今日暗号\n续火花 https://t.co/mqgYM8Mqlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16655,
+          "following_count": 2879,
+          "like_count": 8078,
+          "listed_count": 28,
+          "media_count": 2268,
+          "tweet_count": 3935
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-30T07:49:31.000Z",
+        "description": "“白日梦想家🌙，深夜哲学家🤔。主业干饭🍚，副业发呆💭。观点很主观，怼我就是你对（但我不会听🙉）。”",
+        "id": "1873637451799154688",
+        "location": "Hong Kong",
+        "name": "Quincy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074056446065725440/feetpSnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 789,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "XDniwei",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020575871841472512"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020588445773824158",
+    "created_at": "2026-02-08T20:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T21:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020588445773824158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Iw9RrZQJT0",
+          "end": 23,
+          "expanded_url": "https://x.com/youy1qwq/status/2020588445773824158/photo/1",
+          "media_key": "3_2020575871841472512",
+          "start": 0,
+          "url": "https://t.co/Iw9RrZQJT0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020588445773824158",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Iw9RrZQJT0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2020575871841472512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAqHDMrWEAAIg46.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020575871841472512"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020588445773824158",
+        "created_at": "2026-02-08T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020588445773824158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iw9RrZQJT0",
+              "end": 23,
+              "expanded_url": "https://x.com/youy1qwq/status/2020588445773824158/photo/1",
+              "media_key": "3_2020575871841472512",
+              "start": 0,
+              "url": "https://t.co/Iw9RrZQJT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020588445773824158",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Iw9RrZQJT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 848,
+          "like_count": 1730,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 478
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

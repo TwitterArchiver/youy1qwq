@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065375020747252191",
+    "created_at": "2026-06-13T04:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065650540755988737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2065355701602414592",
+          "start": 0,
+          "username": "ngygij1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065650540755988737",
+    "in_reply_to_user_id": "2065355701602414592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065554496931893379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ngygij1 直接上吊了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065375020747252191",
+        "created_at": "2026-06-13T04:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065650540755988737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2065355701602414592",
+              "start": 0,
+              "username": "ngygij1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065650540755988737",
+        "in_reply_to_user_id": "2065355701602414592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065554496931893379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ngygij1 直接上吊了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065355701602414592",
+        "conversation_id": "2065375020747252191",
+        "created_at": "2026-06-12T21:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065554496931893379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065554496931893379",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065375020747252191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 出来之后嘎巴一下死那"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14487,
+          "following_count": 2104,
+          "like_count": 5627,
+          "listed_count": 24,
+          "media_count": 2040,
+          "tweet_count": 2975
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-12T08:50:15.000Z",
+        "description": "爱吃的食物：寿司，汉堡，沙拉\n喜欢的游戏：这个没有啦，平时不怎么玩\n爱听的歌：星空叙爱曲，人上人，不怪她",
+        "id": "2065355701602414592",
+        "location": "香港",
+        "name": "ゆうな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065360932046311424/fFKEMSCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "username": "ngygij1",
+        "verified": false
+      }
+    ]
+  }
+}

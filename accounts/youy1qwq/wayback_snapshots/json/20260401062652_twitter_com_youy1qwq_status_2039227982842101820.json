@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2039181250980897226",
+    "created_at": "2026-04-01T06:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039227982842101820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1583678635772628997",
+          "start": 0,
+          "username": "9ececo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039227982842101820",
+    "in_reply_to_user_id": "1583678635772628997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039181250980897226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9ececo 借楼一起 蓝v互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2039181250980897226",
+        "created_at": "2026-04-01T06:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039227982842101820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1583678635772628997",
+              "start": 0,
+              "username": "9ececo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039227982842101820",
+        "in_reply_to_user_id": "1583678635772628997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039181250980897226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9ececo 借楼一起 蓝v互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583678635772628997",
+        "conversation_id": "2039181250980897226",
+        "created_at": "2026-04-01T03:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039181250980897226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039181250980897226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2223,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近怎么这么难，连个蓝V互关的都没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9313,
+          "following_count": 1455,
+          "like_count": 3445,
+          "listed_count": 13,
+          "media_count": 1172,
+          "tweet_count": 1602
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-22T04:36:34.000Z",
+        "description": "币圈十年  \n┈┈┈┈┈┈┈┈┈\n跨领域思考者\n分享真正有意义的内容\nCrypto / 人文 / 生活/ 搞笑\n┈┈┈┈┈┈┈┈┈\n🌱 只输出价值",
+        "id": "1583678635772628997",
+        "name": "北极星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019322588686651392/bioMF9F6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 3889,
+          "like_count": 2807,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 6015
+        },
+        "username": "9ececo",
+        "verified": true
+      }
+    ]
+  }
+}

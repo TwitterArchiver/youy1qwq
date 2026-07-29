@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019622078324838557",
+    "created_at": "2026-02-06T04:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019633243910467991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422417346623279104",
+          "start": 0,
+          "username": "tm8onQ2EQrJTXEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019633243910467991",
+    "in_reply_to_user_id": "1422417346623279104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019630443675668817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tm8onQ2EQrJTXEL 全部的行李（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019622078324838557",
+        "created_at": "2026-02-06T04:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019633243910467991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422417346623279104",
+              "start": 0,
+              "username": "tm8onQ2EQrJTXEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019633243910467991",
+        "in_reply_to_user_id": "1422417346623279104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019630443675668817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tm8onQ2EQrJTXEL 全部的行李（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422417346623279104",
+        "conversation_id": "2019622078324838557",
+        "created_at": "2026-02-06T04:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019630443675668817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019630443675668817",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019622078324838557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这是啥？😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 518,
+          "like_count": 1123,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 287
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T04:41:54.000Z",
+        "description": "成都的 不是gay",
+        "id": "1422417346623279104",
+        "name": "攸荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018611404832387073/MTc_48Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 69,
+          "like_count": 243,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "username": "tm8onQ2EQrJTXEL",
+        "verified": false
+      }
+    ]
+  }
+}

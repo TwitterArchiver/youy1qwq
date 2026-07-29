@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019418235389767784",
+    "created_at": "2026-02-06T04:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019627490696630754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679549808305111040",
+          "start": 0,
+          "username": "karl_el3316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019627490696630754",
+    "in_reply_to_user_id": "1679549808305111040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019627246269702234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karl_el3316 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2019627242180210689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcoRrzacAEtZj1.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019418235389767784",
+        "created_at": "2026-02-06T04:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019627490696630754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679549808305111040",
+              "start": 0,
+              "username": "karl_el3316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019627490696630754",
+        "in_reply_to_user_id": "1679549808305111040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019627246269702234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karl_el3316 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019627242180210689"
+          ]
+        },
+        "author_id": "1679549808305111040",
+        "conversation_id": "2019418235389767784",
+        "created_at": "2026-02-06T04:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019627246269702234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwsFNQiBKC",
+              "end": 33,
+              "expanded_url": "https://x.com/karl_el3316/status/2019627246269702234/photo/1",
+              "media_key": "3_2019627242180210689",
+              "start": 10,
+              "url": "https://t.co/gwsFNQiBKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019627246269702234",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019418235389767784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/gwsFNQiBKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 509,
+          "like_count": 1099,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 280
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-13T17:54:40.000Z",
+        "description": "",
+        "id": "1679549808305111040",
+        "name": "ano酱头顶怎么尖尖的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874392332419956736/zNKlrg9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 620,
+          "like_count": 2228,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 511
+        },
+        "username": "karl_el3316",
+        "verified": false
+      }
+    ]
+  }
+}

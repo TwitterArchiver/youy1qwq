@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067266376998543575",
+    "created_at": "2026-06-18T13:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067604746576507028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1594588943961313280",
+          "start": 0,
+          "username": "wanluosanjin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067604746576507028",
+    "in_reply_to_user_id": "1594588943961313280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067545850029728166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanluosanjin 那很强了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067266376998543575",
+        "created_at": "2026-06-18T13:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067604746576507028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1594588943961313280",
+              "start": 0,
+              "username": "wanluosanjin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067604746576507028",
+        "in_reply_to_user_id": "1594588943961313280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067545850029728166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanluosanjin 那很强了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594588943961313280",
+        "conversation_id": "2067266376998543575",
+        "created_at": "2026-06-18T09:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067545850029728166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067545850029728166",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266376998543575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 简直就是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14770,
+          "following_count": 2150,
+          "like_count": 6297,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3386
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-21T07:10:13.000Z",
+        "description": "アイ・キャン・スピーク・ジャパニーズ",
+        "id": "1594588943961313280",
+        "name": "smile in rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637826916664360960/GUagxvsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 119,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 476
+        },
+        "username": "wanluosanjin",
+        "verified": false
+      }
+    ]
+  }
+}

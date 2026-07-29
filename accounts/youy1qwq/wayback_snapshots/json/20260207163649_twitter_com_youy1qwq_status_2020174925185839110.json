@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020120359257665781",
+    "created_at": "2026-02-07T16:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T17:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020174925185839110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879526590188859392",
+          "start": 0,
+          "username": "ZaixaiBuPang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020174925185839110",
+    "in_reply_to_user_id": "1879526590188859392",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020157602928193894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaixaiBuPang ？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020120359257665781",
+        "created_at": "2026-02-07T16:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020174925185839110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879526590188859392",
+              "start": 0,
+              "username": "ZaixaiBuPang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020174925185839110",
+        "in_reply_to_user_id": "1879526590188859392",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020157602928193894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaixaiBuPang ？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879526590188859392",
+        "conversation_id": "2020120359257665781",
+        "created_at": "2026-02-07T15:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020157602928193894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020157602928193894",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020120359257665781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我靠 眼熟（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 808,
+          "like_count": 1474,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 394
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T13:51:14.000Z",
+        "description": "ずっと真夜中でいいのに",
+        "id": "1879526590188859392",
+        "location": "ちきゅう",
+        "name": "ちきゅう大爆発",
+        "pinned_tweet_id": "1904443366143557870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018266940490555392/1bNQVZzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 456,
+          "like_count": 6096,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 1884
+        },
+        "username": "ZaixaiBuPang",
+        "verified": false
+      }
+    ]
+  }
+}

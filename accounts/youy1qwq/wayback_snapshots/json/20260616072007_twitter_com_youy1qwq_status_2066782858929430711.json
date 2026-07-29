@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066213753293803550",
+    "created_at": "2026-06-16T07:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066782858929430711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1558994285562925057",
+          "start": 0,
+          "username": "mori__summer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066782858929430711",
+    "in_reply_to_user_id": "1558994285562925057",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066422899607793722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mori__summer 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-16T07:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066782858929430711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1558994285562925057",
+              "start": 0,
+              "username": "mori__summer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066782858929430711",
+        "in_reply_to_user_id": "1558994285562925057",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066422899607793722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mori__summer 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558994285562925057",
+        "conversation_id": "2066213753293803550",
+        "created_at": "2026-06-15T07:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066422899607793722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066422899607793722",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066213753293803550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 有蛇精"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14708,
+          "following_count": 2127,
+          "like_count": 6070,
+          "listed_count": 25,
+          "media_count": 2062,
+          "tweet_count": 3190
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-15T01:50:02.000Z",
+        "description": "(=^-ω-^=)塔罗牌占卜9.9r一次",
+        "id": "1558994285562925057",
+        "location": "2.1km",
+        "name": "对方正在输入…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034657089600286720/z21QWtRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 843
+        },
+        "username": "mori__summer",
+        "verified": false
+      }
+    ]
+  }
+}

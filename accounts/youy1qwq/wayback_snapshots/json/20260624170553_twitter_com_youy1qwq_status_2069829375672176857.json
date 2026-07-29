@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-24T17:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069829375672176857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525826659982577665",
+          "start": 0,
+          "username": "loor97439955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069829375672176857",
+    "in_reply_to_user_id": "1525826659982577665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069828504464835018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loor97439955 我也好开心呀你这样夸我🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T17:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069829375672176857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525826659982577665",
+              "start": 0,
+              "username": "loor97439955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069829375672176857",
+        "in_reply_to_user_id": "1525826659982577665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069828504464835018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loor97439955 我也好开心呀你这样夸我🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525826659982577665",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T17:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069828504464835018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069828504464835018",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069825692142080054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 美女还回我话了，哎呀我太开心啦😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15045,
+          "following_count": 2192,
+          "like_count": 7125,
+          "listed_count": 27,
+          "media_count": 2115,
+          "tweet_count": 3650
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-15T13:14:13.000Z",
+        "description": "不谈论种族和政治，我始终忠于革命忠于我党\n还有一件事，来聊天啊，我好无聊\n还有一件事！！本人的评论纯属玩梗，没有人身攻击的意思，不要太当回事，当个乐子就行",
+        "id": "1525826659982577665",
+        "location": "厕所",
+        "name": "天南羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066275774559305728/SkPnzE4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 246,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "loor97439955",
+        "verified": false
+      }
+    ]
+  }
+}

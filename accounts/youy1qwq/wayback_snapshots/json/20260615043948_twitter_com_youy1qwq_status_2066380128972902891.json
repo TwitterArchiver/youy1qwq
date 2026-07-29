@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066206883913015613",
+    "created_at": "2026-06-15T04:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066380128972902891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625264483378814977",
+          "start": 0,
+          "username": "AmitaAmitabha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066380128972902891",
+    "in_reply_to_user_id": "1625264483378814977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066379481217175902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmitaAmitabha 草确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066206883913015613",
+        "created_at": "2026-06-15T04:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066380128972902891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625264483378814977",
+              "start": 0,
+              "username": "AmitaAmitabha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066380128972902891",
+        "in_reply_to_user_id": "1625264483378814977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066379481217175902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmitaAmitabha 草确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625264483378814977",
+        "conversation_id": "2066206883913015613",
+        "created_at": "2026-06-15T04:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066379481217175902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066379481217175902",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066379284034503037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 高考的话应该舍不得去厕所吧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14680,
+          "following_count": 2119,
+          "like_count": 5955,
+          "listed_count": 25,
+          "media_count": 2053,
+          "tweet_count": 3094
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-13T22:43:52.000Z",
+        "description": "",
+        "id": "1625264483378814977",
+        "location": "熾天の玉座",
+        "name": "A men",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777782230586359812/LUDT9PpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 982,
+          "like_count": 15629,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 402
+        },
+        "username": "AmitaAmitabha",
+        "verified": false
+      }
+    ]
+  }
+}

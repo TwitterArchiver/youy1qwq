@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2020120359257665781",
+    "created_at": "2026-02-07T13:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T14:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020124486335336898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875534359547277319",
+          "start": 0,
+          "username": "NippouMika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020124486335336898",
+    "in_reply_to_user_id": "1875534359547277319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020120915204354460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NippouMika 谢谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2020120359257665781",
+        "created_at": "2026-02-07T13:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020124486335336898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875534359547277319",
+              "start": 0,
+              "username": "NippouMika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020124486335336898",
+        "in_reply_to_user_id": "1875534359547277319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020120915204354460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NippouMika 谢谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875534359547277319",
+        "conversation_id": "2020120359257665781",
+        "created_at": "2026-02-07T13:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020120915204354460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020120915204354460",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020120359257665781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 808,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 391
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-04T13:27:06.000Z",
+        "description": "我喜欢万丈梓老师的漫画《恋爱少女养成方法》欢迎大家一起交流聊天",
+        "id": "1875534359547277319",
+        "location": "Kasukabe-shi, Saitama",
+        "name": "维☔️",
+        "pinned_tweet_id": "2014360256537895340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999877252419579904/bX0rcOOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 78,
+          "like_count": 3144,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1040
+        },
+        "username": "NippouMika",
+        "verified": false
+      }
+    ]
+  }
+}

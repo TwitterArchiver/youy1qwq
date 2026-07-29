@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066704408172531868",
+    "created_at": "2026-06-16T04:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066737499842715741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1731664963276832768",
+          "start": 0,
+          "username": "needy4love0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066737499842715741",
+    "in_reply_to_user_id": "1731664963276832768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066704408172531868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@needy4love0 我笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066704408172531868",
+        "created_at": "2026-06-16T04:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066737499842715741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1731664963276832768",
+              "start": 0,
+              "username": "needy4love0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066737499842715741",
+        "in_reply_to_user_id": "1731664963276832768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066704408172531868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@needy4love0 我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731664963276832768",
+        "conversation_id": "2066704408172531868",
+        "created_at": "2026-06-16T02:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066704408172531868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2066518977359347932",
+              "start": 16,
+              "url": "https://t.co/ZStM9gO6hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066704408172531868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066518977359347932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是一局仨打野俩射手的原因吗 https://t.co/ZStM9gO6hh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14700,
+          "following_count": 2126,
+          "like_count": 6033,
+          "listed_count": 25,
+          "media_count": 2059,
+          "tweet_count": 3158
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-04T13:21:34.000Z",
+        "description": "二旬老人| INTP-T |散利痛梦女 \n废物/败类/无素质者/厌人症间歇性复发患者/无手法农玩家/软辅玩家/爱我请带我上分/爱我请给我打钱/求地球ol无痛退游教程/求无痛摆脱哥布林建模教程/求无痛财富自由教程",
+        "id": "1731664963276832768",
+        "location": "🚪9999999999比特币 纯绿",
+        "name": "对乙酰氨基酚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065113573618278400/2-v5zCxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 34,
+          "like_count": 2387,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 291
+        },
+        "username": "needy4love0",
+        "verified": false
+      }
+    ]
+  }
+}

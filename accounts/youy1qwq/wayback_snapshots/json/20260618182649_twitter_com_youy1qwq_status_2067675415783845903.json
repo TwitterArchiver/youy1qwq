@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067574766241030159",
+    "created_at": "2026-06-18T18:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067675415783845903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881312054650568705",
+          "start": 0,
+          "username": "gudmaoning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067675415783845903",
+    "in_reply_to_user_id": "1881312054650568705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067629166250618995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gudmaoning 那很细节了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067574766241030159",
+        "created_at": "2026-06-18T18:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067675415783845903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881312054650568705",
+              "start": 0,
+              "username": "gudmaoning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067675415783845903",
+        "in_reply_to_user_id": "1881312054650568705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067629166250618995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gudmaoning 那很细节了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881312054650568705",
+        "conversation_id": "2067574766241030159",
+        "created_at": "2026-06-18T15:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067629166250618995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067629166250618995",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067574766241030159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 洗澡的时候得揪出来单独洗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14781,
+          "following_count": 2152,
+          "like_count": 6316,
+          "listed_count": 26,
+          "media_count": 2078,
+          "tweet_count": 3397
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T12:05:39.000Z",
+        "description": "",
+        "id": "1881312054650568705",
+        "name": "爱打瓦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016040198019416066/Thd2vxyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "gudmaoning",
+        "verified": false
+      }
+    ]
+  }
+}

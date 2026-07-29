@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2022093703524053333",
+    "created_at": "2026-02-13T04:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022163124238102648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1990329913899974656",
+          "start": 0,
+          "username": "clem_box"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022163124238102648",
+    "in_reply_to_user_id": "1990329913899974656",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022152828907925754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem_box I’m bake."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2022093703524053333",
+        "created_at": "2026-02-13T04:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022163124238102648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1990329913899974656",
+              "start": 0,
+              "username": "clem_box"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022163124238102648",
+        "in_reply_to_user_id": "1990329913899974656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022152828907925754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem_box I’m bake."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990329913899974656",
+        "conversation_id": "2022093703524053333",
+        "created_at": "2026-02-13T03:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022152828907925754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022152828907925754",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022093703524053333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq I'm back. 我是后背！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 894,
+          "like_count": 2203,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 619
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-17T08:03:45.000Z",
+        "description": "1i/infj/switch｜我是小贝。这里存放一些独白和生活碎片🤍🎧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem39315",
+                "end": 23,
+                "expanded_url": "http://ngl.link/clem39315",
+                "start": 0,
+                "url": "https://t.co/ob31kvsCVC"
+              }
+            ]
+          }
+        },
+        "id": "1990329913899974656",
+        "location": "Beijing",
+        "name": "Clem",
+        "pinned_tweet_id": "1995202749286559945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008612923305074688/8UlE4xcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 183,
+          "like_count": 5576,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/ob31kvsCVC",
+        "username": "clem_box",
+        "verified": false
+      }
+    ]
+  }
+}

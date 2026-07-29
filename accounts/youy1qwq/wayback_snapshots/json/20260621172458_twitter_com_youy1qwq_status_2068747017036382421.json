@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068734984379355360",
+    "created_at": "2026-06-21T17:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068747017036382421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991078964958461952",
+          "start": 0,
+          "username": "xioyu66666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068747017036382421",
+    "in_reply_to_user_id": "1991078964958461952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068743571658703090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioyu66666 而且京京孩孩也都醒着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068734984379355360",
+        "created_at": "2026-06-21T17:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068747017036382421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991078964958461952",
+              "start": 0,
+              "username": "xioyu66666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068747017036382421",
+        "in_reply_to_user_id": "1991078964958461952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068743571658703090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioyu66666 而且京京孩孩也都醒着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991078964958461952",
+        "conversation_id": "2068734984379355360",
+        "created_at": "2026-06-21T17:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068743571658703090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068743571658703090",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068734984379355360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 就是今天，真不同意了😭这niko真强啊，真他么强啊😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14961,
+          "following_count": 2182,
+          "like_count": 6762,
+          "listed_count": 26,
+          "media_count": 2098,
+          "tweet_count": 3529
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T09:40:01.000Z",
+        "description": "坚持一个中国原则.",
+        "id": "1991078964958461952",
+        "name": "小宇，梦想哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991193774576529409/ffseg3b7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 51,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "xioyu66666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067966004001648640"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067966017654100069",
+    "created_at": "2026-06-19T13:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067966017654100069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/78ugC7IjUN",
+          "end": 28,
+          "expanded_url": "https://x.com/youy1qwq/status/2067966017654100069/photo/1",
+          "media_key": "3_2067966004001648640",
+          "start": 5,
+          "url": "https://t.co/78ugC7IjUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067966017654100069",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/78ugC7IjUN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2027,
+        "media_key": "3_2067966004001648640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLkH8QaMAA9RuL.jpg",
+        "width": 1051
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067966004001648640"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T13:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067966017654100069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78ugC7IjUN",
+              "end": 28,
+              "expanded_url": "https://x.com/youy1qwq/status/2067966017654100069/photo/1",
+              "media_key": "3_2067966004001648640",
+              "start": 5,
+              "url": "https://t.co/78ugC7IjUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067966017654100069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/78ugC7IjUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14791,
+          "following_count": 2154,
+          "like_count": 6358,
+          "listed_count": 26,
+          "media_count": 2081,
+          "tweet_count": 3421
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

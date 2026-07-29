@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019949215741522335",
+    "created_at": "2026-02-07T03:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019974262619312269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1480429085986029568",
+          "start": 0,
+          "username": "wpz_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019974262619312269",
+    "in_reply_to_user_id": "1480429085986029568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019949215741522335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wpz_666 一起蓝v互关，包回关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2019949201514549248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhNGLyb0AA4GAE.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019949215741522335",
+        "created_at": "2026-02-07T03:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019974262619312269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1480429085986029568",
+              "start": 0,
+              "username": "wpz_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019974262619312269",
+        "in_reply_to_user_id": "1480429085986029568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019949215741522335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wpz_666 一起蓝v互关，包回关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019949201514549248"
+          ]
+        },
+        "author_id": "1480429085986029568",
+        "conversation_id": "2019949215741522335",
+        "created_at": "2026-02-07T01:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019949215741522335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/50ivUeCgOf",
+              "end": 113,
+              "expanded_url": "https://x.com/wpz_666/status/2019949215741522335/photo/1",
+              "media_key": "3_2019949201514549248",
+              "start": 90,
+              "url": "https://t.co/50ivUeCgOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019949215741522335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢家人们的关注🫶🏻\n\n已经在很努力回关啦，着急的帖子留言踢我一下，不着急的等我 都会陆续回关。\n\n再次表示感谢❤️‍🔥\n粉丝到2千，抽10个20u红包🧧\n#蓝v互关 #蓝v互关 https://t.co/50ivUeCgOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 680,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 362
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-10T06:39:52.000Z",
+        "description": "深耕各类投资分析，美股，加密，贵金属。主研价格行为学Price Action. 职业律师，欢迎一起交流分享。多多学习。🤞",
+        "id": "1480429085986029568",
+        "name": "Hao🤞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891847853842235392/wVJE0wY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1072
+        },
+        "username": "wpz_666",
+        "verified": true
+      }
+    ]
+  }
+}

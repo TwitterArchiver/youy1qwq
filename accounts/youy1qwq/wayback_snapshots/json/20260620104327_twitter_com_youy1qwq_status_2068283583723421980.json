@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068283576416903169"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068283583723421980",
+    "created_at": "2026-06-20T10:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068283583723421980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/90ThvC4KBU",
+          "end": 30,
+          "expanded_url": "https://x.com/youy1qwq/status/2068283583723421980/photo/1",
+          "media_key": "3_2068283576416903169",
+          "start": 7,
+          "url": "https://t.co/90ThvC4KBU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068283583723421980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我投机取巧： https://t.co/90ThvC4KBU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1161,
+        "media_key": "3_2068283576416903169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQE9FsaoAEYdXE.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068283576416903169"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068283583723421980",
+        "created_at": "2026-06-20T10:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068283583723421980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90ThvC4KBU",
+              "end": 30,
+              "expanded_url": "https://x.com/youy1qwq/status/2068283583723421980/photo/1",
+              "media_key": "3_2068283576416903169",
+              "start": 7,
+              "url": "https://t.co/90ThvC4KBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068283583723421980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我投机取巧： https://t.co/90ThvC4KBU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14831,
+          "following_count": 2158,
+          "like_count": 6460,
+          "listed_count": 27,
+          "media_count": 2086,
+          "tweet_count": 3461
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

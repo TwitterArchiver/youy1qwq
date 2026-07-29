@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2059554296451219889",
+    "created_at": "2026-05-27T09:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059565851314131037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1957772481370157058",
+          "start": 0,
+          "username": "Mengmengeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059565851314131037",
+    "in_reply_to_user_id": "1957772481370157058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059554296451219889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mengmengeth 怎么不回关我😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2059554296451219889",
+        "created_at": "2026-05-27T09:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059565851314131037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1957772481370157058",
+              "start": 0,
+              "username": "Mengmengeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059565851314131037",
+        "in_reply_to_user_id": "1957772481370157058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059554296451219889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mengmengeth 怎么不回关我😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957772481370157058",
+        "conversation_id": "2059554296451219889",
+        "created_at": "2026-05-27T08:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059554296451219889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059554296451219889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 450,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近这一段时间，中文圈最火的应该就是：蓝v互关了。\n\n前一段时间火过一次，现在似乎又火起来了。\n\n目前来看，国人圈子小，话语权不高，抱团其实还是挺有必要的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13724,
+          "following_count": 1949,
+          "like_count": 4292,
+          "listed_count": 22,
+          "media_count": 1870,
+          "tweet_count": 2433
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-19T11:51:54.000Z",
+        "description": "Meme/山寨币女猎手🎣加密市场情绪稳定剂💃全能型选手 #BNB #binance 精通长短线交易 合作TG：https://t.co/TJjPSJmygs 顺势而为，精准布局 #okb #sol",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 28,
+                "tag": "BNB"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "binance"
+              },
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "okb"
+              },
+              {
+                "end": 98,
+                "start": 94,
+                "tag": "sol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Mengmengeth",
+                "end": 78,
+                "expanded_url": "https://t.me/Mengmengeth",
+                "start": 55,
+                "url": "https://t.co/TJjPSJmygs"
+              }
+            ]
+          }
+        },
+        "id": "1957772481370157058",
+        "name": "Crypto Cocoa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050197332457820160/vZ9iC6CW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7742,
+          "following_count": 3873,
+          "like_count": 17254,
+          "listed_count": 11,
+          "media_count": 194,
+          "tweet_count": 14495
+        },
+        "username": "Mengmengeth",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2071911517247967670",
+    "created_at": "2026-07-01T06:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072210854767169599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061546341248200704",
+          "start": 0,
+          "username": "DDD_0302_1929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072210854767169599",
+    "in_reply_to_user_id": "2061546341248200704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072085589109944769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDD_0302_1929 不许骂人！赶紧道歉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2071911517247967670",
+        "created_at": "2026-07-01T06:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072210854767169599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061546341248200704",
+              "start": 0,
+              "username": "DDD_0302_1929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072210854767169599",
+        "in_reply_to_user_id": "2061546341248200704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072085589109944769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDD_0302_1929 不许骂人！赶紧道歉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061546341248200704",
+        "conversation_id": "2071911517247967670",
+        "created_at": "2026-06-30T22:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072085589109944769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072085589109944769",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071911517247967670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 确实，但是那个AI声音好好笑，像个傻子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15451,
+          "following_count": 2274,
+          "like_count": 7744,
+          "listed_count": 28,
+          "media_count": 2164,
+          "tweet_count": 3765
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T20:37:54.000Z",
+        "description": "一名每日都在进步的初中生！\n我是女孩子啦，很温良的！请和我成为朋友吧!拜托了，我真的很想要朋友！",
+        "id": "2061546341248200704",
+        "location": "瓦尔登湖酒吧",
+        "name": "DDD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062356461045620736/OSDxXvu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "DDD_0302_1929",
+        "verified": false
+      }
+    ]
+  }
+}

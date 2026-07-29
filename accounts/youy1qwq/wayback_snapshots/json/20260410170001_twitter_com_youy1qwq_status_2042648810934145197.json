@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042529744835506176"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042648810934145197",
+    "created_at": "2026-04-10T17:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042648810934145197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKL5lNFGaN",
+          "end": 34,
+          "expanded_url": "https://x.com/youy1qwq/status/2042648810934145197/photo/1",
+          "media_key": "3_2042529744835506176",
+          "start": 11,
+          "url": "https://t.co/uKL5lNFGaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042648810934145197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么要追踪这个啊😭 https://t.co/uKL5lNFGaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042529744835506176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiF-ywW8AA2pTF.jpg",
+        "width": 245
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042529744835506176"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042648810934145197",
+        "created_at": "2026-04-10T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042648810934145197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKL5lNFGaN",
+              "end": 34,
+              "expanded_url": "https://x.com/youy1qwq/status/2042648810934145197/photo/1",
+              "media_key": "3_2042529744835506176",
+              "start": 11,
+              "url": "https://t.co/uKL5lNFGaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042648810934145197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要追踪这个啊😭 https://t.co/uKL5lNFGaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9986,
+          "following_count": 1512,
+          "like_count": 3620,
+          "listed_count": 13,
+          "media_count": 1307,
+          "tweet_count": 1746
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

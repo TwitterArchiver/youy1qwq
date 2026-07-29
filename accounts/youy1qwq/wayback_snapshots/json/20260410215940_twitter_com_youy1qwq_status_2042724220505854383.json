@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2042407218666934496",
+    "created_at": "2026-04-10T21:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T22:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042724220505854383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931954058618896384",
+          "start": 0,
+          "username": "Yue1949101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042724220505854383",
+    "in_reply_to_user_id": "1931954058618896384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042426310967115976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yue1949101 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_2042426301110464512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgn5k2asAAv_X_.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042407218666934496",
+        "created_at": "2026-04-10T21:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042724220505854383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931954058618896384",
+              "start": 0,
+              "username": "Yue1949101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042724220505854383",
+        "in_reply_to_user_id": "1931954058618896384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042426310967115976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yue1949101 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042426301110464512"
+          ]
+        },
+        "author_id": "1931954058618896384",
+        "conversation_id": "2042407218666934496",
+        "created_at": "2026-04-10T02:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042426310967115976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwyiZ7NWcu",
+              "end": 48,
+              "expanded_url": "https://x.com/Yue1949101/status/2042426310967115976/photo/1",
+              "media_key": "3_2042426301110464512",
+              "start": 25,
+              "url": "https://t.co/kwyiZ7NWcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042426310967115976",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042407218666934496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 不行了，我继续往墙里搬你了。 https://t.co/kwyiZ7NWcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9987,
+          "following_count": 1513,
+          "like_count": 3640,
+          "listed_count": 14,
+          "media_count": 1310,
+          "tweet_count": 1762
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-09T05:58:51.000Z",
+        "description": "06|手欠|傻笑型|06|家长不管|讨厌家长|大学躺平|就读大二| fps玩家|历史策略性游戏|我不明白|三角洲行动|沙子比玩意儿|Kards丨\n（小众画师，暂不接稿）",
+        "id": "1931954058618896384",
+        "name": "芙狨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988528991905763328/VVyhGo9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 264,
+          "like_count": 2826,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 175
+        },
+        "username": "Yue1949101",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2054367447747092770",
+    "created_at": "2026-05-13T06:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054445025505792498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4638046616",
+          "start": 0,
+          "username": "Abyssssssea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054445025505792498",
+    "in_reply_to_user_id": "4638046616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054423950017626277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abyssssssea 来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2054367447747092770",
+        "created_at": "2026-05-13T06:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054445025505792498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4638046616",
+              "start": 0,
+              "username": "Abyssssssea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054445025505792498",
+        "in_reply_to_user_id": "4638046616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054423950017626277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abyssssssea 来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4638046616",
+        "conversation_id": "2054367447747092770",
+        "created_at": "2026-05-13T04:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054423950017626277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054423950017626277",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054367447747092770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我直接借楼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12982,
+          "following_count": 1791,
+          "like_count": 4120,
+          "listed_count": 21,
+          "media_count": 1736,
+          "tweet_count": 2252
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-23T15:48:39.000Z",
+        "description": "Full-Stack Engineer｜ETH｜NFT｜DeFi｜GameFi｜Smart contract ｜Blockchain \n\n成也AI，败也AI",
+        "id": "4638046616",
+        "location": "Beijing",
+        "name": "Abyssssssea",
+        "pinned_tweet_id": "1496144842866499590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664607154320572423/zP2fLrXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 366,
+          "like_count": 205,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 439
+        },
+        "username": "Abyssssssea",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2058521642998071484",
+    "created_at": "2026-05-25T04:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058767673191023037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969310423322411010",
+          "start": 0,
+          "username": "XiaoTian258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058767673191023037",
+    "in_reply_to_user_id": "1969310423322411010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058521642998071484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoTian258 来互关呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2058521575964696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFWd4HaYAAK4I8.png",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2058521642998071484",
+        "created_at": "2026-05-25T04:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058767673191023037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969310423322411010",
+              "start": 0,
+              "username": "XiaoTian258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058767673191023037",
+        "in_reply_to_user_id": "1969310423322411010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058521642998071484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoTian258 来互关呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058521575964696576"
+          ]
+        },
+        "author_id": "1969310423322411010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058521642998071484",
+        "created_at": "2026-05-24T12:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058521642998071484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEcyQkOueI",
+              "end": 44,
+              "expanded_url": "https://x.com/XiaoTian258/status/2058521642998071484/photo/1",
+              "media_key": "3_2058521575964696576",
+              "start": 21,
+              "url": "https://t.co/HEcyQkOueI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058521642998071484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1382,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还差8个 推u们祝我破鼎呀! \n感谢捏! https://t.co/HEcyQkOueI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13493,
+          "following_count": 1889,
+          "like_count": 4255,
+          "listed_count": 21,
+          "media_count": 1848,
+          "tweet_count": 2393
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T07:59:37.000Z",
+        "description": "大四计算机系在读,  探索AI/金融/Web3. \n之余简单分享一下生活~~\n我们都有美好的明天~",
+        "id": "1969310423322411010",
+        "name": "Aione",
+        "pinned_tweet_id": "2056677748421390846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032045985778843649/b-9yv0gA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 328,
+          "like_count": 2819,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1886
+        },
+        "username": "XiaoTian258",
+        "verified": true
+      }
+    ]
+  }
+}

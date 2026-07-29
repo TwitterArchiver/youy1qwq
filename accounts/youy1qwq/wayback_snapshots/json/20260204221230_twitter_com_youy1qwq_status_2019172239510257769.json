@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018633062154989839",
+    "created_at": "2026-02-04T22:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T23:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019172239510257769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913156900306264064",
+          "start": 0,
+          "username": "Ririkayric0407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019172239510257769",
+    "in_reply_to_user_id": "1913156900306264064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019162238070976648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririkayric0407 多玩我的世界盒子里好像也有过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018633062154989839",
+        "created_at": "2026-02-04T22:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T23:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019172239510257769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913156900306264064",
+              "start": 0,
+              "username": "Ririkayric0407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019172239510257769",
+        "in_reply_to_user_id": "1913156900306264064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019162238070976648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririkayric0407 多玩我的世界盒子里好像也有过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913156900306264064",
+        "conversation_id": "2018633062154989839",
+        "created_at": "2026-02-04T21:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T22:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019162238070976648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019162238070976648",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018633062154989839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 他们这种都适用什么代码合成的吧 我记得我小学整过那种别人的头像照片好像就是输什么代码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 237,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 162
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T09:06:12.000Z",
+        "description": "我是小可呀！女孩子们互关起来｜擦边纯爱好｜🚪52 给的越多我越喜欢你谢谢｜精神分裂女鬼求善待｜173 50kg｜脾气很差的社会闲散人员一位呀",
+        "id": "1913156900306264064",
+        "name": "可儿这个萌",
+        "pinned_tweet_id": "2016855942126805442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017695635965878272/E279NCly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 34,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 567
+        },
+        "username": "Ririkayric0407",
+        "verified": false
+      }
+    ]
+  }
+}

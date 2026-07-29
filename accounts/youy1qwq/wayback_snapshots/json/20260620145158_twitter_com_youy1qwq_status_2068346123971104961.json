@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2068336499255542106",
+    "created_at": "2026-06-20T14:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068346123971104961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007771078769455105",
+          "start": 0,
+          "username": "MineAnywhere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068346123971104961",
+    "in_reply_to_user_id": "2007771078769455105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068336499255542106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MineAnywhere 加油呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2068336499255542106",
+        "created_at": "2026-06-20T14:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068346123971104961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007771078769455105",
+              "start": 0,
+              "username": "MineAnywhere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068346123971104961",
+        "in_reply_to_user_id": "2007771078769455105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068336499255542106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MineAnywhere 加油呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007771078769455105",
+        "conversation_id": "2068336499255542106",
+        "created_at": "2026-06-20T14:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068336499255542106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068336499255542106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淦 新号不互fo 真的没曝光啊\n\n就偷懒了一天 直接从三位数掉回两位数了\n\n有没有友友 长期互动的 \n\n转帖的权重很高 其次是留言 最后才是点赞 \n\n想找10个人 每天互动 私信我 稳定的\n\n曝光应该很快就上去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14847,
+          "following_count": 2161,
+          "like_count": 6516,
+          "listed_count": 27,
+          "media_count": 2090,
+          "tweet_count": 3476
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-04T11:08:34.000Z",
+        "description": "卖了就涨,买了就跌.\n Once you sell, it moons; once you buy, it tanks.\n High T, Low Ego | Legendary Trader  | Anti-Dopamine",
+        "id": "2007771078769455105",
+        "location": "TheMoon",
+        "name": "四处挖矿",
+        "pinned_tweet_id": "2068336499255542106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007791263580626944/tCW_HoIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 649,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 2330
+        },
+        "url": "",
+        "username": "MineAnywhere",
+        "verified": true
+      }
+    ]
+  }
+}

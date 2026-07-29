@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2032590300670050430",
+    "created_at": "2026-03-14T04:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T05:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032683057992388795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1236478963368841216",
+          "start": 0,
+          "username": "function_louis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032683057992388795",
+    "in_reply_to_user_id": "1236478963368841216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032635674831274483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@function_louis 67"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2032590300670050430",
+        "created_at": "2026-03-14T04:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032683057992388795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1236478963368841216",
+              "start": 0,
+              "username": "function_louis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032683057992388795",
+        "in_reply_to_user_id": "1236478963368841216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032635674831274483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@function_louis 67"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236478963368841216",
+        "conversation_id": "2032590300670050430",
+        "created_at": "2026-03-14T01:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T02:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032635674831274483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032635674831274483",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032590300670050430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 现在国内外的梗都变得没有逻辑了，国内就是纯抽象，比如最近那个大笑奶龙啥的，国外就是brain rot memes。算不算一种达达主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7065,
+          "following_count": 1287,
+          "like_count": 3069,
+          "listed_count": 9,
+          "media_count": 846,
+          "tweet_count": 1258
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T02:28:59.000Z",
+        "description": "统计，金融，爱睡觉 (小渔村流浪中)",
+        "id": "1236478963368841216",
+        "location": "渔村特别行政区",
+        "name": "好困",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876998760154435584/EbpWydco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 810,
+          "like_count": 9568,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1662
+        },
+        "username": "function_louis",
+        "verified": false
+      }
+    ]
+  }
+}

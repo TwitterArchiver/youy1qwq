@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067921675371602278",
+    "created_at": "2026-06-19T11:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067934272280031559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1878261381834883073",
+          "start": 0,
+          "username": "parler999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067934272280031559",
+    "in_reply_to_user_id": "1878261381834883073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067923534421373119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@parler999 可惜失败了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067921675371602278",
+        "created_at": "2026-06-19T11:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067934272280031559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1878261381834883073",
+              "start": 0,
+              "username": "parler999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067934272280031559",
+        "in_reply_to_user_id": "1878261381834883073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067923534421373119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@parler999 可惜失败了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878261381834883073",
+        "conversation_id": "2067921675371602278",
+        "created_at": "2026-06-19T10:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067923534421373119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067923534421373119",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067921675371602278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 看着像是对暗号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14790,
+          "following_count": 2154,
+          "like_count": 6354,
+          "listed_count": 26,
+          "media_count": 2080,
+          "tweet_count": 3416
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-12T02:03:14.000Z",
+        "description": "留言多过发帖 理财多过键政 为5M浏览量奋斗",
+        "id": "1878261381834883073",
+        "name": "hiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878261555453980672/7PFLQK0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 3719,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1040
+        },
+        "url": "",
+        "username": "parler999",
+        "verified": true
+      }
+    ]
+  }
+}

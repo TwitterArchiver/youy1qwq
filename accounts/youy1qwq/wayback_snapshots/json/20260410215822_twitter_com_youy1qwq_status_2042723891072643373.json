@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2042472418489299093",
+    "created_at": "2026-04-10T21:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T22:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042723891072643373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952435985347956736",
+          "start": 0,
+          "username": "Zhang_ming_qing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042723891072643373",
+    "in_reply_to_user_id": "1952435985347956736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042662179770634746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhang_ming_qing 是的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042472418489299093",
+        "created_at": "2026-04-10T21:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042723891072643373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952435985347956736",
+              "start": 0,
+              "username": "Zhang_ming_qing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042723891072643373",
+        "in_reply_to_user_id": "1952435985347956736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042662179770634746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhang_ming_qing 是的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952435985347956736",
+        "conversation_id": "2042472418489299093",
+        "created_at": "2026-04-10T17:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042662179770634746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042662179770634746",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042472418489299093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 真的和鬼故事一样，看得我san值狂掉，一种莫名的压抑积压在心头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9987,
+          "following_count": 1513,
+          "like_count": 3635,
+          "listed_count": 14,
+          "media_count": 1310,
+          "tweet_count": 1759
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T18:26:40.000Z",
+        "description": "温和的自由派。对任何事任何人保持相对客观。我的态度取决于你的态度，欢迎友好交流讨论，不主动骂人，但是如果你骂我我会骂的更狠。",
+        "id": "1952435985347956736",
+        "location": "中華民國上海市",
+        "name": "紀小念Official🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030150911650402304/WbUuZXq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 105,
+          "like_count": 8048,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1933
+        },
+        "username": "Zhang_ming_qing",
+        "verified": false
+      }
+    ]
+  }
+}

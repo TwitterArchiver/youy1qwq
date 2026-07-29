@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065784630054392089",
+    "created_at": "2026-06-14T04:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066013006035816928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1894213547535818752",
+          "start": 0,
+          "username": "JJJJJJJJanet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066013006035816928",
+    "in_reply_to_user_id": "1894213547535818752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065972394188308891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JJJJJJJJanet 目前应该还是双向暗恋阶段"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065784630054392089",
+        "created_at": "2026-06-14T04:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066013006035816928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1894213547535818752",
+              "start": 0,
+              "username": "JJJJJJJJanet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066013006035816928",
+        "in_reply_to_user_id": "1894213547535818752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065972394188308891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JJJJJJJJanet 目前应该还是双向暗恋阶段"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894213547535818752",
+        "conversation_id": "2065784630054392089",
+        "created_at": "2026-06-14T01:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065972394188308891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065972394188308891",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2273,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065784630054392089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 有一种淡淡的地狱笑话感……如果我有男朋友这样我倒真不会生气因为太好笑了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14606,
+          "following_count": 2115,
+          "like_count": 5837,
+          "listed_count": 24,
+          "media_count": 2045,
+          "tweet_count": 3035
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T02:31:26.000Z",
+        "description": "中文\n男主嬷。BL＞其他\nall27│御沢│🫐🍊│和泉守兼定全肯定",
+        "id": "1894213547535818752",
+        "name": "JJJanet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049565638289666048/TmQAeeOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 199,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 104
+        },
+        "username": "JJJJJJJJanet",
+        "verified": false
+      }
+    ]
+  }
+}

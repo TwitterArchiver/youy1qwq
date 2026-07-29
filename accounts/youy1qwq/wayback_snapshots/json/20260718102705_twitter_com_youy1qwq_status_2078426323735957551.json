@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078426314168774656"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2078426323735957551",
+    "created_at": "2026-07-18T10:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078426323735957551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l2lJQcmvnE",
+          "end": 45,
+          "expanded_url": "https://x.com/youy1qwq/status/2078426323735957551/photo/1",
+          "media_key": "3_2078426314168774656",
+          "start": 22,
+          "url": "https://t.co/l2lJQcmvnE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078426323735957551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉外面的厕所真的好脏只有回家才能彻底舒服 https://t.co/l2lJQcmvnE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2078426314168774656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgNuIPasAAtDz3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078426314168774656"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2078426323735957551",
+        "created_at": "2026-07-18T10:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078426323735957551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2lJQcmvnE",
+              "end": 45,
+              "expanded_url": "https://x.com/youy1qwq/status/2078426323735957551/photo/1",
+              "media_key": "3_2078426314168774656",
+              "start": 22,
+              "url": "https://t.co/l2lJQcmvnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078426323735957551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉外面的厕所真的好脏只有回家才能彻底舒服 https://t.co/l2lJQcmvnE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16465,
+          "following_count": 2776,
+          "like_count": 7963,
+          "listed_count": 27,
+          "media_count": 2232,
+          "tweet_count": 3860
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

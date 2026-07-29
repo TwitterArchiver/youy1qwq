@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2066573932615041450",
+    "created_at": "2026-06-16T07:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066781300883894550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1545993012987461632",
+          "start": 0,
+          "username": "cctpboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066781300883894550",
+    "in_reply_to_user_id": "1545993012987461632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066760422074761558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cctpboy 对的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T07:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066781300883894550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1545993012987461632",
+              "start": 0,
+              "username": "cctpboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066781300883894550",
+        "in_reply_to_user_id": "1545993012987461632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066760422074761558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cctpboy 对的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545993012987461632",
+        "conversation_id": "2066573932615041450",
+        "created_at": "2026-06-16T05:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066760422074761558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066760422074761558",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573932615041450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq were"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14707,
+          "following_count": 2127,
+          "like_count": 6053,
+          "listed_count": 25,
+          "media_count": 2062,
+          "tweet_count": 3176
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-10T04:47:25.000Z",
+        "description": "2007.02/男孩子/infp/爱好乱七八糟/文科生/物之不齐，物之情也/不会写简介/ bi + finsexual(?)/欢迎私信www/中文、English、日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/noche098",
+                "end": 23,
+                "expanded_url": "https://t.me/noche098",
+                "start": 0,
+                "url": "https://t.co/8SRUZbWcg7"
+              }
+            ]
+          }
+        },
+        "id": "1545993012987461632",
+        "location": "Yokohama",
+        "name": "Noche",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034643062429974529/2Ql_xgB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 251,
+          "like_count": 1365,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1975
+        },
+        "url": "https://t.co/8SRUZbWcg7",
+        "username": "cctpboy",
+        "verified": false
+      }
+    ]
+  }
+}

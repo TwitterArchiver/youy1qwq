@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065081519333675475",
+    "created_at": "2026-06-12T03:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065268228033761551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872189816311578624",
+          "start": 0,
+          "username": "Cirnobakacn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065268228033761551",
+    "in_reply_to_user_id": "1872189816311578624",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065251641969045899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cirnobakacn qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065081519333675475",
+        "created_at": "2026-06-12T03:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065268228033761551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872189816311578624",
+              "start": 0,
+              "username": "Cirnobakacn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065268228033761551",
+        "in_reply_to_user_id": "1872189816311578624",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065251641969045899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cirnobakacn qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872189816311578624",
+        "conversation_id": "2065081519333675475",
+        "created_at": "2026-06-12T01:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065251641969045899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065251641969045899",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065081519333675475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 老大老大，我们这样真的会有人fo吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14387,
+          "following_count": 2088,
+          "like_count": 5374,
+          "listed_count": 24,
+          "media_count": 2030,
+          "tweet_count": 2891
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T07:58:03.000Z",
+        "description": "一只普通的路过的冰精。\n不正经的什么都会学一些的社会学爱好者。符号学生物政治学学习中。河殇派，宪政派，拉康系结构主义，不完全德里达系解构主义\n如果我们因为害怕而牺牲自己的价值观，那就说明我们其实并没有那么在乎这些价值观。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jinshu64",
+                "end": 23,
+                "expanded_url": "http://t.me/jinshu64",
+                "start": 0,
+                "url": "https://t.co/g4IEsjKoDX"
+              }
+            ]
+          }
+        },
+        "id": "1872189816311578624",
+        "location": "雾之湖",
+        "name": "Laurentino Deschenes",
+        "pinned_tweet_id": "2059640584244195569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057268302695854080/MifUlYC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 32,
+          "like_count": 1185,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 2452
+        },
+        "url": "https://t.co/g4IEsjKoDX",
+        "username": "Cirnobakacn",
+        "verified": false
+      }
+    ]
+  }
+}

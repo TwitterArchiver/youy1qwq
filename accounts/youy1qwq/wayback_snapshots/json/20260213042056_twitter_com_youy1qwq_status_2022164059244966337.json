@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2021887000408993985",
+    "created_at": "2026-02-13T04:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022164059244966337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1641815435866951681",
+          "start": 0,
+          "username": "ShadowlessMoonR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022164059244966337",
+    "in_reply_to_user_id": "1641815435866951681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021942082395672702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShadowlessMoonR 我假期呢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2021887000408993985",
+        "created_at": "2026-02-13T04:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022164059244966337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1641815435866951681",
+              "start": 0,
+              "username": "ShadowlessMoonR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022164059244966337",
+        "in_reply_to_user_id": "1641815435866951681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021942082395672702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShadowlessMoonR 我假期呢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641815435866951681",
+        "conversation_id": "2021887000408993985",
+        "created_at": "2026-02-12T13:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021942082395672702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021942082395672702",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021887000408993985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我就這樣(っ´ω` c)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 894,
+          "like_count": 2213,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 628
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T14:51:53.000Z",
+        "description": "本帳號包含 R-18 創作，未成年請自重\n自介：夢想是漫畫家的土木工程系學生\n綽號：小影/阿影\n興趣：繪畫(連人體都畫不好的廢渣一枚)、小說(偶爾會寫小黃文，不給你看)、Vtuber(目前主推弎陸蒂、貓羽喵喵)\n我拿到丙級測量證照啦！ヾ(*´∀ ˋ*)ﾉ\n裡世界傳送門： @LightMoon642106",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "LightMoon642106"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113005552",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/113005552",
+                "start": 0,
+                "url": "https://t.co/ORWxjjbGgy"
+              }
+            ]
+          }
+        },
+        "id": "1641815435866951681",
+        "location": "Kaohsiung City, Taiwan",
+        "name": "ShadowMoon名為影月",
+        "pinned_tweet_id": "2021206312139489589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874377574123802624/wAawe_1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 3386,
+          "like_count": 422293,
+          "listed_count": 11,
+          "media_count": 3188,
+          "tweet_count": 17945
+        },
+        "url": "https://t.co/ORWxjjbGgy",
+        "username": "ShadowlessMoonR",
+        "verified": false
+      }
+    ]
+  }
+}

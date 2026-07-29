@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-25T02:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069967587040174519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725408072213082112",
+          "start": 0,
+          "username": "miccce2334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069967587040174519",
+    "in_reply_to_user_id": "1725408072213082112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069935604276900077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miccce2334 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-25T02:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069967587040174519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725408072213082112",
+              "start": 0,
+              "username": "miccce2334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069967587040174519",
+        "in_reply_to_user_id": "1725408072213082112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069935604276900077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miccce2334 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725408072213082112",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-25T00:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069935604276900077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069935604276900077",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 老大你这么好看😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15085,
+          "following_count": 2211,
+          "like_count": 7135,
+          "listed_count": 28,
+          "media_count": 2116,
+          "tweet_count": 3664
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-17T06:59:09.000Z",
+        "description": "一枚の紙ネズミ",
+        "id": "1725408072213082112",
+        "location": "幻想乡",
+        "name": "一紙耗子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752956976227811328/CL77Ib_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 105,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "miccce2334",
+        "verified": false
+      }
+    ]
+  }
+}

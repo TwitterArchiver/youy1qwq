@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019950957967339687",
+    "created_at": "2026-02-07T01:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019953702254317849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1524055739601350657",
+          "start": 0,
+          "username": "CryptoWei2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019953702254317849",
+    "in_reply_to_user_id": "1524055739601350657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019950957967339687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryptoWei2 一起蓝v互关，包回关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019950957967339687",
+        "created_at": "2026-02-07T01:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019953702254317849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1524055739601350657",
+              "start": 0,
+              "username": "CryptoWei2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019953702254317849",
+        "in_reply_to_user_id": "1524055739601350657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019950957967339687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoWei2 一起蓝v互关，包回关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524055739601350657",
+        "conversation_id": "2019950957967339687",
+        "created_at": "2026-02-07T01:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019950957967339687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019950957967339687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GM，#蓝V互关 第15天！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 667,
+          "like_count": 1276,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 356
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-10T15:56:35.000Z",
+        "description": "前富士康首席打螺丝 10年老菜鸟,6年业余套利选手 专注对冲套利 & 撸毛 随性发套利记录,不推荐任何工具",
+        "id": "1524055739601350657",
+        "location": "成都",
+        "name": "老菜鸟学套利 OKB",
+        "pinned_tweet_id": "1986345968296730835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976237466773487623/mWmaWDP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 2155,
+          "like_count": 76,
+          "listed_count": 21,
+          "media_count": 41,
+          "tweet_count": 327
+        },
+        "username": "CryptoWei2",
+        "verified": true
+      }
+    ]
+  }
+}

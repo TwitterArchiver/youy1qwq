@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2059297672272691258",
+    "created_at": "2026-05-27T09:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059566243460587943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006392070827876352",
+          "start": 0,
+          "username": "lljump666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059566243460587943",
+    "in_reply_to_user_id": "2006392070827876352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059297672272691258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lljump666 互关吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 252,
+        "media_key": "3_2059297666010615808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQYUQ1akAAvJPC.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2059297672272691258",
+        "created_at": "2026-05-27T09:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059566243460587943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006392070827876352",
+              "start": 0,
+              "username": "lljump666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059566243460587943",
+        "in_reply_to_user_id": "2006392070827876352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059297672272691258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lljump666 互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059297666010615808"
+          ]
+        },
+        "author_id": "2006392070827876352",
+        "conversation_id": "2059297672272691258",
+        "created_at": "2026-05-26T15:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059297672272691258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZITzFKBBY",
+              "end": 63,
+              "expanded_url": "https://x.com/lljump666/status/2059297672272691258/photo/1",
+              "media_key": "3_2059297666010615808",
+              "start": 40,
+              "url": "https://t.co/OZITzFKBBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059297672272691258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bed time😴\nLove all my folks😘\n明天继续\n#蓝v互关 https://t.co/OZITzFKBBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13726,
+          "following_count": 1957,
+          "like_count": 4299,
+          "listed_count": 22,
+          "media_count": 1870,
+          "tweet_count": 2441
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-31T15:48:50.000Z",
+        "description": "时政观察者有意思的时政帖会和大家分享\n偶尔分享日常｜ 永久FO",
+        "id": "2006392070827876352",
+        "name": "Mag1c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043615789388124160/oCL9ZFS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 536,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 463
+        },
+        "username": "lljump666",
+        "verified": true
+      }
+    ]
+  }
+}

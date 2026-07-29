@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079730327803900072",
+    "created_at": "2026-07-22T14:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079938873673867671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1845234359932157953",
+          "start": 0,
+          "username": "BNB776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079938873673867671",
+    "in_reply_to_user_id": "1845234359932157953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079730327803900072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BNB776 一起哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2079730321361432576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyvtVlbcAA4n-d.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079730327803900072",
+        "created_at": "2026-07-22T14:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079938873673867671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1845234359932157953",
+              "start": 0,
+              "username": "BNB776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079938873673867671",
+        "in_reply_to_user_id": "1845234359932157953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079730327803900072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BNB776 一起哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079730321361432576"
+          ]
+        },
+        "author_id": "1845234359932157953",
+        "conversation_id": "2079730327803900072",
+        "created_at": "2026-07-22T00:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079730327803900072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ux8fuqqYdn",
+              "end": 57,
+              "expanded_url": "https://x.com/BNB776/status/2079730327803900072/photo/1",
+              "media_key": "3_2079730321361432576",
+              "start": 34,
+              "url": "https://t.co/Ux8fuqqYdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079730327803900072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彼此见证，成长才有重量。 继续分享你的所知。 集体，我们保持纪律。 https://t.co/Ux8fuqqYdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16606,
+          "following_count": 2858,
+          "like_count": 8059,
+          "listed_count": 28,
+          "media_count": 2266,
+          "tweet_count": 3921
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T22:45:53.000Z",
+        "description": "大哥们一起互关吧",
+        "id": "1845234359932157953",
+        "name": "eth Ming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072385559704829952/WsByba5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 2986,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3991
+        },
+        "url": "",
+        "username": "BNB776",
+        "verified": true
+      }
+    ]
+  }
+}

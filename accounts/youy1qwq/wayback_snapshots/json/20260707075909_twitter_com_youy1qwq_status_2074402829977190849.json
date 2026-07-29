@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074402822704218112"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2074402829977190849",
+    "created_at": "2026-07-07T07:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074402829977190849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x7kwMOtCvP",
+          "end": 33,
+          "expanded_url": "https://x.com/youy1qwq/status/2074402829977190849/photo/1",
+          "media_key": "3_2074402822704218112",
+          "start": 10,
+          "url": "https://t.co/x7kwMOtCvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074402829977190849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已婚·读读新霉快乐 https://t.co/x7kwMOtCvP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 493,
+        "media_key": "3_2074402822704218112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnCYGhaQAAmA2U.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074402822704218112"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2074402829977190849",
+        "created_at": "2026-07-07T07:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074402829977190849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7kwMOtCvP",
+              "end": 33,
+              "expanded_url": "https://x.com/youy1qwq/status/2074402829977190849/photo/1",
+              "media_key": "3_2074402822704218112",
+              "start": 10,
+              "url": "https://t.co/x7kwMOtCvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074402829977190849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已婚·读读新霉快乐 https://t.co/x7kwMOtCvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15829,
+          "following_count": 2397,
+          "like_count": 7916,
+          "listed_count": 27,
+          "media_count": 2201,
+          "tweet_count": 3830
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

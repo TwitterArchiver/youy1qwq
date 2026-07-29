@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063849155878174720"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063849165168468350",
+    "created_at": "2026-06-08T05:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063849165168468350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/umkDMUpxyM",
+          "end": 44,
+          "expanded_url": "https://x.com/youy1qwq/status/2063849165168468350/photo/1",
+          "media_key": "3_2063849155878174720",
+          "start": 21,
+          "url": "https://t.co/umkDMUpxyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063849165168468350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人家整个马都走出来了，你说终于露出马脚了 https://t.co/umkDMUpxyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2063849155878174720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRD314bwAAFN9L.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063849155878174720"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063849165168468350",
+        "created_at": "2026-06-08T05:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063849165168468350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umkDMUpxyM",
+              "end": 44,
+              "expanded_url": "https://x.com/youy1qwq/status/2063849165168468350/photo/1",
+              "media_key": "3_2063849155878174720",
+              "start": 21,
+              "url": "https://t.co/umkDMUpxyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063849165168468350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人家整个马都走出来了，你说终于露出马脚了 https://t.co/umkDMUpxyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14123,
+          "following_count": 2048,
+          "like_count": 4585,
+          "listed_count": 24,
+          "media_count": 1995,
+          "tweet_count": 2624
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

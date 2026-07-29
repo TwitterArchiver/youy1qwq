@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067966017654100069",
+    "created_at": "2026-06-19T16:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068005970186568086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974109464593903618",
+          "start": 0,
+          "username": "Trash_ich_bin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068005970186568086",
+    "in_reply_to_user_id": "1974109464593903618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068003972166844866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trash_ich_bin 啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T16:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068005970186568086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974109464593903618",
+              "start": 0,
+              "username": "Trash_ich_bin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068005970186568086",
+        "in_reply_to_user_id": "1974109464593903618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068003972166844866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trash_ich_bin 啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974109464593903618",
+        "conversation_id": "2067966017654100069",
+        "created_at": "2026-06-19T16:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068003972166844866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068003972166844866",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067966017654100069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 산러"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14796,
+          "following_count": 2154,
+          "like_count": 6378,
+          "listed_count": 26,
+          "media_count": 2082,
+          "tweet_count": 3432
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T13:49:15.000Z",
+        "description": "I love u more n more each day as time goes by. @Shayuyuyuyu0306 Ich lieb' dich sehr.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "Shayuyuyuyu0306"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "trash.com",
+                "end": 23,
+                "expanded_url": "http://www.trash.com",
+                "start": 0,
+                "url": "https://t.co/GZsvNBVldS"
+              }
+            ]
+          }
+        },
+        "id": "1974109464593903618",
+        "location": "垃圾桶",
+        "name": "一袋垃圾",
+        "pinned_tweet_id": "2019593281198534857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980699988314251264/gAIlfmkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 639,
+          "like_count": 2476,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/GZsvNBVldS",
+        "username": "Trash_ich_bin",
+        "verified": false
+      }
+    ]
+  }
+}

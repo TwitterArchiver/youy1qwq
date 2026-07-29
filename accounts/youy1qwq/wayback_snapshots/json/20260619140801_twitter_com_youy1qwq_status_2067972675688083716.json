@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2067918641279148197",
+    "created_at": "2026-06-19T14:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067972675688083716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684411421256466432",
+          "start": 0,
+          "username": "xiaomeinuya_GST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067972675688083716",
+    "in_reply_to_user_id": "1684411421256466432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067967395965341939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeinuya_GST 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2067918641279148197",
+        "created_at": "2026-06-19T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067972675688083716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684411421256466432",
+              "start": 0,
+              "username": "xiaomeinuya_GST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067972675688083716",
+        "in_reply_to_user_id": "1684411421256466432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067967395965341939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeinuya_GST 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684411421256466432",
+        "conversation_id": "2067918641279148197",
+        "created_at": "2026-06-19T13:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067967395965341939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067967395965341939",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067918641279148197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 诶不是这个大脑自动纠错怎么关掉啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14793,
+          "following_count": 2154,
+          "like_count": 6365,
+          "listed_count": 26,
+          "media_count": 2081,
+          "tweet_count": 3424
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 60kg 39码/INFP/hrt2026.02.10/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "location": "天安门",
+        "name": "顾诗钿.🍥",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 90,
+          "like_count": 18165,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1812
+        },
+        "url": "",
+        "username": "xiaomeinuya_GST",
+        "verified": false
+      }
+    ]
+  }
+}

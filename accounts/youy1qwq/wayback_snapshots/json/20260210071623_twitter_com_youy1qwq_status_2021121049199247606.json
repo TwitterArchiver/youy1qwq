@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2021119678102503479",
+    "created_at": "2026-02-10T07:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T08:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021121049199247606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001189700800000000",
+          "start": 0,
+          "username": "LeeChelsea07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021121049199247606",
+    "in_reply_to_user_id": "2001189700800000000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021119678102503479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeChelsea07 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2021119678102503479",
+        "created_at": "2026-02-10T07:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021121049199247606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001189700800000000",
+              "start": 0,
+              "username": "LeeChelsea07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021121049199247606",
+        "in_reply_to_user_id": "2001189700800000000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021119678102503479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeChelsea07 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001189700800000000",
+        "conversation_id": "2021119678102503479",
+        "created_at": "2026-02-10T07:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021119678102503479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2021018779740713470",
+              "start": 139,
+              "url": "https://t.co/CwHmPaHyCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021119678102503479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021018779740713470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候有个比赛我拿了一等奖，省赛，那是我学琴的第一年，那年我三年级。\n决赛要去香港，比赛的场地有施坦威。但是有一个报名费，老师说我是她这几个学生里唯一一个拿了一等奖的，我参加决赛的话肯定会有奖杯的。听到时我特别开心，因为我从来没拿过奖杯。\n结局是因为报名费和路费我妈不让我去。 https://t.co/CwHmPaHyCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2639,
+          "following_count": 869,
+          "like_count": 2042,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 530
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-17T07:16:53.000Z",
+        "description": "重生但不知道什么时候死亡",
+        "id": "2001189700800000000",
+        "name": "荔枝荔枝冰",
+        "pinned_tweet_id": "2011135752101642647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016214535007567876/bUAJVor0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 62,
+          "like_count": 1261,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 689
+        },
+        "username": "LeeChelsea07",
+        "verified": false
+      }
+    ]
+  }
+}

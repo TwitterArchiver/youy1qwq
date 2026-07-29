@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045400650830209024"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2045457321711608065",
+    "created_at": "2026-04-18T11:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045457321711608065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0mmG9RtVMv",
+          "end": 29,
+          "expanded_url": "https://x.com/youy1qwq/status/2045457321711608065/photo/1",
+          "media_key": "3_2045400650830209024",
+          "start": 6,
+          "url": "https://t.co/0mmG9RtVMv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045457321711608065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "古人的智慧 https://t.co/0mmG9RtVMv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2045400650830209024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGK5DhAWYAACSFl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045400650830209024"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2045457321711608065",
+        "created_at": "2026-04-18T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045457321711608065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mmG9RtVMv",
+              "end": 29,
+              "expanded_url": "https://x.com/youy1qwq/status/2045457321711608065/photo/1",
+              "media_key": "3_2045400650830209024",
+              "start": 6,
+              "url": "https://t.co/0mmG9RtVMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045457321711608065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "古人的智慧 https://t.co/0mmG9RtVMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10471,
+          "following_count": 1584,
+          "like_count": 3757,
+          "listed_count": 15,
+          "media_count": 1406,
+          "tweet_count": 1884
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019602018969763880",
+    "created_at": "2026-02-06T02:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T03:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019602197906948206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "973935307375587331",
+          "start": 0,
+          "username": "yukiricc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019602197906948206",
+    "in_reply_to_user_id": "973935307375587331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019602018969763880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiricc 哇听起来就好可爱www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019602018969763880",
+        "created_at": "2026-02-06T02:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019602197906948206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "973935307375587331",
+              "start": 0,
+              "username": "yukiricc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019602197906948206",
+        "in_reply_to_user_id": "973935307375587331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019602018969763880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiricc 哇听起来就好可爱www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973935307375587331",
+        "conversation_id": "2019602018969763880",
+        "created_at": "2026-02-06T02:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019602018969763880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2019342737431048522",
+              "start": 146,
+              "url": "https://t.co/zm3Q7EuOwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019602018969763880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019342737431048522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想起小学女同学\n她妈妈是专业搞艺术的\n当然她后来也是去了国内八大美院之一\n她手臂肩膀处就会有她妈妈帮她画的玫瑰花\n小时候情窦未开好像还喜欢过她\n不过她的个子自从小学之后就没长过(憋笑)\n一米六不到的合法萝莉\n后来去看她朋友圈里的照片总是挂着很成熟的妆容\n虽然妆容配着身高更可爱了(憋笑) https://t.co/zm3Q7EuOwK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 485,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 270
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-14T14:54:06.000Z",
+        "description": "虎式坦克｜MTF｜INFP-T｜DPD｜SDAM｜社畜｜流浪ing ｜推特人工点赞bot",
+        "id": "973935307375587331",
+        "location": "Earth",
+        "name": "Konno Yuuki",
+        "pinned_tweet_id": "1866731019988349242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808725503060422656/UzGChCv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 484,
+          "like_count": 13816,
+          "listed_count": 12,
+          "media_count": 474,
+          "tweet_count": 7851
+        },
+        "username": "yukiricc",
+        "verified": false
+      }
+    ]
+  }
+}

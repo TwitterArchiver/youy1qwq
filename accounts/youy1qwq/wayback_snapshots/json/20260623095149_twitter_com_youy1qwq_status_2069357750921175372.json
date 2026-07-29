@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      }
+    ],
+    "conversation_id": "2069326489116623339",
+    "created_at": "2026-06-23T09:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069357750921175372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982839066120048640",
+          "start": 0,
+          "username": "nvdlaamdmag114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069357750921175372",
+    "in_reply_to_user_id": "1982839066120048640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069326489116623339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvdlaamdmag114 寿司好吃喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069326476072366080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe5d1qasAAVg9z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2069326489116623339",
+        "created_at": "2026-06-23T09:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069357750921175372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982839066120048640",
+              "start": 0,
+              "username": "nvdlaamdmag114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069357750921175372",
+        "in_reply_to_user_id": "1982839066120048640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069326489116623339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvdlaamdmag114 寿司好吃喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069326476072366080"
+          ]
+        },
+        "author_id": "1982839066120048640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069326489116623339",
+        "created_at": "2026-06-23T07:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069326489116623339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "设计施贝指导今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RwF8JdANW",
+              "end": 36,
+              "expanded_url": "https://x.com/nvdlaamdmag114/status/2069326489116623339/photo/1",
+              "media_key": "3_2069326476072366080",
+              "start": 13,
+              "url": "https://t.co/8RwF8JdANW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069326489116623339",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#设计施贝指导今天吃什么 https://t.co/8RwF8JdANW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14988,
+          "following_count": 2173,
+          "like_count": 6951,
+          "listed_count": 26,
+          "media_count": 2107,
+          "tweet_count": 3565
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-27T15:57:38.000Z",
+        "description": "疯子/在哲学里寻找诗性的精神病患者/对内自治，对外专政/人道主义的西方马克思主义者？/ 自我认同极为混乱 /主人是@ouiwops喵/蓝v互关/小号 @daoyou8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "ouiwops"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "daoyou8964"
+              }
+            ]
+          }
+        },
+        "id": "1982839066120048640",
+        "location": "名为意志和表象的符号界",
+        "name": "贝托尔德·康拉德·赫尔曼·阿尔伯特·设计施",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000859063031357440/HgG29lUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 380,
+          "like_count": 3223,
+          "listed_count": 8,
+          "media_count": 420,
+          "tweet_count": 4482
+        },
+        "url": "",
+        "username": "nvdlaamdmag114",
+        "verified": true
+      }
+    ]
+  }
+}

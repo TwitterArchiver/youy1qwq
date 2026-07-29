@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064746503705604579",
+    "created_at": "2026-06-11T07:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064974721985446249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "N0HopeForUs"
+        },
+        {
+          "end": 24,
+          "id": "1554692587151593472",
+          "start": 13,
+          "username": "kukukumik0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064974721985446249",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064757928574558286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0HopeForUs @kukukumik0 绷虽然但是这不是我的意识形态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064746503705604579",
+        "created_at": "2026-06-11T07:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064974721985446249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "N0HopeForUs"
+            },
+            {
+              "end": 24,
+              "id": "1554692587151593472",
+              "start": 13,
+              "username": "kukukumik0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064974721985446249",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064757928574558286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0HopeForUs @kukukumik0 绷虽然但是这不是我的意识形态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824688188750712832",
+        "conversation_id": "2064746503705604579",
+        "created_at": "2026-06-10T17:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064757928574558286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "kukukumik0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064757928574558286",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064746503705604579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukukumik0 这人我贼几把不喜欢 炒作之后夹带自己意识形态太下流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14284,
+          "following_count": 2082,
+          "like_count": 5222,
+          "listed_count": 24,
+          "media_count": 2024,
+          "tweet_count": 2838
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "挂逼尼特组\n米泽茜激推！\n潮酷老中社群主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋主义𝙈𝙖𝙤𝙙𝙞𝙚𝙞𝙨𝙢🍥",
+        "pinned_tweet_id": "1993718159703220235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059928140273893376/JpaPFbM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 1582,
+          "like_count": 44412,
+          "listed_count": 3,
+          "media_count": 636,
+          "tweet_count": 13949
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "宝宝在说什么小猪话呀！",
+        "pinned_tweet_id": "2064711108519411875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230113897107457/u-PvlGQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1533,
+          "like_count": 55428,
+          "listed_count": 12,
+          "media_count": 544,
+          "tweet_count": 19229
+        },
+        "username": "kukukumik0",
+        "verified": false
+      }
+    ]
+  }
+}

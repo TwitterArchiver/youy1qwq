@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-24T17:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069831690848268442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904924420887552000",
+          "start": 0,
+          "username": "BinGdoufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069831690848268442",
+    "in_reply_to_user_id": "904924420887552000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069831062851899831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BinGdoufu ww谢谢呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T17:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069831690848268442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904924420887552000",
+              "start": 0,
+              "username": "BinGdoufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069831690848268442",
+        "in_reply_to_user_id": "904924420887552000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069831062851899831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BinGdoufu ww谢谢呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "904924420887552000",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-24T17:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069831062851899831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069831062851899831",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 😀经常看你搬屎没想到你是美少女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15045,
+          "following_count": 2192,
+          "like_count": 7129,
+          "listed_count": 27,
+          "media_count": 2115,
+          "tweet_count": 3653
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-05T04:29:29.000Z",
+        "description": "😅懒人，少女前线玩家",
+        "id": "904924420887552000",
+        "location": "People's Republic of China",
+        "name": "BINGdoufu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/994575008063148037/vWwy4n3C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 137,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "BinGdoufu",
+        "verified": false
+      }
+    ]
+  }
+}

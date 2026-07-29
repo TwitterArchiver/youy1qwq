@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2069795083483025756",
+    "created_at": "2026-06-25T02:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069967655919096199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1256837408433123330",
+          "start": 0,
+          "username": "haoze1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069967655919096199",
+    "in_reply_to_user_id": "1256837408433123330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069950531708371321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haoze1997 女同事吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-25T02:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069967655919096199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1256837408433123330",
+              "start": 0,
+              "username": "haoze1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069967655919096199",
+        "in_reply_to_user_id": "1256837408433123330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069950531708371321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haoze1997 女同事吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1256837408433123330",
+        "conversation_id": "2069795083483025756",
+        "created_at": "2026-06-25T01:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069950531708371321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069950531708371321",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795083483025756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 中文推竟然还有女同事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15085,
+          "following_count": 2211,
+          "like_count": 7138,
+          "listed_count": 28,
+          "media_count": 2116,
+          "tweet_count": 3667
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-03T06:46:21.000Z",
+        "description": "一个讲俏皮话的老登",
+        "id": "1256837408433123330",
+        "location": "Shanghai",
+        "name": "HaoTze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068673223626240000/l4pkTddI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 243,
+          "like_count": 723,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "haoze1997",
+        "verified": true
+      }
+    ]
+  }
+}

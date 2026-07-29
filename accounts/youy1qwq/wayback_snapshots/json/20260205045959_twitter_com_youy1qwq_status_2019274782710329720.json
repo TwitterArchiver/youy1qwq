@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019206839943254141",
+    "created_at": "2026-02-05T04:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T05:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019274782710329720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "757398339167981568",
+          "start": 0,
+          "username": "MankindFuture88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019274782710329720",
+    "in_reply_to_user_id": "757398339167981568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019247634926739601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MankindFuture88 那很可爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019206839943254141",
+        "created_at": "2026-02-05T04:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019274782710329720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "757398339167981568",
+              "start": 0,
+              "username": "MankindFuture88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019274782710329720",
+        "in_reply_to_user_id": "757398339167981568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019247634926739601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MankindFuture88 那很可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "757398339167981568",
+        "conversation_id": "2019206839943254141",
+        "created_at": "2026-02-05T03:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019247634926739601"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "狗狗",
+              "probability": 0.4452,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019247634926739601",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019206839943254141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 3月24日出的就叫「狗狗」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 239,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 174
+        },
+        "username": "youy1qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T02:13:30.000Z",
+        "description": "香港🇭🇰出身，以邏輯和人性琢磨人類的未來，與及和極權戰鬥，求互fo；HongKonger, Shaping the human future and fighting against totalitarianism with logic and humanity, will follows back.",
+        "id": "757398339167981568",
+        "location": "Earth",
+        "name": "人類存活研究所 Mankind future",
+        "pinned_tweet_id": "1712109336338846029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740059195020599296/TbJ9LMgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 1301,
+          "like_count": 6852,
+          "listed_count": 21,
+          "media_count": 1502,
+          "tweet_count": 10900
+        },
+        "username": "MankindFuture88",
+        "verified": true
+      }
+    ]
+  }
+}

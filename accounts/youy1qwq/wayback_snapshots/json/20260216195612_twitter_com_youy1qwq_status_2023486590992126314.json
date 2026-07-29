@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2023374301576196443",
+    "created_at": "2026-02-16T19:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T20:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023486590992126314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1798967277972594688",
+          "start": 0,
+          "username": "xai0103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023486590992126314",
+    "in_reply_to_user_id": "1798967277972594688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023447037102936421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xai0103 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023447033445838850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBS6WzJbcAIvyDA.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2023374301576196443",
+        "created_at": "2026-02-16T19:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023486590992126314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1798967277972594688",
+              "start": 0,
+              "username": "xai0103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023486590992126314",
+        "in_reply_to_user_id": "1798967277972594688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023447037102936421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xai0103 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023447033445838850"
+          ]
+        },
+        "author_id": "1798967277972594688",
+        "conversation_id": "2023374301576196443",
+        "created_at": "2026-02-16T17:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023447037102936421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkXMHIK6KT",
+              "end": 44,
+              "expanded_url": "https://x.com/xai0103/status/2023447037102936421/photo/1",
+              "media_key": "3_2023447033445838850",
+              "start": 21,
+              "url": "https://t.co/tkXMHIK6KT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023447037102936421",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023374301576196443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 靠近点给你看个好玩的 https://t.co/tkXMHIK6KT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3434,
+          "following_count": 947,
+          "like_count": 2395,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 736
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T06:36:58.000Z",
+        "description": "🇨🇳",
+        "id": "1798967277972594688",
+        "name": "莫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829601721653362688/vM9ONZaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 55,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "username": "xai0103",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024048245039919104"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2024167027238457583",
+    "created_at": "2026-02-18T17:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024167027238457583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jpVMwDA6hR",
+          "end": 89,
+          "expanded_url": "https://x.com/youy1qwq/status/2024167027238457583/photo/1",
+          "media_key": "3_2024048245039919104",
+          "start": 66,
+          "url": "https://t.co/jpVMwDA6hR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024167027238457583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "结局一，被小众逼们发现，你是个宝藏女孩\n结局二，被胆小的人们发现，你被骂的全家起飞\n结局三，你被温柔的人们发现，他们提醒你要打预警 https://t.co/jpVMwDA6hR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2024048245039919104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbdJ63bcAAa5bD.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024048245039919104"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2024167027238457583",
+        "created_at": "2026-02-18T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024167027238457583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jpVMwDA6hR",
+              "end": 89,
+              "expanded_url": "https://x.com/youy1qwq/status/2024167027238457583/photo/1",
+              "media_key": "3_2024048245039919104",
+              "start": 66,
+              "url": "https://t.co/jpVMwDA6hR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024167027238457583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结局一，被小众逼们发现，你是个宝藏女孩\n结局二，被胆小的人们发现，你被骂的全家起飞\n结局三，你被温柔的人们发现，他们提醒你要打预警 https://t.co/jpVMwDA6hR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3718,
+          "following_count": 969,
+          "like_count": 2474,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 780
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

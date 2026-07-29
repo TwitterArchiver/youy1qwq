@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2070762746048905710",
+    "created_at": "2026-06-27T12:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070850632907702764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906268944346046464",
+          "start": 0,
+          "username": "BaogeaiCG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070850632907702764",
+    "in_reply_to_user_id": "1906268944346046464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070773342915920371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaogeaiCG 应得的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2070762746048905710",
+        "created_at": "2026-06-27T12:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070850632907702764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906268944346046464",
+              "start": 0,
+              "username": "BaogeaiCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070850632907702764",
+        "in_reply_to_user_id": "1906268944346046464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070773342915920371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaogeaiCG 应得的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906268944346046464",
+        "conversation_id": "2070762746048905710",
+        "created_at": "2026-06-27T07:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070773342915920371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070773342915920371",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070762746048905710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这店也就这样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15327,
+          "following_count": 2238,
+          "like_count": 7411,
+          "listed_count": 28,
+          "media_count": 2134,
+          "tweet_count": 3710
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-30T08:55:20.000Z",
+        "description": "10年+土木工程师\n分享AI工具实操 \n普通人副业拆解探索\n包你用得爽，学得会 AI",
+        "id": "1906268944346046464",
+        "name": "包爽得",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067083222434107392/5VavWhYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 670,
+          "like_count": 991,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1785
+        },
+        "url": "",
+        "username": "BaogeaiCG",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2022732579175125465",
+    "created_at": "2026-02-14T20:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T21:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022763932314660920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1899878656736190467",
+          "start": 0,
+          "username": "GooglePivix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022763932314660920",
+    "in_reply_to_user_id": "1899878656736190467",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022747033531212145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GooglePivix 😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2022732579175125465",
+        "created_at": "2026-02-14T20:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022763932314660920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1899878656736190467",
+              "start": 0,
+              "username": "GooglePivix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022763932314660920",
+        "in_reply_to_user_id": "1899878656736190467",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022747033531212145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GooglePivix 😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899878656736190467",
+        "conversation_id": "2022732579175125465",
+        "created_at": "2026-02-14T18:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022747033531212145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022747033531212145",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022732579175125465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 乍一看想了一晚上，其实是想通了认为有哑巴老婆更有物化感和占有感，于是想通了要订婚🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3215,
+          "following_count": 923,
+          "like_count": 2317,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 680
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-12T17:43:21.000Z",
+        "description": "",
+        "id": "1899878656736190467",
+        "name": "喵了个🍥",
+        "pinned_tweet_id": "1937064104365367621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003936204388290564/VUrg6hbA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 69,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 380
+        },
+        "username": "GooglePivix",
+        "verified": false
+      }
+    ]
+  }
+}

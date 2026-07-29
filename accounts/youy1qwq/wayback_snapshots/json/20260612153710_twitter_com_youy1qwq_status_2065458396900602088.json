@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065407160847364362",
+    "created_at": "2026-06-12T15:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065458396900602088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006655638391406592",
+          "start": 0,
+          "username": "LWY2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065458396900602088",
+    "in_reply_to_user_id": "2006655638391406592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065440726184522142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LWY2077 可爱耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065440722812313600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnrZOvaoAAH9ed.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065407160847364362",
+        "created_at": "2026-06-12T15:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065458396900602088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006655638391406592",
+              "start": 0,
+              "username": "LWY2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065458396900602088",
+        "in_reply_to_user_id": "2006655638391406592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065440726184522142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LWY2077 可爱耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065440722812313600"
+          ]
+        },
+        "author_id": "2006655638391406592",
+        "conversation_id": "2065407160847364362",
+        "created_at": "2026-06-12T14:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065440726184522142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ASiZUflhkT",
+              "end": 55,
+              "expanded_url": "https://x.com/LWY2077/status/2065440726184522142/photo/1",
+              "media_key": "3_2065440722812313600",
+              "start": 32,
+              "url": "https://t.co/ASiZUflhkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065440726184522142",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065407160847364362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我是真人，現下dd一只可愛的小貓🐱❤️❤️ https://t.co/ASiZUflhkT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14454,
+          "following_count": 2093,
+          "like_count": 5550,
+          "listed_count": 24,
+          "media_count": 2035,
+          "tweet_count": 2935
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T09:17:07.000Z",
+        "description": "政見：🇭🇰粉蛆轉白兔🇨🇳/反串小鬼鑑政達人/輿論戰攪屎棍\n\n生活：arenabreakout|delta force雙修樂子人/手工狂魔/騷福瑞🥵/全香港🇭🇰最強futa/色孽神選\n\n“見人說人話，見狗助狗叫”\n\n謝絕互fo（看我心情回關",
+        "id": "2006655638391406592",
+        "name": "LWY2077（保持中立勿噴）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006655918134669312/96larUcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 729
+        },
+        "username": "LWY2077",
+        "verified": false
+      }
+    ]
+  }
+}

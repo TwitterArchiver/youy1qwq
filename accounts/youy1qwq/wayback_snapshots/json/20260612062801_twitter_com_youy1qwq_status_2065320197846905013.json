@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065273838200586661",
+    "created_at": "2026-06-12T06:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065320197846905013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685152248098410496",
+          "start": 0,
+          "username": "WYYXH2CY_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065320197846905013",
+    "in_reply_to_user_id": "1685152248098410496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065314750318432442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WYYXH2CY_ 客服绷住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065273838200586661",
+        "created_at": "2026-06-12T06:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065320197846905013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685152248098410496",
+              "start": 0,
+              "username": "WYYXH2CY_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065320197846905013",
+        "in_reply_to_user_id": "1685152248098410496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065314750318432442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WYYXH2CY_ 客服绷住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685152248098410496",
+        "conversation_id": "2065273838200586661",
+        "created_at": "2026-06-12T06:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065314750318432442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065314750318432442",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065273838200586661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 客服：神金"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14410,
+          "following_count": 2089,
+          "like_count": 5500,
+          "listed_count": 24,
+          "media_count": 2032,
+          "tweet_count": 2910
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-29T04:56:55.000Z",
+        "description": "你要坚信一场恋爱只是一场梦，把没有ta能活得更好的理由记下来，每次意志晕头晕脑时，将ta的罪状再看一遍，相信时间会消逝一切。",
+        "id": "1685152248098410496",
+        "name": "GYU",
+        "pinned_tweet_id": "1955325974595227798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008956437020725248/LANz9mZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1944,
+          "like_count": 41140,
+          "listed_count": 1,
+          "media_count": 643,
+          "tweet_count": 3754
+        },
+        "username": "WYYXH2CY_",
+        "verified": false
+      }
+    ]
+  }
+}

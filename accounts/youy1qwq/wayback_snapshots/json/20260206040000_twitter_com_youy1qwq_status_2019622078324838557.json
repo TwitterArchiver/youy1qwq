@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019595766092664832"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2019622078324838557",
+    "created_at": "2026-02-06T04:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019622078324838557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vI3Bi0Co4a",
+          "end": 54,
+          "expanded_url": "https://x.com/youy1qwq/status/2019622078324838557/photo/1",
+          "media_key": "3_2019595766092664832",
+          "start": 31,
+          "url": "https://t.co/vI3Bi0Co4a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019622078324838557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我弟暑假来我家 天天在房间打游戏 我让他带着他的行李滚回家去 https://t.co/vI3Bi0Co4a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_2019595766092664832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcLpiPWEAANRMk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019595766092664832"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2019622078324838557",
+        "created_at": "2026-02-06T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019622078324838557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vI3Bi0Co4a",
+              "end": 54,
+              "expanded_url": "https://x.com/youy1qwq/status/2019622078324838557/photo/1",
+              "media_key": "3_2019595766092664832",
+              "start": 31,
+              "url": "https://t.co/vI3Bi0Co4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019622078324838557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我弟暑假来我家 天天在房间打游戏 我让他带着他的行李滚回家去 https://t.co/vI3Bi0Co4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 506,
+          "like_count": 1071,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 277
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

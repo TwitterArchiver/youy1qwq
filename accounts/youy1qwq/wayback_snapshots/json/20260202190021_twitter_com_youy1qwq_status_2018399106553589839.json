@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2018399106553589839",
+    "created_at": "2026-02-02T19:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T20:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018399106553589839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youy1qwq/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/youy1qwq/status/2018193765064724697",
+          "start": 17,
+          "url": "https://t.co/ybIduFUVJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018399106553589839",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018193765064724697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家等等喵😭最近关注好像到上限了 https://t.co/ybIduFUVJO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018399106553589839",
+        "created_at": "2026-02-02T19:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018399106553589839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2018193765064724697",
+              "start": 17,
+              "url": "https://t.co/ybIduFUVJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018399106553589839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018193765064724697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家等等喵😭最近关注好像到上限了 https://t.co/ybIduFUVJO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2018193765064724697",
+        "created_at": "2026-02-02T05:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018193765064724697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018193765064724697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 28853,
+          "like_count": 268,
+          "quote_count": 2,
+          "reply_count": 231,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过的推友扣1和我互关，已经是互关的贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "互fo｜ASD｜ADHD｜双相情感障碍｜感谢你的关注，希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 197,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 86
+        },
+        "username": "youy1qwq",
+        "verified": false
+      }
+    ]
+  }
+}

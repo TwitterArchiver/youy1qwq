@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064702403988148224",
+    "created_at": "2026-06-11T04:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064928973591855211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1460048795908018181",
+          "start": 0,
+          "username": "Richardli2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064928973591855211",
+    "in_reply_to_user_id": "1460048795908018181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064922780601393339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Richardli2021 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064702403988148224",
+        "created_at": "2026-06-11T04:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064928973591855211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1460048795908018181",
+              "start": 0,
+              "username": "Richardli2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064928973591855211",
+        "in_reply_to_user_id": "1460048795908018181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064922780601393339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Richardli2021 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460048795908018181",
+        "conversation_id": "2064702403988148224",
+        "created_at": "2026-06-11T04:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064922780601393339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064922780601393339",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064702403988148224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 请收看孙笑川的一天vlog！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14266,
+          "following_count": 2080,
+          "like_count": 5077,
+          "listed_count": 24,
+          "media_count": 2021,
+          "tweet_count": 2794
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-15T00:55:42.000Z",
+        "description": "每天分享沙雕 meme + 生活吐槽 | A股投资",
+        "id": "1460048795908018181",
+        "location": "万达广场",
+        "name": "Richardli",
+        "pinned_tweet_id": "2063571463651954986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063138323385004032/H66w1EZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 354,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 635
+        },
+        "username": "Richardli2021",
+        "verified": true
+      }
+    ]
+  }
+}

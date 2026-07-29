@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065375020747252191",
+    "created_at": "2026-06-12T10:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065377782625124684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974054240495808518",
+          "start": 0,
+          "username": "jammy_bread"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065377782625124684",
+    "in_reply_to_user_id": "1974054240495808518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065376940975083789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jammy_bread 得先把爸妈带走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065375020747252191",
+        "created_at": "2026-06-12T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065377782625124684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974054240495808518",
+              "start": 0,
+              "username": "jammy_bread"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065377782625124684",
+        "in_reply_to_user_id": "1974054240495808518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065376940975083789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jammy_bread 得先把爸妈带走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974054240495808518",
+        "conversation_id": "2065375020747252191",
+        "created_at": "2026-06-12T10:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065376940975083789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065376940975083789",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065375020747252191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 骗你的 活不到高考那一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14425,
+          "following_count": 2092,
+          "like_count": 5521,
+          "listed_count": 24,
+          "media_count": 2033,
+          "tweet_count": 2922
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T10:09:51.000Z",
+        "description": "",
+        "id": "1974054240495808518",
+        "name": "JammyBread",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974750159318794240/SlCjQJE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 60,
+          "like_count": 2351,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "jammy_bread",
+        "verified": false
+      }
+    ]
+  }
+}

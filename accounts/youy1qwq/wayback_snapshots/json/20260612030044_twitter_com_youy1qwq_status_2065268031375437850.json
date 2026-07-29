@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2065112212671504483",
+    "created_at": "2026-06-12T03:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065268031375437850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618189993448542208",
+          "start": 0,
+          "username": "HuangWdnmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065268031375437850",
+    "in_reply_to_user_id": "1618189993448542208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065182615376937181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangWdnmd 触发底层代码了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2065112212671504483",
+        "created_at": "2026-06-12T03:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065268031375437850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618189993448542208",
+              "start": 0,
+              "username": "HuangWdnmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065268031375437850",
+        "in_reply_to_user_id": "1618189993448542208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065182615376937181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangWdnmd 触发底层代码了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618189993448542208",
+        "conversation_id": "2065112212671504483",
+        "created_at": "2026-06-11T21:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065182615376937181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065182615376937181",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1095,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065112212671504483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 底层逻辑这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14387,
+          "following_count": 2088,
+          "like_count": 5372,
+          "listed_count": 24,
+          "media_count": 2030,
+          "tweet_count": 2886
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-25T10:12:23.000Z",
+        "description": "",
+        "id": "1618189993448542208",
+        "name": "xiaohuanh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975788310598721536/rc_0nBAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 30,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 73
+        },
+        "username": "HuangWdnmd",
+        "verified": false
+      }
+    ]
+  }
+}

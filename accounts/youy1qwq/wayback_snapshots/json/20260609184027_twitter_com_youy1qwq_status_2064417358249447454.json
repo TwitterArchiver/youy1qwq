@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2064336602630144278",
+    "created_at": "2026-06-09T18:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064417358249447454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1933203135914520583",
+          "start": 0,
+          "username": "Differentlysmh"
+        },
+        {
+          "end": 31,
+          "id": "2038399770113282048",
+          "start": 16,
+          "username": "IvyJerome77248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064417358249447454",
+    "in_reply_to_user_id": "1933203135914520583",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064414709089218824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Differentlysmh @IvyJerome77248 我真不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2064336602630144278",
+        "created_at": "2026-06-09T18:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064417358249447454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1933203135914520583",
+              "start": 0,
+              "username": "Differentlysmh"
+            },
+            {
+              "end": 31,
+              "id": "2038399770113282048",
+              "start": 16,
+              "username": "IvyJerome77248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064417358249447454",
+        "in_reply_to_user_id": "1933203135914520583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064414709089218824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Differentlysmh @IvyJerome77248 我真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933203135914520583",
+        "conversation_id": "2064336602630144278",
+        "created_at": "2026-06-09T18:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064414709089218824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038399770113282048",
+              "start": 0,
+              "username": "IvyJerome77248"
+            },
+            {
+              "end": 25,
+              "id": "2012631283898187776",
+              "start": 16,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064414709089218824",
+        "in_reply_to_user_id": "2038399770113282048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064386772008841629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IvyJerome77248 @youy1qwq 发那么多赵露思啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14191,
+          "following_count": 2063,
+          "like_count": 4747,
+          "listed_count": 24,
+          "media_count": 2011,
+          "tweet_count": 2713
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T16:42:06.000Z",
+        "description": "，，，",
+        "id": "1933203135914520583",
+        "name": "0827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956575620072431616/Ejmsz42z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 116,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "Differentlysmh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T23:35:53.000Z",
+        "description": "🏅颠覆全网！线下社交匹配🪐本地免费约P覆盖1–5线城市🌍，海外城市同上线🫶靠谱中介，免下载，专注牵线🐾速配附近真人\n电报✈️选人群👉https://t.co/csQUwzjakH\n✈电报使用教程 @Alisha27k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "Alisha27k"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ssjy66",
+                "end": 89,
+                "expanded_url": "http://t.me/ssjy66",
+                "start": 66,
+                "url": "https://t.co/csQUwzjakH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+7CI-3B1XO8plZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+7CI-3B1XO8plZGZl",
+                "start": 0,
+                "url": "https://t.co/D5UiSdBdZz"
+              }
+            ]
+          }
+        },
+        "id": "2038399770113282048",
+        "location": "✈️约线下 咨询电报群👉",
+        "name": "🌟全国牵线❣️1-5线资源自取🎀点我主页",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064387234745483264/MFEjKpJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/D5UiSdBdZz",
+        "username": "IvyJerome77248",
+        "verified": false
+      }
+    ]
+  }
+}

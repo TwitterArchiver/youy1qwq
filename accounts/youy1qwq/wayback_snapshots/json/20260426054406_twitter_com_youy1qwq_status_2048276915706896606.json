@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2048189504809529787",
+    "created_at": "2026-04-26T05:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048276915706896606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1992927955719499776",
+          "start": 0,
+          "username": "Qiqi3971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048276915706896606",
+    "in_reply_to_user_id": "1992927955719499776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048189504809529787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiqi3971 互关吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048189499763777536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyhf44a4AAWgsr.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048189499767971840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyhf45a4AA4Axo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2048189504809529787",
+        "created_at": "2026-04-26T05:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048276915706896606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1992927955719499776",
+              "start": 0,
+              "username": "Qiqi3971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048276915706896606",
+        "in_reply_to_user_id": "1992927955719499776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048189504809529787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiqi3971 互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048189499763777536",
+            "3_2048189499767971840"
+          ]
+        },
+        "author_id": "1992927955719499776",
+        "conversation_id": "2048189504809529787",
+        "created_at": "2026-04-25T23:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048189504809529787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfn33O82hd",
+              "end": 43,
+              "expanded_url": "https://x.com/Qiqi3971/status/2048189504809529787/photo/1",
+              "media_key": "3_2048189499763777536",
+              "start": 20,
+              "url": "https://t.co/dfn33O82hd"
+            },
+            {
+              "display_url": "pic.x.com/dfn33O82hd",
+              "end": 43,
+              "expanded_url": "https://x.com/Qiqi3971/status/2048189504809529787/photo/1",
+              "media_key": "3_2048189499767971840",
+              "start": 20,
+              "url": "https://t.co/dfn33O82hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048189504809529787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1669,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的蓝V到了三千了 \n\n流量也走起来啊 https://t.co/dfn33O82hd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11277,
+          "following_count": 1648,
+          "like_count": 3882,
+          "listed_count": 16,
+          "media_count": 1517,
+          "tweet_count": 2007
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-24T12:07:28.000Z",
+        "description": "喜欢可爱有趣的青蛙 $PEP\n喜欢健身🏋️ \n官推：@PepecoinNetwork\n官网：https://t.co/fJ3FOHVLDb",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "PEP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "PepecoinNetwork"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pepecoin.com",
+                "end": 69,
+                "expanded_url": "http://pepecoin.com",
+                "start": 46,
+                "url": "https://t.co/fJ3FOHVLDb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BitcoinfortheYoung.com",
+                "end": 23,
+                "expanded_url": "http://BitcoinfortheYoung.com",
+                "start": 0,
+                "url": "https://t.co/QYqo2ZM0Rl"
+              }
+            ]
+          }
+        },
+        "id": "1992927955719499776",
+        "location": "Singapore",
+        "name": "Qiqi｜淇淇🐸",
+        "pinned_tweet_id": "2046951711936496020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007325533080829952/uwifj0g8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4248,
+          "following_count": 4378,
+          "like_count": 18006,
+          "listed_count": 4,
+          "media_count": 3181,
+          "tweet_count": 12471
+        },
+        "url": "https://t.co/QYqo2ZM0Rl",
+        "username": "Qiqi3971",
+        "verified": true
+      }
+    ]
+  }
+}

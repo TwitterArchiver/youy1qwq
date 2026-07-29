@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2080103791983210789",
+    "created_at": "2026-07-23T14:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080302021912211531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659039459734867968",
+          "start": 0,
+          "username": "Djangogoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080302021912211531",
+    "in_reply_to_user_id": "1659039459734867968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080103791983210789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Djangogoo 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2080103784022462464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4DXuaa0AAc5dA.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2080103791983210789",
+        "created_at": "2026-07-23T14:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080302021912211531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659039459734867968",
+              "start": 0,
+              "username": "Djangogoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080302021912211531",
+        "in_reply_to_user_id": "1659039459734867968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080103791983210789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Djangogoo 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080103784022462464"
+          ]
+        },
+        "author_id": "1659039459734867968",
+        "conversation_id": "2080103791983210789",
+        "created_at": "2026-07-23T01:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080103791983210789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GcmSz13fs",
+              "end": 79,
+              "expanded_url": "https://x.com/Djangogoo/status/2080103791983210789/photo/1",
+              "media_key": "3_2080103784022462464",
+              "start": 56,
+              "url": "https://t.co/7GcmSz13fs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080103791983210789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1715,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上就开通蓝V一个月了，这一个月刷了很多帖子，回复了很多内容，还有认识了很多新朋友，很高兴能在X上和大家互动。 https://t.co/7GcmSz13fs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16708,
+          "following_count": 2904,
+          "like_count": 8084,
+          "listed_count": 28,
+          "media_count": 2268,
+          "tweet_count": 3942
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-18T03:34:07.000Z",
+        "description": "非自由职业者｜拓展搞钱｜ai｜web3｜自媒体运营",
+        "id": "1659039459734867968",
+        "location": "日本",
+        "name": "王大发",
+        "pinned_tweet_id": "2072175179913171436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012814674996154368/HWtC7shP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1584,
+          "like_count": 641,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 6968
+        },
+        "url": "",
+        "username": "Djangogoo",
+        "verified": true
+      }
+    ]
+  }
+}
