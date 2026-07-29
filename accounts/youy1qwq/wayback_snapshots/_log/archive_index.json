@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T13:08:25",
+  "last_updated": "2026-07-29T13:09:07",
   "html": {
     "https://web.archive.org/web/20260119063638if_/https://twitter.com/youy1qwq/status/2013138512179048538": {
       "status": "done",
@@ -34020,27 +34020,27 @@
       "referenced_by": [
         "20260211071942_twitter_com_youy1qwq_status_2021484270708277596.json"
       ],
-      "last_updated": "2026-07-29T12:37:06",
+      "last_updated": "2026-07-29T13:08:56",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260211071942/https://video.twimg.com/amplify_video/2021483759678496769/vid/avc1/720x1280/ctq0HMSiIVecRTxl.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2022546549109329920/vid/avc1/544x960/4201p5Dc4PVEFkz_.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260214072527_twitter_com_youy1qwq_status_2022572882417893497.json"
       ],
-      "last_updated": "2026-07-29T12:37:08",
+      "last_updated": "2026-07-29T13:08:58",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260214072527/https://video.twimg.com/amplify_video/2022546549109329920/vid/avc1/544x960/4201p5Dc4PVEFkz_.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/720x1280/TKOCKgmI58_xOyIy.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260219161032_twitter_com_youy1qwq_status_2024516963033125262.json"
       ],
-      "last_updated": "2026-07-29T12:37:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260219161032im_/https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/720x1280/TKOCKgmI58_xOyIy.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff999438320>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T13:09:00",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260219161032/https://video.twimg.com/amplify_video/2024429161704759296/vid/avc1/720x1280/TKOCKgmI58_xOyIy.mp4",
+      "miss_count": 6
     },
     "https://video.twimg.com/tweet_video/HDQJgYhbQAA1w1U.mp4": {
       "status": "done",
@@ -34057,13 +34057,13 @@
       "last_updated": "2026-07-29T09:28:50"
     },
     "https://video.twimg.com/tweet_video/HI8CO7saMAER2aj.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260523034542_twitter_com_youy1qwq_status_2058031592560541896.json"
       ],
-      "last_updated": "2026-07-29T12:37:09",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260523034542/https://video.twimg.com/tweet_video/HI8CO7saMAER2aj.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-29T13:09:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523034542/https://video.twimg.com/tweet_video/HI8CO7saMAER2aj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a35a77bc0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HKjTvKHaUAAchz4.mp4": {
       "status": "done",
