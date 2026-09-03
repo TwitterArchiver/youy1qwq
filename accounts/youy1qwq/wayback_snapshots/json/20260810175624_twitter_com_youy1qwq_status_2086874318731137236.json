@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2086716582227779825",
+    "created_at": "2026-08-10T17:56:24.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086874318731137236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1850505970314829824",
+          "start": 0,
+          "username": "heyyehao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086874318731137236",
+    "in_reply_to_user_id": "1850505970314829824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086716582227779825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyyehao 借楼一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2086716582227779825",
+        "created_at": "2026-08-10T17:56:24.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086874318731137236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1850505970314829824",
+              "start": 0,
+              "username": "heyyehao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086874318731137236",
+        "in_reply_to_user_id": "1850505970314829824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086716582227779825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyyehao 借楼一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850505970314829824",
+        "conversation_id": "2086716582227779825",
+        "created_at": "2026-08-10T07:29:37.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086716582227779825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086716582227779825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚开蓝V的新人，怎么在7天冲到2000粉？\n\n第1天\n\n先互关100个人\n\n速度越快越好\n\n目的很简单\n\n快速把时间线变成一个“新人流量池”\n\n接下来就干一件事\n\n疯狂互动\n\n每天300+评论\n\n每天1000+点赞\n\n同时每天发自己的涨粉记录\n\n100粉\n\n200粉\n\n300粉\n\n1000粉……\n\n让别人不断看到你的成长\n\n前3天，目标只有一个：冲到1000粉\n\n后面继续重复\n\n为什么我一直强调前7天？\n\n因为按我这几天的实测\n\n 蓝V刚开的前7天，流量体感最明显\n\n这个窗口一旦过去\n\n同样的互动量，涨粉速度会明显慢下来\n\n所以新人开蓝V以后\n\n别研究太久\n\n直接干\n\n前7天能跑多快，就跑多快\n\n我这套方法已经跑过一遍了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1525,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开蓝V的新人，怎么在7天冲到2000粉？\n\n第1天\n\n先互关100个人\n\n速度越快越好\n\n目的很简单\n\n快速把时间线变成一个“新人流量池”\n\n接下来就干一件事\n\n疯狂互动\n\n每天300+评论\n\n每天1000+点赞\n\n同时每天发自己的涨粉记录\n\n100粉\n\n200粉\n\n300粉\n\n1000粉……\n\n让别人不断看到你的成长"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086874318731137236",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17529,
+          "following_count": 3099,
+          "like_count": 8266,
+          "listed_count": 31,
+          "media_count": 2378,
+          "tweet_count": 4116
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T11:53:14.000Z",
+        "description": "目标100天10000粉\n\n阅读｜思考｜AI｜生活\n\n从0开始，持续进化",
+        "id": "1850505970314829824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086823012024938662",
+        "name": "也好",
+        "pinned_tweet_id": "2086469885643927632",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081526075595829248/MbMuYexB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 2289,
+          "like_count": 5363,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "heyyehao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

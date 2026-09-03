@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085351879161389056"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2085351886987858001",
+    "created_at": "2026-08-06T13:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085351886987858001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYVPElnhFl",
+          "end": 35,
+          "expanded_url": "https://x.com/youy1qwq/status/2085351886987858001/photo/1",
+          "media_key": "3_2085351879161389056",
+          "start": 12,
+          "url": "https://t.co/mYVPElnhFl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085351886987858001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "盘点那些高情商绝交语录 https://t.co/mYVPElnhFl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2085351879161389056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCofEUboAAs2K6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085351879161389056"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2085351886987858001",
+        "created_at": "2026-08-06T13:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085351886987858001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYVPElnhFl",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2085351886987858001/photo/1",
+              "media_key": "3_2085351879161389056",
+              "start": 12,
+              "url": "https://t.co/mYVPElnhFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085351886987858001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盘点那些高情商绝交语录 https://t.co/mYVPElnhFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17268,
+          "following_count": 3050,
+          "like_count": 8162,
+          "listed_count": 28,
+          "media_count": 2348,
+          "tweet_count": 4052
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

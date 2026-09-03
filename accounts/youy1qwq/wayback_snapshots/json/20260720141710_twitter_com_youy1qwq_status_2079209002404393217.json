@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2079068190576144743",
+    "created_at": "2026-07-20T14:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079209002404393217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "10844402",
+          "start": 0,
+          "username": "hack4cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079209002404393217",
+    "in_reply_to_user_id": "10844402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079068190576144743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hack4cn 来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2079068190576144743",
+        "created_at": "2026-07-20T14:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079209002404393217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "10844402",
+              "start": 0,
+              "username": "hack4cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079209002404393217",
+        "in_reply_to_user_id": "10844402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079068190576144743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hack4cn 来吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "10844402",
+        "conversation_id": "2079068190576144743",
+        "created_at": "2026-07-20T04:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079068190576144743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079068190576144743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1152,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明显感觉到，关注和回关了好久都没碰到一次报错了，\n\n万X，是不是关注者超过3000后，每天的关注数和被关注数的限制都放宽了一些？还是我的错觉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16472,
+          "following_count": 2793,
+          "like_count": 8023,
+          "listed_count": 26,
+          "media_count": 2249,
+          "tweet_count": 3893
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2007-12-04T17:40:15.000Z",
+        "description": "我出生的时候正逢PC火遍大江南北，那时候计算机很贵，所以我叫杨机贵",
+        "id": "10844402",
+        "location": "Mainland China",
+        "name": "杨机贵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076874660772446208/hYPucsZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3215,
+          "following_count": 3221,
+          "like_count": 3860,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1494
+        },
+        "url": "",
+        "username": "hack4cn",
+        "verified": true
+      }
+    ]
+  }
+}

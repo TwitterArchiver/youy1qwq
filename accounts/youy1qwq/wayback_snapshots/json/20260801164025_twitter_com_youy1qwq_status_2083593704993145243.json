@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2083436552848617837",
+    "created_at": "2026-08-01T16:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083593704993145243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741075170603749376",
+          "start": 0,
+          "username": "Niohuru_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083593704993145243",
+    "in_reply_to_user_id": "1741075170603749376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083563538258579517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niohuru_Yuki 好强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083563501239627776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpN9xZbcAAKu4S.jpg",
+        "width": 2025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2083436552848617837",
+        "created_at": "2026-08-01T16:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083593704993145243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "Niohuru_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083593704993145243",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083563538258579517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niohuru_Yuki 好强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083563501239627776"
+          ]
+        },
+        "author_id": "1741075170603749376",
+        "conversation_id": "2083436552848617837",
+        "created_at": "2026-08-01T14:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083563538258579517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j97qdHoaK5",
+              "end": 42,
+              "expanded_url": "https://x.com/Niohuru_Yuki/status/2083563538258579517/photo/1",
+              "media_key": "3_2083563501239627776",
+              "start": 19,
+              "url": "https://t.co/j97qdHoaK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083563538258579517",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436552848617837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我想应该是这样的 https://t.co/j97qdHoaK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17207,
+          "following_count": 3025,
+          "like_count": 8135,
+          "listed_count": 28,
+          "media_count": 2315,
+          "tweet_count": 4012
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "“Por fa',no me parеs ya de mirar.”\n世界距离毁灭只剩下了五年时间，来自太空的摇滚巨星Ziggy Stardust已然降临地球，祂能拯救我们吗？",
+        "id": "1741075170603749376",
+        "location": "🚪40/绘画约稿看置顶",
+        "name": "钮祜禄·有希🐰🍺",
+        "pinned_tweet_id": "2069999250055090441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034879597159096322/QuoMlwJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1480,
+          "like_count": 36601,
+          "listed_count": 2,
+          "media_count": 1387,
+          "tweet_count": 17782
+        },
+        "url": "",
+        "username": "Niohuru_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

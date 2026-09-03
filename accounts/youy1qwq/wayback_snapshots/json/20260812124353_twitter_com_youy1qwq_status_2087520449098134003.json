@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2087492641374306415",
+    "created_at": "2026-08-12T12:43:53.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087520449098134003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745941670804213760",
+          "start": 0,
+          "username": "CharlesZha2986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087520449098134003",
+    "in_reply_to_user_id": "1745941670804213760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087516672374809057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharlesZha2986 金扫帚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2087492641374306415",
+        "created_at": "2026-08-12T12:43:53.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087520449098134003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745941670804213760",
+              "start": 0,
+              "username": "CharlesZha2986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087520449098134003",
+        "in_reply_to_user_id": "1745941670804213760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087516672374809057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharlesZha2986 金扫帚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745941670804213760",
+        "conversation_id": "2087492641374306415",
+        "created_at": "2026-08-12T12:28:53.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087516672374809057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087516672374809057",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087492641374306415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 这是什么奖哇，金酸梅还是金扫帚？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087520449098134003",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17709,
+          "following_count": 3118,
+          "like_count": 8298,
+          "listed_count": 31,
+          "media_count": 2382,
+          "tweet_count": 4132
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-12T22:51:55.000Z",
+        "description": "",
+        "id": "1745941670804213760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087516672374809057",
+        "name": "是小逸喵～",
+        "pinned_tweet_id": "2065253106968150125",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070834307384614912/Hlb4stpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 84,
+          "like_count": 15171,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "CharlesZha2986",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

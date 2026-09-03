@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2086049586024755374",
+    "created_at": "2026-08-09T06:21:18.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086337002417598754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938273765202509824",
+          "start": 0,
+          "username": "Tianchaeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086337002417598754",
+    "in_reply_to_user_id": "1938273765202509824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086049586024755374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tianchaeth 我必回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2086049579154485248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMjCjVbMAAU4lW.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2086049586024755374",
+        "created_at": "2026-08-09T06:21:18.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086337002417598754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938273765202509824",
+              "start": 0,
+              "username": "Tianchaeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086337002417598754",
+        "in_reply_to_user_id": "1938273765202509824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086049586024755374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tianchaeth 我必回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086049579154485248"
+          ]
+        },
+        "author_id": "1938273765202509824",
+        "conversation_id": "2086049586024755374",
+        "created_at": "2026-08-08T11:19:12.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086049586024755374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "诚信互关互动"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "有关必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7rcB5iHtj",
+              "end": 93,
+              "expanded_url": "https://x.com/Tianchaeth/status/2086049586024755374/photo/1",
+              "media_key": "3_2086049579154485248",
+              "start": 70,
+              "url": "https://t.co/C7rcB5iHtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086049586024755374",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086049579154485248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10474,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 197,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有互关的朋友呀～诚信互关互赞互评\n主打诚信，如果你也是长时间泡在推特上\n\n那么，交个蓝朋友🤝\n\n#蓝v互关 #诚信互关互动 #有关必回 https://t.co/C7rcB5iHtj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086337002417598754",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17388,
+          "following_count": 3064,
+          "like_count": 8249,
+          "listed_count": 30,
+          "media_count": 2373,
+          "tweet_count": 4097
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T16:30:59.000Z",
+        "description": "六年老韭菜，BSC高级研究员,Bnbchain专家，天生锦鲤幸运体质！天才交易员爱投研爱分享生活赚钱。#Bnb｜#Binance｜#okx｜#btc｜Aspiring to become a rich woman with wealth and freedom 合作DM https://t.co/iwRbJoI6Jv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "Bnb"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "Binance"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "okx"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "btc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Tianchaeth",
+                "end": 159,
+                "expanded_url": "https://t.me/Tianchaeth",
+                "start": 136,
+                "url": "https://t.co/iwRbJoI6Jv"
+              }
+            ]
+          }
+        },
+        "id": "1938273765202509824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086068328402206730",
+        "name": "甜茶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938273765202509824/1767885333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001248425430671363/BQSkZDvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10340,
+          "following_count": 3407,
+          "like_count": 1758,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 4056
+        },
+        "url": "",
+        "username": "Tianchaeth",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

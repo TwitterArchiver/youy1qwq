@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2087595246603612602",
+    "created_at": "2026-08-13T16:37:06.000Z",
+    "display_text_range": [
+      50,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087941525263224919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424403381821575178",
+          "start": 0,
+          "username": "pmz7gNPWletacFf"
+        },
+        {
+          "end": 32,
+          "id": "1486975640628723718",
+          "start": 17,
+          "username": "sh0p_ass1stant"
+        },
+        {
+          "end": 49,
+          "id": "2053022183753228288",
+          "start": 33,
+          "username": "PravdaVram81147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087941525263224919",
+    "in_reply_to_user_id": "1424403381821575178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087940831357677820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pmz7gNPWletacFf @sh0p_ass1stant @PravdaVram81147 掉集中了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2087595246603612602",
+        "created_at": "2026-08-13T16:37:06.000Z",
+        "display_text_range": [
+          50,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087941525263224919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424403381821575178",
+              "start": 0,
+              "username": "pmz7gNPWletacFf"
+            },
+            {
+              "end": 32,
+              "id": "1486975640628723718",
+              "start": 17,
+              "username": "sh0p_ass1stant"
+            },
+            {
+              "end": 49,
+              "id": "2053022183753228288",
+              "start": 33,
+              "username": "PravdaVram81147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087941525263224919",
+        "in_reply_to_user_id": "1424403381821575178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087940831357677820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pmz7gNPWletacFf @sh0p_ass1stant @PravdaVram81147 掉集中了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424403381821575178",
+        "conversation_id": "2087595246603612602",
+        "created_at": "2026-08-13T16:34:20.000Z",
+        "display_text_range": [
+          43,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087940831357677820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486975640628723718",
+              "start": 0,
+              "username": "sh0p_ass1stant"
+            },
+            {
+              "end": 32,
+              "id": "2053022183753228288",
+              "start": 16,
+              "username": "PravdaVram81147"
+            },
+            {
+              "end": 42,
+              "id": "2012631283898187776",
+              "start": 33,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087940831357677820",
+        "in_reply_to_user_id": "1486975640628723718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087846850267132094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh0p_ass1stant @PravdaVram81147 @youy1qwq 我鸡煲怎么你了\n我鸡煲怎么你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087941525263224919",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17752,
+          "following_count": 3126,
+          "like_count": 8329,
+          "listed_count": 31,
+          "media_count": 2387,
+          "tweet_count": 4143
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-08T16:13:37.000Z",
+        "description": "",
+        "id": "1424403381821575178",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087940831357677820",
+        "name": "感动28:-）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429436127417573376/7mQTFvFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1332,
+          "like_count": 7110,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "pmz7gNPWletacFf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-28T08:13:24.000Z",
+        "description": "希望和很多人成为朋友，欢迎互fo!😘分身@SH0P_assIstant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "SH0P_assIstant"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keai87621",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keai87621",
+                "start": 0,
+                "url": "https://t.co/Ci4TMeuezM"
+              }
+            ]
+          }
+        },
+        "id": "1486975640628723718",
+        "is_identity_verified": false,
+        "location": "我的小棺材",
+        "most_recent_tweet_id": "2087937222897185130",
+        "name": "店员🍵",
+        "pinned_tweet_id": "2076999311133708755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486975640628723718/1777708739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039660133039620096/uQy2fFRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 387,
+          "like_count": 8872,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/Ci4TMeuezM",
+        "username": "sh0p_ass1stant",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T08:00:29.000Z",
+        "description": "Гора с горой не сходится,а человек с человеком сойдётся",
+        "id": "2053022183753228288",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2087817390016942261",
+        "name": "Правда Врамон",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053022183753228288/1778314275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053024983115542528/gjbIcDn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 133,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "PravdaVram81147",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2082514201915093267",
+    "created_at": "2026-07-29T17:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082514201915093267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669067205386838042",
+          "start": 3,
+          "username": "Willam7392"
+        },
+        {
+          "end": 123,
+          "id": "1131033937092808704",
+          "start": 116,
+          "username": "pionex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082514201915093267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081912136402682173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Willam7392: 向所有关心和扩散“Pionex侵占38万u的事件”的朋友表示最诚挚的感谢，向大家汇报一下上次推文发出后Pionex的回应以及一些说明，主要在三个方面。\n 1，第一时间更换X官方账户uid，推文中提及的@pionex @Webot_com @pio…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "图1",
+        "height": 548,
+        "media_key": "3_2081912126692818944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORwDH0agAAkzU1.jpg",
+        "width": 1199
+      },
+      {
+        "alt_text": "图2",
+        "height": 1200,
+        "media_key": "3_2081912126676070400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORwDHwa8AAbWv_.jpg",
+        "width": 554
+      },
+      {
+        "alt_text": "图3",
+        "height": 559,
+        "media_key": "3_2081912126688681984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORwDHzbYAANqWJ.jpg",
+        "width": 1199
+      },
+      {
+        "alt_text": "图4",
+        "height": 559,
+        "media_key": "3_2081912126684467200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORwDHybEAAMRz8.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2082514201915093267",
+        "created_at": "2026-07-29T17:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082514201915093267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669067205386838042",
+              "start": 3,
+              "username": "Willam7392"
+            },
+            {
+              "end": 123,
+              "id": "1131033937092808704",
+              "start": 116,
+              "username": "pionex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082514201915093267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081912136402682173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Willam7392: 向所有关心和扩散“Pionex侵占38万u的事件”的朋友表示最诚挚的感谢，向大家汇报一下上次推文发出后Pionex的回应以及一些说明，主要在三个方面。\n 1，第一时间更换X官方账户uid，推文中提及的@pionex @Webot_com @pio…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081912126692818944",
+            "3_2081912126676070400",
+            "3_2081912126688681984",
+            "3_2081912126684467200"
+          ]
+        },
+        "author_id": "1669067205386838042",
+        "conversation_id": "2081912136402682173",
+        "created_at": "2026-07-28T01:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081912136402682173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 107,
+              "id": "1131033937092808704",
+              "start": 100,
+              "username": "pionex"
+            },
+            {
+              "end": 129,
+              "id": "2076548848265367552",
+              "start": 119,
+              "username": "pionex_zh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWCxni5vpF",
+              "end": 182,
+              "expanded_url": "https://x.com/Willam7392/status/2081912136402682173/photo/1",
+              "media_key": "3_2081912126692818944",
+              "start": 159,
+              "url": "https://t.co/fWCxni5vpF"
+            },
+            {
+              "display_url": "pic.x.com/fWCxni5vpF",
+              "end": 182,
+              "expanded_url": "https://x.com/Willam7392/status/2081912136402682173/photo/1",
+              "media_key": "3_2081912126676070400",
+              "start": 159,
+              "url": "https://t.co/fWCxni5vpF"
+            },
+            {
+              "display_url": "pic.x.com/fWCxni5vpF",
+              "end": 182,
+              "expanded_url": "https://x.com/Willam7392/status/2081912136402682173/photo/1",
+              "media_key": "3_2081912126688681984",
+              "start": 159,
+              "url": "https://t.co/fWCxni5vpF"
+            },
+            {
+              "display_url": "pic.x.com/fWCxni5vpF",
+              "end": 182,
+              "expanded_url": "https://x.com/Willam7392/status/2081912136402682173/photo/1",
+              "media_key": "3_2081912126684467200",
+              "start": 159,
+              "url": "https://t.co/fWCxni5vpF"
+            },
+            {
+              "display_url": "x.com/Willam7392/sta…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/Willam7392/status/2072867581166559737",
+              "start": 183,
+              "url": "https://t.co/v7CvULIDKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081912136402682173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1021,
+                "start": 1014,
+                "tag": "Pionex"
+              },
+              {
+                "end": 1033,
+                "start": 1022,
+                "tag": "PionexCard"
+              },
+              {
+                "end": 1040,
+                "start": 1034,
+                "tag": "Webot"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "id": "1131033937092808704",
+                "start": 100,
+                "username": "pionex"
+              },
+              {
+                "end": 129,
+                "id": "2076548848265367552",
+                "start": 119,
+                "username": "pionex_zh"
+              },
+              {
+                "end": 172,
+                "id": "1521719954818621444",
+                "start": 162,
+                "username": "joinwebot"
+              },
+              {
+                "end": 187,
+                "id": "2076548848265367552",
+                "start": 177,
+                "username": "pionex_zh"
+              },
+              {
+                "end": 231,
+                "id": "2248186033",
+                "start": 218,
+                "username": "jeremy_webot"
+              },
+              {
+                "end": 261,
+                "id": "1494164896560611329",
+                "start": 251,
+                "username": "pionexpay"
+              },
+              {
+                "end": 452,
+                "id": "2074383745168367617",
+                "start": 441,
+                "username": "May_Pionex"
+              },
+              {
+                "end": 1056,
+                "id": "1056818658",
+                "start": 1042,
+                "username": "CryptoPainter"
+              },
+              {
+                "end": 1067,
+                "id": "1533037218444476416",
+                "start": 1057,
+                "username": "xincctnnq"
+              },
+              {
+                "end": 1080,
+                "id": "1799442864235298816",
+                "start": 1068,
+                "username": "peiopeixiao"
+              },
+              {
+                "end": 1089,
+                "id": "1362967156825018369",
+                "start": 1081,
+                "username": "BroLeon"
+              },
+              {
+                "end": 1099,
+                "id": "1541988772937551874",
+                "start": 1090,
+                "username": "Jun666Xx"
+              },
+              {
+                "end": 1110,
+                "id": "1388341590603702276",
+                "start": 1100,
+                "username": "smqclaske"
+              },
+              {
+                "end": 1120,
+                "id": "1858198810226499584",
+                "start": 1111,
+                "username": "Feng_btc"
+              },
+              {
+                "end": 1133,
+                "id": "1364908632349966337",
+                "start": 1121,
+                "username": "dinhthang97"
+              },
+              {
+                "end": 1149,
+                "id": "1630827381001973761",
+                "start": 1134,
+                "username": "MoneyMaker_BTC"
+              },
+              {
+                "end": 1163,
+                "id": "1806296434053926912",
+                "start": 1150,
+                "username": "Mr_LeverageX"
+              },
+              {
+                "end": 1171,
+                "id": "1590974328736165888",
+                "start": 1164,
+                "username": "KT_BTC"
+              },
+              {
+                "end": 1186,
+                "id": "4473212565",
+                "start": 1172,
+                "username": "cryptogems555"
+              },
+              {
+                "end": 1196,
+                "id": "1541988772937551874",
+                "start": 1187,
+                "username": "Jun666Xx"
+              },
+              {
+                "end": 1208,
+                "id": "893738248916357120",
+                "start": 1197,
+                "username": "FurkanCCTV"
+              }
+            ]
+          },
+          "text": "向所有关心和扩散“Pionex侵占38万u的事件”的朋友表示最诚挚的感谢，向大家汇报一下上次推文发出后Pionex的回应以及一些说明，主要在三个方面。\n 1，第一时间更换X官方账户uid，推文中提及的@pionex @Webot_com @pionex_zh三个官方账户，Pionex美国站uid@Webot_com 更改为@joinwebot，中文官推@pionex_zh疑似注销或被X官方封禁（图1）并拉黑了我，同时高管账户正常宣发@jeremy_webot，并邀请KOL大力宣传Poinex U卡@pionexpay，并推出USDT最高 20% APR的高息理财。\n 2，官方邮件联系账户邮箱要求做二次KYC验证，按照官方要求提供并回应了官方的问题，风控在邮件中要求提供使用中文沟通人员的KYC信息并要求拍照（图2），拒绝并作了说明，至今已近两周且再未收到任何回应和邮件！账户问题依旧未解决.\n 3，官方在正式渠道从未正式回应此事件，只发现了一则疑似官方的回应（图3），该账户@May_Pionex显示26年7月注册，其内容都为宣发Pionex且简介为Pionex  VIP经理，其在回应中准确的说出了被侵占的账户uid前缀，在此当作疑似官方回应做一下说明，\n   1，该账户推文称Pionex无故冻结用户3.7BTC为虚假言论，请问虚假言论虚假在何处，是冻结虚假？还是金额虚假请明确指出，（图4）\n   2，反馈人非账户KYC本人，无法确定其与此事的关系，上个推文对此已作了说明，这和你们处理账户问题是否有联系？难道你们不是基于问题处理问题，而是看是谁的问题处理问题或者处理提出问题的人？\n   3，该账户存在严重的身份冒充和账户交易问题并且无法提供合理的资金来源证明，实际在沟通过程中因为官方敷衍和低效，在长达一年半的沟通中，尝试使用了多种语言联系官方，期待官方对不同语言有不同的态度，这点在正式的工单邮件中也做了说明，账户交易问题—该账户所有交易的操作只有BTC正常挂单兑换USDT，请问具体交易问题是什么？合理的资金来源证明—提供了所有关于BTC来源的证明和银行对账单，请问贵所认定的合理具体指什么？\n   以上为Pionex的全部回应，上次推文发出后有朋友说Pionex不至于侵占用户资产，希望有个好的处理方式，可最终Pionex的处理方式如上描述。以上均有完整相关证据，希望大家能帮忙发声，让其他人避坑该平台！#Pionex #PionexCard #Webot \n@CryptoPainter @xincctnnq @peiopeixiao @BroLeon @Jun666Xx @smqclaske @Feng_btc @dinhthang97 @MoneyMaker_BTC @Mr_LeverageX @KT_BTC @cryptogems555 @Jun666Xx @FurkanCCTV"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 102780,
+          "like_count": 127,
+          "quote_count": 44,
+          "reply_count": 137,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072867581166559737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "向所有关心和扩散“Pionex侵占38万u的事件”的朋友表示最诚挚的感谢，向大家汇报一下上次推文发出后Pionex的回应以及一些说明，主要在三个方面。\n 1，第一时间更换X官方账户uid，推文中提及的@pionex @Webot_com @pionex_zh三个官方账户，Pionex美国站uid@Webot_com https://t.co/fWCxni5vpF https://t.co/v7CvULIDKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17156,
+          "following_count": 3007,
+          "like_count": 8130,
+          "listed_count": 28,
+          "media_count": 2299,
+          "tweet_count": 3992
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-14T19:40:20.000Z",
+        "description": "",
+        "id": "1669067205386838042",
+        "name": "Willam -蓝V互关版",
+        "pinned_tweet_id": "2072867581166559737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035994369187336192/3siLqeRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 2060,
+          "like_count": 2942,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "Willam7392",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-22T03:07:58.000Z",
+        "description": "#Pionex, one of leading #Crypto Exchanges with AI trading bots. https://t.co/pMLR01gW4g We don't serve restricted jurisdictions — details in our Terms of Service",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Pionex"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Crypto"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/pionexen",
+                "end": 87,
+                "expanded_url": "https://t.me/pionexen",
+                "start": 64,
+                "url": "https://t.co/pMLR01gW4g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pionex.com",
+                "end": 23,
+                "expanded_url": "http://pionex.com",
+                "start": 0,
+                "url": "https://t.co/OpBXkuTitC"
+              }
+            ]
+          }
+        },
+        "id": "1131033937092808704",
+        "name": "Pionex",
+        "pinned_tweet_id": "2021615044644217251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955743919074934795/nggEShob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93056,
+          "following_count": 351,
+          "like_count": 3554,
+          "listed_count": 265,
+          "media_count": 2510,
+          "tweet_count": 4949
+        },
+        "url": "https://t.co/OpBXkuTitC",
+        "username": "pionex",
+        "verified": true
+      }
+    ]
+  }
+}

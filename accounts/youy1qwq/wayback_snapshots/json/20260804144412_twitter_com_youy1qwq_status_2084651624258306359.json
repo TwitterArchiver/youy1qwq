@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084651614976225280"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2084651624258306359",
+    "created_at": "2026-08-04T14:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084651624258306359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SscJ6gNloO",
+          "end": 33,
+          "expanded_url": "https://x.com/youy1qwq/status/2084651624258306359/photo/1",
+          "media_key": "3_2084651614976225280",
+          "start": 10,
+          "url": "https://t.co/SscJ6gNloO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084651624258306359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的青春ylg物语 https://t.co/SscJ6gNloO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_2084651614976225280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4rmU8aMAAZEuG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084651614976225280"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2084651624258306359",
+        "created_at": "2026-08-04T14:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084651624258306359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SscJ6gNloO",
+              "end": 33,
+              "expanded_url": "https://x.com/youy1qwq/status/2084651624258306359/photo/1",
+              "media_key": "3_2084651614976225280",
+              "start": 10,
+              "url": "https://t.co/SscJ6gNloO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084651624258306359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的青春ylg物语 https://t.co/SscJ6gNloO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17254,
+          "following_count": 3042,
+          "like_count": 8151,
+          "listed_count": 28,
+          "media_count": 2333,
+          "tweet_count": 4035
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

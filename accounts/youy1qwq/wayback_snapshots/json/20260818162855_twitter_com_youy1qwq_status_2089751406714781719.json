@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2089554075616711072",
+    "created_at": "2026-08-18T16:28:55.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089751406714781719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059579490670608384",
+          "start": 0,
+          "username": "Evanwtso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089751406714781719",
+    "in_reply_to_user_id": "2059579490670608384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089554075616711072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evanwtso 加油 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1687,
+        "media_key": "3_2089554066351517696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-WWjfa8AAJ_Dw.jpg",
+        "width": 2716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2089554075616711072",
+        "created_at": "2026-08-18T16:28:55.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089751406714781719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059579490670608384",
+              "start": 0,
+              "username": "Evanwtso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089751406714781719",
+        "in_reply_to_user_id": "2059579490670608384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089554075616711072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evanwtso 加油 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089554066351517696"
+          ]
+        },
+        "author_id": "2059579490670608384",
+        "conversation_id": "2089554075616711072",
+        "created_at": "2026-08-18T03:24:48.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089554075616711072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "交友互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iso9nbgEkY",
+              "end": 133,
+              "expanded_url": "https://x.com/Evanwtso/status/2089554075616711072/photo/1",
+              "media_key": "3_2089554066351517696",
+              "start": 110,
+              "url": "https://t.co/Iso9nbgEkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089554075616711072",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089554066351517696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1674,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天被19位朋友放鸽子，我已经去列表里把你们“请”出去的哈哈😏\n虽然有点费时间，但是心里舒服了\n\n主打一个诚信互关，不占坑不墨迹。\n欢迎新朋友来串门，互相涨涨曝光度！\n\n勇敢的人先享受世界，咱们双向奔赴～\n #交友互关 https://t.co/Iso9nbgEkY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089751406714781719",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17894,
+          "following_count": 3171,
+          "like_count": 8379,
+          "listed_count": 31,
+          "media_count": 2410,
+          "tweet_count": 4186
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T10:17:36.000Z",
+        "description": "欢迎大家来交朋友\n安全工程专业丨爱咪人士\n喜爱旅游丨喜欢分享有趣的信息",
+        "id": "2059579490670608384",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089684806309429685",
+        "name": "Evan",
+        "pinned_tweet_id": "2085945980881690850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059579490670608384/1783665245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065029259048177664/UkDmlYt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 4432,
+          "like_count": 2184,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1387
+        },
+        "url": "",
+        "username": "Evanwtso",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

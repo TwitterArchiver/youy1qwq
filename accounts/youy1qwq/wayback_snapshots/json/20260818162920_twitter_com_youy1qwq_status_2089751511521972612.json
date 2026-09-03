@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2089682680623583464",
+    "created_at": "2026-08-18T16:29:20.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089751511521972612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044338007583461377",
+          "start": 0,
+          "username": "WeiquanZ68597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089751511521972612",
+    "in_reply_to_user_id": "2044338007583461377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089682680623583464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeiquanZ68597 诚信的来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2089682665087832064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQALT_HaEAA7e92.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2089682673841364992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQALUfuaYAAXpyh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2089682680623583464",
+        "created_at": "2026-08-18T16:29:20.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089751511521972612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044338007583461377",
+              "start": 0,
+              "username": "WeiquanZ68597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089751511521972612",
+        "in_reply_to_user_id": "2044338007583461377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089682680623583464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeiquanZ68597 诚信的来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089682665087832064",
+            "3_2089682673841364992"
+          ]
+        },
+        "author_id": "2044338007583461377",
+        "conversation_id": "2089682680623583464",
+        "created_at": "2026-08-18T11:55:50.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089682680623583464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnPlYFvJGc",
+              "end": 109,
+              "expanded_url": "https://x.com/WeiquanZ68597/status/2089682680623583464/photo/1",
+              "media_key": "3_2089682665087832064",
+              "start": 86,
+              "url": "https://t.co/mnPlYFvJGc"
+            },
+            {
+              "display_url": "pic.x.com/mnPlYFvJGc",
+              "end": 109,
+              "expanded_url": "https://x.com/WeiquanZ68597/status/2089682680623583464/photo/1",
+              "media_key": "3_2089682673841364992",
+              "start": 86,
+              "url": "https://t.co/mnPlYFvJGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089682680623583464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089682665087832064"
+          },
+          {
+            "media_key": "3_2089682673841364992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 883,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞！终于破9000粉丝啦！\n感谢每一位默默陪伴、点赞、评论的你们～\n你们的每一份支持，都是我继续前行的最大动力！\n接下来冲1万，一起见证更多精彩！\n爱你们哟～ 😘🎉🎉🎉 https://t.co/mnPlYFvJGc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089751511521972612",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17894,
+          "following_count": 3171,
+          "like_count": 8379,
+          "listed_count": 31,
+          "media_count": 2410,
+          "tweet_count": 4189
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T08:52:42.000Z",
+        "description": "打工人日常吐槽 | 数码分享 | 偶尔整活\n加密货币爱好者 | 欢迎交流",
+        "id": "2044338007583461377",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089749857477296214",
+        "name": "权哥🔶BNB",
+        "pinned_tweet_id": "2082466497868566546",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044341348283916288/YMGVF5vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9035,
+          "following_count": 7494,
+          "like_count": 9413,
+          "listed_count": 4,
+          "media_count": 527,
+          "tweet_count": 10956
+        },
+        "url": "",
+        "username": "WeiquanZ68597",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

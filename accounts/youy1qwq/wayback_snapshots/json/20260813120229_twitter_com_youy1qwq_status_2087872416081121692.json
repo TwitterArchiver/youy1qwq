@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2087691221443731619",
+    "created_at": "2026-08-13T12:02:29.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087872416081121692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611034105290063873",
+          "start": 0,
+          "username": "IndieDevMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087872416081121692",
+    "in_reply_to_user_id": "1611034105290063873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087691221443731619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IndieDevMing 我必回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087691213592018944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPj4GQLbQAAJHsJ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2087691221443731619",
+        "created_at": "2026-08-13T12:02:29.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087872416081121692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611034105290063873",
+              "start": 0,
+              "username": "IndieDevMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087872416081121692",
+        "in_reply_to_user_id": "1611034105290063873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087691221443731619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IndieDevMing 我必回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087691213592018944"
+          ]
+        },
+        "author_id": "1611034105290063873",
+        "conversation_id": "2087691221443731619",
+        "created_at": "2026-08-13T00:02:29.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087691221443731619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBzbTkUY04",
+              "end": 84,
+              "expanded_url": "https://x.com/IndieDevMing/status/2087691221443731619/photo/1",
+              "media_key": "3_2087691213592018944",
+              "start": 61,
+              "url": "https://t.co/SBzbTkUY04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087691221443731619",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087691213592018944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1696,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好朋友们\n\n今天粉丝数来到了800+，所有关注均已回关\n\n昨天好多朋友留言支持，非常感谢大家\n\n继续小目标 1000 https://t.co/SBzbTkUY04"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087872416081121692",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17732,
+          "following_count": 3120,
+          "like_count": 8328,
+          "listed_count": 31,
+          "media_count": 2387,
+          "tweet_count": 4139
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-05T16:17:30.000Z",
+        "description": "👨‍💻 杭州 | 全干工程师｜除了编程，什么都分享\n🔥 Agent Skills Marketplace: https://t.co/JEBRrC5Vcv\n🔥 Free Online Drawing Tools: https://t.co/pS2jz9FzvD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openskills.cc",
+                "end": 77,
+                "expanded_url": "https://openskills.cc",
+                "start": 54,
+                "url": "https://t.co/JEBRrC5Vcv"
+              },
+              {
+                "display_url": "drawx.tools",
+                "end": 130,
+                "expanded_url": "https://drawx.tools",
+                "start": 107,
+                "url": "https://t.co/pS2jz9FzvD"
+              }
+            ]
+          }
+        },
+        "id": "1611034105290063873",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087871974400045393",
+        "name": "开发者天明",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1611034105290063873/1727193772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943678282756431873/KOlxh9Ab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1076,
+          "like_count": 338,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "IndieDevMing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

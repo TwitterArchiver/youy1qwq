@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089044700745613312"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2089044710426067214",
+    "created_at": "2026-08-16T17:40:46.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089044710426067214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aBL5vZBffT",
+          "end": 39,
+          "expanded_url": "https://x.com/youy1qwq/status/2089044710426067214/photo/1",
+          "media_key": "3_2089044700745613312",
+          "start": 16,
+          "url": "https://t.co/aBL5vZBffT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089044710426067214",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089044700745613312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“老师，只有您这篇不需要会员” https://t.co/aBL5vZBffT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_2089044700745613312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3HFkvawAAQidR.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089044700745613312"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2089044710426067214",
+        "created_at": "2026-08-16T17:40:46.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089044710426067214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBL5vZBffT",
+              "end": 39,
+              "expanded_url": "https://x.com/youy1qwq/status/2089044710426067214/photo/1",
+              "media_key": "3_2089044700745613312",
+              "start": 16,
+              "url": "https://t.co/aBL5vZBffT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089044710426067214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089044700745613312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“老师，只有您这篇不需要会员” https://t.co/aBL5vZBffT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089044710426067214",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17875,
+          "following_count": 3153,
+          "like_count": 8356,
+          "listed_count": 31,
+          "media_count": 2399,
+          "tweet_count": 4167
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084155083890249728"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2084155092975141036",
+    "created_at": "2026-08-03T05:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084155092975141036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g3UZjW3Kem",
+          "end": 35,
+          "expanded_url": "https://x.com/youy1qwq/status/2084155092975141036/photo/1",
+          "media_key": "3_2084155083890249728",
+          "start": 12,
+          "url": "https://t.co/g3UZjW3Kem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084155092975141036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老板：我才没有在意呢哼 https://t.co/g3UZjW3Kem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2084155083890249728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxoAagaUAALG8N.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084155083890249728"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2084155092975141036",
+        "created_at": "2026-08-03T05:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084155092975141036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3UZjW3Kem",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2084155092975141036/photo/1",
+              "media_key": "3_2084155083890249728",
+              "start": 12,
+              "url": "https://t.co/g3UZjW3Kem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084155092975141036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板：我才没有在意呢哼 https://t.co/g3UZjW3Kem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17248,
+          "following_count": 3033,
+          "like_count": 8142,
+          "listed_count": 28,
+          "media_count": 2324,
+          "tweet_count": 4024
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

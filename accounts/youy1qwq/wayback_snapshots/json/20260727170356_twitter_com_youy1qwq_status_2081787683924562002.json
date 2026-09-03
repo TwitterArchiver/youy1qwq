@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2081543463246659635",
+    "created_at": "2026-07-27T17:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081787683924562002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845284734743740418",
+          "start": 0,
+          "username": "Skyn2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081787683924562002",
+    "in_reply_to_user_id": "1845284734743740418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081543463246659635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skyn2026 没回我呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2081543458595254272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMgv0IbsAAjw07.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2081543463246659635",
+        "created_at": "2026-07-27T17:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081787683924562002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845284734743740418",
+              "start": 0,
+              "username": "Skyn2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081787683924562002",
+        "in_reply_to_user_id": "1845284734743740418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081543463246659635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skyn2026 没回我呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081543458595254272"
+          ]
+        },
+        "author_id": "1845284734743740418",
+        "conversation_id": "2081543463246659635",
+        "created_at": "2026-07-27T00:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081543463246659635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkmZqEVf6H",
+              "end": 61,
+              "expanded_url": "https://x.com/Skyn2026/status/2081543463246659635/photo/1",
+              "media_key": "3_2081543458595254272",
+              "start": 38,
+              "url": "https://t.co/hkmZqEVf6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081543463246659635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 972,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "彼此见证，成长才有重量。 继续把信念传下去。 作为一个团队，我们彼此托底。 https://t.co/hkmZqEVf6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17000,
+          "following_count": 2972,
+          "like_count": 8115,
+          "listed_count": 28,
+          "media_count": 2290,
+          "tweet_count": 3974
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T02:06:03.000Z",
+        "description": "一起来互关吧",
+        "id": "1845284734743740418",
+        "name": "互关. 小明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076253693545242625/4Tspphyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5110,
+          "following_count": 5737,
+          "like_count": 1843,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 14570
+        },
+        "url": "",
+        "username": "Skyn2026",
+        "verified": true
+      }
+    ]
+  }
+}

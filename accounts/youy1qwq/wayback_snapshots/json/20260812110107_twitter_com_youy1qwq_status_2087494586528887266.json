@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2087489147762270362",
+    "created_at": "2026-08-12T11:01:07.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087494586528887266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011601720573640715",
+          "start": 0,
+          "username": "joshuaatangge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087494586528887266",
+    "in_reply_to_user_id": "2011601720573640715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087489147762270362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joshuaatangge 加油一起 必回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2087489147762270362",
+        "created_at": "2026-08-12T11:01:07.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087494586528887266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011601720573640715",
+              "start": 0,
+              "username": "joshuaatangge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087494586528887266",
+        "in_reply_to_user_id": "2011601720573640715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087489147762270362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joshuaatangge 加油一起 必回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011601720573640715",
+        "conversation_id": "2087489147762270362",
+        "created_at": "2026-08-12T10:39:31.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:44:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087475230826811659",
+          "2087489147762270362"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "交个朋友"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087489147762270362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#交个朋友\n必须回关！\n目标！\n回关10万人！\n速度关注我！\n我每天都会回关。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087494586528887266",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17704,
+          "following_count": 3115,
+          "like_count": 8294,
+          "listed_count": 31,
+          "media_count": 2382,
+          "tweet_count": 4129
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-15T00:50:22.000Z",
+        "description": "富贵大财主｜Web3·AI·Nostr 折腾专业户｜别人越折腾越富，我越折腾越快乐\n欢迎投喂memecoin:123456789x987654321.ton",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mmlink.me/joshua",
+                "end": 23,
+                "expanded_url": "https://www.mmlink.me/joshua",
+                "start": 0,
+                "url": "https://t.co/PIoECwMJmI"
+              }
+            ]
+          }
+        },
+        "id": "2011601720573640715",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087490073730383930",
+        "name": "富贵大财主-Dfinity ICP 🐸 -Joshua",
+        "pinned_tweet_id": "2068508287981736152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011601720573640715/1768526077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011602468187287552/Ntag4luM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1605,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/PIoECwMJmI",
+        "username": "joshuaatangge",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

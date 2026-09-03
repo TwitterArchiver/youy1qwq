@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2086983580173951285",
+    "created_at": "2026-08-11T17:54:07.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087236130022576489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839502244737384448",
+          "start": 0,
+          "username": "fchn161037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087236130022576489",
+    "in_reply_to_user_id": "1839502244737384448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086983580173951285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fchn161037 必回 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 1168,
+        "media_key": "13_2086983489224601600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086983489224601600/img/WnFZEB3IhV59YXeW.jpg",
+        "public_metrics": {
+          "view_count": 622
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086983489224601600/vid/avc1/320x486/k9t00E7vs5bl1otV.mp4?tag=25"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086983489224601600/vid/avc1/480x730/llO8cpPJQhlFE0BE.mp4?tag=25"
+          },
+          {
+            "bit_rate": 12128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086983489224601600/vid/avc1/768x1168/H1xBmRbYUE-LbfA5.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086983489224601600/pl/Vxj5oomjeWkOcboT.m3u8?tag=25"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2086983580173951285",
+        "created_at": "2026-08-11T17:54:07.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087236130022576489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839502244737384448",
+              "start": 0,
+              "username": "fchn161037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087236130022576489",
+        "in_reply_to_user_id": "1839502244737384448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086983580173951285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fchn161037 必回 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086983489224601600"
+          ]
+        },
+        "author_id": "1839502244737384448",
+        "conversation_id": "2086983580173951285",
+        "created_at": "2026-08-11T01:10:34.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086983580173951285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "交朋友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3rPN8wpCC",
+              "end": 70,
+              "expanded_url": "https://x.com/fchn161037/status/2086983580173951285/video/1",
+              "media_key": "13_2086983489224601600",
+              "start": 47,
+              "url": "https://t.co/W3rPN8wpCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086983580173951285",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086983489224601600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2336,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 93,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好呀！\n\n继续加油兄弟们！\n\n主动点绝对没猜错的！\n\n来交个朋友吧！#蓝v互关 #交朋友 https://t.co/W3rPN8wpCC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087236130022576489",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17661,
+          "following_count": 3111,
+          "like_count": 8293,
+          "listed_count": 31,
+          "media_count": 2381,
+          "tweet_count": 4122
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-27T03:08:19.000Z",
+        "description": "🪙币圈10年｜💬有关必回｜🧠 Web3点子王｜🥴一肚子坏水｜🪩闲置的BTC找我换不锈钢盆 真实创作，清晰回报 https://t.co/kNZXoF4tOD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xinhuo123.com/auth?ref=E7A5F…",
+                "end": 78,
+                "expanded_url": "https://xinhuo123.com/auth?ref=E7A5F1A17C",
+                "start": 55,
+                "url": "https://t.co/kNZXoF4tOD"
+              }
+            ]
+          }
+        },
+        "id": "1839502244737384448",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087232321715871825",
+        "name": "区块练习生",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839502244737384448/1782918616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058849173126967296/_78RCGDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13954,
+          "following_count": 14386,
+          "like_count": 23104,
+          "listed_count": 7,
+          "media_count": 721,
+          "tweet_count": 12379
+        },
+        "url": "",
+        "username": "fchn161037",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

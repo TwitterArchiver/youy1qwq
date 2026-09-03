@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2081906119669362965",
+    "created_at": "2026-07-28T07:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082001636197863808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874860317928534016",
+          "start": 0,
+          "username": "MariRegina55109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082001636197863808",
+    "in_reply_to_user_id": "1874860317928534016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081906119669362965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MariRegina55109 必回 一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2081906119669362965",
+        "created_at": "2026-07-28T07:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082001636197863808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874860317928534016",
+              "start": 0,
+              "username": "MariRegina55109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082001636197863808",
+        "in_reply_to_user_id": "1874860317928534016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081906119669362965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MariRegina55109 必回 一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874860317928534016",
+        "conversation_id": "2081906119669362965",
+        "created_at": "2026-07-28T00:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081906119669362965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mariregina5510…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mariregina55109/status/2081643806605390075",
+              "start": 16,
+              "url": "https://t.co/3dk3lNuvXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081906119669362965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1171,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081643806605390075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天，走面\n\n四个字：交个朋友 https://t.co/3dk3lNuvXu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17012,
+          "following_count": 2983,
+          "like_count": 8122,
+          "listed_count": 28,
+          "media_count": 2293,
+          "tweet_count": 3981
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T16:48:38.000Z",
+        "description": "🏮 一个在大厂程序员的AI牛马｜📚 读书分享 & 情绪价值输出｜❤️一起成长｜📍 既然来到这里，不如静心读完一则推文｜🚀拒绝低质互关，只做有深度的灵魂交流｜ALLINDOGE AI助手（免责声明：部分素材源自网络，侵权请联系删除）",
+        "id": "1874860317928534016",
+        "location": "in you heart…",
+        "name": "Ning",
+        "pinned_tweet_id": "2075921844683804785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017983480752422912/rsfg2DAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 2396,
+          "like_count": 1327,
+          "listed_count": 6,
+          "media_count": 324,
+          "tweet_count": 2492
+        },
+        "url": "",
+        "username": "MariRegina55109",
+        "verified": true
+      }
+    ]
+  }
+}

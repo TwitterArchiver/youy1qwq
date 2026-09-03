@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086812811846717440",
+        "3_2086812811859316736"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2086812824878403935",
+    "created_at": "2026-08-10T13:52:03.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T14:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086812824878403935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OiVxneYWdB",
+          "end": 132,
+          "expanded_url": "https://x.com/youy1qwq/status/2086812824878403935/photo/1",
+          "media_key": "3_2086812811846717440",
+          "start": 109,
+          "url": "https://t.co/OiVxneYWdB"
+        },
+        {
+          "display_url": "pic.x.com/OiVxneYWdB",
+          "end": 132,
+          "expanded_url": "https://x.com/youy1qwq/status/2086812824878403935/photo/1",
+          "media_key": "3_2086812811859316736",
+          "start": 109,
+          "url": "https://t.co/OiVxneYWdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086812824878403935",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086812811846717440"
+      },
+      {
+        "media_key": "3_2086812811859316736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "广告宣传语是“小葵花妈妈课堂开课啦”的葵花药业的创始人，给他前妻砍成植物人了…还是当着他们未成年儿子的面\n\n而且葵花药业是关彦斌和前妻张晓兰共同创立，张晓兰曾放弃公职、借贷1500万助其东山再起，是公司核心创业功臣。\n\n但是关彦斌东山再起之后就出轨了自己的女秘书，还生了两个孩子，而张晓兰只要求赔偿9亿，放弃股份，自己带着孩子出国。\n\n因为孩子想回家看看爸爸，张晓兰就带着孩子回去见了一面，然后悲剧就发生了。关彦斌当着孩子的面对张晓兰连砍四刀。\n\n关彦斌被判11年，而张晓兰至今未拿到全部补偿款。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广告宣传语是“小葵花妈妈课堂开课啦”的葵花药业的创始人，给他前妻砍成植物人了…还是当着他们未成年儿子的面\n\n而且葵花药业是关彦斌和前妻张晓兰共同创立，张晓兰曾放弃公职、借贷1500万助其东山再起，是公司核心创业功臣。 https://t.co/OiVxneYWdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2086812811846717440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXZMirbkAAV_8R.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1430,
+        "media_key": "3_2086812811859316736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXZMiub0AA0vWD.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086812811846717440",
+            "3_2086812811859316736"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086812824878403935",
+        "created_at": "2026-08-10T13:52:03.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086812824878403935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OiVxneYWdB",
+              "end": 132,
+              "expanded_url": "https://x.com/youy1qwq/status/2086812824878403935/photo/1",
+              "media_key": "3_2086812811846717440",
+              "start": 109,
+              "url": "https://t.co/OiVxneYWdB"
+            },
+            {
+              "display_url": "pic.x.com/OiVxneYWdB",
+              "end": 132,
+              "expanded_url": "https://x.com/youy1qwq/status/2086812824878403935/photo/1",
+              "media_key": "3_2086812811859316736",
+              "start": 109,
+              "url": "https://t.co/OiVxneYWdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086812824878403935",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086812811846717440"
+          },
+          {
+            "media_key": "3_2086812811859316736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "广告宣传语是“小葵花妈妈课堂开课啦”的葵花药业的创始人，给他前妻砍成植物人了…还是当着他们未成年儿子的面\n\n而且葵花药业是关彦斌和前妻张晓兰共同创立，张晓兰曾放弃公职、借贷1500万助其东山再起，是公司核心创业功臣。\n\n但是关彦斌东山再起之后就出轨了自己的女秘书，还生了两个孩子，而张晓兰只要求赔偿9亿，放弃股份，自己带着孩子出国。\n\n因为孩子想回家看看爸爸，张晓兰就带着孩子回去见了一面，然后悲剧就发生了。关彦斌当着孩子的面对张晓兰连砍四刀。\n\n关彦斌被判11年，而张晓兰至今未拿到全部补偿款。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广告宣传语是“小葵花妈妈课堂开课啦”的葵花药业的创始人，给他前妻砍成植物人了…还是当着他们未成年儿子的面\n\n而且葵花药业是关彦斌和前妻张晓兰共同创立，张晓兰曾放弃公职、借贷1500万助其东山再起，是公司核心创业功臣。 https://t.co/OiVxneYWdB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086812824878403935",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17494,
+          "following_count": 3095,
+          "like_count": 8262,
+          "listed_count": 31,
+          "media_count": 2377,
+          "tweet_count": 4111
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

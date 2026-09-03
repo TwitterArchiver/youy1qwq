@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2082742067181339055",
+    "created_at": "2026-07-30T13:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082816215559569741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1576952974810619904",
+          "start": 0,
+          "username": "zeusky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082816215559569741",
+    "in_reply_to_user_id": "1576952974810619904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082742067181339055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeusky9 来了哦 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2082742059971330049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdi3mNbQAE9OwD.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2082742067181339055",
+        "created_at": "2026-07-30T13:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082816215559569741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1576952974810619904",
+              "start": 0,
+              "username": "zeusky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082816215559569741",
+        "in_reply_to_user_id": "1576952974810619904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082742067181339055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeusky9 来了哦 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082742059971330049"
+          ]
+        },
+        "author_id": "1576952974810619904",
+        "conversation_id": "2082742067181339055",
+        "created_at": "2026-07-30T08:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082742067181339055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "蓝V"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d71lmKGM3N",
+              "end": 129,
+              "expanded_url": "https://x.com/zeusky9/status/2082742067181339055/photo/1",
+              "media_key": "3_2082742059971330049",
+              "start": 106,
+              "url": "https://t.co/d71lmKGM3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082742067181339055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2428,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 118,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来呀，X上还有新面孔吗？一起互关呀！ #蓝V互关 ！          \n\n只要你是 #蓝V ！ 不管粉丝多少 不管你是干啥滴！          \n\n评论区留言统统互关，关上就永不取消的！来走个面，交个朋友。 https://t.co/d71lmKGM3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17205,
+          "following_count": 3013,
+          "like_count": 8127,
+          "listed_count": 28,
+          "media_count": 2303,
+          "tweet_count": 3997
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-03T15:11:15.000Z",
+        "description": "币圈生存日记 ｜Web3交互体验师｜AI +出海赚钱｜数字游民攻略｜分享信息差0到1实战",
+        "id": "1576952974810619904",
+        "location": "金融服务",
+        "name": "Crypto 宙斯",
+        "pinned_tweet_id": "2042623076006007285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742404581202747392/U_URIbxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6432,
+          "following_count": 2485,
+          "like_count": 497,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 2422
+        },
+        "url": "",
+        "username": "zeusky9",
+        "verified": true
+      }
+    ]
+  }
+}

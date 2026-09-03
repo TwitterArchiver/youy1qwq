@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2082050457829245302",
+    "created_at": "2026-07-28T12:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082077373227471269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2034500621513240576",
+          "start": 0,
+          "username": "JueeXing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082077373227471269",
+    "in_reply_to_user_id": "2034500621513240576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082050457829245302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JueeXing 加油 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082050448887013376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTt2iJaYAAupd2.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2082050457829245302",
+        "created_at": "2026-07-28T12:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082077373227471269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2034500621513240576",
+              "start": 0,
+              "username": "JueeXing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082077373227471269",
+        "in_reply_to_user_id": "2034500621513240576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082050457829245302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JueeXing 加油 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082050448887013376"
+          ]
+        },
+        "author_id": "2034500621513240576",
+        "conversation_id": "2082050457829245302",
+        "created_at": "2026-07-28T10:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082050457829245302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WstE260vkU",
+              "end": 50,
+              "expanded_url": "https://x.com/JueeXing/status/2082050457829245302/photo/1",
+              "media_key": "3_2082050448887013376",
+              "start": 27,
+              "url": "https://t.co/WstE260vkU"
+            },
+            {
+              "display_url": "x.com/sunny19930522/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/sunny19930522/status/2081977230700482897",
+              "start": 51,
+              "url": "https://t.co/pTw1t6lFZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082050457829245302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081977230700482897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经突破9000\n\n这星期目标1万！\n\n加油！兄弟们 https://t.co/WstE260vkU https://t.co/pTw1t6lFZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17018,
+          "following_count": 2985,
+          "like_count": 8124,
+          "listed_count": 28,
+          "media_count": 2295,
+          "tweet_count": 3985
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T05:27:24.000Z",
+        "description": "个人成长｜价值投资\n\n提升自身思维，打破僵局\n\n自由职业者 | 段子手",
+        "id": "2034500621513240576",
+        "location": "Kanagawa-ken, Japan",
+        "name": "Juee",
+        "pinned_tweet_id": "2081929501383299570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075857245926236160/-J2aX0-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9025,
+          "following_count": 4592,
+          "like_count": 14674,
+          "listed_count": 9,
+          "media_count": 795,
+          "tweet_count": 33384
+        },
+        "url": "",
+        "username": "JueeXing",
+        "verified": true
+      }
+    ]
+  }
+}

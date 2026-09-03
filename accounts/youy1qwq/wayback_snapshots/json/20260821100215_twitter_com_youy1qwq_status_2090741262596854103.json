@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090741258868105217"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090741262596854103",
+    "created_at": "2026-08-21T10:02:15.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090741262596854103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zR0OZ1PTX4",
+          "end": 37,
+          "expanded_url": "https://x.com/youy1qwq/status/2090741262596854103/photo/1",
+          "media_key": "3_2090741258868105217",
+          "start": 14,
+          "url": "https://t.co/zR0OZ1PTX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090741262596854103",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090741258868105217"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浩克来了应该能刮一片尝尝味 https://t.co/zR0OZ1PTX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_2090741258868105217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPOGQQWIAEVnFV.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090741258868105217"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090741262596854103",
+        "created_at": "2026-08-21T10:02:15.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090741262596854103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zR0OZ1PTX4",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2090741262596854103/photo/1",
+              "media_key": "3_2090741258868105217",
+              "start": 14,
+              "url": "https://t.co/zR0OZ1PTX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090741262596854103",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090741258868105217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浩克来了应该能刮一片尝尝味 https://t.co/zR0OZ1PTX4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090741262596854103",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18045,
+          "following_count": 3173,
+          "like_count": 8388,
+          "listed_count": 32,
+          "media_count": 2428,
+          "tweet_count": 4209
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

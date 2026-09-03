@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2093828758604300679",
+    "created_at": "2026-08-30T14:56:34.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T15:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094076820194783360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959025762725765120",
+          "start": 0,
+          "username": "AlanShao111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094076820194783360",
+    "in_reply_to_user_id": "1959025762725765120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093828758604300679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlanShao111 互关吗alan我也在美国我是你老粉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2093828368756330496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7FzsxbUAAS6rh.png",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2093828758604300679",
+        "created_at": "2026-08-30T14:56:34.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094076820194783360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959025762725765120",
+              "start": 0,
+              "username": "AlanShao111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094076820194783360",
+        "in_reply_to_user_id": "1959025762725765120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093828758604300679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlanShao111 互关吗alan我也在美国我是你老粉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093828368756330496"
+          ]
+        },
+        "author_id": "1959025762725765120",
+        "conversation_id": "2093828758604300679",
+        "created_at": "2026-08-29T22:30:52.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T23:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093828758604300679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYHEdes4Gh",
+              "end": 70,
+              "expanded_url": "https://x.com/AlanShao111/status/2093828758604300679/photo/1",
+              "media_key": "3_2093828368756330496",
+              "start": 47,
+              "url": "https://t.co/GYHEdes4Gh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093828758604300679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093828368756330496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 70251,
+          "like_count": 299,
+          "quote_count": 9,
+          "reply_count": 104,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "薄肌教父，正式杀入中文X涨粉榜前三\n\n前两名在聊大事，\n我在聊薄肌🤣\n\n大薄肌时代，真的来了 https://t.co/GYHEdes4Gh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094076820194783360",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18252,
+          "following_count": 3224,
+          "like_count": 8432,
+          "listed_count": 39,
+          "media_count": 2461,
+          "tweet_count": 4256
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-22T22:52:02.000Z",
+        "description": "千万粉丝Content Creator\n分享商业、投资、互联网和人生思考\nYouTube：邵艾伦Alan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@alanshao1",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@alanshao1",
+                "start": 0,
+                "url": "https://t.co/RWHVdajNJi"
+              }
+            ]
+          }
+        },
+        "id": "1959025762725765120",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2093954700886589537",
+        "name": "邵艾伦Alan（薄肌版）",
+        "pinned_tweet_id": "2089049662611399110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959025762725765120/1755903250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086673168098570240/6K719ph7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26138,
+          "following_count": 95,
+          "like_count": 448,
+          "listed_count": 22,
+          "media_count": 43,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/RWHVdajNJi",
+        "username": "AlanShao111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

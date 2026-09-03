@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092840169443299328"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2092840173587271788",
+    "created_at": "2026-08-27T05:02:35.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092840173587271788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzZncfWeph",
+          "end": 58,
+          "expanded_url": "https://x.com/youy1qwq/status/2092840173587271788/photo/1",
+          "media_key": "3_2092840169443299328",
+          "start": 35,
+          "url": "https://t.co/wzZncfWeph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092840173587271788",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092840169443299328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我中考进考场 监考员用金属探测仪敲我肚子 问我这是什么 我说是我肚子 https://t.co/wzZncfWeph"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2092840169443299328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtDC7dWEAAwXGv.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092840169443299328"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2092840173587271788",
+        "created_at": "2026-08-27T05:02:35.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092840173587271788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzZncfWeph",
+              "end": 58,
+              "expanded_url": "https://x.com/youy1qwq/status/2092840173587271788/photo/1",
+              "media_key": "3_2092840169443299328",
+              "start": 35,
+              "url": "https://t.co/wzZncfWeph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092840173587271788",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092840169443299328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我中考进考场 监考员用金属探测仪敲我肚子 问我这是什么 我说是我肚子 https://t.co/wzZncfWeph"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092840173587271788",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18237,
+          "following_count": 3206,
+          "like_count": 8422,
+          "listed_count": 38,
+          "media_count": 2448,
+          "tweet_count": 4237
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

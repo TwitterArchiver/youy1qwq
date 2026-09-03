@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085623202437529601"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2085623210427703716",
+    "created_at": "2026-08-07T07:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085623210427703716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3UtIK81b8I",
+          "end": 92,
+          "expanded_url": "https://x.com/youy1qwq/status/2085623210427703716/photo/1",
+          "media_key": "3_2085623202437529601",
+          "start": 69,
+          "url": "https://t.co/3UtIK81b8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085623210427703716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甲曰：以吾观之，若辈之苦，殆甚于我。\n乙对曰：苦乐者，岂得以相较哉！\n纵使马斯克丧母于旦暮，亦必悲泣。\n若丐者得二酸果，亦可以喜至齿堕。 https://t.co/3UtIK81b8I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2085623202437529601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGfQKSaAAEzQxS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085623202437529601"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2085623210427703716",
+        "created_at": "2026-08-07T07:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085623210427703716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UtIK81b8I",
+              "end": 92,
+              "expanded_url": "https://x.com/youy1qwq/status/2085623210427703716/photo/1",
+              "media_key": "3_2085623202437529601",
+              "start": 69,
+              "url": "https://t.co/3UtIK81b8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085623210427703716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲曰：以吾观之，若辈之苦，殆甚于我。\n乙对曰：苦乐者，岂得以相较哉！\n纵使马斯克丧母于旦暮，亦必悲泣。\n若丐者得二酸果，亦可以喜至齿堕。 https://t.co/3UtIK81b8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17306,
+          "following_count": 3052,
+          "like_count": 8178,
+          "listed_count": 28,
+          "media_count": 2355,
+          "tweet_count": 4062
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

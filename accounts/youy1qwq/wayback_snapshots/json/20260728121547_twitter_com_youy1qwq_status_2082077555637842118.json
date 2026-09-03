@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2081784876974706715",
+    "created_at": "2026-07-28T12:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082077555637842118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2077269411506077696",
+          "start": 0,
+          "username": "AwakerOTE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082077555637842118",
+    "in_reply_to_user_id": "2077269411506077696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081784876974706715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwakerOTE 来吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2081784867671670784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP8TrBagAAhHHD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2081784876974706715",
+        "created_at": "2026-07-28T12:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082077555637842118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077269411506077696",
+              "start": 0,
+              "username": "AwakerOTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082077555637842118",
+        "in_reply_to_user_id": "2077269411506077696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081784876974706715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwakerOTE 来吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081784867671670784"
+          ]
+        },
+        "author_id": "2077269411506077696",
+        "conversation_id": "2081784876974706715",
+        "created_at": "2026-07-27T16:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081784876974706715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zydQHr4uxR",
+              "end": 34,
+              "expanded_url": "https://x.com/AwakerOTE/status/2081784876974706715/photo/1",
+              "media_key": "3_2081784867671670784",
+              "start": 11,
+              "url": "https://t.co/zydQHr4uxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081784876974706715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位大佬，今日汇报！ https://t.co/zydQHr4uxR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17018,
+          "following_count": 2985,
+          "like_count": 8124,
+          "listed_count": 28,
+          "media_count": 2295,
+          "tweet_count": 3986
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T05:50:28.000Z",
+        "description": "思维发散而已\n脑洞大开而已\n很高兴认识你\n\n专注小而精的vibe coding",
+        "id": "2077269411506077696",
+        "name": "Awaker OTE",
+        "pinned_tweet_id": "2080207057463197855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079924443946926080/K6Re-r1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 416,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "AwakerOTE",
+        "verified": true
+      }
+    ]
+  }
+}

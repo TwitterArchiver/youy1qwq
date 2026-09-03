@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2088160900800987430",
+    "created_at": "2026-08-14T12:54:07.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088247796424233321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1582624885989208064",
+          "start": 0,
+          "username": "choseitaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088247796424233321",
+    "in_reply_to_user_id": "1582624885989208064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088160900800987430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choseitaku 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2088160900800987430",
+        "created_at": "2026-08-14T12:54:07.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088247796424233321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1582624885989208064",
+              "start": 0,
+              "username": "choseitaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088247796424233321",
+        "in_reply_to_user_id": "1582624885989208064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088160900800987430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choseitaku 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582624885989208064",
+        "conversation_id": "2088160900800987430",
+        "created_at": "2026-08-14T07:08:49.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088160900800987430"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088160900800987430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1214,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近一段时间忙着学习，没有好好运营推特了，但是至少要到十月底才能出结果。家人们我该怎么做比较好\n\n#蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088247796424233321",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17753,
+          "following_count": 3133,
+          "like_count": 8335,
+          "listed_count": 31,
+          "media_count": 2391,
+          "tweet_count": 4152
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-19T06:49:43.000Z",
+        "description": "AI Builder｜游戏开发 | 提示词工程师｜AI 原生项目开发｜自动化工作流实战｜分享 AI 资讯、教程与变现案例｜专注 AI 图像/视频创作、角色美学与视觉风格体系构建\nhttps://t.co/CX8LGt8Nos",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/ChoSeitaku",
+                "end": 112,
+                "expanded_url": "https://github.com/ChoSeitaku",
+                "start": 89,
+                "url": "https://t.co/CX8LGt8Nos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "choseitaku.github.io",
+                "end": 23,
+                "expanded_url": "https://choseitaku.github.io/",
+                "start": 0,
+                "url": "https://t.co/bdFC3ly58g"
+              }
+            ]
+          }
+        },
+        "id": "1582624885989208064",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088219815274266823",
+        "name": "张正泽",
+        "pinned_tweet_id": "2070454159313362946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1582624885989208064/1779940212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059875942869430272/_-VBKbXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 4511,
+          "like_count": 3259,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/bdFC3ly58g",
+        "username": "choseitaku",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

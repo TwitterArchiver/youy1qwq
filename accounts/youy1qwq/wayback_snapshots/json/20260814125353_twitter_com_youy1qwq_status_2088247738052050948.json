@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2087915604091208174",
+    "created_at": "2026-08-14T12:53:53.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088247738052050948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066402071784673280",
+          "start": 0,
+          "username": "Bevispvig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088247738052050948",
+    "in_reply_to_user_id": "2066402071784673280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087915604091208174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bevispvig 必回哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087915595073564672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnEK-VbsAA9jdG.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2087915604091208174",
+        "created_at": "2026-08-14T12:53:53.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088247738052050948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066402071784673280",
+              "start": 0,
+              "username": "Bevispvig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088247738052050948",
+        "in_reply_to_user_id": "2066402071784673280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087915604091208174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bevispvig 必回哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087915595073564672"
+          ]
+        },
+        "author_id": "2066402071784673280",
+        "conversation_id": "2087915604091208174",
+        "created_at": "2026-08-13T14:54:06.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087915604091208174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "互关刷到就是缘分"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUkPvvjCAC",
+              "end": 75,
+              "expanded_url": "https://x.com/Bevispvig/status/2087915604091208174/photo/1",
+              "media_key": "3_2087915595073564672",
+              "start": 52,
+              "url": "https://t.co/UUkPvvjCAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087915604091208174",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087915595073564672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1015,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近流量不太好\n\n大家一起互关一波吧\n\n#互关刷到就是缘分\n\n反手就是一个赞\n\n有关必回，双向奔赴～🫰 https://t.co/UUkPvvjCAC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088247738052050948",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17753,
+          "following_count": 3133,
+          "like_count": 8335,
+          "listed_count": 31,
+          "media_count": 2391,
+          "tweet_count": 4150
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T06:09:59.000Z",
+        "description": "#BTC #ETH #XAU \n\n#Web3 builders, Meme, currency speculation, airdrop, all experienced, learn together, accumulate experience, and get rich together!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BTC"
+              },
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "ETH"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "XAU"
+              },
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "Web3"
+              }
+            ]
+          }
+        },
+        "id": "2066402071784673280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088246883286396942",
+        "name": "Bevis",
+        "pinned_tweet_id": "2078372726251876816",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066402071784673280/1782951353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087532818981367808/La50aYVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 2049,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "Bevispvig",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

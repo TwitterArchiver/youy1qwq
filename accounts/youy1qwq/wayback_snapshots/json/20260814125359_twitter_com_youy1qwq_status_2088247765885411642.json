@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2088075564972429321",
+    "created_at": "2026-08-14T12:53:59.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088247765885411642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042023512236552192",
+          "start": 0,
+          "username": "Timbazp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088247765885411642",
+    "in_reply_to_user_id": "2042023512236552192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088075564972429321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Timbazp 我也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088075557963694080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpVqCiaAAAwJoK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2088075564972429321",
+        "created_at": "2026-08-14T12:53:59.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088247765885411642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042023512236552192",
+              "start": 0,
+              "username": "Timbazp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088247765885411642",
+        "in_reply_to_user_id": "2042023512236552192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088075564972429321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timbazp 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088075557963694080"
+          ]
+        },
+        "author_id": "2042023512236552192",
+        "conversation_id": "2088075564972429321",
+        "created_at": "2026-08-14T01:29:43.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088075564972429321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/keoVzU325z",
+              "end": 48,
+              "expanded_url": "https://x.com/Timbazp/status/2088075564972429321/photo/1",
+              "media_key": "3_2088075557963694080",
+              "start": 25,
+              "url": "https://t.co/keoVzU325z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088075564972429321",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088075557963694080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2144,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 78,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这个粉丝数和关注数\n\n一直在掉\n\n好多人离开了 https://t.co/keoVzU325z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088247765885411642",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17753,
+          "following_count": 3133,
+          "like_count": 8335,
+          "listed_count": 31,
+          "media_count": 2391,
+          "tweet_count": 4151
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T23:35:54.000Z",
+        "description": "湖南大学软件工程硕士 | 嵌入式软件工程师 | 金融交易爱好者 | Code the system | Trade the world | Manage the future",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Tim_-z7h",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Tim_-z7h",
+                "start": 0,
+                "url": "https://t.co/cJd0g8J7WD"
+              }
+            ]
+          }
+        },
+        "id": "2042023512236552192",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088211138576273636",
+        "name": "Tim",
+        "pinned_tweet_id": "2077752797769187488",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042023512236552192/1775744363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042261095390547968/O2Etb10x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6056,
+          "following_count": 4080,
+          "like_count": 13149,
+          "listed_count": 11,
+          "media_count": 474,
+          "tweet_count": 17347
+        },
+        "url": "https://t.co/cJd0g8J7WD",
+        "username": "Timbazp",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

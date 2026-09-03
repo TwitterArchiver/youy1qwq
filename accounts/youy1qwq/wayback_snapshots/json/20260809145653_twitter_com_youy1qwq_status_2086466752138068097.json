@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2086295590716248483",
+    "created_at": "2026-08-09T14:56:53.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086466752138068097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492409750541115397",
+          "start": 0,
+          "username": "fanqie16888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086466752138068097",
+    "in_reply_to_user_id": "1492409750541115397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086295590716248483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanqie16888 我来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2086295590716248483",
+        "created_at": "2026-08-09T14:56:53.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086466752138068097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492409750541115397",
+              "start": 0,
+              "username": "fanqie16888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086466752138068097",
+        "in_reply_to_user_id": "1492409750541115397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086295590716248483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanqie16888 我来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492409750541115397",
+        "conversation_id": "2086295590716248483",
+        "created_at": "2026-08-09T03:36:44.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086295590716248483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086295590716248483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2931,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚喝多发疯了，推文全清了。\n还点错取关了许多人。😂\n\n点错取关的朋友来评论一下，下回我不喝了🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086466752138068097",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17406,
+          "following_count": 3070,
+          "like_count": 8255,
+          "listed_count": 30,
+          "media_count": 2374,
+          "tweet_count": 4104
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-12T08:06:41.000Z",
+        "description": "web3玩家。\n贪财好色，俗人一个。",
+        "id": "1492409750541115397",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086396725997248644",
+        "name": "番茄🍅",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492409750541115397/1730728699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902256653266984960/pTmKA273_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31793,
+          "following_count": 4488,
+          "like_count": 4535,
+          "listed_count": 312,
+          "media_count": 18,
+          "tweet_count": 4316
+        },
+        "url": "",
+        "username": "fanqie16888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2084078337488785809",
+    "created_at": "2026-08-03T06:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084162741712064556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1398533770181963776",
+          "start": 0,
+          "username": "borislam18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084162741712064556",
+    "in_reply_to_user_id": "1398533770181963776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084078337488785809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borislam18 我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2084078337488785809",
+        "created_at": "2026-08-03T06:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084162741712064556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1398533770181963776",
+              "start": 0,
+              "username": "borislam18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084162741712064556",
+        "in_reply_to_user_id": "1398533770181963776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084078337488785809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borislam18 我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398533770181963776",
+        "conversation_id": "2084078337488785809",
+        "created_at": "2026-08-03T00:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084078337488785809"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "蓝v走面"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084078337488785809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2437,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 92,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永不取关： 蓝V互关最快的方式，是去看别人的蓝V互关帖，而不是只发帖等人来。  一定要把他们的关注列表一个个点。  那里才有效果。自己主动一点，涨粉就会快很多。  #蓝v走面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17248,
+          "following_count": 3033,
+          "like_count": 8143,
+          "listed_count": 28,
+          "media_count": 2325,
+          "tweet_count": 4027
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-29T06:57:27.000Z",
+        "description": "Crypto world, web 3. Olandbox Community",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oland.info/tesla.o",
+                "end": 23,
+                "expanded_url": "https://oland.info/tesla.o",
+                "start": 0,
+                "url": "https://t.co/V2TNhTNsq6"
+              }
+            ]
+          }
+        },
+        "id": "1398533770181963776",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "Boris ꧁IP꧂",
+        "pinned_tweet_id": "1626153189799243776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716752614707318784/PRAunQy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13280,
+          "following_count": 10692,
+          "like_count": 18888,
+          "listed_count": 16,
+          "media_count": 363,
+          "tweet_count": 9363
+        },
+        "url": "https://t.co/V2TNhTNsq6",
+        "username": "borislam18",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2086812824878403935",
+    "created_at": "2026-08-10T16:54:43.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086858797193252922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1170107964834926592",
+          "start": 0,
+          "username": "Freedom_Lian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086858797193252922",
+    "in_reply_to_user_id": "1170107964834926592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086854729884115066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freedom_Lian 天啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2086812824878403935",
+        "created_at": "2026-08-10T16:54:43.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086858797193252922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1170107964834926592",
+              "start": 0,
+              "username": "Freedom_Lian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086858797193252922",
+        "in_reply_to_user_id": "1170107964834926592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086854729884115066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freedom_Lian 天啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170107964834926592",
+        "conversation_id": "2086812824878403935",
+        "created_at": "2026-08-10T16:38:34.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086854729884115066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086854729884115066",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086812824878403935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 查了一下那个儿子还给生物爹出了谅解书，果然没一个无辜的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086858797193252922",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17519,
+          "following_count": 3098,
+          "like_count": 8266,
+          "listed_count": 31,
+          "media_count": 2377,
+          "tweet_count": 4113
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-06T22:54:21.000Z",
+        "description": "欢迎在下面的steam商店把《捡到富婆上司的男宠》加入愿望单。Discord不定期和好厚米聊游戏：https://t.co/OWvUVz2Ju2 我亲自实名上网 @chemgeeklian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "chemgeeklian"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Edj7gc3jMR",
+                "end": 72,
+                "expanded_url": "https://discord.gg/Edj7gc3jMR",
+                "start": 49,
+                "url": "https://t.co/OWvUVz2Ju2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/5013140/_/",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/5013140/_/",
+                "start": 0,
+                "url": "https://t.co/Rq5OqyuWh3"
+              }
+            ]
+          }
+        },
+        "id": "1170107964834926592",
+        "is_identity_verified": false,
+        "location": "Chicago",
+        "most_recent_tweet_id": "2086854729884115066",
+        "name": "Freedom_Lian",
+        "pinned_tweet_id": "2085873201066774934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170107964834926592/1776640801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027058795063508992/wJSGcSlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3522,
+          "following_count": 440,
+          "like_count": 17693,
+          "listed_count": 20,
+          "media_count": 2424,
+          "tweet_count": 16875
+        },
+        "url": "https://t.co/Rq5OqyuWh3",
+        "username": "Freedom_Lian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

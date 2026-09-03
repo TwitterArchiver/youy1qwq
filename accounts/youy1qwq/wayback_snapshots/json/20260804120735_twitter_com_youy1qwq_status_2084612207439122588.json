@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2084527945176195107",
+    "created_at": "2026-08-04T12:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084612207439122588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826498338696626176",
+          "start": 0,
+          "username": "allenwan911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084612207439122588",
+    "in_reply_to_user_id": "1826498338696626176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084527945176195107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allenwan911 来呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2084527133125427200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO26Yh6awAABBgR.jpg",
+        "width": 1302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2084527945176195107",
+        "created_at": "2026-08-04T12:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084612207439122588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826498338696626176",
+              "start": 0,
+              "username": "allenwan911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084612207439122588",
+        "in_reply_to_user_id": "1826498338696626176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084527945176195107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allenwan911 来呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084527133125427200"
+          ]
+        },
+        "author_id": "1826498338696626176",
+        "conversation_id": "2084527945176195107",
+        "created_at": "2026-08-04T06:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084527945176195107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nb7yjhHWNa",
+              "end": 45,
+              "expanded_url": "https://x.com/allenwan911/status/2084527945176195107/photo/1",
+              "media_key": "3_2084527133125427200",
+              "start": 22,
+              "url": "https://t.co/Nb7yjhHWNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084527945176195107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3227,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 91,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始走量了\n\n陆续回访，感谢各位信任和支持 https://t.co/Nb7yjhHWNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17256,
+          "following_count": 3039,
+          "like_count": 8150,
+          "listed_count": 28,
+          "media_count": 2331,
+          "tweet_count": 4033
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-22T05:55:32.000Z",
+        "description": "分享能落地的 AI 工具与实践\n技术向 · 爱折腾新东西 · 会回复\nBuild in public · HK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/wanweiLab/code…",
+                "end": 23,
+                "expanded_url": "https://github.com/wanweiLab/codex-usage-menu",
+                "start": 0,
+                "url": "https://t.co/iGF1kEetji"
+              }
+            ]
+          }
+        },
+        "id": "1826498338696626176",
+        "location": "HK",
+        "name": "万维Lab",
+        "pinned_tweet_id": "2080231452457988238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078733426799370240/li7VY30d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 454,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/iGF1kEetji",
+        "username": "allenwan911",
+        "verified": true
+      }
+    ]
+  }
+}

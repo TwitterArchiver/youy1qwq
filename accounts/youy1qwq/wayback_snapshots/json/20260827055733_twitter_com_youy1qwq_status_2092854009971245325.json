@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2092761485839868206",
+    "created_at": "2026-08-27T05:57:33.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092854009971245325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1934066306841726977",
+          "start": 0,
+          "username": "s6629z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092854009971245325",
+    "in_reply_to_user_id": "1934066306841726977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092761485839868206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s6629z 借楼 必回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2092761472908906496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQr7eMBb0AA1Wd3.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2092761485839868206",
+        "created_at": "2026-08-27T05:57:33.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092854009971245325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1934066306841726977",
+              "start": 0,
+              "username": "s6629z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092854009971245325",
+        "in_reply_to_user_id": "1934066306841726977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092761485839868206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s6629z 借楼 必回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092761472908906496"
+          ]
+        },
+        "author_id": "1934066306841726977",
+        "conversation_id": "2092761485839868206",
+        "created_at": "2026-08-26T23:49:54.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092761485839868206"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "交个朋友"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLjDRTT2Wm",
+              "end": 54,
+              "expanded_url": "https://x.com/s6629z/status/2092761485839868206/photo/1",
+              "media_key": "3_2092761472908906496",
+              "start": 31,
+              "url": "https://t.co/mLjDRTT2Wm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092761485839868206",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092761472908906496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1706,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 99,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天继续互关呀\n关注就回\n永不取关\n#交个朋友 \n#蓝v互关 https://t.co/mLjDRTT2Wm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092854009971245325",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18238,
+          "following_count": 3206,
+          "like_count": 8424,
+          "listed_count": 39,
+          "media_count": 2448,
+          "tweet_count": 4238
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-15T01:52:13.000Z",
+        "description": "诚信 有你有我",
+        "id": "1934066306841726977",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092769020256870828",
+        "name": "～这是好事啊～",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089333845481144320/8OhozAKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5811,
+          "following_count": 5451,
+          "like_count": 87,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 3122
+        },
+        "url": "",
+        "username": "s6629z",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

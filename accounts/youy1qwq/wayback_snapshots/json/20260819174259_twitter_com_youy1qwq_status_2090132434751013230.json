@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090132425427038208"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2090132434751013230",
+    "created_at": "2026-08-19T17:42:59.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090132434751013230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nDv0TLfm7b",
+          "end": 53,
+          "expanded_url": "https://x.com/youy1qwq/status/2090132434751013230/photo/1",
+          "media_key": "3_2090132425427038208",
+          "start": 30,
+          "url": "https://t.co/nDv0TLfm7b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090132434751013230",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090132425427038208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你惹怒了父亲，这个月的生活费似乎被减半了…\n［好感度］-2 https://t.co/nDv0TLfm7b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090132425427038208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGkXe8asAAO3VQ.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090132425427038208"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2090132434751013230",
+        "created_at": "2026-08-19T17:42:59.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090132434751013230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDv0TLfm7b",
+              "end": 53,
+              "expanded_url": "https://x.com/youy1qwq/status/2090132434751013230/photo/1",
+              "media_key": "3_2090132425427038208",
+              "start": 30,
+              "url": "https://t.co/nDv0TLfm7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090132434751013230",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090132425427038208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你惹怒了父亲，这个月的生活费似乎被减半了…\n［好感度］-2 https://t.co/nDv0TLfm7b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090132434751013230",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17914,
+          "following_count": 3162,
+          "like_count": 8382,
+          "listed_count": 32,
+          "media_count": 2416,
+          "tweet_count": 4195
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

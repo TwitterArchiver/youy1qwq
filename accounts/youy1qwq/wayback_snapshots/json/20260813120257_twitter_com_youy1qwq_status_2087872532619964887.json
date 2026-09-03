@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2087738319958589796",
+    "created_at": "2026-08-13T12:02:57.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087872532619964887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2061068428430168065",
+          "start": 0,
+          "username": "lumeroute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087872532619964887",
+    "in_reply_to_user_id": "2061068428430168065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087738319958589796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumeroute 交朋友吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087738311033118720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPki7r0aYAArun5.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2087738319958589796",
+        "created_at": "2026-08-13T12:02:57.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087872532619964887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061068428430168065",
+              "start": 0,
+              "username": "lumeroute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087872532619964887",
+        "in_reply_to_user_id": "2061068428430168065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087738319958589796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumeroute 交朋友吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087738311033118720"
+          ]
+        },
+        "author_id": "2061068428430168065",
+        "conversation_id": "2087738319958589796",
+        "created_at": "2026-08-13T03:09:38.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087738319958589796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHCHaBgESr",
+              "end": 96,
+              "expanded_url": "https://x.com/lumeroute/status/2087738319958589796/photo/1",
+              "media_key": "3_2087738311033118720",
+              "start": 73,
+              "url": "https://t.co/EHCHaBgESr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087738319958589796",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087738311033118720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 881,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "创作者主页曝光：\n昨天 6.7K 今天 7.2K\n按这个速度，再过1000天就能到50万了。\n到时候直接领马斯克低保，躺平人生正式开始。😂😂😂😂 https://t.co/EHCHaBgESr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087872532619964887",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17732,
+          "following_count": 3122,
+          "like_count": 8328,
+          "listed_count": 31,
+          "media_count": 2387,
+          "tweet_count": 4141
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T12:56:20.000Z",
+        "description": "Cloud technology practitioner 🍼\nFocused on large language models | Sharing tech news & funny memes",
+        "id": "2061068428430168065",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087865114431283226",
+        "name": "Mark Han",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061068428430168065/1780469858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062061364429148160/bcWIb4L1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4653,
+          "following_count": 4500,
+          "like_count": 1099,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 8878
+        },
+        "url": "",
+        "username": "lumeroute",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

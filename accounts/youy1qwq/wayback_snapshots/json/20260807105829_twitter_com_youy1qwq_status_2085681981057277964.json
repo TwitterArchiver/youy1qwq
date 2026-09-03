@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085681971485876224"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2085681981057277964",
+    "created_at": "2026-08-07T10:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085681981057277964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dG5vRyjldT",
+          "end": 32,
+          "expanded_url": "https://x.com/youy1qwq/status/2085681981057277964/photo/1",
+          "media_key": "3_2085681971485876224",
+          "start": 9,
+          "url": "https://t.co/dG5vRyjldT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085681981057277964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "桃黑黑这么贵？？ https://t.co/dG5vRyjldT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1633,
+        "media_key": "3_2085681971485876224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHUs-DaIAAdKWM.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085681971485876224"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2085681981057277964",
+        "created_at": "2026-08-07T10:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085681981057277964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dG5vRyjldT",
+              "end": 32,
+              "expanded_url": "https://x.com/youy1qwq/status/2085681981057277964/photo/1",
+              "media_key": "3_2085681971485876224",
+              "start": 9,
+              "url": "https://t.co/dG5vRyjldT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085681981057277964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "桃黑黑这么贵？？ https://t.co/dG5vRyjldT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17317,
+          "following_count": 3054,
+          "like_count": 8186,
+          "listed_count": 28,
+          "media_count": 2362,
+          "tweet_count": 4069
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}
