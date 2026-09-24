@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2012631283898187776",
+    "conversation_id": "2099543480196272545",
+    "created_at": "2026-09-14T21:20:45.000Z",
+    "display_text_range": [
+      16,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T22:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099609320300101927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1259568608419573761",
+          "start": 0,
+          "username": "983281636Bsqlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099609320300101927",
+    "in_reply_to_user_id": "1259568608419573761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "是的，每次一遇到啥事都先捂嘴删帖看压不下去再发个一切正常的公告真是太伟大了该磕头了，我都懒得反驳你。你知不知道在美国学校哪怕有什么疑似性骚扰的情况就立刻发通知给所有人，如果是更恶性的事件立刻全是报道和紧急警报（没有给任何国家政体说话的意思）。这次具体凶手有几个人以及人员伤亡情况我暂且蒙古，但是原帖只是从一个小市民视角对自己安稳生活的担忧都能让你破防，除了狱友我都想不出有谁能天天这么闲盯着别人的帖子找所谓“反华”内容疯狂辱骂"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099564220270711273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@983281636Bsqlz 是的，每次一遇到啥事都先捂嘴删帖看压不下去再发个一切正常的公告真是太伟大了该磕头了，我都懒得反驳你。你知不知道在美国学校哪怕有什么疑似性骚扰的情况就立刻发通知给所有人，如果是更恶性的事件立刻全是报道和紧急警报（没有给任何国家政体说话的意思）。这次具体凶手有几个人以及人员伤亡情况我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2099543480196272545",
+        "created_at": "2026-09-14T21:20:45.000Z",
+        "display_text_range": [
+          16,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T22:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099609320300101927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1259568608419573761",
+              "start": 0,
+              "username": "983281636Bsqlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099609320300101927",
+        "in_reply_to_user_id": "1259568608419573761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "是的，每次一遇到啥事都先捂嘴删帖看压不下去再发个一切正常的公告真是太伟大了该磕头了，我都懒得反驳你。你知不知道在美国学校哪怕有什么疑似性骚扰的情况就立刻发通知给所有人，如果是更恶性的事件立刻全是报道和紧急警报（没有给任何国家政体说话的意思）。这次具体凶手有几个人以及人员伤亡情况我暂且蒙古，但是原帖只是从一个小市民视角对自己安稳生活的担忧都能让你破防，除了狱友我都想不出有谁能天天这么闲盯着别人的帖子找所谓“反华”内容疯狂辱骂"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099564220270711273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@983281636Bsqlz 是的，每次一遇到啥事都先捂嘴删帖看压不下去再发个一切正常的公告真是太伟大了该磕头了，我都懒得反驳你。你知不知道在美国学校哪怕有什么疑似性骚扰的情况就立刻发通知给所有人，如果是更恶性的事件立刻全是报道和紧急警报（没有给任何国家政体说话的意思）。这次具体凶手有几个人以及人员伤亡情况我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1259568608419573761",
+        "conversation_id": "2099543480196272545",
+        "created_at": "2026-09-14T18:21:32.000Z",
+        "display_text_range": [
+          10,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T19:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099564220270711273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099564220270711273",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1232,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099543480196272545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 不公告就说压热度 事情还没调查清楚提前发通告说人员伤亡情况你就说轻描淡写 你妈死了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099609320300101927",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18371,
+          "following_count": 3277,
+          "like_count": 8498,
+          "listed_count": 42,
+          "media_count": 2505,
+          "tweet_count": 4313
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-10T19:39:02.000Z",
+        "description": "",
+        "id": "1259568608419573761",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099564220270711273",
+        "name": "ssss",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354151514684719111/Fc2V6USQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "983281636Bsqlz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

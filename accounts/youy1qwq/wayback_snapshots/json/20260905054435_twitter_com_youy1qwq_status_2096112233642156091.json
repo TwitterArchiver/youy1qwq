@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096112227598110722"
+      ]
+    },
+    "author_id": "2012631283898187776",
+    "conversation_id": "2096112233642156091",
+    "created_at": "2026-09-05T05:44:35.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096112233642156091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCtWgCMosg",
+          "end": 51,
+          "expanded_url": "https://x.com/youy1qwq/status/2096112233642156091/photo/1",
+          "media_key": "3_2096112227598110722",
+          "start": 28,
+          "url": "https://t.co/MCtWgCMosg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096112233642156091",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096112227598110722"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那这样想的话 老师也会在一届一届学生中回忆自己的往事… https://t.co/MCtWgCMosg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_2096112227598110722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbi9x9WkAIzl0H.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096112227598110722"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2096112233642156091",
+        "created_at": "2026-09-05T05:44:35.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096112233642156091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCtWgCMosg",
+              "end": 51,
+              "expanded_url": "https://x.com/youy1qwq/status/2096112233642156091/photo/1",
+              "media_key": "3_2096112227598110722",
+              "start": 28,
+              "url": "https://t.co/MCtWgCMosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096112233642156091",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096112227598110722"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那这样想的话 老师也会在一届一届学生中回忆自己的往事… https://t.co/MCtWgCMosg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096112233642156091",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18287,
+          "following_count": 3243,
+          "like_count": 8442,
+          "listed_count": 40,
+          "media_count": 2476,
+          "tweet_count": 4272
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
